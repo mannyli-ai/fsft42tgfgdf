@@ -1,0 +1,43 @@
+name: Collect Techmeme RSS
+
+on:
+  schedule:
+    # 每 6 小時一次（RSS 涵蓋約一天半的內容，這個頻率有很大安全邊際）。
+    # 避開整點，減少跟其他人的排程擠在一起被 GitHub 延遲
+    - cron: "23 */6 * * *"
+  workflow_dispatch: {}   # 允許在 Actions 頁面手動觸發（第一次建置用）
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests feedparser beautifulsoup4
+
+      - name: Collect feed
+        run: python collector.py
+
+      - name: Commit new data
+        run: |
+          git config user.name "techmeme-lite-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "沒有新資料，跳過 commit"
+          else
+            git commit -m "collect: $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
