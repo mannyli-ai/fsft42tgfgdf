@@ -19,6 +19,43 @@ st.set_page_config(page_title="Techmeme Lite", page_icon="📰", layout="wide")
 
 MAX_RANGE_DAYS = 31
 
+
+# ---------- 密碼閘門 ----------
+def _get_secret(name: str) -> str:
+    try:
+        return st.secrets.get(name, "")
+    except Exception:
+        return ""  # 本機沒有 secrets.toml 時屬正常情況
+
+
+def check_password() -> bool:
+    """Secrets 有設 APP_PASSWORD 時啟用密碼閘門，沒設就直接放行（本機開發用）。"""
+    import hmac
+
+    app_password = _get_secret("APP_PASSWORD")
+    if not app_password:
+        return True
+    if st.session_state.get("password_ok"):
+        return True
+
+    def on_enter():
+        # compare_digest 防時序攻擊；驗證後立刻清掉輸入框裡的密碼
+        if hmac.compare_digest(st.session_state.get("pwd_input", ""), app_password):
+            st.session_state["password_ok"] = True
+        else:
+            st.session_state["password_ok"] = False
+        st.session_state["pwd_input"] = ""
+
+    st.title("📰 Techmeme Lite")
+    st.text_input("請輸入密碼", type="password", key="pwd_input", on_change=on_enter)
+    if st.session_state.get("password_ok") is False:
+        st.error("密碼錯誤")
+    return False
+
+
+if not check_password():
+    st.stop()
+
 # ---------- Session state ----------
 if "raw_items" not in st.session_state:
     st.session_state.raw_items = None
