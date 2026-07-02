@@ -111,6 +111,110 @@
   "techmeme_url": "https://www.techmeme.com/260702/p23",
   "title": "Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups (Gené Teare/Crunchbase News)"
  },
+ "a260702p24": {
+  "article_url": "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p24",
+  "summary": "Anthropic has begun early-stage work on its own AI chip and held talks with Samsung Electronics as a potential manufacturing partner …",
+  "techmeme_url": "https://www.techmeme.com/260702/p24",
+  "title": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip (Qianer Liu/The Information)"
+ },
+ "a260702p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p25",
+  "summary": "China's Kling AI has raised an initial $2 billion in venture capital funding as the spinoff from Kuaishou Technology seeks to expand its video AI operations.",
+  "techmeme_url": "https://www.techmeme.com/260702/p25",
+  "title": "Kling AI, the Kuaishou AI video generator spin-off, raised $2B at a $15B pre-money valuation and says the round could extend to as much as $3B (Zheping Huang/Bloomberg)"
+ },
+ "a260702p26": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-02/palmer-luckey-s-erebor-bank-eyes-at-least-8-billion-valuation",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p26",
+  "summary": "Erebor Bank is in talks to raise money at a valuation of at least $8 billion, as deposits grow rapidly at the politically connected startup …",
+  "techmeme_url": "https://www.techmeme.com/260702/p26",
+  "title": "Sources: Palmer Luckey's Erebor Bank is in talks to raise money at an $8B+ valuation, up from $4.35B in 2025; its deposits are up from $1.1B in March to $4.05B (Bloomberg)"
+ },
+ "a260702p27": {
+  "article_url": "https://www.wsj.com/politics/national-security/read-the-emails-revealing-how-anthropics-pentagon-relationship-fell-apart-b1d123dd?st=dEDUZz",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p27",
+  "summary": "Undersecretary Emil Michael and CEO Dario Amodei went back and forth for months over safety guardrails",
+  "techmeme_url": "https://www.techmeme.com/260702/p27",
+  "title": "Emails disclosed in a court filing detail the uneasy back-and-forth between Dario Amodei and DOD's Emil Michael and how Anthropic's relationship with DOD soured (Wall Street Journal)"
+ },
+ "a260702p28": {
+  "article_url": "https://gamesbeat.com/tripo-ai-raises-150m-for-genai-tools-for-gaming-a-month-after-its-previous-200m-raise/",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p28",
+  "summary": "Tripo AI, a global artificial intelligence company building AI 3D foundation models and world models, said it raised a new round of $150 million in funding.",
+  "techmeme_url": "https://www.techmeme.com/260702/p28",
+  "title": "Tripo AI, which is developing 3D foundation models and world models for use in games, raised $150M, a month after it said it raised $200M (Dean Takahashi/GamesBeat)"
+ },
+ "a260702p29": {
+  "article_url": "https://www.theinformation.com/articles/microsoft-memo-details-ai-app-overhaul-earn-right-exist",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p29",
+  "summary": "Microsoft is merging its consumer and enterprise Copilot apps and cutting unwanted features to ‘earn the right to exist’ in the eyes …",
+  "techmeme_url": "https://www.techmeme.com/260702/p29",
+  "title": "Memo: Microsoft is merging the consumer and enterprise versions of its Copilot chatbots into a single app featuring coding tools and AI agents dubbed AutoPilot (The Information)"
+ },
+ "a260702p30": {
+  "article_url": "https://tech.eu/2026/07/02/stirlingx-secures-20m-series-a-to-expand-sovereign-intelligence-platform/",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p30",
+  "summary": "The UK company, which develops secure data intelligence systems for defence and critical infrastructure, will use the funding …",
+  "techmeme_url": "https://www.techmeme.com/260702/p30",
+  "title": "UK-based StirlingX, which develops secure data intelligence systems for defense and critical infrastructure, raised a $20M Series A, following a $11M seed (Cate Lawrence/Tech.eu)"
+ },
+ "a260702p31": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-02/elevenlabs-in-talks-for-tender-offer-at-22-billion-valuation",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p31",
+  "summary": "ElevenLabs has held early talks with investors to let employees sell shares in a secondary offering that would value …",
+  "techmeme_url": "https://www.techmeme.com/260702/p31",
+  "title": "Sources: ElevenLabs held early talks with investors on a secondary share sale for staff that would value the startup at ~$22B; it was valued at $11B in February (Bloomberg)"
+ },
+ "a260702p32": {
+  "article_url": "https://www.theinformation.com/articles/tesla-caps-employee-ai-spend-200-per-week-adoption-push",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p32",
+  "summary": "Tesla told employees last month it would impose a $200 per week limit for staff's AI spending beginning July 6, according to an internal memo …",
+  "techmeme_url": "https://www.techmeme.com/260702/p32",
+  "title": "Internal memo: Tesla plans to impose a $200-per-week limit for staff's AI spending beginning July 6; the tally excludes beta versions of xAI products (Grace Kay/The Information)"
+ },
+ "a260702p33": {
+  "article_url": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p33",
+  "summary": "Hopper, the travel app known for its AI-driven flight and hotel price predictions, has agreed to a $35 million settlement following …",
+  "techmeme_url": "https://www.techmeme.com/260702/p33",
+  "title": "Travel app Hopper agrees to a $35M FTC settlement over allegations the company misled users by imposing hidden fees and misrepresenting the total costs (Lauren Forristal/TechCrunch)"
+ },
+ "a260702p34": {
+  "article_url": "https://www.axios.com/pro/fintech-deals/2026/07/02/crypto-payments-mesh-funding-round",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p34",
+  "summary": "Binance is set to lead Mesh's funding round that will value the crypto payments and settlement company at up to $2 billion, Axios Pro has learned.",
+  "techmeme_url": "https://www.techmeme.com/260702/p34",
+  "title": "Source: crypto payments and settlement startup Mesh is raising funding led by Binance at a ~$2B valuation, six months after raising $75M at a $1B valuation (Lucinda Shen/Axios)"
+ },
+ "a260702p35": {
+  "article_url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p35",
+  "summary": "Meta (META.O) Chief Executive Mark Zuckerberg told an internal town hall on Thursday that AI agent development …",
+  "techmeme_url": "https://www.techmeme.com/260702/p35",
+  "title": "At a town hall, Mark Zuckerberg said Meta's AI agent development has not accelerated as expected and its reorganization was not as \"clean\" as it could have been (Katie Paul/Reuters)"
+ },
+ "a260702p36": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-02/crusoe-in-talks-to-raise-3-billion-in-round-that-may-triple-firm-s-value",
+  "date": "2026-07-02",
+  "permalink_id": "a260702p36",
+  "summary": "Crusoe, the data center upstart with contracts to supply AI computing power for the likes of Meta Platforms Inc. and Oracle Corp. …",
+  "techmeme_url": "https://www.techmeme.com/260702/p36",
+  "title": "Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October (Bloomberg)"
+ },
  "a260702p7": {
   "article_url": "https://www.wsj.com/finance/currencies/trump-made-1-billion-on-crypto-deals-while-his-fans-lost-a-fortune-408754c9?st=EqVyz4&reflink=desktopwebshare_permalink",
   "date": "2026-07-02",
