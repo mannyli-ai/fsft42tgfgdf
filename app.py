@@ -1,33 +1,23 @@
-"""Techmeme Lite：讀取 GitHub Actions 收集的 Techmeme 新聞，
-翻譯成台灣繁體中文，輸出 CSV。
+"""Techmeme Lite：讀取 GitHub Actions 收集的 Techmeme 新聞標題，
+翻譯成台灣繁體中文，輸出 xlsx（連結可直接點）。
 
 資料來源是 repo 內 data/ 目錄的每日 JSON（由 .github/workflows/collect.yml
 每 6 小時自動收集）。app 本身不連 techmeme.com。
 流程分兩段：先載入預覽（免費），確認後再翻譯（花 OpenAI 額度）。
 """
 
-import io
-from datetime import date, timedelta
+from datetime import timedelta
 
 import pandas as pd
 import streamlit as st
 
 from data_store import list_available_dates, load_range
-from translator import translate_items
+from exporter import build_xlsx
+from translator import translate_items, BATCH_SIZE
 
 st.set_page_config(page_title="Techmeme Lite", page_icon="📰", layout="wide")
 
 MAX_RANGE_DAYS = 31
-
-CSV_COLUMNS = {
-    "date": "日期",
-    "title": "原始標題",
-    "summary": "原始摘要",
-    "title_zh": "翻譯標題",
-    "summary_zh": "翻譯摘要",
-    "article_url": "原文連結",
-    "techmeme_url": "Techmeme 連結",
-}
 
 # ---------- Session state ----------
 if "raw_items" not in st.session_state:
@@ -40,7 +30,7 @@ available = list_available_dates()
 # ---------- Sidebar ----------
 with st.sidebar:
     st.title("📰 Techmeme Lite")
-    st.caption("GitHub Actions 每 6 小時自動收集 Techmeme 新聞，這裡翻譯成台灣繁體中文並輸出 CSV。")
+    st.caption("GitHub Actions 每 6 小時自動收集 Techmeme 新聞，這裡翻譯標題成台灣繁體中文並輸出 Excel。")
 
     if available:
         st.info(f"目前收集到 **{available[0]} ~ {available[-1]}**，共 {len(available)} 天。")
@@ -132,8 +122,8 @@ if raw is not None:
         st.warning("這個區間沒有任何新聞資料。")
     else:
         st.success(f"載入 {len(raw)} 則新聞。先確認內容沒問題，再進行翻譯。")
-        preview_df = pd.DataFrame(raw)[["date", "title", "summary", "article_url"]].rename(
-            columns={"date": "日期", "title": "原始標題", "summary": "原始摘要", "article_url": "原文連結"}
+        preview_df = pd.DataFrame(raw)[["date", "title", "article_url"]].rename(
+            columns={"date": "日期", "title": "原始標題", "article_url": "原文連結"}
         )
         st.dataframe(
             preview_df,
@@ -144,8 +134,8 @@ if raw is not None:
 # ---------- 第二段：翻譯 ----------
 if raw:
     st.header("步驟二：翻譯")
-    n_calls = -(-len(raw) // 10)  # ceiling division
-    st.write(f"共 {len(raw)} 則，會分成約 {n_calls} 次 API 呼叫（每次 10 則）。")
+    n_calls = -(-len(raw) // BATCH_SIZE)  # ceiling division
+    st.write(f"共 {len(raw)} 則標題，會分成約 {n_calls} 次 API 呼叫（每次 {BATCH_SIZE} 則）。")
 
     if st.button("🌐 開始翻譯", type="primary", disabled=not api_key):
         if not api_key:
@@ -174,7 +164,14 @@ if raw:
 translated = st.session_state.translated_items
 if translated:
     st.header("結果")
-    df = pd.DataFrame(translated)[list(CSV_COLUMNS.keys())].rename(columns=CSV_COLUMNS)
+    display_cols = {
+        "date": "日期",
+        "title": "原始標題",
+        "title_zh": "翻譯標題",
+        "article_url": "原文連結",
+        "techmeme_url": "Techmeme 連結",
+    }
+    df = pd.DataFrame(translated)[list(display_cols.keys())].rename(columns=display_cols)
 
     st.dataframe(
         df,
@@ -185,13 +182,10 @@ if translated:
         },
     )
 
-    # utf-8-sig 帶 BOM，Excel 直接開不會亂碼
-    buf = io.StringIO()
-    df.to_csv(buf, index=False)
     st.download_button(
-        "📥 下載 CSV",
-        data=buf.getvalue().encode("utf-8-sig"),
-        file_name=f"techmeme_{start_date}_{end_date}.csv",
-        mime="text/csv",
+        "📥 下載 Excel",
+        data=build_xlsx(translated),
+        file_name=f"techmeme_{start_date}_{end_date}.xlsx",
+        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
         type="primary",
     )
