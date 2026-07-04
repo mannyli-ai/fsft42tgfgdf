@@ -1,0 +1,42 @@
+{
+ "a260704p1": {
+  "article_url": "https://betakit.com/stathera-raises-55-million-usd-for-semiconductor-clock-tech-amid-data-centre-boom/",
+  "date": "2026-07-04",
+  "permalink_id": "a260704p1",
+  "summary": "Stathera has raised $55 million USD ($78 million CAD) to boost production of its semiconductor clock technology amid an AI-fuelled push for compute power.",
+  "techmeme_url": "https://www.techmeme.com/260704/p1",
+  "title": "Montreal-based Stathera, a maker of MEMS-based silicon timing components for chips, raised a $55M Series B led by Maverick Silicon, taking total funding to $75M (Madison McLauchlan/BetaKit)"
+ },
+ "a260704p2": {
+  "article_url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+  "date": "2026-07-04",
+  "permalink_id": "a260704p2",
+  "summary": "Three former DeepMind researchers who created an AI that beat humans at poker have now applied the same technology to trading stocks — and the bet appears to be paying off.",
+  "techmeme_url": "https://www.techmeme.com/260704/p2",
+  "title": "Prague-based EquiLibre, which offers AI for quant hedge funds and is founded by three ex-Google DeepMind researchers, raised a Series A at a $500M valuation (Anna Heim/TechCrunch)"
+ },
+ "a260704p3": {
+  "article_url": "https://technode.global/2026/07/03/singapores-dconstruct-raises-125m-series-a-as-robonexus-accelerator-concludes-inaugural-cohort/",
+  "date": "2026-07-04",
+  "permalink_id": "a260704p3",
+  "summary": "Singapore-based dConstruct Technologies has closed a $125 million Series A funding round, marking the standout achievement …",
+  "techmeme_url": "https://www.techmeme.com/260704/p3",
+  "title": "Singapore-based dConstruct Robotics, which develops spatial tech to let autonomous robots operate in complex, GPS-denied environments, raised a $125M Series A (Duc Dao/TNGlobal)"
+ },
+ "a260704p4": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion",
+  "date": "2026-07-04",
+  "permalink_id": "a260704p4",
+  "summary": "Micron Technology Inc. on Saturday broke ground on the expansion of its factory in western Japan, a ¥1.5 trillion ($9.3 billion) …",
+  "techmeme_url": "https://www.techmeme.com/260704/p4",
+  "title": "Micron breaks ground on its ~$9.3B Hiroshima factory expansion, part of its global ramp-up to meet AI demand, and plans to start HBM shipments from summer 2028 (Mari Kiyohara/Bloomberg)"
+ },
+ "a260704p5": {
+  "article_url": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
+  "date": "2026-07-04",
+  "permalink_id": "a260704p5",
+  "summary": "Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate - and think through - the impact of AI.",
+  "techmeme_url": "https://www.techmeme.com/260704/p5",
+  "title": "A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs (Robert P Baird/The Guardian)"
+ }
+}
