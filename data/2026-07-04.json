@@ -7,6 +7,22 @@
   "techmeme_url": "https://www.techmeme.com/260704/p1",
   "title": "Montreal-based Stathera, a maker of MEMS-based silicon timing components for chips, raised a $55M Series B led by Maverick Silicon, taking total funding to $75M (Madison McLauchlan/BetaKit)"
  },
+ "a260704p10": {
+  "article_url": "https://www.wsj.com/us-news/education/alternative-education-wealthy-families-ai-cd7922b3?st=TeME61&reflink=desktopwebshare_permalink",
+  "date": "2026-07-04",
+  "permalink_id": "a260704p10",
+  "summary": "People who can afford to send their grade-school kids anywhere are choosing new alternative education",
+  "techmeme_url": "https://www.techmeme.com/260704/p10",
+  "title": "How some high-income families use AI-powered private schools and tutors, such as Alpha School, to teach their children life skills and tailor their curriculum (Katherine Bindley/Wall Street Journal)"
+ },
+ "a260704p11": {
+  "article_url": "https://asia.nikkei.com/life-arts/life/indonesia-s-social-media-ban-tests-families-digital-reality",
+  "date": "2026-07-04",
+  "permalink_id": "a260704p11",
+  "summary": "JAKARTA — Andreas Humala, a multimedia lecturer at the London School of Public Relations in Jakarta, recently overheard …",
+  "techmeme_url": "https://www.techmeme.com/260704/p11",
+  "title": "Indonesia's enforcement of social media restrictions for under-16s has been patchy, with tech companies ignoring the rules and youth still accessing platforms (Marcel Thee/Nikkei Asia)"
+ },
  "a260704p2": {
   "article_url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
   "date": "2026-07-04",
@@ -62,5 +78,13 @@
   "summary": "8 min Click here to listen to this article … - A viral AI video of Brad Pitt and Tom Cruise sparked industry outrage …",
   "techmeme_url": "https://www.techmeme.com/260704/p8",
   "title": "How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting (Nilesh Christopher/Los Angeles Times)"
+ },
+ "a260704p9": {
+  "article_url": "https://www.ft.com/",
+  "date": "2026-07-04",
+  "permalink_id": "a260704p9",
+  "summary": "Automated system first mooted in 2008 was meant to keep out criminals — instead, it is delaying travellers",
+  "techmeme_url": "https://www.techmeme.com/260704/p9",
+  "title": "A look at the troubled rollout of the EU's automated biometric entry/exit border system, as airport operators warn of severe delays ahead of the summer holidays (Financial Times)"
  }
 }
