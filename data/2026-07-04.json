@@ -38,5 +38,29 @@
   "summary": "Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate - and think through - the impact of AI.",
   "techmeme_url": "https://www.techmeme.com/260704/p5",
   "title": "A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs (Robert P Baird/The Guardian)"
+ },
+ "a260704p6": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china",
+  "date": "2026-07-04",
+  "permalink_id": "a260704p6",
+  "summary": "Hong Kong has become a vital conduit for high-tech products moving in and out of China, emerging as one node in a $2 trillion network …",
+  "techmeme_url": "https://www.techmeme.com/260704/p6",
+  "title": "Official data shows Hong Kong accounted for 50%+ of China's $239B in chip imports in the first five months of 2026, a record share, up from ~33% a decade ago (Bloomberg)"
+ },
+ "a260704p7": {
+  "article_url": "https://www.thedeepview.com/articles/how-apple-s-decade-long-bet-on-chips-won-ai",
+  "date": "2026-07-04",
+  "permalink_id": "a260704p7",
+  "summary": "W — alk into any of the frontier AI labs, and you'll find wall-to-wall Macs. — Decisions Apple made years ago …",
+  "techmeme_url": "https://www.techmeme.com/260704/p7",
+  "title": "Q&A with Doug Brooks, senior product manager of Apple silicon, about Mac minis becoming preferred AI agent machines, future of on-device AI, and more (Jason Hiner/The Deep View)"
+ },
+ "a260704p8": {
+  "article_url": "https://www.latimes.com/business/story/2026-07-03/bytedances-tiktok-took-over-social-media-now-its-video-ai-is-taking-over-hollywood",
+  "date": "2026-07-04",
+  "permalink_id": "a260704p8",
+  "summary": "8 min Click here to listen to this article … - A viral AI video of Brad Pitt and Tom Cruise sparked industry outrage …",
+  "techmeme_url": "https://www.techmeme.com/260704/p8",
+  "title": "How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting (Nilesh Christopher/Los Angeles Times)"
  }
 }
