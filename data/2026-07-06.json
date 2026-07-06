@@ -87,6 +87,126 @@
   "techmeme_url": "https://www.techmeme.com/260706/p20",
   "title": "Memo: Xbox CEO Asha Sharma says the unit will divest five studios, including Ninja Theory, alongside 3,200 job cuts, to streamline the business, in a \"reset\" (Bloomberg)"
  },
+ "a260706p22": {
+  "article_url": "https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p22",
+  "summary": "The decision comes alongside an update to the Switch 2 to coincide with European battery regulations.",
+  "techmeme_url": "https://www.techmeme.com/260706/p22",
+  "title": "Nintendo plans to stop selling the original Switch, Lite, and OLED in Europe from mid-February 2027 and update the Switch 2 to comply with new EU battery rules (Andrew Webster/The Verge)"
+ },
+ "a260706p23": {
+  "article_url": "https://www.cbsnews.com/chicago/news/pritzker-to-sign-illinois-bill-aimed-artificial-intelligence-accountability/",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p23",
+  "summary": "Add CBS News on Google — Illinois Gov. JB Pritzker on Monday signed legislation aimed at holding artificial intelligence companies accountable.",
+  "techmeme_url": "https://www.techmeme.com/260706/p23",
+  "title": "Illinois Governor JB Pritzker signs SB 315, a bill requiring annual third-party safety audits of leading AI companies; OpenAI and Anthropic backed the bill (Adam Harrington/CBS News)"
+ },
+ "a260706p24": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p24",
+  "summary": "Mercor hit over $2 billion in gross revenue run rate in June, double its pace earlier this year, according to a person with direct knowledge of the company's financials.",
+  "techmeme_url": "https://www.techmeme.com/260706/p24",
+  "title": "Source: Mercor hit over $2B in gross revenue run rate in June, double its pace in April, and is profitable on a free cash flow basis (Julia Hornstein/The Information)"
+ },
+ "a260706p25": {
+  "article_url": "https://venturebeat.com/ai/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p25",
+  "summary": "For the past year, the awkward secret of the open-weight model boom has been that many of the strongest Chinese releases …",
+  "techmeme_url": "https://www.techmeme.com/260706/p25",
+  "title": "Tencent releases Hy3, a 295B-parameter model that it says is competitive with GLM-5.1 and 5.2, under the Apache 2.0 license, following a preview launch in April (Sam Witteveen/VentureBeat)"
+ },
+ "a260706p26": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-06/tencent-seeks-to-sell-up-to-1-6-billion-stake-in-kuaishou",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p26",
+  "summary": "Tencent Holdings Ltd. is seeking to raise as much as $1.55 billion in a selldown of part of its stake in short-video app operator Kuaishou Technology through a block trade.",
+  "techmeme_url": "https://www.techmeme.com/260706/p26",
+  "title": "A term sheet shows Tencent is seeking to raise as much as $1.55B in a selldown of part of its stake in short-video app operator Kuaishou through a block trade (Julia Fioretti/Bloomberg)"
+ },
+ "a260706p27": {
+  "article_url": "https://www.wsj.com/tech/microsoft-layoffs-xbox-59e7f6df?st=PDtsc4&reflink=desktopwebshare_permalink",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p27",
+  "summary": "The videogame unit's revenue has fallen and its Netflix-like subscription service is far below expectations",
+  "techmeme_url": "https://www.techmeme.com/260706/p27",
+  "title": "Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year (Ben Fritz/Wall Street Journal)"
+ },
+ "a260706p28": {
+  "article_url": "https://gamesbeat.com/xbox-appoints-helen-chiang-as-new-chief-operating-officer-amid-restructure/",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p28",
+  "summary": "Xbox has confirmed that Helen Chiang has been promoted to the role of new chief operating officer in the wake of structural changes at Microsoft.",
+  "techmeme_url": "https://www.techmeme.com/260706/p28",
+  "title": "Xbox appoints Helen Chiang as its first COO; Chiang was previously corporate vice president for the Minecraft Franchise and the studio head of Minecraft (Sam Smith/GamesBeat)"
+ },
+ "a260706p29": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p29",
+  "summary": "The Trump administration's plan to create a Strategic Bitcoin Reserve has been complicated by two government departments vying to run it …",
+  "techmeme_url": "https://www.techmeme.com/260706/p29",
+  "title": "Sources: the US considers housing the Strategic Bitcoin Reserve at Commerce instead of Treasury amid concerns over Treasury's legal authority to manage it (Bloomberg)"
+ },
+ "a260706p30": {
+  "article_url": "https://www.reuters.com/world/us-supreme-court-wont-block-texas-app-store-age-verification-law-2026-07-06/",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p30",
+  "summary": "The U.S. Supreme Court declined on Monday to block a Texas law requiring app stores and developers to verify the age of mobile device users …",
+  "techmeme_url": "https://www.techmeme.com/260706/p30",
+  "title": "SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent (Andrew Chung/Reuters)"
+ },
+ "a260706p31": {
+  "article_url": "https://www.reuters.com/world/us-cyber-agency-is-using-anthropics-mythos-audit-government-code-sources-say-2026-07-06/",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p31",
+  "summary": "The U.S. cyber defense agency CISA is using Anthropic's AI model Mythos to audit government software, three people familiar …",
+  "techmeme_url": "https://www.techmeme.com/260706/p31",
+  "title": "Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities (Raphael Satter/Reuters)"
+ },
+ "a260706p32": {
+  "article_url": "https://www.theinformation.com/articles/softbank-altimeter-d1-invest-thrive-holdings-2-billion-financing",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p32",
+  "summary": "Some of the biggest backers of OpenAI and its rivals are pooling their money in an offshoot of Thrive Capital that buys controlling stakes …",
+  "techmeme_url": "https://www.techmeme.com/260706/p32",
+  "title": "Source: Thrive Capital spinoff Thrive Holdings seeks to raise around $2B from SoftBank, Altimeter, D1, and others, after previously raising $1B (Julia Hornstein/The Information)"
+ },
+ "a260706p33": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-06/advertising-technology-firm-criteo-attracts-vista-equity-backed-takeover-offer",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p33",
+  "summary": "Vista Equity Partners and the investment firm Quinti Capital have teamed up on a takeover offer for French advertising-technology company Criteo SA …",
+  "techmeme_url": "https://www.techmeme.com/260706/p33",
+  "title": "Sources: Vista Equity and Quinti made a takeover bid for Criteo that values the French ad tech company at a 50%+ premium to its stock price in recent weeks (Bloomberg)"
+ },
+ "a260706p34": {
+  "article_url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p34",
+  "summary": "Quick Take — BonkDAO was hit with a governance attack that appears to have drained approximately $20 million worth of BONK tokens …",
+  "techmeme_url": "https://www.techmeme.com/260706/p34",
+  "title": "BonkDAO, which oversees the Bonk memecoin, says it was the target of a \"malicious governance proposal\" that resulted in a loss of $20M worth of Bonk tokens (Daniel Kuhn/The Block)"
+ },
+ "a260706p35": {
+  "article_url": "https://www.anthropic.com/research/global-workspace",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p35",
+  "summary": "As you read this sentence, circuits in your brain are adjusting your posture, controlling your breathing, and transforming lines and curves on the screen into recognizable words.",
+  "techmeme_url": "https://www.techmeme.com/260706/p35",
+  "title": "Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output (Anthropic)"
+ },
+ "a260706p36": {
+  "article_url": "https://www.businessinsider.com/",
+  "date": "2026-07-06",
+  "permalink_id": "a260706p36",
+  "summary": "xAI has officially been rebranded to SpaceXAI. — The change follows SpaceX's historic IPO and acquisition of xAI earlier this year. — Elon Musk previously said xAI would be dissolved and folded into SpaceX. — xAI is no more.",
+  "techmeme_url": "https://www.techmeme.com/260706/p36",
+  "title": "xAI rebrands to SpaceXAI and debuts a new logo (Kelsey Vlamis/Business Insider)"
+ },
  "a260706p6": {
   "article_url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-2026-07-06/",
   "date": "2026-07-06",
