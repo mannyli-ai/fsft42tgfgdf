@@ -39,6 +39,22 @@
   "techmeme_url": "https://www.techmeme.com/260707/p13",
   "title": "Paris-based UMA, founded by ex-Tesla Optimus scientist Rémi Cadene and ex-Google DeepMind researcher Pierre Sermanet, demos its Northstar AI humanoid robot (Benoit Berthelot/Bloomberg)"
  },
+ "a260707p18": {
+  "article_url": "https://www.reuters.com/world/australias-teen-social-media-ban-fails-clear-first-hurdle-age-checks-says-study-2026-07-07/",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p18",
+  "summary": "Australia's online platforms are stumbling at the very first step in implementing age checks for users, rendering a world …",
+  "techmeme_url": "https://www.techmeme.com/260707/p18",
+  "title": "Study: 50 test accounts created in Australia across nine platforms were never asked to verify their age, despite the Australian law mandating a ban on under-16s (Byron Kaye/Reuters)"
+ },
+ "a260707p19": {
+  "article_url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p19",
+  "summary": "The AirGo A6 are slimmer and lighter than last year's model while still offering hands-free access to an AI assistant.",
+  "techmeme_url": "https://www.techmeme.com/260707/p19",
+  "title": "Solos unveils the AirGo A6 camera-less smart glasses, cutting the weight to 19g from the AirGo A5's 36g to 40g, and V2 privacy accessories like a clip-on shield (Andrew Liszewski/The Verge)"
+ },
  "a260707p2": {
   "article_url": "https://www.reuters.com/business/meta-says-us-states-are-seeking-14-trillion-penalties-august-youth-safety-trial-2026-07-07/",
   "date": "2026-07-07",
@@ -47,6 +63,86 @@
   "techmeme_url": "https://www.techmeme.com/260707/p2",
   "title": "Court filing: Meta says four US states seek $1.4T over claims it designed Facebook and Instagram to addict youth and misled the public; its market cap is ~$1.5T (Diana Novak Jones/Reuters)"
  },
+ "a260707p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-07/apple-supplier-luxshare-prices-3-1-billion-hk-listing-at-top",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p20",
+  "summary": "Apple Inc. supplier Luxshare Precision Industry Co. raised HK$24.3 billion ($3.1 billion) after pricing shares for its Hong Kong listing at the maximum amount it had set.",
+  "techmeme_url": "https://www.techmeme.com/260707/p20",
+  "title": "Apple supplier Luxshare raised ~$3.1B in its Hong Kong IPO, selling 383.5M shares at ~$8 each, the top of its marketed range, and will start trading on Thursday (Bloomberg)"
+ },
+ "a260707p21": {
+  "article_url": "https://www.coindesk.com/business/2026/07/07/edx-markets-raises-usd76-million-in-funding-round-led-by-sbi-holdings",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p21",
+  "summary": "EDX Markets, an institutional cryptocurrency trading platform, said it raised $76 million in a Series C funding round led by SBI Holdings. — The company plans to use the funds …",
+  "techmeme_url": "https://www.techmeme.com/260707/p21",
+  "title": "EDX Markets, an institutional cryptocurrency trading platform, raised a $76M Series C led by SBI Holdings (Francisco Rodrigues/CoinDesk)"
+ },
+ "a260707p22": {
+  "article_url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p22",
+  "summary": "A new feature will let creators and publishers see what search terms take people to their social platforms.",
+  "techmeme_url": "https://www.techmeme.com/260707/p22",
+  "title": "Google launches \"platform properties\" in the Google Search Console, letting creators and website owners see which search terms lead to their social platforms (Jay Peters/The Verge)"
+ },
+ "a260707p23": {
+  "article_url": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p23",
+  "summary": "The investment will accelerate Keyfactor's machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-driven and post-quantum threats.",
+  "techmeme_url": "https://www.techmeme.com/260707/p23",
+  "title": "Keyfactor, which manages billions of machine identities for more than 2,500 client organizations, raised $1B+ led by Summit Partners (Mike Lennon/SecurityWeek)"
+ },
+ "a260707p24": {
+  "article_url": "https://fortune.com/2026/07/07/the-1-2-billion-startup-become-amazon-prime-for-savings/",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p24",
+  "summary": "In 2022, Hussein Fazal flew 200 of his employees to Las Vegas to cash a $200 check at a payday loan shop. He then asked them to buy a week …",
+  "techmeme_url": "https://www.techmeme.com/260707/p24",
+  "title": "Super.com, which offers a savings app for lower-income consumers, raised a $65M Series D led by TPG at a $1.2B valuation and says it is profitable (Lily Mae Lazarus/Fortune)"
+ },
+ "a260707p25": {
+  "article_url": "https://siliconangle.com/2026/07/07/tangos-grabs-20m-funding-take-bad-guys-automating-financial-crime-investigations/",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p25",
+  "summary": "Tangos AI Inc., a startup that uses artificial intelligence to conduct financial crime investigations at unprecedented scale, said today it has closed on $20 million in seed funding.",
+  "techmeme_url": "https://www.techmeme.com/260707/p25",
+  "title": "Tangos, which uses AI to conduct financial crime investigations at scale, raised a $20M seed led by Red Dot (Mike Wheatley/SiliconANGLE)"
+ },
+ "a260707p26": {
+  "article_url": "https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p26",
+  "summary": "ZDNET's key takeaways — Claude Cowork is becoming a cloud-based AI helper. — Desktop still offers the fullest Cowork experience.",
+  "techmeme_url": "https://www.techmeme.com/260707/p26",
+  "title": "Anthropic expands Claude Cowork to web and mobile in beta for Max plan subscribers, and says 90%+ of Cowork usage is unrelated to software development (David Gewirtz/ZDNET)"
+ },
+ "a260707p27": {
+  "article_url": "https://variety.com/2026/tv/news/netflix-variety-how-well-do-they-know-video-licensing-1236803102/",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p27",
+  "summary": "Netflix is further expanding the mix of content available on its platform through licensing partnerships with a range of top publishers …",
+  "techmeme_url": "https://www.techmeme.com/260707/p27",
+  "title": "Netflix signs deals with Penske Media, Condé Nast, Hearst, People, and other publishers to carry a range of programming from 2 to 20+ minutes, starting August 3 (William Earl/Variety)"
+ },
+ "a260707p28": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ0MjM2NSwiZXhwIjoxNzg0MDQ3MTY1LCJhcnRpY2xlSWQiOiJUSEkzR1FLSkg2VjcwMCIsImJjb25uZWN0SWQiOiJEQ0FGMjNFM0YyMkE0Qzk5OTM0RUMyRDEwNkM0ODc0NyJ9.o3G1Rc0_tcYioF4Awm8U44FDwiFRIsbSW630u65OvbQ",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p28",
+  "summary": "Microsoft Corp., looking to reduce AI costs, is starting to replace OpenAI and Anthropic with its own models in software products like Excel and Outlook.",
+  "techmeme_url": "https://www.techmeme.com/260707/p28",
+  "title": "Sources: Microsoft, looking to reduce AI costs, is starting to replace models from OpenAI and Anthropic with its MAI models in products like Excel and Outlook (Brody Ford/Bloomberg)"
+ },
+ "a260707p29": {
+  "article_url": "https://9to5google.com/2026/07/07/made-by-google-2026-invite/",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p29",
+  "summary": "Made by Google 2026 is officially taking place on Wednesday, August 12. This is a week earlier compared to last year, with Google once again opting for an earlier Pixel hardware unveil.",
+  "techmeme_url": "https://www.techmeme.com/260707/p29",
+  "title": "Google announces a Pixel event on August 12 in NYC, where it is expected to launch Pixel 11 series of phones and Pixel Watch 5 (Abner Li/9to5Google)"
+ },
  "a260707p3": {
   "article_url": "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html",
   "date": "2026-07-07",
@@ -54,6 +150,30 @@
   "summary": "The Chinese company's models have won over developers worldwide, but they are open source — so they can be used and modified freely.",
   "techmeme_url": "https://www.techmeme.com/260707/p3",
   "title": "Alibaba's Qwen models have made it an AI powerhouse, but the company has struggled to turn their global popularity into a profitable business (New York Times)"
+ },
+ "a260707p30": {
+  "article_url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p30",
+  "summary": "Today, Meta is rolling out Muse Image, the company's first image generation model from Meta Superintelligence Labs, now available in Meta AI.",
+  "techmeme_url": "https://www.techmeme.com/260707/p30",
+  "title": "Meta rolls out Muse Image, the first image generation model from its Superintelligence Labs, in Meta AI; it will also power new tools in Instagram and WhatsApp (Meta Newsroom)"
+ },
+ "a260707p31": {
+  "article_url": "https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p31",
+  "summary": "Anthropic announced today that it is expanding Claude Cowork capabilities from the desktop app to the web and mobile.",
+  "techmeme_url": "https://www.techmeme.com/260707/p31",
+  "title": "Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7 (Zac Hall/9to5Mac)"
+ },
+ "a260707p32": {
+  "article_url": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
+  "date": "2026-07-07",
+  "permalink_id": "a260707p32",
+  "summary": "Kraken, the cryptocurrency exchange planning to go public in the U.S., is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it …",
+  "techmeme_url": "https://www.techmeme.com/260707/p32",
+  "title": "Source: Kraken is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it (Ian Allison/CoinDesk)"
  },
  "a260707p4": {
   "article_url": "https://www.reuters.com/business/media-telecom/china-smartphone-sales-drop-13-during-618-festival-memory-costs-limit-discounts-2026-07-07/",
