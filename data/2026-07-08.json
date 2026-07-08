@@ -31,6 +31,54 @@
   "techmeme_url": "https://www.techmeme.com/260708/p2",
   "title": "Sources: Meta is testing AI glasses that continuously record audio and take photos every few seconds, letting users query or recall what they saw or heard (Hannah Murphy/Financial Times)"
  },
+ "a260708p24": {
+  "article_url": "https://www.zdnet.com/article/githubs-former-ceo-launches-a-distributed-git-network-built-for-the-agentic-coding-age/",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p24",
+  "summary": "ZDNET's key takeaways — Entire launched a decentralized Git network built for agents. — The company plans to open-source its backend.",
+  "techmeme_url": "https://www.techmeme.com/260708/p24",
+  "title": "Former GitHub CEO Thomas Dohmke's Entire launches a decentralized Git network to handle high coding agent traffic, with servers in the US, the EU, and Australia (Radhika Rajkumar/ZDNET)"
+ },
+ "a260708p25": {
+  "article_url": "https://variety.com/2026/digital/news/ai-startup-kaon-ai-raises-60-million-funding-round-1236803914/",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p25",
+  "summary": "Kaon AI, a start-up focused on building personalized story worlds powered by generative AI for its users through its products FlowGPT and Emochi …",
+  "techmeme_url": "https://www.techmeme.com/260708/p25",
+  "title": "Kaon AI, which builds personalized story worlds using its AI-based FlowGPT and Emochi tools, raised $60M from B Capital and others, and says Emochi has 2M DAUs (Corbin Bolies/Variety)"
+ },
+ "a260708p26": {
+  "article_url": "https://www.axios.com/2026/07/08/openai-deployment-company-northslope-acquisition",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p26",
+  "summary": "The OpenAI Deployment Company agreed to acquire Northslope, an applied AI firm, OpenAI shared exclusively with Axios …",
+  "techmeme_url": "https://www.techmeme.com/260708/p26",
+  "title": "The OpenAI Deployment Company agrees to acquire Northslope, an applied AI company founded by ex-Palantir employees, its second acquisition after buying Tomoro (Madison Mills/Axios)"
+ },
+ "a260708p27": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p27",
+  "summary": "After losing roughly $1 trillion in market value in less than two months, Nvidia Corp.'s stock is the cheapest it's been since …",
+  "techmeme_url": "https://www.techmeme.com/260708/p27",
+  "title": "Nvidia lost ~$1T in market value in less than two months, dropping 16% from its May all-time-high, trading at 18x forward earnings, its lowest level since 2019 (Bloomberg)"
+ },
+ "a260708p28": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-08/crypto-focused-vc-firm-paradigm-raises-1-2-billion-for-ai-bets",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p28",
+  "summary": "Paradigm, the venture firm founded to invest in cryptocurrency companies, has raised a new $1.2 billion fund to make more bets outside …",
+  "techmeme_url": "https://www.techmeme.com/260708/p28",
+  "title": "Crypto VC firm Paradigm raised $1.2B, its fourth fund, to invest in areas outside of crypto, like AI and robotics; Paradigm had $11.9B in AUM at the end of 2025 (Rebecca Torrence/Bloomberg)"
+ },
+ "a260708p29": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p29",
+  "summary": "Mistral AI announced a new robotics navigation model, as the French startup expands in the emerging field of physical artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/260708/p29",
+  "title": "Mistral launches Robostral Navigate, a hardware-agnostic robotics navigation model trained via simulation that uses a single camera and basic language prompts (Benoit Berthelot/Bloomberg)"
+ },
  "a260708p3": {
   "article_url": "https://www.eu-startups.com/2026/07/frances-skello-secures-e200-million-to-grow-its-ai-tools-for-frontline-workforce-management/",
   "date": "2026-07-08",
@@ -38,6 +86,78 @@
   "summary": "Paris-based Skello, an AI-powered HR management solution for frontline teams, announces a €200 million investment in order …",
   "techmeme_url": "https://www.techmeme.com/260708/p3",
   "title": "Paris-based Skello, which provides AI-powered HR tools for frontline workforce management, raised €200M led by Bridgepoint to support its European expansion (David Cendon Garcia/EU-Startups)"
+ },
+ "a260708p30": {
+  "article_url": "https://www.theinformation.com/articles/china-plans-let-top-ai-firms-buy-limited-amount-nvidia-h200-chips",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p30",
+  "summary": "China plans to allow some of the country's biggest AI companies to buy a small number of Nvidia's H200 chips, according to two people with direct knowledge of the matter.",
+  "techmeme_url": "https://www.techmeme.com/260708/p30",
+  "title": "Sources: China plans to let some of its biggest AI companies buy a small number of Nvidia's H200 chips to offset a domestic computing shortage in recent months (Qianer Liu/The Information)"
+ },
+ "a260708p31": {
+  "article_url": "https://www.wsj.com/business/autos/gm-backed-momenta-makes-muted-hong-kong-debut-after-751-million-ipo-ff6e1bee?st=1sybBg&reflink=desktopwebshare_permalink",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p31",
+  "summary": "Momenta's subdued start belied its strong investor demand — General Motors-backed Momenta's Hong Kong initial public offering …",
+  "techmeme_url": "https://www.techmeme.com/260708/p31",
+  "title": "GM-backed Chinese autonomous driving company Momenta saw a muted trading debut in its Hong Kong IPO, up 2.8% to value the company at ~$9B, after raising $751M (Jiahui Huang/Wall Street Journal)"
+ },
+ "a260708p32": {
+  "article_url": "https://www.calcalistech.com/ctechnews/article/byylhojqze",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p32",
+  "summary": "The AI agent platform founded by monday.com alumni has reached $15 million in new revenue run rate after 800% revenue growth.",
+  "techmeme_url": "https://www.techmeme.com/260708/p32",
+  "title": "Israeli startup Alta, which develops an AI agent platform for marketing, sales, and business development teams, raised a $25M Series A led by IN Venture (Meir Orbach/CTech)"
+ },
+ "a260708p33": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/chinas-nexchip-raise-890-million-hong-kong-share-sale-2026-07-08/",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p33",
+  "summary": "China's Nexchip Semiconductor (688249.SS) said on Wednesday it aims to raise around HK$6.98 billion ($890.37 million) …",
+  "techmeme_url": "https://www.techmeme.com/260708/p33",
+  "title": "China's Nexchip Semiconductor says it aims to raise around $890.37M in its Hong Kong share sale by offering 216.2M shares at ~$4.12/share, the top of its range (Rajasik Mukherjee/Reuters)"
+ },
+ "a260708p34": {
+  "article_url": "https://www.tectonicdefense.com/exclusive-arkenstone-emerges-with-35m-to-build-defense-techs-back-office/",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p34",
+  "summary": "You know how we say we love the unsexy side of defense? Well, we're back with some news from the unsexiest place we can imagine …",
+  "techmeme_url": "https://www.techmeme.com/260708/p34",
+  "title": "Arkenstone Defense, which is building software to handle back-office work for defense tech startups, emerges from stealth with a $35M seed led by J2 Ventures (Barratt Dewey/Tectonic Defense)"
+ },
+ "a260708p35": {
+  "article_url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p35",
+  "summary": "Prime Intellect, a startup that provides computing power and specialized software tools that help companies build AI agents …",
+  "techmeme_url": "https://www.techmeme.com/260708/p35",
+  "title": "Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation (Marina Temkin/TechCrunch)"
+ },
+ "a260708p36": {
+  "article_url": "https://openai.com/index/introducing-gpt-live",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p36",
+  "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice. — Sign up to be notified",
+  "techmeme_url": "https://www.techmeme.com/260708/p36",
+  "title": "OpenAI launches GPT-Live, a new generation of voice models built on a full-duplex architecture, meaning they can listen and speak at the same time (OpenAI)"
+ },
+ "a260708p37": {
+  "article_url": "https://www.thedeepview.com/articles/how-openai-s-voice-assistant-got-more-natural",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p37",
+  "summary": "While native device assistants have long left users wanting more, OpenAI's voice models have quietly been getting closer and closer to the assistants we've always been promised.",
+  "techmeme_url": "https://www.techmeme.com/260708/p37",
+  "title": "OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users (Sabrina Ortiz/The Deep View)"
+ },
+ "a260708p38": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p38",
+  "summary": "SpaceXAI has unveiled a new artificial intelligence model built in partnership with AI coding startup Cursor that's meant …",
+  "techmeme_url": "https://www.techmeme.com/260708/p38",
+  "title": "SpaceXAI launches Grok 4.5, its first model built in partnership with Cursor, designed to \"handle difficult, long-running\" legal, finance, and coding tasks (Carmen Arroyo/Bloomberg)"
  },
  "a260708p4": {
   "article_url": "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html",
