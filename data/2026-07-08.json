@@ -159,6 +159,14 @@
   "techmeme_url": "https://www.techmeme.com/260708/p38",
   "title": "SpaceXAI launches Grok 4.5, its first model built in partnership with Cursor, designed to \"handle difficult, long-running\" legal, finance, and coding tasks (Carmen Arroyo/Bloomberg)"
  },
+ "a260708p39": {
+  "article_url": "https://www.axios.com/2026/07/08/spacexai-grok-new-model",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p39",
+  "summary": "Elon Musk's SpaceXAI is launching Grok 4.5, its smartest model yet, and its first release since going public and acquiring the AI coding startup Cursor.",
+  "techmeme_url": "https://www.techmeme.com/260708/p39",
+  "title": "Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens (Axios)"
+ },
  "a260708p4": {
   "article_url": "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html",
   "date": "2026-07-08",
@@ -166,6 +174,22 @@
   "summary": "Robots on the factory floor. Self-driving vehicles on the Las Vegas strip. Even a substitute for man's best friend — the robotic dog.",
   "techmeme_url": "https://www.techmeme.com/260708/p4",
   "title": "A look at Chinese lidar maker Hesai, blacklisted by the US DOD in 2024, as it expands in the US; Hesai says it has ~33% of the global automotive lidar market (CNBC)"
+ },
+ "a260708p40": {
+  "article_url": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p40",
+  "summary": "Meta's AI expansion is heading north of the border. — The company said in a blog post on Wednesday that it's building its first data center …",
+  "techmeme_url": "https://www.techmeme.com/260708/p40",
+  "title": "Meta announces its first data center in Canada, a 1GW facility in Alberta that will cost the company about $9B and take two to three years to construct (Jonathan Vanian/CNBC)"
+ },
+ "a260708p41": {
+  "article_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p41",
+  "summary": "Through a detailed audit, we find widespread task issues in SWE-Bench Pro and estimate that ~30% of the tasks are broken.",
+  "techmeme_url": "https://www.techmeme.com/260708/p41",
+  "title": "OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark (OpenAI)"
  },
  "a260708p5": {
   "article_url": "https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/",
