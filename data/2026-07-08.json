@@ -191,6 +191,46 @@
   "techmeme_url": "https://www.techmeme.com/260708/p41",
   "title": "OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark (OpenAI)"
  },
+ "a260708p42": {
+  "article_url": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p42",
+  "summary": "After more than a decade of pushback, farmers and repair advocates have won access to equipment and services John Deere had long kept under its control.",
+  "techmeme_url": "https://www.techmeme.com/260708/p42",
+  "title": "The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years (Boone Ashworth/Wired)"
+ },
+ "a260708p43": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-rival-positron-holds-talks-to-raise-funds-at-5-billion-valuation",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p43",
+  "summary": "AI chip startup Positron is in talks to raise about $750 million in financing during a round with two phases, part of a groundswell …",
+  "techmeme_url": "https://www.techmeme.com/260708/p43",
+  "title": "Sources: Reno-based AI chip startup Positron is in talks to raise ~$750M in two phases, at valuations of $3.5B in the first tranche and ~$5B in the second (Bloomberg)"
+ },
+ "a260708p44": {
+  "article_url": "https://www.reuters.com/legal/government/cash-app-parent-settles-states-probe-over-fraud-protections-45-million-2026-07-08/",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p44",
+  "summary": "Block (XYZ.N) has agreed to pay $45 million and offer live customer support for its mobile payment service, Cash App …",
+  "techmeme_url": "https://www.techmeme.com/260708/p44",
+  "title": "Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud (Daniel Wiessner/Reuters)"
+ },
+ "a260708p45": {
+  "article_url": "https://cognition.com/blog/swe-1-7",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p45",
+  "summary": "Today, we're launching SWE-1.7, the most capable model we've trained so far. It reaches frontier-level intelligence at a much lower cost …",
+  "techmeme_url": "https://www.techmeme.com/260708/p45",
+  "title": "Cognition releases SWE-1.7, trained from Kimi K2.7 and available at 1,000 tokens/second, claiming it nears GPT-5.5 and Opus 4.8 on benchmarks at a lower cost (Cognition)"
+ },
+ "a260708p46": {
+  "article_url": "https://www.theinformation.com/articles/marc-lores-wonder-ties-9-billion-valuation-fundraise-future-ipo",
+  "date": "2026-07-08",
+  "permalink_id": "a260708p46",
+  "summary": "Wonder, the owner of GrubHub and Blue Apron, is lining up hundreds of millions of dollars, at a valuation of $9 billion …",
+  "techmeme_url": "https://www.techmeme.com/260708/p46",
+  "title": "Filings: Grubhub parent Wonder is raising hundreds of millions of dollars at a $9B valuation; a source says founder Marc Lore indicated he will contribute $200M (The Information)"
+ },
  "a260708p5": {
   "article_url": "https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/",
   "date": "2026-07-08",
