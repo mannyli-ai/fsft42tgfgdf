@@ -7,6 +7,46 @@
   "techmeme_url": "https://www.techmeme.com/260709/p1",
   "title": "Shanghai-based GPU maker Iluvatar CoreX raised ~$902M in a Hong Kong share sale; the company's stock has soared 257% since its January IPO, which raised $473M (Bloomberg)"
  },
+ "a260709p15": {
+  "article_url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p15",
+  "summary": "The popular open source AI tool Ollama has raised a $65 million Series B, led by Theory Venture, founder and CEO Jeff Morgan tells TechCrunch.",
+  "techmeme_url": "https://www.techmeme.com/260709/p15",
+  "title": "Ollama, which helps developers run open-weight AI models locally, raised a $65M Series B led by Theory Venture, following a $15M Series A led by Benchmark (Julie Bort/TechCrunch)"
+ },
+ "a260709p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-09/micron-boosts-us-spending-to-250-billion-amid-memory-demand",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p16",
+  "summary": "Micron Raises Planned Spending to Meet Memory Chip Demand — Video Player is loading. — Unmute — Current Time 0:00 Loaded: 66.43% Playback Rate",
+  "techmeme_url": "https://www.techmeme.com/260709/p16",
+  "title": "Micron raises its US capex commitment to $250B through 2035, adding $50B for New York, Idaho, Virginia, and other projects, and invests $500M in GlobalWafers (Maggie Eastland/Bloomberg)"
+ },
+ "a260709p17": {
+  "article_url": "https://fortune.com/2026/07/09/christina-qi-left-a-hedge-fund-trading-7-billion-a-day-for-a-farm-in-utah-startup-raised-97-million-to-rival-bloomberg-lseg-databento/",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p17",
+  "summary": "Christina Qi spent a decade making money for billionaires, building Domeyard LP—a high-frequency trading hedge fund that traded up to $7.1 billion a day.",
+  "techmeme_url": "https://www.techmeme.com/260709/p17",
+  "title": "Databento, which sells financial data feeds, raised a $97M Series B led by NEA, taking its total funding to $127M, and says it is \"profitable every month\" (Lily Mae Lazarus/Fortune)"
+ },
+ "a260709p18": {
+  "article_url": "http://anthropic.com/news/reflect-with-claude",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p18",
+  "summary": "Today we're introducing, in beta, a new way to reflect on and refine how you use Claude.",
+  "techmeme_url": "https://www.techmeme.com/260709/p18",
+  "title": "Anthropic debuts a \"reflection\" dashboard in beta for Free, Pro, and Max users with memory turned on, to track their Claude activity over 1, 3, 6, or 12 months (Anthropic)"
+ },
+ "a260709p19": {
+  "article_url": "https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p19",
+  "summary": "In Q2, Europe posted its strongest quarter in four years for venture funding, Crunchbase data shows.",
+  "techmeme_url": "https://www.techmeme.com/260709/p19",
+  "title": "European startups raised $24B in Q2, up 66% YoY and the strongest quarter in four years; UK startups raised $10.4B, above Germany's $3.2B, and France's $2.4B (Gené Teare/Crunchbase News)"
+ },
  "a260709p2": {
   "article_url": "https://www.wsj.com/cio-journal/the-ai-superfans-companies-count-on-to-convert-the-skeptics-5b301a90?st=enuXpB&reflink=desktopwebshare_permalink",
   "date": "2026-07-09",
@@ -14,6 +54,86 @@
   "summary": "Companies are increasingly mobilizing internal groups of AI ‘champions’ as a way to sell their more reluctant colleagues on the technology's benefits",
   "techmeme_url": "https://www.techmeme.com/260709/p2",
   "title": "Companies are mobilizing internal groups of \"AI champions\" to drive adoption; BCG says 74% of front-line employees now use AI regularly, up from 51% in 2025 (Isabelle Bousquette/Wall Street Journal)"
+ },
+ "a260709p20": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p20",
+  "summary": "Muse Spark 1.1 is available to US developers through a public API preview.",
+  "techmeme_url": "https://www.techmeme.com/260709/p20",
+  "title": "Meta releases Muse Spark 1.1, capable of more advanced coding and a \"step-change\" from the first generation, available to US developers via a public API preview (Dominic Preston/The Verge)"
+ },
+ "a260709p21": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzYxMzQ0OCwiZXhwIjoxNzg0MjE4MjQ4LCJhcnRpY2xlSWQiOiJUSFZDVENSS1YyVTYwMCIsImJjb25uZWN0SWQiOiIwRDE5ODY5MzQ1M0Y0NUMzQkQyMjQzMUQ4NjAzMDU1QSJ9.O5sxV2QajBiyISnu5AVyVUdWWGQtozl0yeCNAbc5JJQ",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p21",
+  "summary": "In a crowded market for AI tools, Mark Zuckerberg wants to win on price. — Meta Platforms Inc. unveiled a version …",
+  "techmeme_url": "https://www.techmeme.com/260709/p21",
+  "title": "Meta launches a Meta Model API, which Mark Zuckerberg says will have \"aggressive and attractive\" pricing at ~25% of the cost of OpenAI's and Anthropic's models (Kurt Wagner/Bloomberg)"
+ },
+ "a260709p22": {
+  "article_url": "https://www.axios.com/2026/07/09/meta-ai-spark-model-update-developer",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p22",
+  "summary": "Facebook's parent company on Thursday updated its Muse Spark large language model and followed through on a promise to make it available to developers.",
+  "techmeme_url": "https://www.techmeme.com/260709/p22",
+  "title": "Meta prices Muse Spark 1.1 at $1.25/1M input tokens and $4.25/1M output tokens; Alexandr Wang says improving coding and agentic performance was a key focus (Ina Fried/Axios)"
+ },
+ "a260709p23": {
+  "article_url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p23",
+  "summary": "Microdramas are such a rage these days that nearly every kind of company in the attention economy space — be they dedicated microdrama apps …",
+  "techmeme_url": "https://www.techmeme.com/260709/p23",
+  "title": "Character.AI launches three human-written, AI-generated microdramas, whose characters users can chat with, and aims to eventually let users make their own shows (Ivan Mehta/TechCrunch)"
+ },
+ "a260709p24": {
+  "article_url": "https://bun.com/blog/bun-in-rust",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p24",
+  "summary": "Disclosure: Bun was acquired by Anthropic in December 2025. I and others on the Bun team work at Anthropic.",
+  "techmeme_url": "https://www.techmeme.com/260709/p24",
+  "title": "Bun's creator says he rewrote Bun from Zig to Rust using a Claude Fable 5 prerelease version in 11 days, noting it would've taken three engineers \"about a year\" (Jarred Sumner/bun.com)"
+ },
+ "a260709p25": {
+  "article_url": "https://tech.eu/2026/07/09/maritime-defence-startup-kraken-technology-hits-unicorn-status/",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p25",
+  "summary": "It says it will use the funding to develop its uncrewed surface vessels while expanding manufacturing facilities.",
+  "techmeme_url": "https://www.techmeme.com/260709/p25",
+  "title": "Kraken Technology, which designs and builds autonomous maritime platforms, such as uncrewed subsurface vessels, raised a $175M Series B at a $1B valuation (John Reynolds/Tech.eu)"
+ },
+ "a260709p26": {
+  "article_url": "https://fortune.com/2026/07/09/microsoft-brad-smith-washingtons-ai-policy-regulation-without-transparent-rules/",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p26",
+  "summary": "Microsoft President Brad Smith has weighed in on U.S. policy on AI, saying that the Trump administration's …",
+  "techmeme_url": "https://www.techmeme.com/260709/p26",
+  "title": "Microsoft President Brad Smith says the US now has AI \"regulation without transparent or complete rules\", and adds that \"without rules, businesses can't plan\" (Beatrice Nolan/Fortune)"
+ },
+ "a260709p27": {
+  "article_url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p27",
+  "summary": "Sol is the most powerful version, while Luna is designed for speed. … - A new “ultra” mode within Sol allows the system …",
+  "techmeme_url": "https://www.techmeme.com/260709/p27",
+  "title": "OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on Mac and Windows (Axios)"
+ },
+ "a260709p28": {
+  "article_url": "https://openai.com/index/gpt-5-6",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p28",
+  "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+  "techmeme_url": "https://www.techmeme.com/260709/p28",
+  "title": "GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6 (OpenAI)"
+ },
+ "a260709p29": {
+  "article_url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
+  "date": "2026-07-09",
+  "permalink_id": "a260709p29",
+  "summary": "OpenAI held its second livestream this week today at 10 am PT. The video teased that the company was “introducing the next chapter for ChatGPT” today.",
+  "techmeme_url": "https://www.techmeme.com/260709/p29",
+  "title": "OpenAI merges Codex and ChatGPT desktop apps for Mac and Windows under a new ChatGPT desktop app, allowing users to switch between Codex, Chat, and Work (Zac Hall/9to5Mac)"
  },
  "a260709p3": {
   "article_url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
