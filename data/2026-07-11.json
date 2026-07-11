@@ -46,5 +46,29 @@
   "summary": "Agentic AI may be flipping the relationship between AI exposure and job posting growth. — Key points:",
   "techmeme_url": "https://www.techmeme.com/260711/p6",
   "title": "US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7% (Guillermo Gallacher/Indeed Hiring Lab)"
+ },
+ "a260711p7": {
+  "article_url": "https://torrentfreak.com/google-opposes-site-blocking-in-europe-as-u-s-piracy-blocking-plans-gain-momentum/",
+  "date": "2026-07-11",
+  "permalink_id": "a260711p7",
+  "summary": "Google has told the European Commission that pirate site blocking causes “significant harm” and should not target DNS resolvers, VPNs or shared IPs.",
+  "techmeme_url": "https://www.techmeme.com/260711/p7",
+  "title": "Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented (Ernesto Van der Sar/TorrentFreak)"
+ },
+ "a260711p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzc3OTcwMCwiZXhwIjoxNzg0Mzg0NTAwLCJhcnRpY2xlSWQiOiJUSFpEVUhLR0lGUEMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.lF9LVTMyaJOToYhpwph5JjsSJEjdBGXLbenBKQdpHhc&leadSource=uverify+wall",
+  "date": "2026-07-11",
+  "permalink_id": "a260711p8",
+  "summary": "When iPhone engineer Chang Liu quit for a job at OpenAI's nascent hardware division, Apple Inc. says he left with more than just years of experience.",
+  "techmeme_url": "https://www.techmeme.com/260711/p8",
+  "title": "Apple's OpenAI lawsuit follows months of simmering tensions and highlights OpenAI's hardware chief Tang Tan's strained relationship with former boss John Ternus (Mark Gurman/Bloomberg)"
+ },
+ "a260711p9": {
+  "article_url": "https://spyglass.org/apple-vs-openai/",
+  "date": "2026-07-11",
+  "permalink_id": "a260711p9",
+  "summary": "If their lawsuit is successful, that ChatGPT device may be no more... We all know the old saying “don't poke the bear.”",
+  "techmeme_url": "https://www.techmeme.com/260711/p9",
+  "title": "Apple's lawsuit could sidetrack OpenAI's hardware aspirations for years, or possibly forever, as the startup gets into yet another controversy and messy divorce (M.G. Siegler/Spyglass)"
  }
 }
