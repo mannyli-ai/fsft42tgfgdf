@@ -7,6 +7,30 @@
   "techmeme_url": "https://www.techmeme.com/260712/p1",
   "title": "EU Justice Commissioner Michael McGrath says the EC is set to propose new digital rules by year-end aimed at protecting consumers from online spending traps (Laura Dubois/Financial Times)"
  },
+ "a260712p10": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+  "date": "2026-07-12",
+  "permalink_id": "a260712p10",
+  "summary": "The founder of Chinese AI lab Zhipu argued that frontier artificial intelligence should remain broadly accessible rather …",
+  "techmeme_url": "https://www.techmeme.com/260712/p10",
+  "title": "Memo: Tang Jie, founder of Z.ai, the Chinese lab behind the GLM models, argues frontier AI capabilities should stay \"as open and widely accessible as possible\" (Bloomberg)"
+ },
+ "a260712p11": {
+  "article_url": "https://www.ft.com/",
+  "date": "2026-07-12",
+  "permalink_id": "a260712p11",
+  "summary": "Elevated to fix Microsoft's struggling gaming division, she is making tough decisions about its future",
+  "techmeme_url": "https://www.techmeme.com/260712/p11",
+  "title": "A profile of Asha Sharma, an outsider elevated by Satya Nadella to lead Xbox, where she made sweeping job cuts and shed game studios within her first few months (Financial Times)"
+ },
+ "a260712p12": {
+  "article_url": "https://www.ft.com/content/998152e8-90cd-4d95-ae43-e07b773ab943",
+  "date": "2026-07-12",
+  "permalink_id": "a260712p12",
+  "summary": "Touted as a way to engage visitors and boost funding, new tools are triggering concerns around trust and ethics",
+  "techmeme_url": "https://www.techmeme.com/260712/p12",
+  "title": "How museums are using AI chatbots to reach new audiences, as some museum staff worry AI-generated inaccuracies and bias could undermine them as trusted sources (Naomi Rea/Financial Times)"
+ },
  "a260712p2": {
   "article_url": "https://www.businessinsider.com/vendelux-just-raised-50-million-to-capitalize-live-b2b-events-2026-7",
   "date": "2026-07-12",
@@ -54,5 +78,21 @@
   "summary": "In a post on X, the company said, “We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code's weekly rate limits 50% higher, through July 19.”",
   "techmeme_url": "https://www.techmeme.com/260712/p7",
   "title": "Anthropic says it is extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code's weekly rate limits 50% higher, through July 19 (The Economic Times)"
+ },
+ "a260712p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models",
+  "date": "2026-07-12",
+  "permalink_id": "a260712p8",
+  "summary": "Three prominent artificial intelligence developers released new models over the past week. They all promise to be more advanced …",
+  "techmeme_url": "https://www.techmeme.com/260712/p8",
+  "title": "OpenAI, Meta, and SpaceXAI may be able to put pressure on Anthropic by emphasizing cost efficiency, as business customers increasingly scrutinize AI spending (Bloomberg)"
+ },
+ "a260712p9": {
+  "article_url": "https://www.theinformation.com/articles/cursor-developing-ai-agent-compete-claude-cowork",
+  "date": "2026-07-12",
+  "permalink_id": "a260712p9",
+  "summary": "Cursor is developing a general-purpose AI agent meant to compete with popular tools like Anthropic's Claude Cowork …",
+  "techmeme_url": "https://www.techmeme.com/260712/p9",
+  "title": "Sources: Cursor is building a general-purpose AI agent codenamed Sand, aimed at non-developers, that handles emails, texts, and documents to rival Claude Cowork (Grace Kay/The Information)"
  }
 }
