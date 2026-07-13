@@ -6,5 +6,61 @@
   "summary": "Staring down the barrel of policy action that could make open models a permanent second class citizen. — ∙ Paid",
   "techmeme_url": "https://www.techmeme.com/260713/p1",
   "title": "Open weight AI models are facing an existential policy test in the US, with Anthropic leading a campaign against Chinese models over distillation concerns (Nathan Lambert/Interconnects AI)"
+ },
+ "a260713p2": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/tsmc-add-2-advanced-chip-packaging-plants-chiayi-taiwan-minister-says-2026-07-13/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p2",
+  "summary": "Taiwan Semiconductor Manufacturing Co (TSMC) (2330.TW) will add two advanced chip packaging plants in the Chiayi Science Park …",
+  "techmeme_url": "https://www.techmeme.com/260713/p2",
+  "title": "A Taiwanese minister says TSMC plans two more advanced chip packaging plants in the Chiayi Science Park, with all four set to generate $9.35B+ in annual output (Wen-Yee Lee/Reuters)"
+ },
+ "a260713p3": {
+  "article_url": "https://www.wsj.com/sports/soccer/fifas-prediction-market-partner-gets-off-to-rocky-start-1de44ba8?st=26Q3RB",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p3",
+  "summary": "ADI Predictstreet bungled a World Cup ticket giveaway, users say — Vukašin Petrovi&cacute was elated …",
+  "techmeme_url": "https://www.techmeme.com/260713/p3",
+  "title": "A look at ADI Predictstreet's troubled launch, marked by tiny trading volumes, withdrawal bugs, and other issues, as it tried to challenge Kalshi and Polymarket (Wall Street Journal)"
+ },
+ "a260713p4": {
+  "article_url": "https://www.wsj.com/tech/ai/chatbot-advice-eating-disorder-therapy-5fe601fd?st=wPJoX6&reflink=desktopwebshare_permalink",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p4",
+  "summary": "Even a chatbot trained on nutrition and fitness research that dispenses reasonable-sounding guidance can become a deadly influence",
+  "techmeme_url": "https://www.techmeme.com/260713/p4",
+  "title": "Eating disorder therapists say patients are increasingly using AI chatbots for advice, while AI also appears to be directing more patients to helplines (Julie Jargon/Wall Street Journal)"
+ },
+ "a260713p5": {
+  "article_url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p5",
+  "summary": "In at least two places, Uber has pushed a policy that could give it an advantage over developers of self-driving cars.",
+  "techmeme_url": "https://www.techmeme.com/260713/p5",
+  "title": "Docs: Uber lobbied for a \"phased transition\" to AVs, giving it an edge over self-driving developers; Uber says AV industry proposals overlook drivers' rights (Aarian Marshall/Wired)"
+ },
+ "a260713p6": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-13/drone-startup-helsing-raises-at-18-billion-with-goldman-backing",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p6",
+  "summary": "Helsing has raised a financing round at a valuation of $18 billion from investors including the growth equity arm …",
+  "techmeme_url": "https://www.techmeme.com/260713/p6",
+  "title": "Munich-based defense tech startup Helsing raised a $1.8B Series E from Dragoneer, Iconiq, and others at an $18B valuation; Germany made a €270M order this year (Mark Bergen/Bloomberg)"
+ },
+ "a260713p7": {
+  "article_url": "https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html?unlocked_article_code=1.xFA.8v8l.LjDkbr5cPB8I&smid=nytcore-ios-share",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p7",
+  "summary": "Terry Ellis's fixer wore an overcoat, a multicolored ascot, a Rolex. He had a husky voice and a good suntan.",
+  "techmeme_url": "https://www.techmeme.com/260713/p7",
+  "title": "A look back at the 2007 heist of a Verizon data center in London, highlighting the role of physical data security as cyber defenses grow more sophisticated (Nathaniel Rich/New York Times)"
+ },
+ "a260713p8": {
+  "article_url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p8",
+  "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+  "techmeme_url": "https://www.techmeme.com/260713/p8",
+  "title": "How a Denmark-based research team is using quantum computers to accelerate AI protein discovery, showing a near-term commercial application for the quantum tech (Isabella Ward/Wired)"
  }
 }
