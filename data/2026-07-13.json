@@ -127,6 +127,54 @@
   "techmeme_url": "https://www.techmeme.com/260713/p23",
   "title": "Global smartphone shipments fell 11% YoY in Q2 to the lowest Q2 levels since 2013 amid the DRAM and NAND shortage; Samsung returns to #1 with a 24% market share (Shilpi Jain/Counterpoint Research)"
  },
+ "a260713p24": {
+  "article_url": "https://fortune.com/2026/07/09/gauntlet-defi-vault-risk-curation-tarun-chitra-sbi-holdings-fundraise/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p24",
+  "summary": "A startup founded during the early days of DeFi is now backed by a financial giant. Gauntlet, which helps institutions …",
+  "techmeme_url": "https://www.techmeme.com/260713/p24",
+  "title": "Gauntlet, which helps institutions and crypto companies allocate their digital assets, raised a $125M Series C from Japanese financial conglomerate SBI Holdings (Ben Weiss/Fortune)"
+ },
+ "a260713p25": {
+  "article_url": "https://www.geekwire.com/2026/augmodo-raises-21m-to-push-its-spatial-ai-beyond-just-retail-toward-the-broader-physical-workforce/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p25",
+  "summary": "Augmodo, the Seattle startup that straps AI-powered cameras onto retail workers to track store shelves, has raised $21 million …",
+  "techmeme_url": "https://www.techmeme.com/260713/p25",
+  "title": "Seattle-based Augmodo, whose AI-powered \"Smartbadges\" worn by employees track shelf inventory, raised $21M led by TQ Ventures at a $350M valuation (Kurt Schlosser/GeekWire)"
+ },
+ "a260713p26": {
+  "article_url": "https://fortune.com/2026/07/13/ai-sovereignty-cloud-valarian-50-million-nea-palantir-europe-microsoft-aws-google-defense/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p26",
+  "summary": "Max Buchan started advocating for infrastructure sovereignty when, as he puts it, “globalization and Davos were still cool.”",
+  "techmeme_url": "https://www.techmeme.com/260713/p26",
+  "title": "London-based Valarian, which allows companies to use US cloud providers for AI workloads but retain control of their data, raised a $50M Series A led by NEA (Lily Mae Lazarus/Fortune)"
+ },
+ "a260713p27": {
+  "article_url": "https://variety.com/2026/film/news/paramount-warner-bros-merger-states-lawsuit-1236806824/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p27",
+  "summary": "A coalition of 12 states filed an antitrust lawsuit on Monday to block the merger of Paramount Skydance and Warner Bros. …",
+  "techmeme_url": "https://www.techmeme.com/260713/p27",
+  "title": "A coalition of 12 states led by California files an antitrust lawsuit to block Paramount's WBD merger, alleging it lessens competition in three markets (Gene Maddaus/Variety)"
+ },
+ "a260713p28": {
+  "article_url": "https://www.nextgov.com/cybersecurity/2026/07/dhs-network-intrusion-was-twice-ruled-false-positive-breach-confirmed/414724/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p28",
+  "summary": "Department of Homeland Security personnel twice dismissed signs of cyber intruders inside the agency's Homeland Security Information Network …",
+  "techmeme_url": "https://www.techmeme.com/260713/p28",
+  "title": "Doc: DHS analysts twice dismissed signs of intruders inside the DHS' network, first detected in May, as harmless activity before confirming a breach in June (David DiMolfetta/Nextgov/FCW)"
+ },
+ "a260713p29": {
+  "article_url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p29",
+  "summary": "Xinzhou Wu on autonomy, Chinese cars, and if we really need lidar — Today, I'm talking with Xinzhou Wu, who is the head of automotive at Nvidia.",
+  "techmeme_url": "https://www.techmeme.com/260713/p29",
+  "title": "Q&A with Xinzhou Wu, head of automotive at Nvidia, on Nvidia's chips and AI models for autonomous driving, lidar's usefulness for Level 4 autonomy, and more (Nilay Patel/The Verge)"
+ },
  "a260713p3": {
   "article_url": "https://www.wsj.com/sports/soccer/fifas-prediction-market-partner-gets-off-to-rocky-start-1de44ba8?st=26Q3RB",
   "date": "2026-07-13",
@@ -134,6 +182,14 @@
   "summary": "ADI Predictstreet bungled a World Cup ticket giveaway, users say — Vukašin Petrovi&cacute was elated …",
   "techmeme_url": "https://www.techmeme.com/260713/p3",
   "title": "A look at ADI Predictstreet's troubled launch, marked by tiny trading volumes, withdrawal bugs, and other issues, as it tried to challenge Kalshi and Polymarket (Wall Street Journal)"
+ },
+ "a260713p30": {
+  "article_url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-announces-major-windows-11-search-overhaul-that-prioritizes-clearer-local-results-and-removes-ads",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p30",
+  "summary": "Windows 11's search user experience is getting a big update, with Microsoft moving to prioritize local results, remove promotional content, and much more.",
+  "techmeme_url": "https://www.techmeme.com/260713/p30",
+  "title": "Microsoft announces a Windows 11 search overhaul that prioritizes local results, removes promotional web content, and more, rolling out to Windows Insiders (Zac Bowden/Windows Central)"
  },
  "a260713p4": {
   "article_url": "https://www.wsj.com/tech/ai/chatbot-advice-eating-disorder-therapy-5fe601fd?st=wPJoX6&reflink=desktopwebshare_permalink",
