@@ -1,0 +1,34 @@
+{
+ "a260714p1": {
+  "article_url": "https://www.ft.com/content/7c146c56-cc7a-40ec-93cb-58106a012421",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p1",
+  "summary": "Tougher vetting in Singapore, Malaysia and Japan reflects Washington's push to close export-control loopholes",
+  "techmeme_url": "https://www.techmeme.com/260714/p1",
+  "title": "Sources: Nvidia intensified due diligence and cut its authorized AI chip customers in Singapore, Malaysia, and Japan by 50%+ to prevent China diversions (Zijing Wu/Financial Times)"
+ },
+ "a260714p2": {
+  "article_url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p2",
+  "summary": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them …",
+  "techmeme_url": "https://www.techmeme.com/260714/p2",
+  "title": "Researchers detail \"context bombing\", where defenders use prompt injections to trigger guardrails of attackers' LLMs, cutting AI hacking success rates by ~90% (Dan Goodin/Ars Technica)"
+ },
+ "a260714p3": {
+  "article_url": "https://www.ft.com/content/e9db6384-b295-4ab2-96bf-55025db9ee1d",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p3",
+  "summary": "Deal signals continued demand for renewable energy despite Trump administration's efforts to end tax credits and stall plans",
+  "techmeme_url": "https://www.techmeme.com/260714/p3",
+  "title": "Google agrees to buy 100% of the initial output from the Steel River Energy Center's 1.6GW solar project in Arkansas when it becomes operational in 2029 (Martha Muir/Financial Times)"
+ },
+ "a260714p4": {
+  "article_url": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p4",
+  "summary": "OpenAI is projecting $100 billion in ad revenue by 2030. Emarketer puts the ceiling for the entire chatbot ad market in U.S at just $5.41 billion.",
+  "techmeme_url": "https://www.techmeme.com/260714/p4",
+  "title": "eMarketer: chatbots like ChatGPT and Google AI Mode will generate less than $1B in ad revenue in 2026; OpenAI projected $2.5B in ChatGPT ad revenue this year (Trishla Ostwal/Adweek)"
+ }
+}
