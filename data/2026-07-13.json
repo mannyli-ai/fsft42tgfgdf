@@ -191,6 +191,54 @@
   "techmeme_url": "https://www.techmeme.com/260713/p30",
   "title": "Microsoft announces a Windows 11 search overhaul that prioritizes local results, removes promotional web content, and more, rolling out to Windows Insiders (Zac Bowden/Windows Central)"
  },
+ "a260713p31": {
+  "article_url": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p31",
+  "summary": "Try the new Siri AI and system-wide performance improvements. — Adventurous early adopters, your moment has arrived …",
+  "techmeme_url": "https://www.techmeme.com/260713/p31",
+  "title": "Apple releases the first public betas of iOS 27, iPadOS 27, macOS 27 Golden Gate, watchOS 27, and tvOS 27, marking the public debut of the new Siri AI (Will Shanklin/Engadget)"
+ },
+ "a260713p32": {
+  "article_url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/07/13/ai-tech-brief-exclusive-an-open-source-framework/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p32",
+  "summary": "Plus, data centers could end up consuming less energy than we expect. — Exclusive: The Trump administration and the AI industry …",
+  "techmeme_url": "https://www.techmeme.com/260713/p32",
+  "title": "Sources: Trump admin and industry groups have discussed streamlining releases of US open models of equal or lesser capability than leading Chinese open models (Benjamin Guggenheim/Washington Post)"
+ },
+ "a260713p33": {
+  "article_url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p33",
+  "summary": "Nous Research, the startup behind the open-source Hermes agent, is finalizing a new round of funding led by Robot Ventures …",
+  "techmeme_url": "https://www.techmeme.com/260713/p33",
+  "title": "Sources: Nous Research, the startup behind Hermes, an open-source agent and OpenClaw rival, is raising $75M+ at a $1.5B valuation led by Robot Ventures (TechCrunch)"
+ },
+ "a260713p34": {
+  "article_url": "https://decrypt.co/373422/anthropic-claude-personality-changes-model-language",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p34",
+  "summary": "Claude doesn't behave the same way in every conversation. According to new research published Monday, AI giant Anthropic found …",
+  "techmeme_url": "https://www.techmeme.com/260713/p34",
+  "title": "Anthropic research based on ~310K anonymized Claude conversations shows how Claude's expressed values and behaviors vary across models and languages (Jason Nelson/Decrypt)"
+ },
+ "a260713p35": {
+  "article_url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p35",
+  "summary": "Singapore-based video-generation startup PixVerse said today that it has closed its Series C extension, with a total of $439 million raised in the round.",
+  "techmeme_url": "https://www.techmeme.com/260713/p35",
+  "title": "Singapore-based and Alibaba-backed video generation startup PixVerse says it closed a Series C extension to raise $439M total for the round, valuing it at $2B+ (Ivan Mehta/TechCrunch)"
+ },
+ "a260713p36": {
+  "article_url": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+  "date": "2026-07-13",
+  "permalink_id": "a260713p36",
+  "summary": "BEIJING — Humanoid startup LimX Dynamics is getting ready to go public, just over four years after it was founded during the pandemic.",
+  "techmeme_url": "https://www.techmeme.com/260713/p36",
+  "title": "In the wake of China's \"embodied AI\" push, there's an urgency among China's 100+ humanoid startups to launch IPOs; LimX Dynamics raises $200M in a pre-IPO round (Evelyn Cheng/CNBC)"
+ },
  "a260713p4": {
   "article_url": "https://www.wsj.com/tech/ai/chatbot-advice-eating-disorder-therapy-5fe601fd?st=wPJoX6&reflink=desktopwebshare_permalink",
   "date": "2026-07-13",
