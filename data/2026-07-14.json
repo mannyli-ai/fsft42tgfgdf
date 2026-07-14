@@ -95,6 +95,46 @@
   "techmeme_url": "https://www.techmeme.com/260714/p2",
   "title": "Researchers detail \"context bombing\", where defenders use prompt injections to trigger guardrails of attackers' LLMs, cutting AI hacking success rates by ~90% (Dan Goodin/Ars Technica)"
  },
+ "a260714p25": {
+  "article_url": "https://www.engadget.com/2214520/talk-to-spotify-curate-playlists-with-voice/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p25",
+  "summary": "The new beta feature works from the Home or Now Playing views on mobile. — Spotify already uses a lot of AI (too much some might say) …",
+  "techmeme_url": "https://www.techmeme.com/260714/p25",
+  "title": "Spotify launches Talk to Spotify, letting users create playlists and more via voice, rolling out in beta to Premium users age 18+ in the US, Ireland, and Sweden (Steve Dent/Engadget)"
+ },
+ "a260714p26": {
+  "article_url": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p26",
+  "summary": "The partnership, a first of its kind for the artificial intelligence company, will use the prediction market's data to power some search results about the soccer tournament.",
+  "techmeme_url": "https://www.techmeme.com/260714/p26",
+  "title": "OpenAI strikes a partnership with Kalshi to show FIFA World Cup prediction market data in ChatGPT search results, its first deal with a prediction market (Mike Isaac/New York Times)"
+ },
+ "a260714p27": {
+  "article_url": "https://www.theblock.co/post/408242/dragonfly-firstmark-series-a-stablecoin-velocity-coinbase-ripple-capital-one-ventures",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p27",
+  "summary": "Quick Take — Dragonfly and FirstMark co-led Velocity's round with participation from Activant Capital, Capital One Ventures …",
+  "techmeme_url": "https://www.techmeme.com/260714/p27",
+  "title": "Velocity, a stablecoin treasury and settlement platform, raised a $38M Series A led by Dragonfly and FirstMark, bringing its total funding to around $50M (Daniel Kuhn/The Block)"
+ },
+ "a260714p28": {
+  "article_url": "https://www.wsj.com/tech/ai/chinese-ai-startup-dfsx-releases-chip-to-take-on-the-west-ffc71526?st=ormsSo&reflink=desktopwebshare_permalink",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p28",
+  "summary": "DFSX's investors include state-backed entities and industrial funds such as a venture-capital vehicle co-founded by Alibaba's Jack Ma",
+  "techmeme_url": "https://www.techmeme.com/260714/p28",
+  "title": "Chinese startup DFSX launches an AI chip that it claims uses a fully domestic supply chain and is built on a 14nm process, but says it can rival 4nm chips (Wall Street Journal)"
+ },
+ "a260714p29": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-14/small-amount-of-nvidia-ai-chips-shipped-to-china-with-us-license",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p29",
+  "summary": "A small number of Nvidia Corp.'s H200 artificial intelligence chips have been shipped to customers in China after winning US approval …",
+  "techmeme_url": "https://www.techmeme.com/260714/p29",
+  "title": "A Trump administration official says a \"trivial\" number of Nvidia's H200 chips were shipped to China after winning a US license, without offering specifics (Bloomberg)"
+ },
  "a260714p3": {
   "article_url": "https://www.ft.com/content/e9db6384-b295-4ab2-96bf-55025db9ee1d",
   "date": "2026-07-14",
@@ -103,6 +143,78 @@
   "techmeme_url": "https://www.techmeme.com/260714/p3",
   "title": "Google agrees to buy 100% of the initial output from the Steel River Energy Center's 1.6GW solar project in Arkansas when it becomes operational in 2029 (Martha Muir/Financial Times)"
  },
+ "a260714p30": {
+  "article_url": "https://www.thewrap.com/industry-news/tech/hachette-scott-turow-google-gemini-ai-copyright-lawsuit/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p30",
+  "summary": "Publishers claim the tech giant used millions of copyrighted works without permission to build its Gemini artificial intelligence models",
+  "techmeme_url": "https://www.techmeme.com/260714/p30",
+  "title": "Hachette, Elsevier, Cengage Learning, and author Scott Turow sue Google for allegedly using millions of copyrighted books and articles to build AI models (A.J. Katz/The Wrap)"
+ },
+ "a260714p31": {
+  "article_url": "https://economictimes.indiatimes.com/tech/technology/data-center-firm-switch-taps-banks-for-ipo-that-could-value-it-up-to-80-billion/articleshow/132395339.cms",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p31",
+  "summary": "Data center operator Switch is preparing for a significant initial public offering. This offering could potentially raise up to ten billion dollars soon.",
+  "techmeme_url": "https://www.techmeme.com/260714/p31",
+  "title": "Sources: data center operator Switch has hired investment banks for a US IPO that could raise up to $10B and value it at $80B, set for as soon as Q4 (Reuters)"
+ },
+ "a260714p32": {
+  "article_url": "https://9to5mac.com/2026/07/14/anthropic-is-giving-teachers-free-access-to-premium-claude-features-details-here/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p32",
+  "summary": "Anthropic is providing free access to premium Claude AI features to K-12 teachers in the United States. The effort is part of a new Claude for Teachers initiative.",
+  "techmeme_url": "https://www.techmeme.com/260714/p32",
+  "title": "Anthropic announces a new Claude for Teachers initiative, as part of which it will provide K-12 teachers in the US free access to premium Claude features (Zac Hall/9to5Mac)"
+ },
+ "a260714p34": {
+  "article_url": "https://www.politico.eu/article/eu-relaxes-rules-meta-glasses-us-pressure/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p34",
+  "summary": "Commission exempts smart glasses like Meta's from batteries regulation, clearing a major hurdle to European expansion.",
+  "techmeme_url": "https://www.techmeme.com/260714/p34",
+  "title": "The European Commission proposes exempting wearable tech from rules requiring removable batteries, clearing a hurdle for Meta's smart glasses, after US pressure (Politico)"
+ },
+ "a260714p35": {
+  "article_url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p35",
+  "summary": "Google Images, the tech giant's image search engine, is taking on Pinterest with its latest redesign that turns the site into a browsable …",
+  "techmeme_url": "https://www.techmeme.com/260714/p35",
+  "title": "Google Images launches a Pinterest-like redesign with a browsable, dynamic gallery of images, and adds a way for users to create AI images in Search (Aisha Malik/TechCrunch)"
+ },
+ "a260714p36": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-14/uber-is-said-to-be-in-advanced-talks-on-delivery-hero-takeover",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p36",
+  "summary": "Uber Technologies Inc. is in advanced talks to buy German food-delivery company Delivery Hero SE, a deal that will allow …",
+  "techmeme_url": "https://www.techmeme.com/260714/p36",
+  "title": "Sources: Uber is in advanced talks to acquire Delivery Hero in a deal valuing the German food-delivery company well above its recent market value of €11.2B (Bloomberg)"
+ },
+ "a260714p37": {
+  "article_url": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p37",
+  "summary": "As SpaceX's Elon Musk sells investors on a space economy with life beyond Earth, a two-year-old construction startup founded …",
+  "techmeme_url": "https://www.techmeme.com/260714/p37",
+  "title": "TerraFirma, a construction tech company founded by two former SpaceX engineers to build remote-controlled construction equipment, raised $115M (Samantha Subin/CNBC)"
+ },
+ "a260714p38": {
+  "article_url": "https://www.washingtonpost.com/business/2026/07/14/this-tech-start-up-is-hiring-local-reporters-feeding-their-work-ai/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p38",
+  "summary": "State Affairs combines media and technology at a time when tensions between the two industries are at a fever pitch. — Summary",
+  "techmeme_url": "https://www.techmeme.com/260714/p38",
+  "title": "A look at Founders Fund-backed State Affairs, which raised $70M and uses AI trained on reporting by its 76 staffers to power a Bloomberg Terminal-like product (Washington Post)"
+ },
+ "a260714p39": {
+  "article_url": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p39",
+  "summary": "Apple is in talks with a small Silicon Valley company that says it can shrink powerful artificial intelligence models enough to run directly …",
+  "techmeme_url": "https://www.techmeme.com/260714/p39",
+  "title": "PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech (MacKenzie Sigalos/CNBC)"
+ },
  "a260714p4": {
   "article_url": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
   "date": "2026-07-14",
@@ -110,6 +222,14 @@
   "summary": "OpenAI is projecting $100 billion in ad revenue by 2030. Emarketer puts the ceiling for the entire chatbot ad market in U.S at just $5.41 billion.",
   "techmeme_url": "https://www.techmeme.com/260714/p4",
   "title": "eMarketer: chatbots like ChatGPT and Google AI Mode will generate less than $1B in ad revenue in 2026; OpenAI projected $2.5B in ChatGPT ad revenue this year (Trishla Ostwal/Adweek)"
+ },
+ "a260714p40": {
+  "article_url": "https://www.reuters.com/business/apple-wins-dismissal-lawsuit-over-child-sexual-abuse-material-icloud-2026-07-14/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p40",
+  "summary": "A U.S. judge has dismissed a proposed class action accusing Apple (AAPL.O) of failing to stop the dissemination …",
+  "techmeme_url": "https://www.techmeme.com/260714/p40",
+  "title": "A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company (Diana Novak Jones/Reuters)"
  },
  "a260714p5": {
   "article_url": "https://www.idc.com/resource-center/blog/china-smartphone-market-decline-q2-2026/",
