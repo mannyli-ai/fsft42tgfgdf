@@ -231,6 +231,54 @@
   "techmeme_url": "https://www.techmeme.com/260714/p40",
   "title": "A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company (Diana Novak Jones/Reuters)"
  },
+ "a260714p43": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p43",
+  "summary": "OpenAI said on Tuesday that it's “not aware of any evidence” that an Apple Inc. lawsuit alleging trade-secret theft has merit.",
+  "techmeme_url": "https://www.techmeme.com/260714/p43",
+  "title": "OpenAI says it is \"not aware of any evidence\" that Apple's lawsuit alleging trade-secret theft has merit, adding that it believes in fair competition (Mark Gurman/Bloomberg)"
+ },
+ "a260714p44": {
+  "article_url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p44",
+  "summary": "Anthropic is known for its creative marketing, but the AI company may have been a little bit too creative when it conjured up its most recent advertisement.",
+  "techmeme_url": "https://www.techmeme.com/260714/p44",
+  "title": "Anthropic faces ridicule and criticism for an ad titled \"There's hope in hard questions\" that unsettled viewers with weird graveyard imagery and doomer-ist tone (Lucas Ropek/TechCrunch)"
+ },
+ "a260714p45": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-14/deepseek-mulls-new-funding-weeks-after-7-billion-round-ft-says",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p45",
+  "summary": "Chinese AI pioneer DeepSeek has begun preparations for an initial public offering and may file as soon as this year, setting the stage for what could be a landmark debut for the country's technology industry.",
+  "techmeme_url": "https://www.techmeme.com/260714/p45",
+  "title": "Sources: DeepSeek has started planning for an IPO in China and may file as soon as this year, allowing it to debut in 2027 (Lulu Yilun Chen/Bloomberg)"
+ },
+ "a260714p46": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p46",
+  "summary": "OpenAI's much-anticipated push into consumer devices is slated to begin with a mobile, screen-free smart speaker designed to be a new type …",
+  "techmeme_url": "https://www.techmeme.com/260714/p46",
+  "title": "Sources: OpenAI's first device will be a moveable, screen-free smart speaker with a camera and sensors, meant to serve as a humanlike AI companion (Mark Gurman/Bloomberg)"
+ },
+ "a260714p48": {
+  "article_url": "https://www.reuters.com/technology/uk-plans-default-midnight-social-media-curfew-16-17-year-olds-2026-07-14/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p48",
+  "summary": "Britain will introduce a default overnight curfew on social media apps for 16- and 17-year-olds, the government said …",
+  "techmeme_url": "https://www.techmeme.com/260714/p48",
+  "title": "The UK government proposes a default overnight social media curfew for 16- and 17-year-olds and disabling features like auto-play and infinite scroll by default (Muvija M/Reuters)"
+ },
+ "a260714p49": {
+  "article_url": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p49",
+  "summary": "Cybersecurity stocks jumped on Tuesday after IBM CEO Arvind Krishna flagged cyber fears as a top priority for customers in the company's preliminary second-quarter results.",
+  "techmeme_url": "https://www.techmeme.com/260714/p49",
+  "title": "Cybersecurity stocks rallied on Tuesday after IBM CEO Arvind Krishna flagged cyber fears as a top priority for customers; CrowdStrike jumped 12%, Okta rose 11% (Samantha Subin/CNBC)"
+ },
  "a260714p5": {
   "article_url": "https://www.idc.com/resource-center/blog/china-smartphone-market-decline-q2-2026/",
   "date": "2026-07-14",
@@ -238,6 +286,78 @@
   "summary": "What Happened in China's Smartphone Market in Q2 2026? — China's smartphone shipments came in at roughly 66 million units …",
   "techmeme_url": "https://www.techmeme.com/260714/p5",
   "title": "China's smartphone shipments fell 4.3% YoY to 66M units in Q2, the fifth consecutive quarter of decline, amid a memory shortage; Huawei and Apple grew shipments (Kiranjeet Kaur/IDC)"
+ },
+ "a260714p50": {
+  "article_url": "https://cyberscoop.com/trump-gold-eagle-ai-cyber-clearinghouse/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p50",
+  "summary": "The White House said the clearinghouse has already started to receive intelligence on vulnerabilities and prioritize patches.",
+  "techmeme_url": "https://www.techmeme.com/260714/p50",
+  "title": "The Trump administration launches the \"Gold Eagle\" federal clearinghouse for sharing AI cyber threat information between the government and private sector (Derek B. Johnson/CyberScoop)"
+ },
+ "a260714p51": {
+  "article_url": "https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p51",
+  "summary": "A lawyer for Apple apologized for mixing up two OpenAI employees with the names Wang and Chang.",
+  "techmeme_url": "https://www.techmeme.com/260714/p51",
+  "title": "OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach (David Ingram/NBC News)"
+ },
+ "a260714p52": {
+  "article_url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p52",
+  "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
+  "techmeme_url": "https://www.techmeme.com/260714/p52",
+  "title": "Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits (Ej Dickson/Wired)"
+ },
+ "a260714p53": {
+  "article_url": "https://www.reuters.com/world/ai-cloud-company-coreweave-explores-wall-street-playbook-hedge-memory-chip-price-2026-07-14/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p53",
+  "summary": "AI cloud computing company CoreWeave (CRWV.O) is exploring the use of financial derivatives as a potential hedge against a future drop in memory …",
+  "techmeme_url": "https://www.techmeme.com/260714/p53",
+  "title": "Sources: CoreWeave is exploring the use of financial derivatives as a potential hedge against a future drop in memory and storage chip prices (Max A. Cherney/Reuters)"
+ },
+ "a260714p54": {
+  "article_url": "https://siliconangle.com/2026/07/14/instalily-developer-ai-teammates-can-automate-complex-business-specific-work-raises-60m/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p54",
+  "summary": "Enterprise automation startup InstaLILY Inc. said today it has closed on a hefty $60 million Series B round of funding that brings its total amount raised to date to almost $100 million.",
+  "techmeme_url": "https://www.techmeme.com/260714/p54",
+  "title": "InstaLILY, which develops AI agents to automate sales, operations, and service workflows, raised a $60M Series B led by Energize Capital (Mike Wheatley/SiliconANGLE)"
+ },
+ "a260714p55": {
+  "article_url": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p55",
+  "summary": "A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses …",
+  "techmeme_url": "https://www.techmeme.com/260714/p55",
+  "title": "Monitoring Analytics: PJM's recent electricity auction is expected to add $6.3B to customers' bills in 13 states and DC through 2029 due to data center demands (Ivan Penn/New York Times)"
+ },
+ "a260714p56": {
+  "article_url": "https://www.politico.com/news/2026/07/14/gop-governors-utilities-join-trump-data-center-pledge-00998098",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p56",
+  "summary": "President Donald Trump is expanding his data center pledge to include some Republican governors and several large utilities …",
+  "techmeme_url": "https://www.techmeme.com/260714/p56",
+  "title": "Sources: multiple GOP governors and large utilities are expected to join Trump's pledge for data center developers to cover their energy use and infrastructure (Politico)"
+ },
+ "a260714p57": {
+  "article_url": "https://www.wsj.com/tech/ai/meta-workers-accuse-it-of-using-ai-to-conduct-discriminatory-layoffs-bbb59963?st=J9dL9h&reflink=desktopwebshare_permalink",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p57",
+  "summary": "Lawsuit alleges social-media company relied on AI that disproportionately targeted workers with disabilities or who were on medical or parental leave",
+  "techmeme_url": "https://www.techmeme.com/260714/p57",
+  "title": "Meta is sued by 26 current and former employees, who allege its use of AI in May layoffs unfairly targeted workers with disabilities or on protected leave (Wall Street Journal)"
+ },
+ "a260714p58": {
+  "article_url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+  "date": "2026-07-14",
+  "permalink_id": "a260714p58",
+  "summary": "Miles Wang, an OpenAI researcher whose work includes using AI to accelerate scientific and biological discovery, is leaving the ChatGPT maker …",
+  "techmeme_url": "https://www.techmeme.com/260714/p58",
+  "title": "Sources: OpenAI researcher Miles Wang is leaving the company to launch an AI drug discovery startup, and is in talks to raise $200M at a $2B valuation (Marina Temkin/TechCrunch)"
  },
  "a260714p6": {
   "article_url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
