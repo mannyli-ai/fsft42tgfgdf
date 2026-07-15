@@ -151,6 +151,78 @@
   "techmeme_url": "https://www.techmeme.com/260715/p3",
   "title": "The UAE gained broader US AI chip access after aiding the US in the Iran war, letting G42 buy freely for at least nine months; G42 plans to become a US company (Wall Street Journal)"
  },
+ "a260715p31": {
+  "article_url": "https://www.wsj.com/cmo-today/ai-videos-are-flooding-tiktok-shop-c86a88e0",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p31",
+  "summary": "Brands issue warnings as more creators use avatars and duplicates of themselves to boost affiliate sales",
+  "techmeme_url": "https://www.techmeme.com/260715/p31",
+  "title": "How TikTok Shop sellers are using AI creators and AI twins to boost affiliate sales; eMarketer: US sales on TikTok Shop will grow 48% YoY to $23.41B in 2026 (Patrick Coffee/Wall Street Journal)"
+ },
+ "a260715p32": {
+  "article_url": "https://www.axios.com/pro/all-deals/2026/07/15/spectro-cloud-billion-valuation-ai-model-switching",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p32",
+  "summary": "Spectro Cloud, an AI infrastucture company helping manage token costs, raised $100 million at an over $1 billion valuation, the company tells Axios exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260715/p32",
+  "title": "Spectro Cloud, an AI infrastucture company helping manage token costs, raised a $100M Series D from AMD, LG, others at a $1B+ valuation, up from $750M in 2024 (Lucinda Shen/Axios)"
+ },
+ "a260715p33": {
+  "article_url": "https://www.theinformation.com/articles/apple-hunts-ai-chip-acquisitions",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p33",
+  "summary": "Apple is on the lookout for acquisitions of chip companies to boost its efforts to build server chips for running AI, said people familiar with the company's efforts.",
+  "techmeme_url": "https://www.techmeme.com/260715/p33",
+  "title": "Sources: Apple is looking for chip companies to buy to boost its AI server chip efforts as it struggles with the performance of its servers running on M2 Ultra (The Information)"
+ },
+ "a260715p34": {
+  "article_url": "https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p34",
+  "summary": "Auto workers for Hyundai Motor in South Korea are on a partial strike worried about their future job prospects",
+  "techmeme_url": "https://www.techmeme.com/260715/p34",
+  "title": "Hyundai's South Korea auto workers have gone on a partial strike over wages, AI, and the prospect of the company deploying its new humanoid robot in factories (Jiyoung Sohn/Wall Street Journal)"
+ },
+ "a260715p35": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-15/oneplus-once-popular-with-tech-fans-to-pull-out-of-us-and-europe?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDEyOTQwNiwiZXhwIjoxNzg0NzM0MjA2LCJhcnRpY2xlSWQiOiJUSTdWQkNLSVVQUzcwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.nLDRSXHgqlPetEYHmhkG8H7TvCo-EI777cHbzLhoCsY",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p35",
+  "summary": "OnePlus, a consumer electronics brand that gained a loyal following with its lineup of aggressively priced Android smartphones …",
+  "techmeme_url": "https://www.techmeme.com/260715/p35",
+  "title": "Source: OnePlus will begin to cease operations in the US and Europe as early as this week and Realme will exit China as part of a restructuring by parent Oppo (Bloomberg)"
+ },
+ "a260715p36": {
+  "article_url": "https://www.theinformation.com/articles/asml-plans-price-increases-chipmaking-equipment-despite-tsmc-resistance",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p36",
+  "summary": "Chip toolmaker ASML, which makes equipment that plays a central role in chip production around the world, plans to raise prices …",
+  "techmeme_url": "https://www.techmeme.com/260715/p36",
+  "title": "Sources: ASML has discussed raising prices for its EUV systems with TSMC and plans to charge 10% more for its DUV systems; TSMC is resisting ASML's price plans (Qianer Liu/The Information)"
+ },
+ "a260715p37": {
+  "article_url": "https://www.axios.com/2026/07/15/openai-keyboard-codex-agents",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p37",
+  "summary": "OpenAI opened orders Wednesday for Codex Micro — a limited-edition desktop keypad that lets agentmaxxers monitor and control their AI minions.",
+  "techmeme_url": "https://www.techmeme.com/260715/p37",
+  "title": "OpenAI launches Codex Micro, a $230 desktop keypad built in collaboration with keyboard maker Work Louder, with backlit keys, a rotary knob, and a tiny joystick (Megan Morrone/Axios)"
+ },
+ "a260715p38": {
+  "article_url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p38",
+  "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company's president, Greg Brockman.",
+  "techmeme_url": "https://www.techmeme.com/260715/p38",
+  "title": "OpenAI employees donated a combined $215K+ to Guardrails Alliance, a super PAC seeking stricter AI rules and opposing Greg Brockman-backed Leading the Future (Maxwell Zeff/Wired)"
+ },
+ "a260715p39": {
+  "article_url": "https://www.axios.com/pro/fintech-deals/2026/07/15/lumin-digital-banking-funding-light-street",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p39",
+  "summary": "Lumin Digital, which provides digital banking software to banks and credit unions, raised more than $115 million at a $1.6 billion post-money valuation …",
+  "techmeme_url": "https://www.techmeme.com/260715/p39",
+  "title": "Lumin Digital, which provides cloud-based digital banking software to banks and credit unions, raised more than $115M at a $1.6B post-money valuation (Ryan Lawler/Axios)"
+ },
  "a260715p4": {
   "article_url": "https://www.ft.com/content/c8d32323-1d06-4470-8375-2ee6dd42749e",
   "date": "2026-07-15",
@@ -158,6 +230,54 @@
   "summary": "Larry Ellison's group proposes ‘air-gapped’ network as US pressures Tokyo to tighten security of sensitive data",
   "techmeme_url": "https://www.techmeme.com/260715/p4",
   "title": "Sources: Oracle leads the race to sell \"air-gapped\" cloud services to Japan that the US says are key to secure intelligence sharing between Tokyo and its allies (Financial Times)"
+ },
+ "a260715p40": {
+  "article_url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p40",
+  "summary": "AI models are becoming ever more capable, but exactly what enterprise adoption will look like remains a big question.",
+  "techmeme_url": "https://www.techmeme.com/260715/p40",
+  "title": "Anthropic, Blackstone, and Hellman & Friedman's $1.5B AI implementation company, announced in May, launches with the name \"Ode with Anthropic\" and 100 engineers (Rebecca Bellan/TechCrunch)"
+ },
+ "a260715p41": {
+  "article_url": "https://thinkingmachines.ai/news/introducing-inkling/",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p41",
+  "summary": "Try on Tinker Model card Hugging Face — Our mission is to build AI that extends human will and judgment.",
+  "techmeme_url": "https://www.techmeme.com/260715/p41",
+  "title": "Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area (Thinking Machines Lab)"
+ },
+ "a260715p42": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-15/apple-boosts-applecare-monthly-prices-by-50-cents-in-latest-increase",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p42",
+  "summary": "Apple Inc. slightly raised the cost of individual AppleCare+ service subscriptions, marking its latest price increase in the face of a global memory shortage and other challenges.",
+  "techmeme_url": "https://www.techmeme.com/260715/p42",
+  "title": "Apple raises its AppleCare+ prices for Macs and iPads by $0.50 per month and $5 per year; the increases are exclusively for new sign-ups (Mark Gurman/Bloomberg)"
+ },
+ "a260715p43": {
+  "article_url": "https://www.reuters.com/technology/amazon-aws-executive-ceo-advisor-dave-brown-leave-after-19-years-2026-07-15/",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p43",
+  "summary": "Amazon (AMZN.O) veteran Dave Brown, a senior vice president in Amazon Web Services and member of the elite internal group advising CEO Andy Jassy …",
+  "techmeme_url": "https://www.techmeme.com/260715/p43",
+  "title": "AWS SVP Dave Brown is leaving after 19 years for a new job; he led compute and machine learning services and is a member of the S-team advising Andy Jassy (Greg Bensinger/Reuters)"
+ },
+ "a260715p44": {
+  "article_url": "https://www.bloomberg.com/opinion/articles/2026-07-15/uber-and-waymo-are-sparring-the-robotaxi-future-has-arrived",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p44",
+  "summary": "The latest leading indicator of the robotaxi revolution is a tiff. Waymo LLC, a unit of Alphabet Inc., and Uber Technologies Inc. are nominally partners.",
+  "techmeme_url": "https://www.techmeme.com/260715/p44",
+  "title": "Uber and Waymo are engaged in a DC lobbying battle over AV legislation, with Uber supporting a hybrid human-robotaxi model and Waymo pushing for pure robotaxis (Liam Denning/Bloomberg)"
+ },
+ "a260715p45": {
+  "article_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p45",
+  "summary": "Training strong automated safety red-teamers to improve robustness. — Summary — Problem — Red-teaming is essential …",
+  "techmeme_url": "https://www.techmeme.com/260715/p45",
+  "title": "OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment (OpenAI)"
  },
  "a260715p5": {
   "article_url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
