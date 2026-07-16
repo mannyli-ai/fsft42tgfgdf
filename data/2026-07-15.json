@@ -279,6 +279,38 @@
   "techmeme_url": "https://www.techmeme.com/260715/p45",
   "title": "OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment (OpenAI)"
  },
+ "a260715p46": {
+  "article_url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p46",
+  "summary": "Apple has quietly published a rulebook for its new Maps ads, revealing a more curated approach than advertising giant Google.",
+  "techmeme_url": "https://www.techmeme.com/260715/p46",
+  "title": "Apple publishes a policy for upcoming Maps ads, says home services ads are banned, medical services ads will be \"evaluated on a case-by-case basis\", and more (Sarah Perez/TechCrunch)"
+ },
+ "a260715p47": {
+  "article_url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p47",
+  "summary": "SpaceX shares fell for a fourth-straight session on Wednesday, briefly dropping below their $135 initial public offering price …",
+  "techmeme_url": "https://www.techmeme.com/260715/p47",
+  "title": "SpaceX shares fell for a fourth-straight session on Wednesday, briefly dropping below their $135 IPO price for the first time before closing at $135.27 (Samantha Subin/CNBC)"
+ },
+ "a260715p48": {
+  "article_url": "https://www.theblock.co/post/408504/coinbases-jesse-pollak-hands-base-app-leadership-cobie-social-bets-fell-short",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p48",
+  "summary": "Quick Take — Cobie will now lead the Base app team as Base creator and Coinbase executive Jesse Pollak focuses …",
+  "techmeme_url": "https://www.techmeme.com/260715/p48",
+  "title": "Coinbase's Jesse Pollak says Jordan Fish, aka \"Cobie\", will now lead the Base app team after acknowledging some of Base's bets on social features fell short (Daniel Kuhn/The Block)"
+ },
+ "a260715p49": {
+  "article_url": "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p49",
+  "summary": "Venture funding into fintech startups climbed nearly 23% year over year in H1 2026, even as deal count fell more than 25% …",
+  "techmeme_url": "https://www.techmeme.com/260715/p49",
+  "title": "Venture funding of fintech startups grew 22.7% YoY in H1 2026 to $28.6B globally, but deal count fell 25.7% and funding fell 17.3% vs. H2 2025's $34.6B funding (Mary Ann Azevedo/Crunchbase News)"
+ },
  "a260715p5": {
   "article_url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
   "date": "2026-07-15",
@@ -286,6 +318,46 @@
   "summary": "Get ready for rival app stores inside of Google Play. … Epic Games and Google have just jointly withdrawn their attempt …",
   "techmeme_url": "https://www.techmeme.com/260715/p5",
   "title": "Court filing: Google says it is ready to add third-party app stores in Google Play in the US on July 22, as Google and Epic withdraw their joint motion (Sean Hollister/The Verge)"
+ },
+ "a260715p50": {
+  "article_url": "https://www.theinformation.com/articles/microsofts-new-security-chief-replaces-top-execs-force-ai-overhaul",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p50",
+  "summary": "Microsoft, the largest cybersecurity software seller in the world, is overhauling that business to cash in on corporate anxieties about AI-powered hacks.",
+  "techmeme_url": "https://www.techmeme.com/260715/p50",
+  "title": "Sources: Microsoft security chief Hayete Gallot, who took over in February, has prioritized AI tools, cut several hundred roles, replaced senior execs, and more (The Information)"
+ },
+ "a260715p51": {
+  "article_url": "https://www.forbes.com/sites/marcochiappetta/2026/07/15/cadence-expands-ai-agents-with-aurastack-for-pcb-and-advanced-chip-packaging/",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p51",
+  "summary": "As systems and AI infrastructure get more complex, the engineering challenges required to design and bring them to market extend well beyond silicon.",
+  "techmeme_url": "https://www.techmeme.com/260715/p51",
+  "title": "Cadence unveils AuraStack AI Super Agent, an AI platform for PCB and advanced chip packaging design, with Nvidia, TSMC, and Schneider Electric among early users (Marco Chiappetta/Forbes)"
+ },
+ "a260715p52": {
+  "article_url": "http://simonwillison.net/",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p52",
+  "summary": "xai-org/grok-build, now open source (via) xAI's grok CLI tool faced severe community backlash yesterday when it became apparent …",
+  "techmeme_url": "https://www.techmeme.com/260715/p52",
+  "title": "SpaceXAI open-sources Grok Build under an Apache 2.0 license after the tool had uploaded user repositories to a Google Cloud bucket, causing a severe backlash (Simon Willison/Simon Willison's Weblog)"
+ },
+ "a260715p53": {
+  "article_url": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok/",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p53",
+  "summary": "Elon Musk has quietly bought APR Energy, a Jacksonville-based company that operates a fleet of mobile gas and diesel turbines totaling more than 1 GW of generation capacity.",
+  "techmeme_url": "https://www.techmeme.com/260715/p53",
+  "title": "Filing: Elon Musk quietly bought Jacksonville, FL-based APR Energy, which operates mobile gas and diesel turbines similar to those used in Colossus 2, for ~$1B (Fred Lambert/Electrek)"
+ },
+ "a260715p54": {
+  "article_url": "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972?st=ZZ1qD6&reflink=desktopwebshare_permalink",
+  "date": "2026-07-15",
+  "permalink_id": "a260715p54",
+  "summary": "Violent threats against AI companies are rising and spilling over into real-world security incidents",
+  "techmeme_url": "https://www.techmeme.com/260715/p54",
+  "title": "AI execs are bolstering personal security amid rising AI opposition; Liferaft: digital threats against execs and data centers grew 7x from late February to May (Wall Street Journal)"
  },
  "a260715p6": {
   "article_url": "https://www.theinformation.com/articles/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans",
