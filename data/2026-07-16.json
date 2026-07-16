@@ -15,6 +15,86 @@
   "techmeme_url": "https://www.techmeme.com/260716/p2",
   "title": "Hyundai says it would make Boston Dynamics a wholly owned subsidiary by acquiring SoftBank's ~10% stake; Hyundai bought an 80% stake in Boston Dynamics in 2021 (Reuters)"
  },
+ "a260716p20": {
+  "article_url": "https://www.bbc.com/news/articles/c4gyg0y6yg2o",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p20",
+  "summary": "Two men who carried out a cyber-attack which crippled Transport For London (TfL) when they were teenagers have both been sentenced to five years and six months in prison.",
+  "techmeme_url": "https://www.techmeme.com/260716/p20",
+  "title": "Two Scattered Spider members who pleaded guilty in the UK to an August 2024 cyberattack on Transport for London are jailed for five and a half years (Joe Tidy/BBC)"
+ },
+ "a260716p21": {
+  "article_url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p21",
+  "summary": "The EU says Google must let rival search engines and AI assistants have comparable access to Android and some Search data to comply with the DMA.",
+  "techmeme_url": "https://www.techmeme.com/260716/p21",
+  "title": "The EU issues two decisions under the DMA that order Google to provide rival AI assistants and search engines comparable access to Android and some Search data (Robert Hart/The Verge)"
+ },
+ "a260716p22": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/uks-ocado-says-talking-multiple-potential-partners-us-2026-07-16/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p22",
+  "summary": "Shares in British technology and online grocery group Ocado (OCDO.L) tumbled to a 13-year low on Thursday after it failed …",
+  "techmeme_url": "https://www.techmeme.com/260716/p22",
+  "title": "Ocado stock drops 14%, hitting a 13-year low, after it failed to show tangible progress in talks to secure new US partners for its warehouse automation tech (Sarah Young/Reuters)"
+ },
+ "a260716p23": {
+  "article_url": "https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p23",
+  "summary": "The startup teaches robots how to work in factories and homes — Munich-based robotics company Microagi …",
+  "techmeme_url": "https://www.techmeme.com/260716/p23",
+  "title": "Munich-based Microagi, which collects factory and household data to train humanoid robots, raised $55M led by Hummingbird in Germany's largest ever seed round (Éanna Kelly/Sifted)"
+ },
+ "a260716p24": {
+  "article_url": "https://tech.eu/2026/07/16/applied-computing-lands-20m-to-expand-foundation-ai-for-energy/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p24",
+  "summary": "Applied Computing has secured fresh funding to expand its AI platform for energy operations, supporting international growth …",
+  "techmeme_url": "https://www.techmeme.com/260716/p24",
+  "title": "London-based Applied Computing, which is developing AI models for energy operations, raised $20M led by KBR, with participation from Databricks Ventures (Tamara Djurickovic/Tech.eu)"
+ },
+ "a260716p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-16/spacexai-identity-crisis-at-elon-musk-s-chatbot-company",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p25",
+  "summary": "The company wants to compete with Anthropic's Claude but has been slowed down by internal chaos and an inconsistent strategy.",
+  "techmeme_url": "https://www.techmeme.com/260716/p25",
+  "title": "Sources detail how xAI has been slowed down by internal chaos as Musk pushed for Grok to match Claude, amid signs it is turning a corner under Michael Nicolls (Carmen Arroyo/Bloomberg)"
+ },
+ "a260716p26": {
+  "article_url": "https://fortune.com/2026/07/16/bunkerhill-health-raises-55-million-ai-agents-work-inside-hospitals/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p26",
+  "summary": "In 2017, Nishith Khandwala was a Stanford computer science student with an idea—that you could take existing radiology scans …",
+  "techmeme_url": "https://www.techmeme.com/260716/p26",
+  "title": "Bunkerhill Health, which uses AI agents for hospital tasks like managing wait times, raised a $25M Series B led by Khosla, bringing its total funding to $55M (Allie Garfinkle/Fortune)"
+ },
+ "a260716p27": {
+  "article_url": "https://www.axios.com/2026/07/16/truth-social-license-data-wall-street",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p27",
+  "summary": "Trump Media & Technology Group is launching a backend interface that will allow financial services companies to access real-time Truth Social data …",
+  "techmeme_url": "https://www.techmeme.com/260716/p27",
+  "title": "TMTG plans to launch Truth API on August 1 to provide real-time data from top Truth Social accounts to financial news organizations and trading firms (Sara Fischer/Axios)"
+ },
+ "a260716p28": {
+  "article_url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p28",
+  "summary": "The cost of the latest artificial intelligence models is increasingly breeding anxiety among finance executives …",
+  "techmeme_url": "https://www.techmeme.com/260716/p28",
+  "title": "Fireworks, which helps developers access AI chips and open-source models, raised $1.5B at a $17.5B valuation and says it has exceeded $1B in annualized revenue (Jordan Novet/CNBC)"
+ },
+ "a260716p29": {
+  "article_url": "https://9to5mac.com/2026/07/16/1password-now-lets-claude-sign-in-to-websites-without-seeing-your-passwords/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p29",
+  "summary": "1Password is launching a new Claude integration for Mac users today. It's designed to let Anthropic's AI agent sign in to websites without seeing …",
+  "techmeme_url": "https://www.techmeme.com/260716/p29",
+  "title": "1Password launches a new Claude integration for Mac that lets Anthropic's AI agent sign in to websites without seeing the user's password or 2FA code (Zac Hall/9to5Mac)"
+ },
  "a260716p3": {
   "article_url": "https://www.reuters.com/world/americas/brookfield-backed-csquare-prices-ipo-21-per-share-bloomberg-news-reports-2026-07-15/",
   "date": "2026-07-16",
@@ -22,6 +102,46 @@
   "summary": "Data center provider Csquare (CSQR.N) said on Thursday it raised $1.05 billion in its U.S. initial public offering as investors continued …",
   "techmeme_url": "https://www.techmeme.com/260716/p3",
   "title": "Data center company Csquare raises $1.05B in its US IPO, selling 50M shares at $21 each, below its marketed range of $23 to $27, valuing the company at ~$3.25B (Reuters)"
+ },
+ "a260716p30": {
+  "article_url": "https://fortune.com/2026/07/16/exclusive-marc-lore-says-wonder-is-gearing-up-for-an-ipo-650-million-9-billion-valuation-cathie-wood-grubhub-food-delivery/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p30",
+  "summary": "Marc Lore is ready to ring the bell. The serial entrepreneur—who previously sold Jet.com to Walmart for $3.3 billion …",
+  "techmeme_url": "https://www.techmeme.com/260716/p30",
+  "title": "Grubhub parent Wonder raised a $650M+ Series D at a $9B valuation, bringing its total raised to $3B+ since its founding in 2018, and plans to go public in 2027 (Lily Mae Lazarus/Fortune)"
+ },
+ "a260716p31": {
+  "article_url": "https://fortune.com/2026/07/16/ai-employee-that-convinced-sequoia-to-invest-45-million-in-sable-shaun-maguire/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p31",
+  "summary": "Sequoia partner Shaun Maguire still remembers the demo that changed his mind on Sable. — An AI sales rep was walking a buyer through …",
+  "techmeme_url": "https://www.techmeme.com/260716/p31",
+  "title": "Sable, which is building an AI agent named Aiden that lives on a company's website to run live product demos and more, raised $45M from Sequoia and 8VC (Lily Mae Lazarus/Fortune)"
+ },
+ "a260716p32": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-16/apple-nears-launch-of-oled-ipad-mini-new-ipad-air-and-base-ipad-in-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDIwODU0NiwiZXhwIjoxNzg0ODEzMzQ2LCJhcnRpY2xlSWQiOiJUSTgxNjJUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.KgsDWvP8alKrMtxKe0WkaOPhZjAJ8t0MN4E3BoQvtgQ",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p32",
+  "summary": "Apple Inc. is preparing to introduce its biggest overhaul to the iPad mini in half a decade, giving new life to a product that's popular …",
+  "techmeme_url": "https://www.techmeme.com/260716/p32",
+  "title": "Sources: Apple is prepping an iPad overhaul, including an iPad mini with an OLED screen by October and refreshed versions of entry-level iPad and Airs in 2027 (Mark Gurman/Bloomberg)"
+ },
+ "a260716p33": {
+  "article_url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?accessToken=zwAAAZ9rHGOekdPG7NjOxEFNfNOupvrj4o-2_w.MEUCIQDYAOz8X-sQZ_m3bibo6DWikqK-pD4PaptfkT6Jvh4Y7AIgKTxHqP1DYRo-Ql0X2dzhBsSS_1w-RENPBZCsCWo9MXc&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=1546aeb0-2eed-43fd-be05-e7e9b37b7efc&shareType=enterprise&syn-25a6b1a6=1",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p33",
+  "summary": "Kimi K3 expected to exceed performance of Claude Opus 4.8 in sign of narrowing gap between US and China on frontier AI",
+  "techmeme_url": "https://www.techmeme.com/260716/p33",
+  "title": "Sources: Moonshot plans to launch Kimi K3, China's largest model to date with 2T-3T parameters, in the coming days; it's expected to outperform Claude Opus 4.8 (Financial Times)"
+ },
+ "a260716p34": {
+  "article_url": "https://www.theinformation.com/articles/andreessen-horowitz-backs-startup-aiming-parent-ai-agents",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p34",
+  "summary": "As a father to two young kids, Guanlan Dai sees a lot of similarities between AI agents and precocious children.",
+  "techmeme_url": "https://www.techmeme.com/260716/p34",
+  "title": "Runta, which provides isolated sandboxes and guardrails for AI agents to prevent operational risks, raised a $20M seed led by a16z at a $100M+ valuation (Stephanie Palazzolo/The Information)"
  },
  "a260716p4": {
   "article_url": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
