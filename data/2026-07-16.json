@@ -143,6 +143,30 @@
   "techmeme_url": "https://www.techmeme.com/260716/p34",
   "title": "Runta, which provides isolated sandboxes and guardrails for AI agents to prevent operational risks, raised a $20M seed led by a16z at a $100M+ valuation (Stephanie Palazzolo/The Information)"
  },
+ "a260716p37": {
+  "article_url": "https://www.cnet.com/tech/mobile/oneplus-pulls-out-of-us-and-europe/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p37",
+  "summary": "“Never settle” takes on a whole new meaning, as the once-maverick phone-maker retreats from the US and Europe.",
+  "techmeme_url": "https://www.techmeme.com/260716/p37",
+  "title": "OnePlus confirms it will no longer operate in North America or Europe but will keep operating in China, while Realme, another Oppo sub-brand, will exit China (CNET)"
+ },
+ "a260716p38": {
+  "article_url": "https://fortune.com/2026/07/16/exclusive-visa-new-platform-stablecoin-services-200-million-merchants/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p38",
+  "summary": "Stablecoins have changed how people think about moving money, and their exponential rise over the past year …",
+  "techmeme_url": "https://www.techmeme.com/260716/p38",
+  "title": "Visa debuts the Visa Stablecoin Platform, an internal system to help its network of ~15K financial institutions and 200M+ merchants more easily use stablecoins (Camila Grigera Naón/Fortune)"
+ },
+ "a260716p39": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/chinese-filing-implies-deepseek-valuation-around-52-billion-2026-07-16/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p39",
+  "summary": "China's Anhui Korrun (300577.SZ) said a fund in which its subsidiary invested deployed 2.90 billion yuan for an indirect .8265% stake …",
+  "techmeme_url": "https://www.techmeme.com/260716/p39",
+  "title": "Filing: a Chinese luggage maker says a fund in which it invested deployed ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B (Eduardo Baptista/Reuters)"
+ },
  "a260716p4": {
   "article_url": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
   "date": "2026-07-16",
@@ -151,6 +175,86 @@
   "techmeme_url": "https://www.techmeme.com/260716/p4",
   "title": "TSMC reports Q2 revenue up 36% YoY to ~$39.45B, net income up 77.4% YoY to ~$21.9B, both above est., and says chips 7nm or smaller were 77% of its wafer revenue (Jenny Lee/CNBC)"
  },
+ "a260716p40": {
+  "article_url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p40",
+  "summary": "Sheryl Sandberg has led a $10 million investment into Self Inspection, a San Diego-based startup that is also backed by former Tesla president Jon McNeill's DVx Ventures.",
+  "techmeme_url": "https://www.techmeme.com/260716/p40",
+  "title": "San Diego-based Self Inspection, which uses AI to assess body damage on a car with as little tech as a smartphone camera, raised $10M led by Sheryl Sandberg (Sean O'Kane/TechCrunch)"
+ },
+ "a260716p41": {
+  "article_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p41",
+  "summary": "We're renaming NotebookLM to Gemini Notebook. It's the same standalone product, now doing more across the Google ecosystem and updated with a secure cloud computer.",
+  "techmeme_url": "https://www.techmeme.com/260716/p41",
+  "title": "Google renames NotebookLM to Gemini Notebook and rolls out an update giving every notebook a secure cloud computer, letting it write and execute code natively (Josh Woodward/Google)"
+ },
+ "a260716p42": {
+  "article_url": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p42",
+  "summary": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
+  "techmeme_url": "https://www.techmeme.com/260716/p42",
+  "title": "Fora, which connects travel agents with travelers and offers agents AI tools, raised a $60M Series D at a $1B valuation led by Forerunner and Tactile Ventures (Dominic-Madori Davis/TechCrunch)"
+ },
+ "a260716p43": {
+  "article_url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p43",
+  "summary": "It's the latest push into AI from Roblox, which has embraced the technology. … Roblox is about to let people make games …",
+  "techmeme_url": "https://www.techmeme.com/260716/p43",
+  "title": "Roblox unveils Build, which lets users create basic games through text prompts directly within its mobile app, powered by Roblox's models and open-source models (Jay Peters/The Verge)"
+ },
+ "a260716p44": {
+  "article_url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p44",
+  "summary": "Google announced on Thursday that it now allows users to link and interact with some of their go-to apps right in AI Mode, the tech giant's conversational search experience.",
+  "techmeme_url": "https://www.techmeme.com/260716/p44",
+  "title": "Google says users in the US can now link to and interact with some apps in AI Mode, including Instacart, Canva, and YouTube Music (Aisha Malik/TechCrunch)"
+ },
+ "a260716p45": {
+  "article_url": "https://www.engadget.com/2216274/the-oversight-board-says-leading-ai-models-might-be-restricting-free-expression/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p45",
+  "summary": "The group is trying to extend its influence beyond Meta. — The Oversight Board, the independent content moderation organization created …",
+  "techmeme_url": "https://www.techmeme.com/260716/p45",
+  "title": "Meta's Oversight Board says top AI models may be restricting free expression in its first evaluation of LLMs, as it seeks to expand its influence beyond Meta (Karissa Bell/Engadget)"
+ },
+ "a260716p46": {
+  "article_url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p46",
+  "summary": "Newsletter platform Beehiiv is expanding into new avenues of engagement by launching a feature called Community, which lets subscribers of a creator chat with each other.",
+  "techmeme_url": "https://www.techmeme.com/260716/p46",
+  "title": "Beehiiv launches Community, which lets subscribers chat with each other, adds programmatic ads and an AI tool that helps creators manage their audiences (Ivan Mehta/TechCrunch)"
+ },
+ "a260716p47": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p47",
+  "summary": "Alphabet Inc.'s Google is months behind schedule on delivering Gemini 3.5 Pro, its most powerful flagship AI model …",
+  "techmeme_url": "https://www.techmeme.com/260716/p47",
+  "title": "Sources: Google is months behind schedule on delivering Gemini 3.5 Pro because the company has been trying to improve its capabilities, particularly in coding (Bloomberg)"
+ },
+ "a260716p48": {
+  "article_url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p48",
+  "summary": "Crypto.com secured a $400 million strategic investment from market maker Citadel Securities in a deal that values the crypto exchange at $20 billion …",
+  "techmeme_url": "https://www.techmeme.com/260716/p48",
+  "title": "Crypto.com raised $400M from Citadel Securities in its first institutional funding round, valuing the Singapore-based crypto exchange at $20B (CoinDesk)"
+ },
+ "a260716p49": {
+  "article_url": "https://x.com/thsottiaux",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p49",
+  "summary": "On file deletions. We've investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: - Full access mode is enabled and codex is run without sandboxing protections, including without auto review being",
+  "techmeme_url": "https://www.techmeme.com/260716/p49",
+  "title": "After reports of GPT-5.6 deleting files, OpenAI says the issue most often occurs in full-access mode without sandboxing and it is working to mitigate the risk (Tibo/@thsottiaux)"
+ },
  "a260716p5": {
   "article_url": "https://www.reuters.com/legal/litigation/musks-xai-sues-grok-user-over-sexualized-deepfakes-2026-07-15/",
   "date": "2026-07-16",
@@ -158,6 +262,22 @@
   "summary": "Elon Musk's artificial-intelligence startup xAI has sued a South Carolina man arrested earlier this year on charges …",
   "techmeme_url": "https://www.techmeme.com/260716/p5",
   "title": "xAI sues a South Carolina man for allegedly using Grok to generate CSAM, in one of the first cases of its kind brought by an AI company against one of its users (Blake Brittain/Reuters)"
+ },
+ "a260716p50": {
+  "article_url": "https://www.kimi.com/blog/kimi-k3",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p50",
+  "summary": "Today, we are introducing Kimi K3 — our most capable model. Kimi K3 is a 2.8T-parameter model built on our Kimi Delta Attention and Attention Residuals …",
+  "techmeme_url": "https://www.techmeme.com/260716/p50",
+  "title": "Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Opus 4.8 and GPT-5.5, and plans to release model weights by July 27 (Kimi)"
+ },
+ "a260716p51": {
+  "article_url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+  "date": "2026-07-16",
+  "permalink_id": "a260716p51",
+  "summary": "OpenAI's Sora may have shut down, but Google apparently thinks there's still interest in a tool that lets you star in your own AI videos.",
+  "techmeme_url": "https://www.techmeme.com/260716/p51",
+  "title": "Google updates its AI video editor Vids with Gemini Omni and a feature that lets users create custom digital avatars using a selfie and voice recording (Sarah Perez/TechCrunch)"
  },
  "a260716p6": {
   "article_url": "https://www.techdirt.com/2026/07/15/rubio-wanted-to-ban-censors-from-entering-the-us-a-court-says-hes-the-one-censoring/",
