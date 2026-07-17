@@ -7,6 +7,22 @@
   "techmeme_url": "https://www.techmeme.com/260717/p1",
   "title": "Source: Demis Hassabis plans to hold meetings with US policymakers in Washington next week about his proposed US-based Standards Body for \"Frontier-class\" AI (Shirin Ghaffary/Bloomberg)"
  },
+ "a260717p10": {
+  "article_url": "https://www.reuters.com/business/saudi-pif-set-win-eu-nod-electronic-arts-deal-under-subsidy-rules-sources-say-2026-07-17/",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p10",
+  "summary": "A group of investors including Saudi Arabia's Public Investment Fund is set to secure European Union approval for its $55 billion acquisition …",
+  "techmeme_url": "https://www.techmeme.com/260717/p10",
+  "title": "Sources: the EU is set to approve the $55B acquisition of EA under its subsidy rules on July 30; the deal includes Saudi Arabia's PIF, Silver Lake, and Affinity (Foo Yun Chee/Reuters)"
+ },
+ "a260717p11": {
+  "article_url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p11",
+  "summary": "General Compute, an AI inference cloud startup, has landed a $400 million loan from Upper90, a tech investment firm.",
+  "techmeme_url": "https://www.techmeme.com/260717/p11",
+  "title": "AI inference startup General Compute gets a $400M loan from tech investment firm Upper90, seemingly the first deal using inference-specific chips as collateral (Tim Fernholz/TechCrunch)"
+ },
  "a260717p2": {
   "article_url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
   "date": "2026-07-17",
@@ -22,5 +38,53 @@
   "summary": "Tata Electronics Pvt. is preparing to make India's first semiconductor wafers on far older technology than it originally expected …",
   "techmeme_url": "https://www.techmeme.com/260717/p3",
   "title": "Sources: Tata plans India's first large-scale chip fab in Dholera, Gujarat, mostly using 90nm nodes, a far humbler start than the 28nm node it touted earlier (Bloomberg)"
+ },
+ "a260717p4": {
+  "article_url": "https://www.wsj.com/tech/meta-plans-to-hire-top-amazon-computing-executive-as-it-weighs-cloud-push-2166869b?st=CR7VHS&reflink=desktopwebshare_permalink",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p4",
+  "summary": "The social media giant's ambitions in developing data centers and computing resources are growing",
+  "techmeme_url": "https://www.techmeme.com/260717/p4",
+  "title": "Sources: Dave Brown, the outgoing SVP of AWS Compute, AI, and Platform, will join Meta in the coming weeks, where he will work on Meta's data center build-out (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a260717p5": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p5",
+  "summary": "Z.AI is on track for annual recurring revenue of $1 billion, a significant ramp-up for an enterprise-focused AI startup trying …",
+  "techmeme_url": "https://www.techmeme.com/260717/p5",
+  "title": "Sources: Z.ai is on track to achieve an annual recurring revenue of $1B, a first for a Chinese AI company, after achieving its full-year sales target in July (Bloomberg)"
+ },
+ "a260717p6": {
+  "article_url": "https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p6",
+  "summary": "The petition to Sundar Pichai, the CEO, included more than 4,500 signatures and included calls for buyout options",
+  "techmeme_url": "https://www.techmeme.com/260717/p6",
+  "title": "The Alphabet Workers Union sends a layoff protections petition with 4,500+ signatures to Sundar Pichai, calling for guaranteed severance, buyouts, and more (Sanya Mansoor/The Guardian)"
+ },
+ "a260717p7": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p7",
+  "summary": "Chinese President Xi Jinping on Friday cast Beijing as the champion of a new global AI order, using China's premier tech conference …",
+  "techmeme_url": "https://www.techmeme.com/260717/p7",
+  "title": "At the World AI Conference, Xi Jinping touts open-source AI, pledges to help the Global South build AI capabilities, and calls unequal AI access an \"injustice\" (Reuters)"
+ },
+ "a260717p8": {
+  "article_url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?accessToken=zwAAAZ9wEPuRkc8bjJ1SiKlCa9O6R_GBH4WRZg.MEUCIQCoSUBpIEqKek9TrcwKQBp_7afZ_jZMZYeZyFtJaoBP7QIgM1lcM_BEt-TToETRmTLPe7TiP8wTomzdyPY23n9w93g&sharetype=gift&token=586e2bac-20f5-4099-b04c-68fa85a834d4&syn-25a6b1a6=1",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p8",
+  "summary": "iPhone maker steps up aggressive tactics in trade secrets dispute with AI lab. Apple has targeted dozens of OpenAI employees …",
+  "techmeme_url": "https://www.techmeme.com/260717/p8",
+  "title": "Sources: Apple has sent personal legal warnings to ~40 former employees who now work at OpenAI, directing them to preserve documents and meet with its lawyers (Michael Acton/Financial Times)"
+ },
+ "a260717p9": {
+  "article_url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p9",
+  "summary": "The City Attorney's Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 …",
+  "techmeme_url": "https://www.techmeme.com/260717/p9",
+  "title": "San Francisco sends legal notices to Apple and Google, demanding they take down 13 AI apps used to make deepfake nude images; Google says it deleted five apps (Matt Burgess/Wired)"
  }
 }
