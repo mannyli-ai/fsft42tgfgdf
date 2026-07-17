@@ -23,6 +23,62 @@
   "techmeme_url": "https://www.techmeme.com/260717/p11",
   "title": "AI inference startup General Compute gets a $400M loan from tech investment firm Upper90, seemingly the first deal using inference-specific chips as collateral (Tim Fernholz/TechCrunch)"
  },
+ "a260717p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-17/asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p12",
+  "summary": "ASML Holding NV will give employees globally a one-time €20,000 ($22,862) bonus, joining other firms in the chip industry …",
+  "techmeme_url": "https://www.techmeme.com/260717/p12",
+  "title": "ASML plans to give its ~45K employees globally a €20K bonus, issued as a share award that vests in 2030, joining other chip industry companies offering payouts (Sarah Jacob/Bloomberg)"
+ },
+ "a260717p13": {
+  "article_url": "https://www.transformernews.ai/p/kimi-k3-is-no-reason-for-china-panic-export-controls-xi-jingping",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p13",
+  "summary": "Transformer Weekly: NY data center moratorium, NDAA export controls and Amodei's $1m to safety super PAC",
+  "techmeme_url": "https://www.techmeme.com/260717/p13",
+  "title": "Kimi K3 hype shouldn't alarm the US about \"losing the AI race\" to China; K3 is a good model but not frontier-level and likely lacks dangerous cyber capabilities (Transformer)"
+ },
+ "a260717p14": {
+  "article_url": "https://x.com/gavinsbaker",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p14",
+  "summary": "Kimi K3 may be an important inflection point for AI. Potentially negative for Anthropic and OpenAI while being net positive for essentially every other company in the world. I mean that very literally. Although the real “Sputnik moment” would be an open-source frontier model that [image]",
+  "techmeme_url": "https://www.techmeme.com/260717/p14",
+  "title": "Models like Kimi K3, Grok 4.5, and Muse 1.1 may prevent the dominance of 2-3 frontier labs with 90% inference margins from hurting other AI ecosystem layers (Gavin Baker/@gavinsbaker)"
+ },
+ "a260717p15": {
+  "article_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?unlocked_article_code=1.yVA.oj_I.ZImD_hW430Uc&smid=nytcore-ios-share&referringSource=articleShare",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p15",
+  "summary": "A deal would underline how scarce computing power is for artificial intelligence development, and could create a new business for Meta.",
+  "techmeme_url": "https://www.techmeme.com/260717/p15",
+  "title": "Sources: Meta is in talks to rent computing power from its data centers to Anthropic in a deal that could be worth ~$10B over two years (New York Times)"
+ },
+ "a260717p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-17/apple-in-early-settlement-talks-with-doj-over-antitrust-case?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDMwNzM0NiwiZXhwIjoxNzg0OTEyMTQ2LCJhcnRpY2xlSWQiOiJUSUJRTzdUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.bMDdu17gg2nYwZAlFVuUynehI5maJLkPD1G25ykzKN4",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p16",
+  "summary": "Apple Inc. and the US Justice Department are in early discussions about settling a 2024 lawsuit that alleges the iPhone maker violated antitrust laws.",
+  "techmeme_url": "https://www.techmeme.com/260717/p16",
+  "title": "Sources: Apple and the DOJ are in early discussions about settling a 2024 antitrust lawsuit alleging that Apple violated antitrust laws (Bloomberg)"
+ },
+ "a260717p17": {
+  "article_url": "https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p17",
+  "summary": "Apple has raised the price of Apple Music today in the United States and other countries. Starting today, Apple Music's Individual plan …",
+  "techmeme_url": "https://www.techmeme.com/260717/p17",
+  "title": "Apple raises the price of Apple Music, with the individual plan up by $1 to $11.99, and some Apple One bundles, the first price hike for Apple Music since 2022 (Chance Miller/9to5Mac)"
+ },
+ "a260717p18": {
+  "article_url": "https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4?st=n4LQjz&reflink=desktopwebshare_permalink",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p18",
+  "summary": "Elon Musk's company would sell military billions of dollars' worth of data-center capacity for running AI models",
+  "techmeme_url": "https://www.techmeme.com/260717/p18",
+  "title": "Sources: SpaceX is in talks with the DOD about providing the agency with access to data-center capacity worth billions of dollars for running AI models (Wall Street Journal)"
+ },
  "a260717p2": {
   "article_url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
   "date": "2026-07-17",
