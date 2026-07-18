@@ -79,6 +79,14 @@
   "techmeme_url": "https://www.techmeme.com/260717/p18",
   "title": "Sources: SpaceX is in talks with the DOD about providing the agency with access to data-center capacity worth billions of dollars for running AI models (Wall Street Journal)"
  },
+ "a260717p19": {
+  "article_url": "https://www.theinformation.com/articles/startup-openrouter-fields-multi-billion-dollar-takeover-interest",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p19",
+  "summary": "OpenRouter, which helps app developers access hundreds of AI models, has discussed a potential sale to a bigger tech company …",
+  "techmeme_url": "https://www.techmeme.com/260717/p19",
+  "title": "Sources: OpenRouter has discussed a potential sale to a bigger tech company that could value it at billions of dollars, a premium to its $1.3B valuation in May (The Information)"
+ },
  "a260717p2": {
   "article_url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
   "date": "2026-07-17",
@@ -87,6 +95,86 @@
   "techmeme_url": "https://www.techmeme.com/260717/p2",
   "title": "During an internal meeting, Satya Nadella criticized Claude Fable 5 for being \"editorially controlled\", saying its refusal to do \"random things\" makes no sense (Jordan Novet/CNBC)"
  },
+ "a260717p20": {
+  "article_url": "https://www.theguardian.com/technology/2026/jul/17/amazon-web-services-customers-trillion-dollar-bills-global-glitch",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p20",
+  "summary": "One UK man whose bill is usually less than £1 says he ‘almost had a heart attack’ when he saw £5.8bn invoice",
+  "techmeme_url": "https://www.techmeme.com/260717/p20",
+  "title": "Amazon apologizes after some AWS users received bills as high as $1.5T due to \"an issue with unit pricing within the estimated billing computation subsystem\" (Robert Booth/The Guardian)"
+ },
+ "a260717p21": {
+  "article_url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p21",
+  "summary": "After raising prices on all Macs and iPads worldwide last month, Apple has now increased the price of iPhone models in Japan.",
+  "techmeme_url": "https://www.techmeme.com/260717/p21",
+  "title": "Apple raises iPhone prices in Japan by up to 11%, likely due to the Japanese yen's depreciation against the US dollar over the past year (Joe Rossignol/MacRumors)"
+ },
+ "a260717p22": {
+  "article_url": "https://www.theinformation.com/articles/nuclear-startup-valar-atomics-talks-6-billion-valuation-power-milestone",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p22",
+  "summary": "Valar Atomics, a three-year-old startup that makes small nuclear reactors intended to power data centers and other industrial facilities …",
+  "techmeme_url": "https://www.techmeme.com/260717/p22",
+  "title": "Sources: Valar Atomics, which makes small nuclear reactors intended to power data centers, is in talks to raise $1B at a ~$5B pre-money valuation (The Information)"
+ },
+ "a260717p23": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p23",
+  "summary": "A brutal week for chip stocks — the same names that fueled this year's blistering market rally — has left investors from Seoul …",
+  "techmeme_url": "https://www.techmeme.com/260717/p23",
+  "title": "The Philadelphia Semiconductor Index sank ~10% for the week, its largest weekly fall in over a year, and is now down ~20% from its late-June all-time high (Reuters)"
+ },
+ "a260717p24": {
+  "article_url": "https://www.reuters.com/legal/litigation/musks-x-major-labels-end-dispute-over-music-social-media-platform-2026-07-17/",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p24",
+  "summary": "A group of major music publishers including Universal Music Group (UMG.AS) and Sony Music (6758.T) have agreed to end a legal dispute …",
+  "techmeme_url": "https://www.techmeme.com/260717/p24",
+  "title": "Filings: a group of major music publishers has agreed to end a copyright infringement dispute with X over the use of their music on the social media platform (Blake Brittain/Reuters)"
+ },
+ "a260717p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-17/us-considers-creating-finra-like-watchdog-to-vet-top-ai-models?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDMzNTg4NywiZXhwIjoxNzg0OTQwNjg3LCJhcnRpY2xlSWQiOiJUSUE0MDFUOU5KTFUwMCIsImJjb25uZWN0SWQiOiJCQzZFNEZEOTBENTg0MzREQjA0RTk2NjgyREU2NDYzQyJ9.-rJJjJul8VXrOTssBVOEsQi2IT4-SWGURQUvYFB-3w0",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p25",
+  "summary": "The Trump administration is considering plans for an independent regulator to vet the safety of artificial intelligence models with industry input …",
+  "techmeme_url": "https://www.techmeme.com/260717/p25",
+  "title": "Sources: the Trump administration is considering plans for an independent regulator to vet the safety of AI models; the regulator would report to the SEC (Bloomberg)"
+ },
+ "a260717p26": {
+  "article_url": "https://www.reuters.com/business/media-telecom/trump-media-pitched-100000-monthly-fee-fast-feed-us-presidents-posts-ft-reports-2026-07-17/",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p26",
+  "summary": "Donald Trump's social media company has discussed charging Wall Street traders and investment firms as much as $100,000 a month …",
+  "techmeme_url": "https://www.techmeme.com/260717/p26",
+  "title": "Sources: Trump Media pitched a monthly fee of as much as $100K for the Truth API, with fast access to Trump's posts, for banks, algorithmic traders, and others (Reuters)"
+ },
+ "a260717p27": {
+  "article_url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d?st=Pvmy5B&reflink=desktopwebshare_permalink",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p27",
+  "summary": "Startup is also raising capital at $10 billion valuation in separate round led by Sequoia — Etched, a startup developing AI chips …",
+  "techmeme_url": "https://www.techmeme.com/260717/p27",
+  "title": "Sources: AI inference chip startup Etched is raising funds at a ~$20B valuation and is raising capital at a $10B valuation in a separate round led by Sequoia (Wall Street Journal)"
+ },
+ "a260717p28": {
+  "article_url": "https://www.reuters.com/world/federal-employees-can-download-tiktok-government-devices-doj-says-2026-07-17/",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p28",
+  "summary": "The U.S. Justice Department said on Friday that federal employees can now download the short-video app TikTok on government devices.",
+  "techmeme_url": "https://www.techmeme.com/260717/p28",
+  "title": "Memo: the DOJ says federal employees can now download TikTok on government devices, citing ByteDance's transfer of control of US operations to TikTok USDS (David Shepardson/Reuters)"
+ },
+ "a260717p29": {
+  "article_url": "https://www.scmp.com/tech/tech-trends/article/3360893/brainco-unveils-brain-controlled-robot-platform-chinas-world-ai-conference",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p29",
+  "summary": "Hangzhou-based firm says users can control robots using only their thoughts via EEG headsets, marking a leap in embodied AI tech",
+  "techmeme_url": "https://www.techmeme.com/260717/p29",
+  "title": "China's BrainCo unveils what it says is the world's first integrated \"brain-to-robot\" platform that lets users control robots using an EEG headset (Minxiao Chang/South China Morning Post)"
+ },
  "a260717p3": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-07-17/tata-group-resorts-to-older-tech-to-launch-its-chip-foray",
   "date": "2026-07-17",
@@ -94,6 +182,14 @@
   "summary": "Tata Electronics Pvt. is preparing to make India's first semiconductor wafers on far older technology than it originally expected …",
   "techmeme_url": "https://www.techmeme.com/260717/p3",
   "title": "Sources: Tata plans India's first large-scale chip fab in Dholera, Gujarat, mostly using 90nm nodes, a far humbler start than the 28nm node it touted earlier (Bloomberg)"
+ },
+ "a260717p30": {
+  "article_url": "https://x.com/claudeai",
+  "date": "2026-07-17",
+  "permalink_id": "a260717p30",
+  "summary": "Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Demand for Fable has been challenging to",
+  "techmeme_url": "https://www.techmeme.com/260717/p30",
+  "title": "Anthropic says Claude Fable 5 will be included in Max and Team Premium plans at 50% of limits from July 20 and via usage credits for Pro and Team Standard users (Claude/@claudeai)"
  },
  "a260717p4": {
   "article_url": "https://www.wsj.com/tech/meta-plans-to-hire-top-amazon-computing-executive-as-it-weighs-cloud-push-2166869b?st=CR7VHS&reflink=desktopwebshare_permalink",
