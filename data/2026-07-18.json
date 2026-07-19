@@ -39,6 +39,46 @@
   "techmeme_url": "https://www.techmeme.com/260718/p13",
   "title": "Prediction market political betting on insider info spreads in DC; sources: WH lawyers raised alarms over anonymous Polymarket bets on the Iran ceasefire timing (Wall Street Journal)"
  },
+ "a260718p14": {
+  "article_url": "https://www.theinformation.com/articles/exclusive-oracle-data-centers-face-multibillion-dollar-cost-surprises",
+  "date": "2026-07-18",
+  "permalink_id": "a260718p14",
+  "summary": "Building an AI supercampus increasingly means paying more than you bargained for. Oracle's attempt to salvage a proposed $165 billion project …",
+  "techmeme_url": "https://www.techmeme.com/260718/p14",
+  "title": "Permit hurdles push up costs for AI data centers; Oracle pivoted from gas turbines to costlier fuel cells for its Project Jupiter in NM, costing billions more (Ann Davis Vaughan/The Information)"
+ },
+ "a260718p15": {
+  "article_url": "https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities",
+  "date": "2026-07-18",
+  "permalink_id": "a260718p15",
+  "summary": "Incoming PM will reallocate unspecified resources from unpopular plan to helping with cost of living",
+  "techmeme_url": "https://www.techmeme.com/260718/p15",
+  "title": "UK's incoming PM Andy Burnham is expected to scrap Keir Starmer's plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures (Geraldine McKelvie/The Guardian)"
+ },
+ "a260718p16": {
+  "article_url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+  "date": "2026-07-18",
+  "permalink_id": "a260718p16",
+  "summary": "If you're like me, you or a loved one has struggled through the process of gaining pre-approval for the medical care that your physician has recommended.",
+  "techmeme_url": "https://www.techmeme.com/260718/p16",
+  "title": "A look at AI's potential impact on insurance-coverage decisions like prior authorization as the Trump admin starts to pilot using AI to evaluate Medicare claims (Joshua Cohen/Ars Technica)"
+ },
+ "a260718p17": {
+  "article_url": "https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/",
+  "date": "2026-07-18",
+  "permalink_id": "a260718p17",
+  "summary": "An investigation by 9to5Mac reveals dozens of apps that disguise gambling platforms as simple games and utilities.",
+  "techmeme_url": "https://www.techmeme.com/260718/p17",
+  "title": "Analysis finds 60+ \"jacket apps\" on the App Store disguised as simple games and utilities that become gambling apps when accessed from Brazilian IP addresses (9to5Mac)"
+ },
+ "a260718p18": {
+  "article_url": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack",
+  "date": "2026-07-18",
+  "permalink_id": "a260718p18",
+  "summary": "The firm's chip unit T-Head aims to lower migration barriers to Zhenwu AI computing architectures, following similar initiatives by Huawei and Moore Threads",
+  "techmeme_url": "https://www.techmeme.com/260718/p18",
+  "title": "Alibaba open-sources its chip software, following similar plays from Huawei and Moore Threads, as Chinese GPU makers try to break the dominance of Nvidia's CUDA (Ann Cao/South China Morning Post)"
+ },
  "a260718p2": {
   "article_url": "https://www.geekwire.com/2026/apptio-co-founders-reunite-to-launch-enterprise-ai-startup-thira-with-21m-in-funding-led-by-madrona/",
   "date": "2026-07-18",
