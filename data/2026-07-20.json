@@ -23,6 +23,70 @@
   "techmeme_url": "https://www.techmeme.com/260720/p11",
   "title": "A look at Israel's influence campaign in the US that's included millions of AI-driven texts and a $45M+ contract with ex-Trump campaign strategist Brad Parscale (Wall Street Journal)"
  },
+ "a260720p12": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p12",
+  "summary": "Chinese startup Moonshot AI, whose powerful new open-source model is upending Silicon Valley, is seeking formal approval from investors …",
+  "techmeme_url": "https://www.techmeme.com/260720/p12",
+  "title": "Sources: Chinese startup Moonshot AI is seeking formal approval from investors to start a Hong Kong IPO process, which could happen in as soon as six months (Juro Osawa/The Information)"
+ },
+ "a260720p13": {
+  "article_url": "https://www.ft.com/content/13c385e7-600f-471a-858e-6f1970802a10",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p13",
+  "summary": "Record penalty under bloc's Digital Services Act comes amid broader crackdown on Chinese ecommerce platforms",
+  "techmeme_url": "https://www.techmeme.com/260720/p13",
+  "title": "The EU fines Alibaba's online marketplace AliExpress €550M for failing to prevent the sale of illegal products on its platform, the largest DSA fine to date (Barbara Moens/Financial Times)"
+ },
+ "a260720p14": {
+  "article_url": "https://www.wsj.com/tech/paypal-sale-ceo-enrique-lores-4df4166e?st=ebX7aG&reflink=desktopwebshare_permalink",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p14",
+  "summary": "Enrique Lores took the top job at the payments company earlier this year after decades at HP — Digital-payments pioneer PayPal is in a yearslong rut.",
+  "techmeme_url": "https://www.techmeme.com/260720/p14",
+  "title": "How PayPal CEO Enrique Lores, appointed in February to revive the payments pioneer, may handle Stripe and Advent's takeover offer, based on his decades at HP (Wall Street Journal)"
+ },
+ "a260720p15": {
+  "article_url": "https://www.ft.com/content/5abfc75f-f00b-465e-ab73-9c93f10412df",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p15",
+  "summary": "Ariane Gorin faces battle with tech start-ups as she repositions world's second-largest travel booking company",
+  "techmeme_url": "https://www.techmeme.com/260720/p15",
+  "title": "An interview with Expedia CEO Ariane Gorin, who calls AI \"a growth opportunity\", as she prepares the online travel company to face potential disruption from AI (Stephanie Stacey/Financial Times)"
+ },
+ "a260720p16": {
+  "article_url": "https://stratechery.com/",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p16",
+  "summary": "There's a story I tell about my first day in STRT-431 at Kellogg School of Management, the introductory class that every …",
+  "techmeme_url": "https://www.techmeme.com/260720/p16",
+  "title": "Chinese open models like Kimi K3 and Qwen3.8 Max shift the industry's focus back to marginal costs and cost of goods sold, as inference costs scale with revenue (Ben Thompson/Stratechery)"
+ },
+ "a260720p17": {
+  "article_url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p17",
+  "summary": "The Trump administration is showing signs it could ban cutting-edge Chinese AI models — a momentous move that could lock in dominance by OpenAI and Anthropic.",
+  "techmeme_url": "https://www.techmeme.com/260720/p17",
+  "title": "Sources: parts of the Trump administration are reigniting efforts to implement de facto bans on foreign open-source models, as Chinese AI models gain momentum (Maria Curi/Axios)"
+ },
+ "a260720p18": {
+  "article_url": "https://www.ft.com/content/67fe2b44-2041-4ee1-b606-5def4d717407",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p18",
+  "summary": "Use of AI deepfake employees to infiltrate companies highlights wider risk of internal security breaches",
+  "techmeme_url": "https://www.techmeme.com/260720/p18",
+  "title": "How \"synthetic insider\" attacks raise the stakes for corporate cyber defense; a Verizon analysis of ~22K incidents found 12% were carried out by internal actors (Hannah Murphy/Financial Times)"
+ },
+ "a260720p19": {
+  "article_url": "https://www.theinformation.com/articles/google-plans-new-frozen-chip-run-ai-models-efficiently",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p19",
+  "summary": "Google is working on a new server chip that would directly integrate the blueprint of its Gemini AI model …",
+  "techmeme_url": "https://www.techmeme.com/260720/p19",
+  "title": "Sources: Google is developing a specialized server chip, informally dubbed \"Frozen v2\", that integrates its Gemini AI model blueprint into the silicon, for 2028 (The Information)"
+ },
  "a260720p2": {
   "article_url": "https://www.politico.eu/article/trump-administration-will-push-un-free-speech-declaration-that-takes-aim-at-european-tech-regulation/",
   "date": "2026-07-20",
@@ -30,6 +94,30 @@
   "summary": "BRUSSELS — The Trump administration will use the upcoming U.N. General Assembly to push a global “freedom of expression” …",
   "techmeme_url": "https://www.techmeme.com/260720/p2",
   "title": "Draft: the Trump admin plans to use the UN General Assembly to push a global \"freedom of expression\" declaration that EU lawmakers call an attack on tech rules (Eliza Gkritsi/Politico)"
+ },
+ "a260720p20": {
+  "article_url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p20",
+  "summary": "After a decade-long comeback, chip giant Advanced Micro Devices is preparing to ship its first rack-scale system for artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/260720/p20",
+  "title": "AMD plans to ship Helios, its first rack-scale AI system to rival Nvidia, later in 2026 to Microsoft, Meta, OpenAI, and others; Helios costs an estimated $5M+ (Katie Tarasov/CNBC)"
+ },
+ "a260720p21": {
+  "article_url": "https://www.ft.com/content/1ab00e18-995a-4cda-b76b-00ba6c043863",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p21",
+  "summary": "Free tools are the most widely used by companies with focus on efficiency savings rather than developing new products",
+  "techmeme_url": "https://www.techmeme.com/260720/p21",
+  "title": "UK government data: ~35% of UK businesses with 10+ staff report using AI, up from 12% in September 2023; average number of AI tools is 1.6, up from 1.4 in 2023 (Delphine Strauss/Financial Times)"
+ },
+ "a260720p22": {
+  "article_url": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p22",
+  "summary": "Mobile apps are easy to make with artificial intelligence. That doesn't mean people are excited to use them.",
+  "techmeme_url": "https://www.techmeme.com/260720/p22",
+  "title": "Sensor Tower: in H1, the number of new apps released in the App Store doubled to ~560K, on track to pass 2025's ~600K total, as vibecoded apps flood the store (Kalley Huang/New York Times)"
  },
  "a260720p3": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-07-20/zhongji-innolight-starts-gauging-interest-for-hong-kong-listing",
