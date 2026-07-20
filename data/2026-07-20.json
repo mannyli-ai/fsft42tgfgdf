@@ -119,6 +119,62 @@
   "techmeme_url": "https://www.techmeme.com/260720/p22",
   "title": "Sensor Tower: in H1, the number of new apps released in the App Store doubled to ~560K, on track to pass 2025's ~600K total, as vibecoded apps flood the store (Kalley Huang/New York Times)"
  },
+ "a260720p23": {
+  "article_url": "https://www.washingtonpost.com/opinions/2026/07/20/open-model-ai-is-good-competition-anthropic-openai/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzg0NTIwMDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzg1OTAyMzk5LCJpYXQiOjE3ODQ1MjAwMDAsImp0aSI6IjY3ODRiNWMyLWMzYWMtNGIxOC04Y2U5LWRlNjliZWVlY2JkOSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDI2LzA3LzIwL29wZW4tbW9kZWwtYWktaXMtZ29vZC1jb21wZXRpdGlvbi1hbnRocm9waWMtb3BlbmFpLyJ9.Yq1nStdcCSCZUU7DYtj3EW05XFeWhVQ5C3kFFk_HHIw&itid=gfta",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p23",
+  "summary": "They aren't a security threat — they're what competition looks like. — Bill Gurley is the president and founder of the P3 Institute, and a former venture capitalist.",
+  "techmeme_url": "https://www.techmeme.com/260720/p23",
+  "title": "Chinese open models are proper competition that should be welcomed, not something to ban or treat as a danger, and open-sourcing is an old business strategy (Bill Gurley/Washington Post)"
+ },
+ "a260720p24": {
+  "article_url": "https://www.nytimes.com/2026/07/17/us/california-billionaire-tax-opponents-ad-campaign.html?unlocked_article_code=1.yVA.Djhx.SjO9_G39zVw3&smid=url-share",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p24",
+  "summary": "A coalition backed by the Google co-founder Sergey Brin and wealthy tech investors is trying to neutralize a proposed one-time tax on the state's richest residents.",
+  "techmeme_url": "https://www.techmeme.com/260720/p24",
+  "title": "Billionaire-backed Building A Better California reserves $87M in TV ad time to oppose California's proposed one-time wealth tax; Sergey Brin put $82M into BABC (New York Times)"
+ },
+ "a260720p25": {
+  "article_url": "https://www.calcalistech.com/ctechnews/article/hkvfmqsvme",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p25",
+  "summary": "Exclusive: The transaction would transfer a fast-growing gaming studio, and a ballooning earnout commitment, to the Chinese technology giant.",
+  "techmeme_url": "https://www.techmeme.com/260720/p25",
+  "title": "Source: Tencent is in talks to acquire Israeli game developer SuperPlay in a deal valuing SuperPlay at $1B-$1.5B; Playtika acquired SuperPlay in 2024 for $690M (Golan Hazani/CTech)"
+ },
+ "a260720p26": {
+  "article_url": "https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p26",
+  "summary": "Chris Fall, the director of the Center for AI Standards and Innovation, is resigning just three months after taking …",
+  "techmeme_url": "https://www.techmeme.com/260720/p26",
+  "title": "CAISI Director Chris Fall is resigning after taking over the federal AI testing institute in April; NIST Director Arvind Raman will serve as acting director (Maria Curi/Axios)"
+ },
+ "a260720p27": {
+  "article_url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p27",
+  "summary": "AI infrastructure company Infinity announced a $15 million raise at a $100 million valuation on Monday from investors including Touring Capital …",
+  "techmeme_url": "https://www.techmeme.com/260720/p27",
+  "title": "Infinity, founded by Jeremy Nixon, the creator of hacker network community AGI House, to build an inference library that runs on all chips, raised a $15M seed (Dominic-Madori Davis/TechCrunch)"
+ },
+ "a260720p28": {
+  "article_url": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p28",
+  "summary": "Levent Alpöge announced the solution on X A mathematician has cracked an 87-year-old conundrum with the help of AI and announced the solution unceremoniously in a tweet.",
+  "techmeme_url": "https://www.techmeme.com/260720/p28",
+  "title": "Levent Alpöge, a mathematician who works at Anthropic, says he was able to disprove the 87-year-old Jacobian conjecture with the help of Fable 5 (Matthew Sparkes/New Scientist)"
+ },
+ "a260720p29": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/20/cybersecurity-empirical-security-ai-25-million",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p29",
+  "summary": "Exposure management startup Empirical Security raised $25 million in Series A funding led by Brightmind Partners, CEO Ed Bellis tells Axios Pro.",
+  "techmeme_url": "https://www.techmeme.com/260720/p29",
+  "title": "Chicago-based Empirical Security, which uses AI to help companies predict threats by monitoring exploited vulnerabilities, raised a $25M Series A (Chris Metinko/Axios)"
+ },
  "a260720p3": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-07-20/zhongji-innolight-starts-gauging-interest-for-hong-kong-listing",
   "date": "2026-07-20",
@@ -126,6 +182,46 @@
   "summary": "China's Zhongji Innolight Co. is starting to gauge investor demand for its Hong Kong listing, according to terms of the deal seen by Bloomberg News …",
   "techmeme_url": "https://www.techmeme.com/260720/p3",
   "title": "Filing: Zhongji Innolight, China's leading optical transceiver maker, aims for an $8B Hong Kong IPO, the city's largest since Alibaba's $12.9B debut in 2019 (Dave Sebastian/Bloomberg)"
+ },
+ "a260720p30": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p30",
+  "summary": "Z.AI has completed construction of a giant data center that houses only Chinese-made chips, a big step in Beijing's efforts …",
+  "techmeme_url": "https://www.techmeme.com/260720/p30",
+  "title": "Source: Z.ai completed construction of a 1 GW data center housing only Chinese chips; Z.ai has built or operates several computing clusters each with 10K+ chips (Bloomberg)"
+ },
+ "a260720p31": {
+  "article_url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p31",
+  "summary": "Hackers are breaking into websites that run vulnerable versions of the popular blogging software WordPress, according to several cybersecurity firms.",
+  "techmeme_url": "https://www.techmeme.com/260720/p31",
+  "title": "Cybersecurity companies say hackers are exploiting vulnerable WordPress versions to take over websites; WordPress patched two critical security flaws last week (Lorenzo Franceschi-Bicchierai/TechCrunch)"
+ },
+ "a260720p32": {
+  "article_url": "https://www.reuters.com/business/aerospace-defense/archer-anduril-unveil-autonomous-aircraft-platform-defense-commercial-markets-2026-07-20/",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p32",
+  "summary": "Archer Aviation (ACHR.N) and defense technology company Anduril unveiled a co-developed autonomous aircraft platform on Monday …",
+  "techmeme_url": "https://www.techmeme.com/260720/p32",
+  "title": "Anduril and Archer unveil an autonomous aircraft platform designed for commercial and military uses, along with an autonomous attack rotorcraft called Thunder (Reuters)"
+ },
+ "a260720p33": {
+  "article_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p33",
+  "summary": "What internal use of a long-running model taught us about safety. — Summary — Long-running models can solve difficult …",
+  "techmeme_url": "https://www.techmeme.com/260720/p33",
+  "title": "OpenAI paused internal access to an unreleased model that disproved the Erdős unit distance conjecture after it repeatedly found ways to act outside its sandbox (OpenAI)"
+ },
+ "a260720p34": {
+  "article_url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+  "date": "2026-07-20",
+  "permalink_id": "a260720p34",
+  "summary": "AI agents are starting to execute more sophisticated tasks, such as identifying vendors that can deliver freight, comparing prices …",
+  "techmeme_url": "https://www.techmeme.com/260720/p34",
+  "title": "Natural, which aims to help companies let their AI agents make autonomous payments, raised a $30M Series A led by Forerunner, bringing its total raised to $40M (Marina Temkin/TechCrunch)"
  },
  "a260720p4": {
   "article_url": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
