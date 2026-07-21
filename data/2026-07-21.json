@@ -119,6 +119,22 @@
   "techmeme_url": "https://www.techmeme.com/260721/p22",
   "title": "Docs: AI data startup Mercor had $614M in gross revenue in H1 2026, up 70% from all of 2025, with ~91% from foundation model makers like OpenAI and Anthropic (The Information)"
  },
+ "a260721p28": {
+  "article_url": "https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p28",
+  "summary": "Nvidia's Vera CPU is its first bid to become a key player in the data center CPU market. Although Grace has seen some success …",
+  "techmeme_url": "https://www.techmeme.com/260721/p28",
+  "title": "Nvidia details its Vera CPU for data centers, its first CPU with a custom core design, featuring 88 cores and 176 threads, set for general release in H2 2026 (Jake Roach/Tom's Hardware)"
+ },
+ "a260721p29": {
+  "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p29",
+  "summary": "Our newest Gemini models deliver the efficiency, latency, and reliability to build AI agents at scale.",
+  "techmeme_url": "https://www.techmeme.com/260721/p29",
+  "title": "Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its \"most ambitious pre-training run yet\" for Gemini 4 (Tulsee Doshi/Google)"
+ },
  "a260721p3": {
   "article_url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
   "date": "2026-07-21",
@@ -126,6 +142,110 @@
   "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day.",
   "techmeme_url": "https://www.techmeme.com/260721/p3",
   "title": "GitHub says individuals and orgs have invested $100M+ in open source maintainers and projects via GitHub Sponsors since 2019, with $10M in the past five months (Stephanie Lincoln/The GitHub Blog)"
+ },
+ "a260721p30": {
+  "article_url": "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p30",
+  "summary": "Alphabet is releasing three new Gemini models on Tuesday, including its clearest answer yet to Anthropic's lead in cybersecurity …",
+  "techmeme_url": "https://www.techmeme.com/260721/p30",
+  "title": "Google says Gemini 3.6 Flash delivers better coding, knowledge work, and multimodal performance while reducing output token usage by up to 17% vs. 3.5 Flash (MacKenzie Sigalos/CNBC)"
+ },
+ "a260721p31": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p31",
+  "summary": "OpenAI Chief Executive Officer Sam Altman plans to brief the Trump administration and US lawmakers next week on the upcoming generation …",
+  "techmeme_url": "https://www.techmeme.com/260721/p31",
+  "title": "OpenAI executive Chris Lehane says Sam Altman plans to brief the Trump administration and US lawmakers next week on the company's upcoming generation of models (Maggie Eastland/Bloomberg)"
+ },
+ "a260721p32": {
+  "article_url": "https://www.reuters.com/legal/government/university-tennessee-sues-anthropic-over-neural-network-technology-2026-07-21/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p32",
+  "summary": "The research arm of the University of Tennessee has sued artificial-intelligence giant Anthropic in Delaware federal court …",
+  "techmeme_url": "https://www.techmeme.com/260721/p32",
+  "title": "University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic (Blake Brittain/Reuters)"
+ },
+ "a260721p33": {
+  "article_url": "https://9to5mac.com/2026/07/21/meta-testing-storykit-an-ai-iphone-app-that-creates-personalized-childrens-stories/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p33",
+  "summary": "Meta has quietly released a new iPhone app that uses AI to create personalized children's stories, complete with illustrations, narration, and original music.",
+  "techmeme_url": "https://www.techmeme.com/260721/p33",
+  "title": "Meta quietly releases StoryKit, a new mobile app that uses AI to create personalized children's stories, including illustrations and original music, in Mexico (Zac Hall/9to5Mac)"
+ },
+ "a260721p34": {
+  "article_url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p34",
+  "summary": "For a year, Apple knew that an issue in its Hide My Email feature was exposing customers' real email addresses.",
+  "techmeme_url": "https://www.techmeme.com/260721/p34",
+  "title": "Apple says it fixed a vulnerability in its Hide My Email tool that let anyone see a user's real email address; researchers first reported the issue in June 2025 (Joseph Cox/404 Media)"
+ },
+ "a260721p35": {
+  "article_url": "https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p35",
+  "summary": "Can you trust an AI model to do what you intended? This is a central question both for those deploying AI systems …",
+  "techmeme_url": "https://www.techmeme.com/260721/p35",
+  "title": "Analysis: every frontier AI model tested in cybersecurity evaluations attempted to \"cheat\", led by GPT-5.4 at 14.1% of tasks; Mythos cheated the least, at 7.8% (AI Security Institute)"
+ },
+ "a260721p36": {
+  "article_url": "https://www.cnet.com/tech/gaming/metas-quest-game-subscribers-will-be-getting-some-xbox-extras/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p36",
+  "summary": "Meta's throwing Xbox cloud gaming Into Its Horizon Plus Quest subscription, and converting its controllers to work with it. — Editor at Large",
+  "techmeme_url": "https://www.techmeme.com/260721/p36",
+  "title": "Meta adds the Xbox Game Pass starter edition to its Horizon Plus plan, which costs $60/year or $8/month; the starter pass allows 10 hours of gaming per month (Scott Stein/CNET)"
+ },
+ "a260721p37": {
+  "article_url": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p37",
+  "summary": "OpenAI and Anthropic increased their federal lobbying spending to record levels in the second quarter of 2026 …",
+  "techmeme_url": "https://www.techmeme.com/260721/p37",
+  "title": "Federal lobbying disclosures: Anthropic spent $1.97M in Q2, up 26% QoQ, and OpenAI spent $1.2M, up 18%; Meta remained the largest spender at $5.99M, down 15% (Luke Fountain/CNBC)"
+ },
+ "a260721p38": {
+  "article_url": "https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html?unlocked_article_code=1.zVA.Oq0C.w_A9VosXLzlp&smid=bs-share",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p38",
+  "summary": "A 2023 software glitch at the state's Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during …",
+  "techmeme_url": "https://www.techmeme.com/260721/p38",
+  "title": "NJ Governor says a software error at DMV led to the improper voter registration of ~6,600 noncitizens between June 2023 and June 2024; 400 of those cast ballots (Tracey Tully/New York Times)"
+ },
+ "a260721p39": {
+  "article_url": "https://block.xyz/inside/introducing-buzz-where-humans-and-agents-work-together",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p39",
+  "summary": "Open Source, Decentralized Technology, Developers, AI, Technology — TODAY WE'RE RELEASING Buzz, A FREE …",
+  "techmeme_url": "https://www.techmeme.com/260721/p39",
+  "title": "Block launches Buzz, an open source collaboration workspace on Nostr protocol for humans and AI agents to share messages, code repositories, workflows, and more (Block)"
+ },
+ "a260721p40": {
+  "article_url": "https://post.substack.com/p/against-claudefishing",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p40",
+  "summary": "Building trust in the AI age — It's getting harder to tell what's real on the internet. — This is less true on Substack, and we aim to keep it that way.",
+  "techmeme_url": "https://www.techmeme.com/260721/p40",
+  "title": "Substack partners with AI-detection tool Pangram, allowing users to scan text longer than 100 words for an estimate of how much was written with AI assistance (Chris Best/The Substack Post)"
+ },
+ "a260721p41": {
+  "article_url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html?unlocked_article_code=1.zVA.cA28.HaXW3-HNiX17&smid=url-share",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p41",
+  "summary": "Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
+  "techmeme_url": "https://www.techmeme.com/260721/p41",
+  "title": "Some Instagram and Facebook users say Meta's AI moderation deleted their accounts; Meta says AI makes 13% fewer errors and finds 10% more violations than humans (New York Times)"
+ },
+ "a260721p42": {
+  "article_url": "https://www.forbes.com/sites/iainmartin/2026/07/21/american-open-source-labs-think-they-can-beat-chinas-best-ai-startups/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p42",
+  "summary": "Chinese open-source models like Kimi, Deepseek and Qwen are now dominant AI tools. American upstarts like Mira Murati's Thinking Machines …",
+  "techmeme_url": "https://www.techmeme.com/260721/p42",
+  "title": "Poolside launches Laguna S 2.1, an 118B open-weight model built for agentic coding and long-horizon work, that it says competes with larger open models (Iain Martin/Forbes)"
  },
  "a260721p8": {
   "article_url": "https://www.wsj.com/business/deals/blackrock-leads-12-billion-financing-for-new-meta-data-centers-in-texas-e1c3d42c?st=HUqStg&reflink=desktopwebshare_permalink",
