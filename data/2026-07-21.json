@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/260721/p1",
   "title": "Singapore-based Ant International, a payments company which spun out of Ant Group in 2024, raised $1.2B from investors including Ant Group and Alibaba (Reuters)"
  },
+ "a260721p10": {
+  "article_url": "https://www.reuters.com/world/china/us-china-hold-ai-talks-september-sources-say-2026-07-21/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p10",
+  "summary": "The United States and China are planning to hold talks over AI in September, five sources familiar with the matter told Reuters …",
+  "techmeme_url": "https://www.techmeme.com/260721/p10",
+  "title": "Sources: the US and China plan to hold AI talks in September, likely before President Xi's visit to the US, a significant outcome of the Trump-Xi summit in May (Laurie Chen/Reuters)"
+ },
+ "a260721p11": {
+  "article_url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p11",
+  "summary": "The global implications on the AI ecosystem. … Audio playback is not supported on your browser. Please upgrade.",
+  "techmeme_url": "https://www.techmeme.com/260721/p11",
+  "title": "Kimi K3 marks the arrival of frontier open-weight models; the core Kimi team has incredible culture and a freedom to express it within a GPU-limited environment (Nathan Lambert/Interconnects AI)"
+ },
+ "a260721p12": {
+  "article_url": "https://www.bbc.com/news/articles/cz97x8k4zqzo",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p12",
+  "summary": "The AI Minister, Kanishka Narayan, will be given a seat at the top table of government but the Department for Science, Innovation and Technology (DSIT) has been scrapped.",
+  "techmeme_url": "https://www.techmeme.com/260721/p12",
+  "title": "UK PM Andy Burnham abolishes the Department for Science, Innovation, and Tech and elevates UK AI Minister Kanishka Narayan, who oversees AISI, to attend cabinet (Philippa Wain/BBC)"
+ },
+ "a260721p13": {
+  "article_url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p13",
+  "summary": "One of the most important things happening on Earth today is the solar energy build-out. Around the world, companies and countries …",
+  "techmeme_url": "https://www.techmeme.com/260721/p13",
+  "title": "Gritt, which is developing an AI system that helps build infrastructure like solar panels, emerges from stealth with a $26M Series A and $34M in total funding (Tim Fernholz/TechCrunch)"
+ },
+ "a260721p14": {
+  "article_url": "https://www.euronews.com/2026/07/21/irans-irgc-claims-attack-on-amazons-main-data-hub-in-bahrain",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p14",
+  "summary": "The IRGC claimed its cruise missiles destroyed Amazon's central data infrastructure in Bahrain and hit US air defence systems.",
+  "techmeme_url": "https://www.techmeme.com/260721/p14",
+  "title": "Iran's IRGC claims it targeted and \"destroyed\" Amazon's central data infrastructure in Bahrain using several cruise missiles; Amazon has not acknowledged it (Babak Kamiar/Euronews)"
+ },
+ "a260721p15": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-21/samsung-debuts-ai-powered-health-assistant-joining-packed-market",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p15",
+  "summary": "Samsung Electronics Co. is rolling out a new AI-powered assistant that acts as a virtual health companion, joining a growing number …",
+  "techmeme_url": "https://www.techmeme.com/260721/p15",
+  "title": "Samsung plans to launch its AI-powered Samsung Health Assistant and new heart metrics tools like Vitals for overnight metric tracking in beta in August (Samantha Kelly/Bloomberg)"
+ },
+ "a260721p16": {
+  "article_url": "https://www.wsj.com/cio-journal/microsoft-deepens-ties-with-mistral-targeting-europe-and-enterprise-ai-63da4ffa?st=sP9U4h&reflink=desktopwebshare_permalink",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p16",
+  "summary": "‘Multibillion-dollar’ pact will support Mistral data centers in Europe, helping the French company sell its AI models, and Microsoft its cloud and AI services",
+  "techmeme_url": "https://www.techmeme.com/260721/p16",
+  "title": "Microsoft and Mistral sign a multibillion-dollar deal to build European data centers and integrate Mistral models into Foundry, Copilot Studio, and Azure Local (Belle Lin/Wall Street Journal)"
+ },
+ "a260721p17": {
+  "article_url": "https://fortune.com/2026/07/21/skypilot-from-databricks-cofounder-raises-20m-to-be-the-switzerland-of-ai-compute/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p17",
+  "summary": "Databricks cofounder Ion Stoica can explain what his latest startup does to a kindergartner on the fly.",
+  "techmeme_url": "https://www.techmeme.com/260721/p17",
+  "title": "Databricks co-founder Ion Stoica's GPU orchestration startup SkyPilot, which aims to be neutral across hardware and cloud vendors, raised a $20M seed led by Lux (Lily Mae Lazarus/Fortune)"
+ },
+ "a260721p18": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p18",
+  "summary": "OpenAI has seen a sharp uptick in demand for its artificial intelligence agents since its recent release of ChatGPT Work …",
+  "techmeme_url": "https://www.techmeme.com/260721/p18",
+  "title": "OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work (Shirin Ghaffary/Bloomberg)"
+ },
+ "a260721p19": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-21/garmin-debuts-200-screenless-fitness-band-in-challenge-to-whoop",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p19",
+  "summary": "Garmin Ltd. introduced a $200 screenless fitness tracker, becoming the latest company to enter a segment popularized by Whoop Inc.",
+  "techmeme_url": "https://www.techmeme.com/260721/p19",
+  "title": "Garmin launches the Cirqa Smart Band, a $200 screenless fitness tracker that monitors 80+ activities with an up to 10 day battery life, to compete with Whoop (Dana Wollman/Bloomberg)"
+ },
  "a260721p2": {
   "article_url": "https://www.musicbusinessworldwide.com/sony-music-files-new-lawsuit-against-ai-platform-udio-asserting-over-30000-sound-recordings-a-judge-barred-it-from-adding-to-its-original-case/",
   "date": "2026-07-21",
@@ -15,6 +95,30 @@
   "techmeme_url": "https://www.techmeme.com/260721/p2",
   "title": "Sony Music files a second copyright suit against Udio, alleging the AI music company copied 30,117 recordings without permission to train its AI models (Murray Stassen/Music Business Worldwide)"
  },
+ "a260721p20": {
+  "article_url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p20",
+  "summary": "The agreement makes Fortinet the first cybersecurity vendor on Intel's manufacturing customer list.",
+  "techmeme_url": "https://www.techmeme.com/260721/p20",
+  "title": "Intel and Fortinet partner to co-develop the Fortinet Security Processor 6, making Fortinet the first named external customer for the Intel 4 process node (Luke James/Tom's Hardware)"
+ },
+ "a260721p21": {
+  "article_url": "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p21",
+  "summary": "U.S. Treasury Secretary Scott Bessent on Tuesday said the Trump administration will look into whether Chinese artificial intelligence models …",
+  "techmeme_url": "https://www.techmeme.com/260721/p21",
+  "title": "US Treasury Secretary Scott Bessent says the Trump administration is looking into Chinese AI models over distillation claims and it could \"sanction them\" (Ashley Capoot/CNBC)"
+ },
+ "a260721p22": {
+  "article_url": "https://www.theinformation.com/articles/mercors-fast-growth-relies-biggest-ai-companies-documents-show",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p22",
+  "summary": "Mercor, a three-year-old data startup whose army of contractors teaches AI to give better answers, is growing fast but relies heavily …",
+  "techmeme_url": "https://www.techmeme.com/260721/p22",
+  "title": "Docs: AI data startup Mercor had $614M in gross revenue in H1 2026, up 70% from all of 2025, with ~91% from foundation model makers like OpenAI and Anthropic (The Information)"
+ },
  "a260721p3": {
   "article_url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
   "date": "2026-07-21",
@@ -22,5 +126,21 @@
   "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day.",
   "techmeme_url": "https://www.techmeme.com/260721/p3",
   "title": "GitHub says individuals and orgs have invested $100M+ in open source maintainers and projects via GitHub Sponsors since 2019, with $10M in the past five months (Stephanie Lincoln/The GitHub Blog)"
+ },
+ "a260721p8": {
+  "article_url": "https://www.wsj.com/business/deals/blackrock-leads-12-billion-financing-for-new-meta-data-centers-in-texas-e1c3d42c?st=HUqStg&reflink=desktopwebshare_permalink",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p8",
+  "summary": "Meta also signs lease for a BlackRock-backed data-center project in Pennsylvania — BlackRock is leading a debt sale targeting …",
+  "techmeme_url": "https://www.techmeme.com/260721/p8",
+  "title": "Sources: BlackRock leads a $12B+ debt sale for Meta's new El Paso data center, as Meta signs a lease for a BlackRock-backed data-center project in Pennsylvania (Wall Street Journal)"
+ },
+ "a260721p9": {
+  "article_url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p9",
+  "summary": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
+  "techmeme_url": "https://www.techmeme.com/260721/p9",
+  "title": "Memo: the Army CIO reinstates limits on Army members' AI token usage; docs show the DOD's Ask Sage tool can access 100M tokens via an annual \"enterprise pack\" (Vittoria Elliott/Wired)"
  }
 }
