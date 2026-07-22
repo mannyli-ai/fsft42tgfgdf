@@ -247,6 +247,126 @@
   "techmeme_url": "https://www.techmeme.com/260721/p42",
   "title": "Poolside launches Laguna S 2.1, an 118B open-weight model built for agentic coding and long-horizon work, that it says competes with larger open models (Iain Martin/Forbes)"
  },
+ "a260721p43": {
+  "article_url": "https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p43",
+  "summary": "OpenAI said Tuesday that models it was testing escaped their sandbox and compromised parts of AI platform Hugging Face's production infrastructure last week.",
+  "techmeme_url": "https://www.techmeme.com/260721/p43",
+  "title": "OpenAI says its models, including GPT-5.6 Sol and \"an even more capable pre-release model\", breached Hugging Face while OpenAI tested their cyber capabilities (Ina Fried/Axios)"
+ },
+ "a260721p44": {
+  "article_url": "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html?unlocked_article_code=1.zVA.oOma.-PemqFp3zB5h&smid=url-share",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p44",
+  "summary": "Its new law, the first of its kind enacted by a European country, will ban access to some accounts for anyone under 15.",
+  "techmeme_url": "https://www.techmeme.com/260721/p44",
+  "title": "France becomes the first European country to pass a law banning social media access for users under 15, potentially going into effect as soon as September 1 (Mark Landler/New York Times)"
+ },
+ "a260721p45": {
+  "article_url": "https://www.reuters.com/technology/super-micro-says-fourth-quarter-orders-topped-60-billion-2026-07-21/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p45",
+  "summary": "Super Micro Computer (SMCI.O) said on Tuesday it has received orders in excess of $60 billion in the fourth quarter …",
+  "techmeme_url": "https://www.techmeme.com/260721/p45",
+  "title": "Super Micro says Q4 orders have topped $60B and expects gross margins of 15% to 17%, up from its prior forecast of 8.2% to 8.4%; SMCI jumps ~20% after hours (Juby Babu/Reuters)"
+ },
+ "a260721p46": {
+  "article_url": "https://www.axios.com/2026/07/21/cisco-open-source-ai-models-cybersecurity",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p46",
+  "summary": "Cisco says the models performed similarly to much larger models, including OpenAI's GPT-5.5 and Z.ai's GLM-5.2 …",
+  "techmeme_url": "https://www.techmeme.com/260721/p46",
+  "title": "Cisco releases Antares-350M and Antares-1B, two open-weight AI models to find known vulnerabilities within a codebase, and plans to release Antares-3B soon (Sam Sabin/Axios)"
+ },
+ "a260721p47": {
+  "article_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p47",
+  "summary": "Last week, Hugging Face disclosed a new kind of security incident(opens in a new window) after they detected and contained …",
+  "techmeme_url": "https://www.techmeme.com/260721/p47",
+  "title": "OpenAI says its models chained vulnerabilities across its research environment and Hugging Face's infrastructure to find solutions for the ExploitGym benchmark (OpenAI)"
+ },
+ "a260721p48": {
+  "article_url": "https://www.wsj.com/tech/ai/openai-is-adding-two-independent-board-members-ahead-of-ipo-9c1bd632?st=HfLaRw&reflink=desktopwebshare_permalink",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p48",
+  "summary": "AI company names David Vélez of Nubank and Robin Vince of BNY as directors — OpenAI is adding David Vélez …",
+  "techmeme_url": "https://www.techmeme.com/260721/p48",
+  "title": "OpenAI adds Nubank founder and CEO David Vélez and BNY CEO Robin Vince to its board of directors, as the company moves toward a public listing (Wall Street Journal)"
+ },
+ "a260721p49": {
+  "article_url": "https://www.axios.com/2026/07/21/openai-local-news-american-journalism-project",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p49",
+  "summary": "OpenAI is renewing its investment in the American Journalism Project by committing an additional $5 million in funding and $3 million …",
+  "techmeme_url": "https://www.techmeme.com/260721/p49",
+  "title": "OpenAI renews its investment in the American Journalism Project by committing an additional $5M in funding and $3M in tech credits over the next two years (Sara Fischer/Axios)"
+ },
+ "a260721p50": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p50",
+  "summary": "Amazon.com Inc.'s business sales unit was recently on track to sell $60 billion of merchandise over the course of a full year …",
+  "techmeme_url": "https://www.techmeme.com/260721/p50",
+  "title": "Amazon says its business sales unit, Amazon Business, reached $60B in annualized gross sales in Q2, up ~71% from 2023, and serves 11M+ organizations worldwide (Matt Day/Bloomberg)"
+ },
+ "a260721p51": {
+  "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/07/21/humanoid-raises-152-million-at-135-billion-valuation-europes-newest-robot-unicorn/",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p51",
+  "summary": "Europe has a new billion-dollar startup, and it's Humanoid, a two-year-old company headquartered in London that developed its humanoid robot, HMND 01, in near-record time.",
+  "techmeme_url": "https://www.techmeme.com/260721/p51",
+  "title": "London-based robotics startup Humanoid raised a $152M Series A led by Prime Movers Lab at a $1.35B post-money valuation, bringing its total funding to $270M (John Koetsier/Forbes)"
+ },
+ "a260721p52": {
+  "article_url": "https://www.theinformation.com/articles/metas-ai-incubator-developing-openrouter-rival-cut-coding-costs",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p52",
+  "summary": "Meta Platforms' internal incubator for AI-powered products and tools is developing a version of the OpenRouter service …",
+  "techmeme_url": "https://www.techmeme.com/260721/p52",
+  "title": "Documents: Meta's internal AI incubator is developing an AI model router, similar to OpenRouter's, to cut costs by sending some AI tasks to lower-cost models (Jyoti Mann/The Information)"
+ },
+ "a260721p53": {
+  "article_url": "https://www.ft.com/content/9cff12a5-db1f-4a70-b048-87428c181dbd?accessToken=zwAAAZ-HL8wRkdOc_xKl2x9KcNOwSIdCjBgdvQ.MEUCIDeHCRokZqPQKzGve7xwZ8S0CqY3y7M5krTk0c_pvkOtAiEA8hH00MqbTT-IGUiI-Cm7HBPBSXOfrstXofKYvVjt8v4&sharetype=gift&token=9d0db9d1-bbbe-4ded-8f0e-2d6aa8ea0724",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p53",
+  "summary": "Adam Candeub authored a Project 2025 chapter calling for a sweeping shake-up of US competition enforcement",
+  "techmeme_url": "https://www.techmeme.com/260721/p53",
+  "title": "Trump nominates FCC general counsel Adam Candeub to lead the DOJ's antitrust unit; Candeub, a longtime Big Tech critic, has long sought to challenge Section 230 (Ella Lee/Financial Times)"
+ },
+ "a260721p54": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-21/google-expands-in-miami-after-its-billionaire-founders-buy-homes",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p54",
+  "summary": "Alphabet Inc., has more than quadrupled its office space in Miami this year shortly after co-founders Larry Page and Sergey Brin bought homes in the area.",
+  "techmeme_url": "https://www.techmeme.com/260721/p54",
+  "title": "Sources: Alphabet has more than quadrupled its office space in Miami, partially driven by Larry Page's and Sergey Brin's residential real estate purchases (Anna J Kaiser/Bloomberg)"
+ },
+ "a260721p55": {
+  "article_url": "https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981?st=g8bUVL&reflink=desktopwebshare_permalink",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p55",
+  "summary": "Effort could prove difficult to enforce because power prices are often decided by state regulators and electricity buyers and sellers",
+  "techmeme_url": "https://www.techmeme.com/260721/p55",
+  "title": "Doc: nearly 200 US utilities, data center developers, and others have signed Trump's pledge to ensure AI energy use doesn't push up consumer electric bills (Wall Street Journal)"
+ },
+ "a260721p56": {
+  "article_url": "https://www.wsj.com/business/media/google-search-publishers-ai-content-0fb06e41?st=fwYn9L&reflink=desktopwebshare_permalink",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p56",
+  "summary": "Reddit, Politico and others are weighing how—or even if—they can work with the tech company as AI tools supplant traditional searches",
+  "techmeme_url": "https://www.techmeme.com/260721/p56",
+  "title": "Sources: Reddit, Politico, and others mull cutting Google's access to their content for AI as traffic drops; Reddit signed a $60M/year deal with Google in 2024 (Alexandra Bruell/Wall Street Journal)"
+ },
+ "a260721p57": {
+  "article_url": "https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8?st=wmFed7&reflink=desktopwebshare_permalink",
+  "date": "2026-07-21",
+  "permalink_id": "a260721p57",
+  "summary": "The overhaul will reshape $200 billion in spending a year and favors individual scientists to outpace China",
+  "techmeme_url": "https://www.techmeme.com/260721/p57",
+  "title": "Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping ~$200B in annual spending (Amrith Ramkumar/Wall Street Journal)"
+ },
  "a260721p8": {
   "article_url": "https://www.wsj.com/business/deals/blackrock-leads-12-billion-financing-for-new-meta-data-centers-in-texas-e1c3d42c?st=HUqStg&reflink=desktopwebshare_permalink",
   "date": "2026-07-21",
