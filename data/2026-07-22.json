@@ -135,6 +135,14 @@
   "techmeme_url": "https://www.techmeme.com/260722/p28",
   "title": "London-based Arrakis, which makes AI agents for industrial companies, emerges from stealth with a $7.5M seed and a $30M Series A at a $140M post-money valuation (Jeremy Kahn/Fortune)"
  },
+ "a260722p29": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDczMDkwMCwiZXhwIjoxNzg1MzM1NzAwLCJhcnRpY2xlSWQiOiJUSTlQWkFLSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pX-drPTkq3IbI8NIUh3uoYV-AIKippcEC4cIH_kIdM0",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p29",
+  "summary": "Apple Inc. is readying an overhaul of its Mac line, seeking to capitalize on demand for powerful laptops and desktops fueled by the artificial intelligence boom.",
+  "techmeme_url": "https://www.techmeme.com/260722/p29",
+  "title": "Sources: Apple is set to debut new versions of every Mac, including long-awaited iMac updates, a revamped MacBook Pro, and a new Neo, across the fall and 2027 (Mark Gurman/Bloomberg)"
+ },
  "a260722p3": {
   "article_url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
   "date": "2026-07-22",
@@ -143,6 +151,86 @@
   "techmeme_url": "https://www.techmeme.com/260722/p3",
   "title": "TSMC forecasts \"several years\" of margin dilution as overseas fab projects ramp up; the company has announced $200B in investment into US manufacturing (Kai Nicol-Schwarz/CNBC)"
  },
+ "a260722p30": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p30",
+  "summary": "Enterprise software firm Monday.com said Wednesday it plans to cut 20% of its workforce in the second half of ths year to …",
+  "techmeme_url": "https://www.techmeme.com/260722/p30",
+  "title": "Filing: Monday.com plans to cut 20% of its workforce, or ~600 employees, in H2 2026 to \"support a leaner, more focused operational model\" as it invests in AI (Martin Peers/The Information)"
+ },
+ "a260722p31": {
+  "article_url": "https://www.windowscentral.com/gaming/xbox/xbox-brings-back-compat-to-windows-microsoft-pledges-4-games-on-pc",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p31",
+  "summary": "Conker, Crimson Skies, Fuzion Frenzy, and Blinx head to Xbox PC for the first time, complete with Xbox achievements, and more are on the way.",
+  "techmeme_url": "https://www.techmeme.com/260722/p31",
+  "title": "Xbox expands its backward compatibility program to PC, starting with four classic original Xbox games, offering 4X resolution scaling, V-Sync support, and more (Jez Corden/Windows Central)"
+ },
+ "a260722p32": {
+  "article_url": "https://x.com/mkratsios47",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p32",
+  "summary": "We have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model. To do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of",
+  "techmeme_url": "https://www.techmeme.com/260722/p32",
+  "title": "White House OSTP Director Michael Kratsios says \"we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model\" (Director Michael Kratsios/@mkratsios47)"
+ },
+ "a260722p33": {
+  "article_url": "https://www.businessinsider.com/openai-presence-corporate-software-customer-service-sales-2026-7",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p33",
+  "summary": "OpenAI is launching a new product that could help the company take another step beyond the ultra-competitive business of making AI models.",
+  "techmeme_url": "https://www.techmeme.com/260722/p33",
+  "title": "OpenAI introduces OpenAI Presence to help companies better connect AI agents to their internal systems and automate customer support, sales, and other tasks (Business Insider)"
+ },
+ "a260722p34": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-22/meta-taps-new-chief-security-officer-from-qualtrics-paypal",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p34",
+  "summary": "Meta Platforms Inc. tapped a veteran cybersecurity executive to serve as its next chief information security officer …",
+  "techmeme_url": "https://www.techmeme.com/260722/p34",
+  "title": "Meta names Assaf Keren, a former chief security officer at Qualtrics and a former CISO at PayPal, as its next CISO, succeeding Guy Rosen, who will leave in 2026 (Riley Griffin/Bloomberg)"
+ },
+ "a260722p35": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-22/white-house-official-says-moonshot-accessed-banned-nvidia-chips?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDczNTc4OSwiZXhwIjoxNzg1MzQwNTg5LCJhcnRpY2xlSWQiOiJUSUtZUkRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.XwzPbtB7Ej5w2s9ZRaOtp1uLM-qZ54qFpd3QCMH2YvY",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p35",
+  "summary": "A White House official accused China's Moonshot of improperly using US AI models and Nvidia Corp. chips to create …",
+  "techmeme_url": "https://www.techmeme.com/260722/p35",
+  "title": "White House OSTP Director Michael Kratsios says Moonshot AI \"acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models\" (Maggie Eastland/Bloomberg)"
+ },
+ "a260722p36": {
+  "article_url": "https://www.seroundtable.com/google-lawsuit-serpapi-dismissed-41731.html",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p36",
+  "summary": "Last December, Google sued SerpApi over scraping its search results, and now a court has granted SerpApi's motion to dismiss the case.",
+  "techmeme_url": "https://www.techmeme.com/260722/p36",
+  "title": "A US judge dismisses Google's lawsuit against web scraping service SerpApi, saying plain and aggregated search results are not protected under copyright law (Barry Schwartz/Search Engine Roundtable)"
+ },
+ "a260722p37": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p37",
+  "summary": "Arcee, an American open-weigh AI provider, announced a partnership with the Department of Energy, in which the DOE will use Arcee's AI models to advance scientific research.",
+  "techmeme_url": "https://www.techmeme.com/260722/p37",
+  "title": "Arcee, which develops open-weight models in the US, partners with the Department of Energy to build Genesis-Science-1, an open model for scientific research (Catherine Perloff/The Information)"
+ },
+ "a260722p38": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-21/-100-million-bet-on-venezuelan-fintech-cashea-draws-global-investors",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p38",
+  "summary": "Cashea, Venezuela's largest financial technology company, has raised $100 million across two financing rounds, as global investors bet …",
+  "techmeme_url": "https://www.techmeme.com/260722/p38",
+  "title": "Cashea, Venezuela's largest fintech startup that offers a banking and payments app, raised a $40M Series A, including $20M in debt, and a $60M Series B (Maria Clara Cobo/Bloomberg)"
+ },
+ "a260722p39": {
+  "article_url": "https://fortune.com/2026/07/21/glossgenius-rebrand-genius-ai-small-businesses-beauty-unicorn-series-d/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p39",
+  "summary": "There's a new female-founded unicorn. GlossGenius, which started as a salon management platform, just raised $44 million …",
+  "techmeme_url": "https://www.techmeme.com/260722/p39",
+  "title": "Genius AI, formerly GlossGenius, which pivoted from a salon management platform to offer AI tools for service SMBs, raised a $44M Series D at a $1.15B valuation (Emma Hinchliffe/Fortune)"
+ },
  "a260722p4": {
   "article_url": "https://www.bloomberg.com/graphics/2026-polymarket-traders-who-knew-the-future/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDU4MzI3OCwiZXhwIjoxNzg1MTg4MDc4LCJhcnRpY2xlSWQiOiJUSUhST0tSS1YyVFQwMCIsImJjb25uZWN0SWQiOiJCRjA3ODVFOEJDOEU0NTE4OTczRkU0NDQ1NjExOERFRSJ9.meMK1cf_EmMoZ7zxbHpwFcHlBTnNsrVzj9qphDNwkD4",
   "date": "2026-07-22",
@@ -150,5 +238,37 @@
   "summary": "In early February, Caden Booth, a 21-year-old TikToker, flew from Cincinnati to San Francisco and headed for the stadium where Super Bowl LX was taking place.",
   "techmeme_url": "https://www.techmeme.com/260722/p4",
   "title": "Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket's US-banned global platform (Bloomberg)"
+ },
+ "a260722p40": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p40",
+  "summary": "A team of former DOGE employees have raised a major funding round for a startup that aims to use AI to expand U.S. military cyber capabilities …",
+  "techmeme_url": "https://www.techmeme.com/260722/p40",
+  "title": "Sources: Cathedral, launched by ex-DOGE staffers to use AI to expand US military cyber capabilities, raised $160M led by a16z and Sequoia at a $1.4B valuation (David Jeans/Reuters)"
+ },
+ "a260722p41": {
+  "article_url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p41",
+  "summary": "As social media has evolved from a place to connect with friends into large-scale entertainment platforms …",
+  "techmeme_url": "https://www.techmeme.com/260722/p41",
+  "title": "Yope, a social network that has ~15M registered users for its \"micro communities\" and no algorithms, ads, or public content, raised $12.3M seed led by Northzone (Sarah Perez/TechCrunch)"
+ },
+ "a260722p42": {
+  "article_url": "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p42",
+  "summary": "For Meta, the move was a reprieve after it and YouTube were found guilty in another case in March of negligence and personal injury for their platforms' addictive features.",
+  "techmeme_url": "https://www.techmeme.com/260722/p42",
+  "title": "A Florida teenager drops his lawsuit accusing Meta of creating harmful social media features, following settlements with co-defendants TikTok, Snap, and YouTube (New York Times)"
+ },
+ "a260722p43": {
+  "article_url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p43",
+  "summary": "Travis Kalanick's robotics company, Atoms, has raised $1.7 billion in a funding round led by Andreessen Horowitz.",
+  "techmeme_url": "https://www.techmeme.com/260722/p43",
+  "title": "Travis Kalanick's robotics startup Atoms raised $1.7B led by a16z, with Uber and others participating; Ben Horowitz will join the startup's board (Sean O'Kane/TechCrunch)"
  }
 }
