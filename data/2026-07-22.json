@@ -7,6 +7,54 @@
   "techmeme_url": "https://www.techmeme.com/260722/p1",
   "title": "Sources: Samsung may invest up to €1B in Mistral as part of a broader round valuing it at ~€20B, after previously backing the AI startup through its venture arm (Financial Times)"
  },
+ "a260722p14": {
+  "article_url": "https://www.engadget.com/2219690/samsung-galaxy-unpacked-july-2026-live-blog-z-fold-8-launch/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p14",
+  "summary": "We're reporting live from the company's event in London, UK. — It's time for Samsung to properly unveil its latest lineup of foldables and smartwatches at its Unpacked event today.",
+  "techmeme_url": "https://www.techmeme.com/260722/p14",
+  "title": "A live blog of Samsung's Galaxy Unpacked in London, where the company is set to unveil its latest lineup of foldables and smartwatches (Engadget)"
+ },
+ "a260722p15": {
+  "article_url": "https://9to5google.com/2026/07/22/galaxy-z-fold-8-ultra-goes-official/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p15",
+  "summary": "The “Ultra” moniker is alive and well, but it now applies to the Galaxy Z Fold series.",
+  "techmeme_url": "https://www.techmeme.com/260722/p15",
+  "title": "Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its \"most advanced foldable design\", a Flex Titanium display, a 5,000mAH battery, and Android 17 (Andrew Romero/9to5Google)"
+ },
+ "a260722p16": {
+  "article_url": "https://9to5google.com/2026/07/22/samsung-galaxy-z-fold-7-official-specs-price/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p16",
+  "summary": "Samsung has officially unveiled its new Galaxy Z Fold 8, which goes beyond a generation refresh, delivering a completely …",
+  "techmeme_url": "https://www.techmeme.com/260722/p16",
+  "title": "Samsung unveils the $1,900+ Galaxy Z Fold 8 with a wider, 7.6\" inner and a short, 5.5\" outer display, a Snapdragon 8 Elite Gen 5 \"for Galaxy\" chip, and more (Ben Schoon/9to5Google)"
+ },
+ "a260722p17": {
+  "article_url": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p17",
+  "summary": "It's a year of refinement for the Galaxy Watch. With the new Galaxy Watch 9 and Galaxy Watch Ultra 2, which are being announced today …",
+  "techmeme_url": "https://www.techmeme.com/260722/p17",
+  "title": "Samsung unveils the Galaxy Watch 9 and Watch Ultra 2, moving from its Exynos chips to the Snapdragon Wear Elite and hiking prices by $30 to $380 and $50 to $700 (Victoria Song/The Verge)"
+ },
+ "a260722p18": {
+  "article_url": "https://www.engadget.com/2220510/samsung-slimmer-galaxy-z-flip-8-brings-apps-and-ai-to-the-cover-screen/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p18",
+  "summary": "The design and most specs are unchanged from the previous model. — As part of its Galaxy Unpacked 2026 event …",
+  "techmeme_url": "https://www.techmeme.com/260722/p18",
+  "title": "Samsung debuts the $1,200+ Galaxy Z Flip 8 with a lighter, smaller, and slimmer design, and new Flex Window features for apps and insights on the cover screen (Steve Dent/Engadget)"
+ },
+ "a260722p19": {
+  "article_url": "https://9to5google.com/2026/07/22/samsung-galaxy-z-fold-8-silicon-carbon/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p19",
+  "summary": "It's happening. Samsung has officially adopted silicon-carbon batteries on its latest foldables, though you wouldn't know that by looking …",
+  "techmeme_url": "https://www.techmeme.com/260722/p19",
+  "title": "Samsung says the Galaxy Z Fold 8, Galaxy Z Fold 8 Ultra, and Galaxy Z Flip 8 have silicon-carbon batteries, citing their performance, longevity, and safety (Ben Schoon/9to5Google)"
+ },
  "a260722p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-ai-for-all-offensive-defies-us-containment-playbook",
   "date": "2026-07-22",
@@ -14,6 +62,78 @@
   "summary": "The rapidly increasing global competitiveness of China's artificial intelligence models is ringing alarm bells in Washington …",
   "techmeme_url": "https://www.techmeme.com/260722/p2",
   "title": "Chinese AI models account for ~60% of token usage by US companies on OpenRouter, making restrictions harder to impose without disrupting US users and businesses (Nectar Gan/Bloomberg)"
+ },
+ "a260722p20": {
+  "article_url": "https://www.wsj.com/tech/openais-planned-cloud-spending-hits-750-billion-as-computing-efforts-ramp-up-6ac3f58a?st=VGaF4f&reflink=desktopwebshare_permalink",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p20",
+  "summary": "The AI giant has committed $20 billion to a new data-center project in Georgia and hired an architect of Elon Musk's computing build-out",
+  "techmeme_url": "https://www.techmeme.com/260722/p20",
+  "title": "Source: OpenAI raised its projected cloud spending to ~$750B through 2030, up from a projection of ~$600B earlier this year, reflecting new cloud agreements (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a260722p21": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-plans-to-spend-over-30-billion-on-georgia-data-center",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p21",
+  "summary": "OpenAI plans to spend tens of billions of dollars on a massive new data center near Savannah, Georgia as part of the ChatGPT maker's push …",
+  "techmeme_url": "https://www.techmeme.com/260722/p21",
+  "title": "OpenAI plans to spend $30B+ on a massive new data center in Georgia, securing 3.2GW of total energy; several hundred MW are set to come online starting in 2028 (Dina Bass/Bloomberg)"
+ },
+ "a260722p22": {
+  "article_url": "https://9to5google.com/2026/07/22/galaxy-watch-9-and-ultra-2-hands-on-same-time-and-time-again/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p22",
+  "summary": "There are a number of reasons why Samsung dominates Wear OS, and the Galaxy Watch 9 and Ultra 2 exemplify that once again this year - here's what you need to know.",
+  "techmeme_url": "https://www.techmeme.com/260722/p22",
+  "title": "Samsung Galaxy Watch 9 and Ultra 2 hands-on: nice improvements with a rugged look and new AI-powered fitness features, but a blockier shape is not for everyone (Damien Wilde/9to5Google)"
+ },
+ "a260722p23": {
+  "article_url": "https://www.theshortcut.com/p/galaxy-z-flip-8-hands-on",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p23",
+  "summary": "📱 Samsung has announced the Galaxy Z Flip 8 — 📐 It comes with a slightly tweaked design and better performance",
+  "techmeme_url": "https://www.techmeme.com/260722/p23",
+  "title": "Samsung Galaxy Z Flip 8 hands-on: like the Z Flip 7, including the battery and cameras, but with much faster performance, four colors, and a $100 higher price (Max Buondonno/The Shortcut)"
+ },
+ "a260722p24": {
+  "article_url": "https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p24",
+  "summary": "While we wait for Apple's rumored foldable iPhone, Samsung is polishing a design it already has on the market.",
+  "techmeme_url": "https://www.techmeme.com/260722/p24",
+  "title": "Samsung Z Fold 8 Ultra hands-on: its new Flex Titanium tech makes the crease practically nonexistent and the specs match the S26 Ultra's, but it costs $100 more (David Imel/The Verge)"
+ },
+ "a260722p25": {
+  "article_url": "https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p25",
+  "summary": "WhatsApp is rolling out a suite of new features, including a revamped Apple CarPlay and Android Auto experience as part …",
+  "techmeme_url": "https://www.techmeme.com/260722/p25",
+  "title": "WhatsApp updates its CarPlay and Android Auto integrations to include message playback, replies and more, now lets users sign up from its iPad app, and more (Aisha Malik/TechCrunch)"
+ },
+ "a260722p26": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-22/samsung-says-smart-glasses-privacy-concerns-need-industrywide-fix",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p26",
+  "summary": "Samsung Electronics Co. showcased the smart glasses it developed in partnership with Alphabet Inc.'s Google …",
+  "techmeme_url": "https://www.techmeme.com/260722/p26",
+  "title": "Samsung teases its smart glasses, developed with Google, Warby Parker, and Gentle Monster, and says they will have a nine-hour battery life and privacy features (Chris Welch/Bloomberg)"
+ },
+ "a260722p27": {
+  "article_url": "https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p27",
+  "summary": "A year after overhauling its Z Fold phone with a radically thinner design, Samsung has changed things up again, this time altering the shape entirely.",
+  "techmeme_url": "https://www.techmeme.com/260722/p27",
+  "title": "Samsung Galaxy Z Fold 8 hands-on: the passport-esque shape feels great and is almost immediately intuitive, but no telephoto lens, IP48, and $1,900+ is pricey (Dominic Preston/The Verge)"
+ },
+ "a260722p28": {
+  "article_url": "https://fortune.com/2026/07/22/arrakis-a-startup-betting-ais-biggest-payoff-is-in-industrial-sectors-not-office-work-emerges-from-stealth-with-38-million-in-venture-funding/",
+  "date": "2026-07-22",
+  "permalink_id": "a260722p28",
+  "summary": "Arrakis, a seven-month old London- and Paris-based startup building what it calls an AI “operating system” for industrial companies …",
+  "techmeme_url": "https://www.techmeme.com/260722/p28",
+  "title": "London-based Arrakis, which makes AI agents for industrial companies, emerges from stealth with a $7.5M seed and a $30M Series A at a $140M post-money valuation (Jeremy Kahn/Fortune)"
  },
  "a260722p3": {
   "article_url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
