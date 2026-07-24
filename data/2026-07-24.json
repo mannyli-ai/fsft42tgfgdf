@@ -31,6 +31,54 @@
   "techmeme_url": "https://www.techmeme.com/260724/p12",
   "title": "Delhi High Court rules OpenAI's use of ANI content to train ChatGPT wasn't copyright infringement as the news agency didn't show ChatGPT reproduced its reports (Munsif Vengattil/Reuters)"
  },
+ "a260724p14": {
+  "article_url": "https://www.reuters.com/business/aerospace-defense/defense-tech-company-anduril-talks-raise-funding-about-100-billion-valuation-2026-07-24/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p14",
+  "summary": "Defense tech firm Anduril is in discussions with investors for a new funding round that could see it valued at roughly $100 billion …",
+  "techmeme_url": "https://www.techmeme.com/260724/p14",
+  "title": "Sources: Anduril is in talks with investors for a new funding round that could see it valued at around $100B; the company raised $5B at a $61B valuation in May (Reuters)"
+ },
+ "a260724p15": {
+  "article_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p15",
+  "summary": "Nvidia, Microsoft, Meta, Palantir and more than 20 other companies released a letter on Friday urging policymakers …",
+  "techmeme_url": "https://www.techmeme.com/260724/p15",
+  "title": "In their letter defending open-weight AI, tech companies urge lawmakers to avoid \"premature restrictions\" that \"stifle competition or drive innovation overseas\" (Ashley Capoot/CNBC)"
+ },
+ "a260724p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDkwMzU3MywiZXhwIjoxNzg1NTA4MzczLCJhcnRpY2xlSWQiOiJUSU9PQUtSS1YyVUwwMCIsImJjb25uZWN0SWQiOiI0NkZGMDA0M0U3Mjg0MTdEOERGOUZEMTkyMzYxMjcxOCJ9.PxCFecBMy1MeMbaXowAtencwv-qVbq2-LyQKrK0eLJU",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p16",
+  "summary": "Artificial intelligence lab Midjourney Inc. has bought the popular astrology app Co-Star and is building its first standalone image-generation app …",
+  "techmeme_url": "https://www.techmeme.com/260724/p16",
+  "title": "Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app (Natalie Lung/Bloomberg)"
+ },
+ "a260724p17": {
+  "article_url": "https://www.hollywoodreporter.com/business/digital/facebook-testing-immersive-video-home-page-app-1236655831/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p17",
+  "summary": "The social platform says it will test a video-first look for users when they open the app in select countries, potentially bringing it to the U.S. next year.",
+  "techmeme_url": "https://www.techmeme.com/260724/p17",
+  "title": "Facebook plans to test a full-screen \"immersive video\" player when users open the app, replacing the newsfeed, in select international markets this year (Alex Weprin/The Hollywood Reporter)"
+ },
+ "a260724p18": {
+  "article_url": "https://www.theblock.co/post/409610/world-foundation-wld-token-sale-funding",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p18",
+  "summary": "Quick Take — World Foundation has raised $52.5 million in new funding through a WLD token sale, with all purchased tokens subject to a one-year lockup.",
+  "techmeme_url": "https://www.techmeme.com/260724/p18",
+  "title": "World Foundation, the nonprofit behind the World protocol, raised $52.5M led by Pantera through a strategic sale of its WLD token with a one-year lockup (Yogita Khatri/The Block)"
+ },
+ "a260724p19": {
+  "article_url": "https://www.anthropic.com/news/claude-opus-5",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p19",
+  "summary": "Claude Opus 5 is available today. It's a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price.",
+  "techmeme_url": "https://www.techmeme.com/260724/p19",
+  "title": "Anthropic launches Claude Opus 5, which it says comes close to Fable 5 performance at half the price; it is the new default model on Claude Max (Anthropic)"
+ },
  "a260724p2": {
   "article_url": "https://www.ft.com/content/8ebab4c1-f36a-455e-a3d1-b36247296669",
   "date": "2026-07-24",
@@ -38,6 +86,78 @@
   "summary": "Companies make biggest US investment push in years to build up tech capabilities and avoid Donald Trump's tariffs",
   "techmeme_url": "https://www.techmeme.com/260724/p2",
   "title": "Flush with AI cash, South Korean groups are making their biggest US investment push in years, with their Q1 US foreign direct investment up 100%+ YoY to $10.2B (Financial Times)"
+ },
+ "a260724p20": {
+  "article_url": "https://www.zdnet.com/article/claude-opus-5-near-fable-performance-at-half-the-price/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p20",
+  "summary": "ZDNET's key takeaways — Opus 5 targets coding, knowledge work, and agent workflows. — Anthropic says it uses fewer tokens for similar quality.",
+  "techmeme_url": "https://www.techmeme.com/260724/p20",
+  "title": "Opus 5 improves coding, reasoning efficiency, and prompt-cache-friendly tool use, and is priced at $5/1M input tokens and $25/1M output, same as Opus 4.8 (David Gewirtz/ZDNET)"
+ },
+ "a260724p21": {
+  "article_url": "https://www.axios.com/2026/07/24/meta-muse-spark-agents",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p21",
+  "summary": "Meta is giving its AI assistant new agent-like capabilities powered by Muse Spark 1.1, its latest model.",
+  "techmeme_url": "https://www.techmeme.com/260724/p21",
+  "title": "Meta updates Meta AI with Muse Spark 1.1-powered agentic capabilities, connecting to Gmail and Google Calendar to perform tasks like creating daily updates (Ina Fried/Axios)"
+ },
+ "a260724p22": {
+  "article_url": "https://www.axios.com/2026/07/24/anthropic-releases-new-model-opus-5",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p22",
+  "summary": "Anthropic on Thursday is releasing Claude Opus 5, a new AI model designed to deliver performance close to its most powerful model …",
+  "techmeme_url": "https://www.techmeme.com/260724/p22",
+  "title": "Anthropic says Opus 5 model \"is the least susceptible to being tricked into misuse\"; it is Anthropic's fourth model release in less than two months (Madison Mills/Axios)"
+ },
+ "a260724p23": {
+  "article_url": "https://www.engadget.com/2222542/anthropic-says-opus-5-can-nearly-match-its-top-performing-model-for-half-the-price/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p23",
+  "summary": "It also has less restrictive safeguards than the Fable model. — Just as it was starting to feel like Anthropic …",
+  "techmeme_url": "https://www.techmeme.com/260724/p23",
+  "title": "Anthropic expects Opus 5 \"classifiers to intervene around 85% less often than they do for Fable 5\"; Opus 5 is not included in its 30-day data retention policy (Igor Bonifacic/Engadget)"
+ },
+ "a260724p24": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-24/qualcomm-tells-customers-that-prices-are-going-up-by-double-digits",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p24",
+  "summary": "Qualcomm Inc., the biggest maker of smartphone processors, plans to increase prices by a percentage in the double digits …",
+  "techmeme_url": "https://www.techmeme.com/260724/p24",
+  "title": "Letter: Qualcomm tells customers it plans to raise prices by double digit percentage points, after exhausting its ability to absorb higher costs from suppliers (Ian King/Bloomberg)"
+ },
+ "a260724p25": {
+  "article_url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p25",
+  "summary": "President Donald Trump on Friday said his administration will launch a trade probe into the European Union …",
+  "techmeme_url": "https://www.techmeme.com/260724/p25",
+  "title": "Trump says the US will initiate a probe into the EU's practice of \"robbing\" US tech giants with fines, threatening the bloc with \"substantial\" tariffs (Kevin Breuninger/CNBC)"
+ },
+ "a260724p26": {
+  "article_url": "https://www.theguardian.com/us-news/2026/jul/23/cop-city-protester-phone",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p26",
+  "summary": "Concern over US effort to prosecute Sam Tunick, accused by authorities of wiping his phone using GrapheneOS",
+  "techmeme_url": "https://www.techmeme.com/260724/p26",
+  "title": "The DOJ is prosecuting a Cop City protester for allegedly providing CBP with a \"duress\" passcode that wiped the contents of his GrapheneOS phone (Timothy Pratt/The Guardian)"
+ },
+ "a260724p27": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/23/paper-software-design-accel-iconiq",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p27",
+  "summary": "Paper, a design platform for teams using AI, locked up a $34 million Series A led by Accel and ICONIQ, CEO Stephen Haney tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260724/p27",
+  "title": "Paper, which allows designers to connect directly with production code and the AI agents that create it, raised a $34M Series A led by Accel and ICONIQ (Chris Metinko/Axios)"
+ },
+ "a260724p28": {
+  "article_url": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p28",
+  "summary": "Partnership between two groups has soured amid intense lobbying battle over rollout of autonomous vehicles",
+  "techmeme_url": "https://www.techmeme.com/260724/p28",
+  "title": "Sources: Waymo is exploring exiting its Uber partnership, with their relationship souring amid an intense lobbying battle over the future of robotaxis (Rafe Rosner-Uddin/Financial Times)"
  },
  "a260724p3": {
   "article_url": "https://www.wsj.com/world/china/china-ai-chips-race-949050d0?st=WZJze5&reflink=desktopwebshare_permalink",
