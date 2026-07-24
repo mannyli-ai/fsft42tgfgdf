@@ -7,6 +7,30 @@
   "techmeme_url": "https://www.techmeme.com/260724/p1",
   "title": "Mobileye founder and CEO Amnon Shashua plans to step down after nearly three decades, as the company pushes into robotaxis and humanoid robots (Kirsten Korosec/TechCrunch)"
  },
+ "a260724p10": {
+  "article_url": "https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p10",
+  "summary": "India's top cybercrime watchdog has ordered GitHub to take down Bitchat, the offline messaging app built by Block chief executive …",
+  "techmeme_url": "https://www.techmeme.com/260724/p10",
+  "title": "India orders GitHub to remove Bitchat, the offline messaging app built by Jack Dorsey that is used by anti-government protestors amid internet blackouts (Shaurya Malwa/CoinDesk)"
+ },
+ "a260724p11": {
+  "article_url": "https://www.engadget.com/2222353/meta-launches-facebook-verified/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p11",
+  "summary": "And it's free. — In the face of AI content, profiles and slop, Meta hopes a new Facebook Verified program will help human users interact with other humans.",
+  "techmeme_url": "https://www.techmeme.com/260724/p11",
+  "title": "Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges (Mat Smith/Engadget)"
+ },
+ "a260724p12": {
+  "article_url": "https://www.reuters.com/legal/litigation/indian-court-rules-favor-openai-copyright-lawsuit-brought-by-news-agency-ani-2026-07-24/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p12",
+  "summary": "An Indian court said on Friday that OpenAI's use of news agency ANI's content to train its ChatGPT service did not amount to copyright infringement.",
+  "techmeme_url": "https://www.techmeme.com/260724/p12",
+  "title": "Delhi High Court rules OpenAI's use of ANI content to train ChatGPT wasn't copyright infringement as the news agency didn't show ChatGPT reproduced its reports (Munsif Vengattil/Reuters)"
+ },
  "a260724p2": {
   "article_url": "https://www.ft.com/content/8ebab4c1-f36a-455e-a3d1-b36247296669",
   "date": "2026-07-24",
@@ -30,5 +54,45 @@
   "summary": "They were like high-school students trying to hack into the textbook company to cheat on their final exam. Only these hackers weren't human.",
   "techmeme_url": "https://www.techmeme.com/260724/p4",
   "title": "Sources: OpenAI told Hugging Face only this week its models caused the July 11 hack; the models appear to have been active online for days before being stopped (Wall Street Journal)"
+ },
+ "a260724p5": {
+  "article_url": "https://www.reuters.com/legal/transactional/wise-tumbles-after-us-declines-national-trust-bank-application-2026-07-24/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p5",
+  "summary": "London-listed shares of Wise (WISEa.L), fell 10% on Friday after the money transfer group said its application to create …",
+  "techmeme_url": "https://www.techmeme.com/260724/p5",
+  "title": "The US OCC denies Wise's application to create a national trust bank, citing incompatibility with new Federal Reserve policies; Wise says it plans to reapply (Simone Lobo/Reuters)"
+ },
+ "a260724p6": {
+  "article_url": "https://www.reuters.com/world/tiktok-charged-with-breaching-eu-tech-rules-online-safety-kids-eu-says-2026-07-24/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p6",
+  "summary": "ByteDance's social media platform TikTok has been charged with breaching EU online content rules due to design features …",
+  "techmeme_url": "https://www.techmeme.com/260724/p6",
+  "title": "Preliminary findings: the EU Commission says TikTok's accounts for minors violate the DSA, citing features that could expose children to bullying and predators (Foo Yun Chee/Reuters)"
+ },
+ "a260724p7": {
+  "article_url": "https://www.scmp.com/business/banking-finance/article/3361754/chinese-gpu-maker-confidentially-files-hong-kong-ipo-amid-fundraising-wave-sources",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p7",
+  "summary": "Firm's year-end listing plan underscores China's chip self-reliance and follows Biren, Iluvatar and Moore Threads in the fundraising rush",
+  "techmeme_url": "https://www.techmeme.com/260724/p7",
+  "title": "Sources: Shanghai-based GPU maker MetaX confidentially filed for a Hong Kong listing, targeting an IPO by the year-end, amid a surge of fundraising from rivals (Zoe SL Chan/South China Morning Post)"
+ },
+ "a260724p8": {
+  "article_url": "https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p8",
+  "summary": "Quick Take — Poolin Technology filed for Chapter 11 bankruptcy and is seeking court approval to sell Texas mining assets through a $52 million stalking-horse bid.",
+  "techmeme_url": "https://www.techmeme.com/260724/p8",
+  "title": "Poolin, previously regarded as one of the world's largest crypto mining pool providers, files for Chapter 11 and seeks to sell its Texas mining assets for $52M (Brian Danga/The Block)"
+ },
+ "a260724p9": {
+  "article_url": "https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p9",
+  "summary": "Seller is part of the Silicon Valley company's strategy to innovate on its original social network.",
+  "techmeme_url": "https://www.techmeme.com/260724/p9",
+  "title": "Meta launches Seller, a free standalone app version of Facebook Marketplace; Seller includes AI features that scan photos to fill out listings automatically (Eli Tan/New York Times)"
  }
 }
