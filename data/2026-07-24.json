@@ -159,6 +159,14 @@
   "techmeme_url": "https://www.techmeme.com/260724/p28",
   "title": "Sources: Waymo is exploring exiting its Uber partnership, with their relationship souring amid an intense lobbying battle over the future of robotaxis (Rafe Rosner-Uddin/Financial Times)"
  },
+ "a260724p29": {
+  "article_url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p29",
+  "summary": "Poke, the AI assistant you text like a friend, is making its next big move. The company behind the assistant …",
+  "techmeme_url": "https://www.techmeme.com/260724/p29",
+  "title": "Cognition acquires the makers of Poke, an AI assistant that users can access via messaging services, in a deal valuing Poke's parent in the \"low nine figures\" (Sarah Perez/TechCrunch)"
+ },
  "a260724p3": {
   "article_url": "https://www.wsj.com/world/china/china-ai-chips-race-949050d0?st=WZJze5&reflink=desktopwebshare_permalink",
   "date": "2026-07-24",
@@ -167,6 +175,86 @@
   "techmeme_url": "https://www.techmeme.com/260724/p3",
   "title": "A look at China's push to catch up with US AI chips; sources: its Vice Premier warned AI companies that anyone who resisted using local chips was a traitor (Wall Street Journal)"
  },
+ "a260724p30": {
+  "article_url": "https://time.com/article/2026/07/24/openai-hugging-face-attack/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p30",
+  "summary": "Harry Booth … OpenAI was evaluating its artificial intelligence models' ability to exploit vulnerable software …",
+  "techmeme_url": "https://www.techmeme.com/260724/p30",
+  "title": "An OpenAI staffer says the Hugging Face breach is \"a big warning shot\" externally but internally \"related incidents have been happening for a while\" (Harry Booth/Time)"
+ },
+ "a260724p31": {
+  "article_url": "https://news.bloomberglaw.com/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p31",
+  "summary": "Google says in a statement it appreciates the engagement by the administration and US government on the European Union's fine on the tech giant.",
+  "techmeme_url": "https://www.techmeme.com/260724/p31",
+  "title": "Google says it appreciates the engagement by the Trump administration and US government on the EU's $1B fine; Trump called the fine \"illegal\" (Rocio Fabbro/Bloomberg Law)"
+ },
+ "a260724p32": {
+  "article_url": "https://www.reuters.com/business/media-telecom/us-appeals-court-blocks-part-texas-childrens-online-safety-law-2026-07-24/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p32",
+  "summary": "A divided federal appeals court on Friday blocked Texas from enforcing a key provision of a state law meant to shield children from harm through using social media.",
+  "techmeme_url": "https://www.techmeme.com/260724/p32",
+  "title": "An appeals court narrowly blocks Texas from enforcing a monitoring and filtering requirement under its children's online safety law, over Section 230 preemption (Jonathan Stempel/Reuters)"
+ },
+ "a260724p33": {
+  "article_url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p33",
+  "summary": "Prentis, a new AI research lab focused on computer use models, co-founded by serial entrepreneur Ritankar Das and tech heavyweights Reid Hoffman …",
+  "techmeme_url": "https://www.techmeme.com/260724/p33",
+  "title": "Sources: Prentis, which develops computer use models and is co-founded by Reid Hoffman and Marc Pincus, is in talks to raise $100M at a $1B valuation (Marina Temkin/TechCrunch)"
+ },
+ "a260724p34": {
+  "article_url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p34",
+  "summary": "The OpenAI agent that broke into tech firm Hugging Face went on a dayslong hacking spree that OpenAI didn't notice until well after the threat …",
+  "techmeme_url": "https://www.techmeme.com/260724/p34",
+  "title": "Sources: OpenAI's models breached Hugging Face from July 11 to 13 and OpenAI realized their models were behind the hack several days later (Reuters)"
+ },
+ "a260724p35": {
+  "article_url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p35",
+  "summary": "CHENGDU, China — Governments increasingly want to control artificial intelligence, as companies release more powerful open-source models, a new multilateral statement indicates.",
+  "techmeme_url": "https://www.techmeme.com/260724/p35",
+  "title": "The US, China, and other APEC economies release a statement supporting open models, while emphasizing respect for security, data protection, and IP rights (Evelyn Cheng/CNBC)"
+ },
+ "a260724p36": {
+  "article_url": "https://www.aisi.gov.uk/blog/preliminary-assessment-of-kimi-k3s-cyber-capabilities",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p36",
+  "summary": "The UK Artificial Intelligence Security Institute (UK AISI) and the U.S. Center for AI Standards and Innovation (CAISI) (UK AISI / CAISI) …",
+  "techmeme_url": "https://www.techmeme.com/260724/p36",
+  "title": "A joint preliminary evaluation by the UK's AISI and the US' CAISI finds Kimi K3 trails leading US frontier closed weight models on cyber capability (AI Security Institute)"
+ },
+ "a260724p37": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-to-invest-1-billion-in-naver-and-expand-sk-group-accord?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDkzODk3OCwiZXhwIjoxNzg1NTQzNzc4LCJhcnRpY2xlSWQiOiJUSVA0QTZLR0lGUEUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.RTZs72B-BUZBHv-zAv89Ctqrtb57kaEefkk2X5JEYYU",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p37",
+  "summary": "Nvidia Corp. will invest $1 billion in Naver Corp. to help finance an AI data center under construction in South Korea …",
+  "techmeme_url": "https://www.techmeme.com/260724/p37",
+  "title": "Nvidia plans to invest $1B in Naver to help finance an AI data center in South Korea, and partners with SK Group to build more than 2 GW of AI data centers (Ian King/Bloomberg)"
+ },
+ "a260724p38": {
+  "article_url": "https://www.reuters.com/business/media-telecom/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-2026-07-24/",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p38",
+  "summary": "Nvidia (NVDA.O) and South Korea's SK Group on Friday unveiled a more than $500 billion AI initiative spanning large-scale AI data centers …",
+  "techmeme_url": "https://www.techmeme.com/260724/p38",
+  "title": "Nvidia and SK Group unveil a $500B+ AI initiative that includes an SK Hynix partnership to secure next-gen memory supply for Nvidia and joint development of HBM (Reuters)"
+ },
+ "a260724p39": {
+  "article_url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InJNNnpCYUMxN2giLCJwIjoiL3RlY2gvOTcwOTcwL2FmdGVyLWJhY2tsYXNoLW1ldGEtcGF1c2VzLXBsYW4tdG8tcmF0ZS1saW1pdC1pdHMtc21hcnQtZ2xhc3NlcyIsImV4cCI6MTc4NTM3MjE2OSwiaWF0IjoxNzg0OTQwMTY5fQ.9DFHwR9IK98hHwfhknWqaiuJd00Na_GecIg05RVv8oQ",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p39",
+  "summary": "“We're still exploring all our options for the best approach.” … The company is not giving up on the idea of a subscription fee for certain features — that's still moving forward.",
+  "techmeme_url": "https://www.techmeme.com/260724/p39",
+  "title": "After a backlash, Meta pauses its plan to \"rate limit\" Conversation Focus, an accessibility feature for its glasses that runs on-device (Sean Hollister/The Verge)"
+ },
  "a260724p4": {
   "article_url": "https://www.wsj.com/tech/ai/how-the-futuristic-hack-by-rogue-openai-models-unfolded-1657bcea?st=1eUZ8h&reflink=desktopwebshare_permalink",
   "date": "2026-07-24",
@@ -174,6 +262,14 @@
   "summary": "They were like high-school students trying to hack into the textbook company to cheat on their final exam. Only these hackers weren't human.",
   "techmeme_url": "https://www.techmeme.com/260724/p4",
   "title": "Sources: OpenAI told Hugging Face only this week its models caused the July 11 hack; the models appear to have been active online for days before being stopped (Wall Street Journal)"
+ },
+ "a260724p40": {
+  "article_url": "https://www.wsj.com/tech/trump-apple-micron-china-chips-784bbd3d?st=EeHhte&reflink=desktopwebshare_permalink",
+  "date": "2026-07-24",
+  "permalink_id": "a260724p40",
+  "summary": "Two of the president's priorities—cutting prices for U.S. consumers and increasing domestic semiconductor output—come into conflict",
+  "techmeme_url": "https://www.techmeme.com/260724/p40",
+  "title": "Sources: Apple has pitched Trump on using Chinese memory chips in its products sold outside the US; Micron warned such a plan could destroy the US chip industry (Wall Street Journal)"
  },
  "a260724p5": {
   "article_url": "https://www.reuters.com/legal/transactional/wise-tumbles-after-us-declines-national-trust-bank-application-2026-07-24/",
