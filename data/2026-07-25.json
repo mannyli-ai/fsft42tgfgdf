@@ -7,6 +7,30 @@
   "techmeme_url": "https://www.techmeme.com/260725/p1",
   "title": "Sources: CXMT expelled Huawei-linked SiCarrier staff from its R&D zone amid a pricing dispute, as Chinese memory makers flex their newfound clout to hike prices (Reuters)"
  },
+ "a260725p10": {
+  "article_url": "https://time.com/article/2026/07/23/unitree-china-human-robotics/",
+  "date": "2026-07-25",
+  "permalink_id": "a260725p10",
+  "summary": "Spectators typically leave a UFC fight with ringing ears and a sheepish resolve to get back to the gym. Wang Xingxing went straight to his laboratory.",
+  "techmeme_url": "https://www.techmeme.com/260725/p10",
+  "title": "A profile of Hangzhou-based Unitree, which shipped 5,500 humanoid robots in 2025, accounting for 25%+ of the global market, as it prepares for a Shanghai IPO (Charlie Campbell/Time)"
+ },
+ "a260725p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-25/india-s-modi-adopts-reels-amid-instagram-fueled-student-unrest",
+  "date": "2026-07-25",
+  "permalink_id": "a260725p11",
+  "summary": "As student protests spread across India, Prime Minister Narendra Modi has turned to Meta Platforms Inc.'s Instagram Reels …",
+  "techmeme_url": "https://www.techmeme.com/260725/p11",
+  "title": "As student protests spread across India, Narendra Modi turns to Reels, swapping his trademark cinematic videos for self-recorded messages aimed at Gen Z (Akriti Sharma/Bloomberg)"
+ },
+ "a260725p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
+  "date": "2026-07-25",
+  "permalink_id": "a260725p12",
+  "summary": "AI developer Anthropic PBC has asked SK Hynix Inc., one of the world's biggest manufacturers of memory chips …",
+  "techmeme_url": "https://www.techmeme.com/260725/p12",
+  "title": "SK Group Chair Chey Tae Won says Anthropic has asked SK Hynix for supplies to make its own chips, calling it remarkable that an AI developer has chip ambitions (Ian King/Bloomberg)"
+ },
  "a260725p2": {
   "article_url": "https://siliconangle.com/2026/07/21/ai-data-center-builder-fluidstack-raises-830m-7-5b-valuation/",
   "date": "2026-07-25",
@@ -62,5 +86,13 @@
   "summary": "Known as ‘Yang the genius’ by classmates, his new K3 model has closed the gap with leading US rivals",
   "techmeme_url": "https://www.techmeme.com/260725/p8",
   "title": "A profile of Yang Zhilin, founder of Moonshot AI, which faced early doubts over revenue and model capabilities before its Kimi K3 delivered a \"DeepSeek moment\" (Financial Times)"
+ },
+ "a260725p9": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-25/samsung-inks-200-billion-chip-supply-with-broadcom",
+  "date": "2026-07-25",
+  "permalink_id": "a260725p9",
+  "summary": "Samsung Electronics Co. won a contract worth more than $200 billion to make chips for Broadcom Inc., as the companies race to win a larger share of the AI infrastructure market.",
+  "techmeme_url": "https://www.techmeme.com/260725/p9",
+  "title": "Samsung announces a $200B+ contract to make chips for Broadcom through 2030, focusing on its 2nm and below process technologies for Broadcom's products (Hooyeon Kim/Bloomberg)"
  }
 }
