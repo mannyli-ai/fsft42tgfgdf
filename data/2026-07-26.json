@@ -7,6 +7,38 @@
   "techmeme_url": "https://www.techmeme.com/260726/p1",
   "title": "Elio, which is developing a new type of image sensor designed for AI rather than human vision, raised a $21M Series A led by Innovation Endeavors and Xora (Meir Orbach/CTech)"
  },
+ "a260726p10": {
+  "article_url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3?st=pTU9bH",
+  "date": "2026-07-26",
+  "permalink_id": "a260726p10",
+  "summary": "Project would be one of the largest AI computing hubs and involve power controlled by the U.S. government — Nvidia is in talks to provide …",
+  "techmeme_url": "https://www.techmeme.com/260726/p10",
+  "title": "Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10 GW data center project that SoftBank is developing in Ohio (Wall Street Journal)"
+ },
+ "a260726p11": {
+  "article_url": "https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3",
+  "date": "2026-07-26",
+  "permalink_id": "a260726p11",
+  "summary": "As drones and autonomous systems transform the battlefield, traditional defence companies start to act more like venture capitalists",
+  "techmeme_url": "https://www.techmeme.com/260726/p11",
+  "title": "Dealroom: defense giants such as Lockheed Martin have participated in a record $4.1B worth of VC rounds YTD, as drones and autonomous systems transform warfare (Financial Times)"
+ },
+ "a260726p12": {
+  "article_url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96?st=VxRECn&reflink=desktopwebshare_permalink",
+  "date": "2026-07-26",
+  "permalink_id": "a260726p12",
+  "summary": "Companies big and small are mixing models and it's changing the economics and power players of the industry",
+  "techmeme_url": "https://www.techmeme.com/260726/p12",
+  "title": "How US companies flipped from \"tokenmaxxing\" to \"thrift-maxxing\", mixing cheaper Chinese models with OpenAI and Anthropic, threatening the labs' IPO valuations (Wall Street Journal)"
+ },
+ "a260726p13": {
+  "article_url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
+  "date": "2026-07-26",
+  "permalink_id": "a260726p13",
+  "summary": "Shares of chipmaker Changxin Technology Group rose more than 500% Monday as they debuted on Shanghai's tech-heavy STAR Market …",
+  "techmeme_url": "https://www.techmeme.com/260726/p13",
+  "title": "CXMT shares jumped as much as 470% in its Shanghai debut, giving the memory chipmaker a ~$487B market cap, making it the most valuable China-listed company (Jenny Lee/CNBC)"
+ },
  "a260726p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-07-26/memory-frenzy-primes-china-champion-cxmt-for-historic-debut",
   "date": "2026-07-26",
@@ -54,5 +86,21 @@
   "summary": "Microsoft went all in on AI. Is its North Star now a noose? — Three years ago, Satya Nadella catapulted Microsoft to the front …",
   "techmeme_url": "https://www.techmeme.com/260726/p7",
   "title": "Once hailed as an AI visionary, Satya Nadella faces pressure as a compute crunch forces Microsoft to prioritize its own AI products over Azure cloud customers (Ashley Stewart/Business Insider)"
+ },
+ "a260726p8": {
+  "article_url": "https://www.reuters.com/world/india/india-relaxes-e-commerce-investment-rules-exports-win-amazon-2026-07-23/",
+  "date": "2026-07-26",
+  "permalink_id": "a260726p8",
+  "summary": "India's government on Thursday eased foreign investment rules to allow e-commerce companies to buy products directly from Indian sellers …",
+  "techmeme_url": "https://www.techmeme.com/260726/p8",
+  "title": "India eases foreign investment rules for e-commerce companies, a win for Amazon, which lobbied to buy goods directly from Indian sellers and sell them overseas (Aditya Kalra/Reuters)"
+ },
+ "a260726p9": {
+  "article_url": "https://www.ft.com/content/e23e8b1c-693b-48b5-85b3-5852ebf70b02",
+  "date": "2026-07-26",
+  "permalink_id": "a260726p9",
+  "summary": "Anthropic and OpenAI are among groups providing free and cut-price tailored solutions for educators and students",
+  "techmeme_url": "https://www.techmeme.com/260726/p9",
+  "title": "How AI companies are targeting the education market, including making free or cut-price tailored learning tools in partnership with schools and edtech startups (Jamie John/Financial Times)"
  }
 }
