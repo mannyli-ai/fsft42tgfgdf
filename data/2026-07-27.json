@@ -63,6 +63,30 @@
   "techmeme_url": "https://www.techmeme.com/260727/p16",
   "title": "Amazon files an FCC application to deploy a constellation of up to 5,105 satellites starting in 2028 to provide direct-to-device voice and data connectivity (Akash Sriram/Reuters)"
  },
+ "a260727p17": {
+  "article_url": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p17",
+  "summary": "NBCUniversal's Peacock is officially landing on YouTube. — All of the streaming service's content — including NBC Sports' portfolio of the NFL and NBA …",
+  "techmeme_url": "https://www.techmeme.com/260727/p17",
+  "title": "NBCU and YouTube reach a multiyear deal to include all Peacock content in YouTube Premium subscriptions in the US starting in early 2027 (Lillian Rizzo/CNBC)"
+ },
+ "a260727p18": {
+  "article_url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImlxU2RBRG9NUEYiLCJwIjoiL3RlY2gvOTcxMTYwL2ZyYW1ld29yay1sYXB0b3AtMTMtcHJvLWludGVsLXJldmlldyIsImV4cCI6MTc4NTU5ODQ5MCwiaWF0IjoxNzg1MTY2NDkwfQ.oFgqd4dUeJqpbfMkBrQU8fYrWaAfSKXulTUpejVTCzQ",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p18",
+  "summary": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared …",
+  "techmeme_url": "https://www.techmeme.com/260727/p18",
+  "title": "Framework Laptop 13 Pro review: very good Intel Core Ultra X7 performance, excellent build quality and keyboard, but expensive because of high RAM prices (Antonio G. Di Benedetto/The Verge)"
+ },
+ "a260727p19": {
+  "article_url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p19",
+  "summary": "OpenAI CEO Sam Altman will meet with senior Trump administration officials, lawmakers and economists in Washington, D.C. …",
+  "techmeme_url": "https://www.techmeme.com/260727/p19",
+  "title": "Source: Sam Altman will meet with senior US officials, lawmakers, and economists in Washington, DC, this week to preview OpenAI's upcoming family of AI models (CNBC)"
+ },
  "a260727p2": {
   "article_url": "https://thezvi.substack.com/p/more-on-an-internal-openai-model",
   "date": "2026-07-27",
@@ -70,6 +94,78 @@
   "summary": "We now have more details of what happened. Every time we learn more details, it somehow makes things seem worse.",
   "techmeme_url": "https://www.techmeme.com/260727/p2",
   "title": "A detailed recap of the Hugging Face breach by an internal OpenAI model, which repeatedly tried to escape OpenAI's sandbox and should be treated as critical (Zvi Mowshowitz/Don't Worry About the Vase)"
+ },
+ "a260727p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-27/startup-raises-470-million-to-build-tiny-reactors-for-military",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p20",
+  "summary": "California startup Antares Nuclear Inc. raised $470 million to advance plans to build small reactors aimed at supplying power to US military bases.",
+  "techmeme_url": "https://www.techmeme.com/260727/p20",
+  "title": "Antares, which is developing reactors with 1 MW of capacity for US military bases, raised $370M in equity and $100M in debt co-led by Paradigm and Caffeinated (Will Wade/Bloomberg)"
+ },
+ "a260727p21": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-27/asml-slides-after-report-of-china-beginning-duv-tool-production",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p21",
+  "summary": "ASML Holding NV shares slid to the lowest since early June after a report that a Chinese state-backed company …",
+  "techmeme_url": "https://www.techmeme.com/260727/p21",
+  "title": "ASML shares fall 7%+ after a report that a Chinese state-backed company has begun manufacturing DUV machines; Applied Materials fell 6.5%+ and Lam Research 7%+ (Sarah Jacob/Bloomberg)"
+ },
+ "a260727p22": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p22",
+  "summary": "Moonshot AI has made its Kimi K3 model available for public download, expanding its reach and influence in the global open software community at a time of growing US concern about Chinese encroachment into the top echelons of AI development.",
+  "techmeme_url": "https://www.techmeme.com/260727/p22",
+  "title": "Moonshot AI releases model weights for Kimi K3 under the \"Kimi K3 License\" (Bloomberg)"
+ },
+ "a260727p23": {
+  "article_url": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html?unlocked_article_code=1.01A.c_Y4.7RhNYnUPQCWP&smid=url-share",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p23",
+  "summary": "As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.",
+  "techmeme_url": "https://www.techmeme.com/260727/p23",
+  "title": "Microsoft introduces MAI-Cyber-1-Flash, an AI model trained for cybersecurity, and launches Perception, an agentic security system to patch vulnerabilities (New York Times)"
+ },
+ "a260727p24": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-makes-substantial-investment-in-sutskever-s-ai-startup",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p24",
+  "summary": "Nvidia Corp. has committed to invest $5 billion in Ilya Sutskever's artificial intelligence startup Safe Superintelligence Inc. …",
+  "techmeme_url": "https://www.techmeme.com/260727/p24",
+  "title": "Sources: Nvidia has committed to invest $5B in Ilya Sutskever's SSI; the startup has previously raised about $3B in funding and was valued at $32B last year (Shirin Ghaffary/Bloomberg)"
+ },
+ "a260727p25": {
+  "article_url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p25",
+  "summary": "Today we're announcing MAI-Cyber-1-Flash inside of MDASH, our multi-agent vulnerability identification and remediation harness.",
+  "techmeme_url": "https://www.techmeme.com/260727/p25",
+  "title": "Microsoft says MAI-Cyber-1-Flash and MDASH, its vulnerability identification harness, deliver \"world-class performance at 50% of the cost of leading models\" (Microsoft AI)"
+ },
+ "a260727p26": {
+  "article_url": "https://www.videogameschronicle.com/news/xbox-says-its-aware-of-major-outages-when-signing-in-and-launching-games-and-is-working-to-mitigate-the-issue/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p26",
+  "summary": "PLAYERS ARE REPORTING HAVING ISSUES WHEN TRYING TO SIGN IN OR SEE THEIR LIBRARY — Xbox has acknowledged that it's currently suffering …",
+  "techmeme_url": "https://www.techmeme.com/260727/p26",
+  "title": "Xbox says it is working to resolve a \"major outage\" affecting its Account & Profile, Store & Subscriptions, and Apps & Mobile services (Chris Scullion/Video Games Chronicle)"
+ },
+ "a260727p27": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTE3ODM1OSwiZXhwIjoxNzg1NzgzMTU5LCJhcnRpY2xlSWQiOiJUSVVETlBUOU5KTFQwMCIsImJjb25uZWN0SWQiOiI0OEFDOEE5MkEwNTM0MkQ4OEIyRjkwQjhDMTgzMTdDMyJ9.z3BDvCQbIyLyRcRQgIsKejrHduNgHbyS9TXTJZhVFi0",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p27",
+  "summary": "The number of software security flaws discovered in popular technology products in 2026 is on pace to roughly double the tally …",
+  "techmeme_url": "https://www.techmeme.com/260727/p27",
+  "title": "The US National Vulnerabilities Database recorded 45,207 software security flaws so far in 2026, on pace to roughly double the tally of flaws recorded in 2025 (Patrick Howell O'Neill/Bloomberg)"
+ },
+ "a260727p28": {
+  "article_url": "https://9to5mac.com/2026/07/27/x-money-apple-wallet/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p28",
+  "summary": "X has officially launched X Money, which includes Apple Wallet support, moving the service beyond its invite-only beta and beginning a rollout today.",
+  "techmeme_url": "https://www.techmeme.com/260727/p28",
+  "title": "X rolls out X Money to US Premium and Premium+ subscribers, combining a deposit account with up to 6% APY, free instant transfers on X, and a Visa debit card (Zac Hall/9to5Mac)"
  },
  "a260727p3": {
   "article_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
