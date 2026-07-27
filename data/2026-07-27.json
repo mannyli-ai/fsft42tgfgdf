@@ -6,5 +6,53 @@
   "summary": "The open letter on open weights feels familiar yet different... Everyone remembers Steve Jobs' ‘Thoughts on Flash’ open letter …",
   "techmeme_url": "https://www.techmeme.com/260727/p1",
   "title": "US tech giants have shifted their stance to publicly backing open AI models, with Anthropic and Amazon remaining notable holdouts alongside the US government (M.G. Siegler/Spyglass)"
+ },
+ "a260727p2": {
+  "article_url": "https://thezvi.substack.com/p/more-on-an-internal-openai-model",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p2",
+  "summary": "We now have more details of what happened. Every time we learn more details, it somehow makes things seem worse.",
+  "techmeme_url": "https://www.techmeme.com/260727/p2",
+  "title": "A detailed recap of the Hugging Face breach by an internal OpenAI model, which repeatedly tried to escape OpenAI's sandbox and should be treated as critical (Zvi Mowshowitz/Don't Worry About the Vase)"
+ },
+ "a260727p3": {
+  "article_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p3",
+  "summary": "Open-weight models are becoming the foundation for the next AI ecosystem. The US should compete in it, not wall itself off.",
+  "techmeme_url": "https://www.techmeme.com/260727/p3",
+  "title": "As open-weight models become the next AI ecosystem's foundation, a US ban on Chinese models would risk ceding the neutral substrate where innovation compounds (Tobi Knaup)"
+ },
+ "a260727p4": {
+  "article_url": "https://www.wsj.com/tech/ai/ai-chatbot-in-person-social-interactions-d1cb6831",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p4",
+  "summary": "People are leaning on AI for a task more dreaded than homework: navigating social situations with their fellow humans",
+  "techmeme_url": "https://www.techmeme.com/260727/p4",
+  "title": "How some young adults are using AI to navigate social situations, from drafting pickup lines and texts to formulating responses in face-to-face conversations (Natalie Kaufman/Wall Street Journal)"
+ },
+ "a260727p5": {
+  "article_url": "https://pathfounders.com/p/multiverse-computing-lands-570m-series-c",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p5",
+  "summary": "The Spanish startup says its quantum-inspired compression technology can shrink LLMs by up to 95% — Multiverse Computing, whose technology …",
+  "techmeme_url": "https://www.techmeme.com/260727/p5",
+  "title": "Spain-based Multiverse Computing, which shrinks LLMs to reduce energy and compute costs, raised a $570M Series C at a $1.7B valuation (Amelia Isaacs/Pathfounders)"
+ },
+ "a260727p6": {
+  "article_url": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p6",
+  "summary": "Cryptocurrency exchange BitMart said Sunday it will wind down its trading platform, ending 9 years of operation …",
+  "techmeme_url": "https://www.techmeme.com/260727/p6",
+  "title": "Crypto exchange BitMart says it plans to wind down its trading platform on January 31, 2027, ending 9 years of operation, and has stopped accepting new orders (Shaurya Malwa/CoinDesk)"
+ },
+ "a260727p7": {
+  "article_url": "https://www.reuters.com/business/media-telecom/eutelsat-receive-504-million-under-us-wireless-spectrum-plan-2026-07-27/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p7",
+  "summary": "European satellite operators SES (SESFg.LU) and Eutelsat (ETL.PA) stand to receive roughly $6.1 billion in combined payments …",
+  "techmeme_url": "https://www.techmeme.com/260727/p7",
+  "title": "European satellite operators Eutelsat and SES stand to receive ~$6.1B in combined payments for clearing satellite spectrum for US wireless services (Leo Marchandon/Reuters)"
  }
 }
