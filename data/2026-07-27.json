@@ -7,6 +7,62 @@
   "techmeme_url": "https://www.techmeme.com/260727/p1",
   "title": "US tech giants have shifted their stance to publicly backing open AI models, with Anthropic and Amazon remaining notable holdouts alongside the US government (M.G. Siegler/Spyglass)"
  },
+ "a260727p10": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/27/identity-way-security-microsoft-software",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p10",
+  "summary": "Way Security raised a $20 million seed round from Insight Partners and Glilot Capital, CEO Yossi Barishev tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260727/p10",
+  "title": "Way Security, which uses AI-driven automation and agentic workflows to help deploy IAM systems, raised a $20M seed from Insight Partners and Glilot Capital (Chris Metinko/Axios)"
+ },
+ "a260727p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p11",
+  "summary": "China warned it would take “all necessary measures” if the US moves to sanction Chinese artificial intelligence companies …",
+  "techmeme_url": "https://www.techmeme.com/260727/p11",
+  "title": "China warns it will take \"all necessary measures\" if the US sanctions Chinese AI companies over allegations they improperly used US models to train their models (Bloomberg)"
+ },
+ "a260727p12": {
+  "article_url": "https://www.theinformation.com/articles/china-starts-mass-producing-homegrown-duv-chipmaking-tools-advance-local-chip-industry",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p12",
+  "summary": "A Chinese state-backed company has begun manufacturing one of the key pieces of equipment used in chip manufacturing for the first time …",
+  "techmeme_url": "https://www.techmeme.com/260727/p12",
+  "title": "Sources: a Chinese state-backed company has begun manufacturing DUV machines, a key step in Beijing's drive to reduce its reliance on foreign chipmaking tech (The Information)"
+ },
+ "a260727p13": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-24/how-tiktok-creators-earn-midlevel-salaries-with-small-audiences-brand-deals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDkzMTI2MiwiZXhwIjoxNzg1NTM2MDYyLCJhcnRpY2xlSWQiOiJUSU9BUkJLR1pBSjAwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.yGa3uHJkMEIrBaChdyNGqNohdRE9nE01ZR_o5DvC8-w",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p13",
+  "summary": "A growing tier of microinfluencers is proving that loyal audiences, affiliate links and brand deals can rival — or exceed — traditional office pay.",
+  "techmeme_url": "https://www.techmeme.com/260727/p13",
+  "title": "How TikTok, Reels, and Amazon storefronts enabled microinfluencers with less than 100K followers to earn middle-class salaries via brand and affiliate deals (Melos Ambaye/Bloomberg)"
+ },
+ "a260727p14": {
+  "article_url": "https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p14",
+  "summary": "Partnership with former top OpenAI scientist aims to boost chip giant's high-profile customer roster during AI boom",
+  "techmeme_url": "https://www.techmeme.com/260727/p14",
+  "title": "Nvidia says it made a \"substantial\" investment in Safe Superintelligence, which will get access to Nvidia GPUs to up computing power by an \"order of magnitude\" (Keach Hagey/Wall Street Journal)"
+ },
+ "a260727p15": {
+  "article_url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p15",
+  "summary": "Multiple robotics companies are tackling one of AI's hardest problems: building foundation models capable of executing tasks they were never explicitly trained to handle.",
+  "techmeme_url": "https://www.techmeme.com/260727/p15",
+  "title": "Enigma, which runs large-scale experiments exploring how humans interact with robots, emerges from stealth with a $70M seed led by Index Ventures and Ribbit (Marina Temkin/TechCrunch)"
+ },
+ "a260727p16": {
+  "article_url": "https://www.reuters.com/science/amazon-leo-proposes-constellation-over-5000-satellites-direct-to-phone-service-2026-07-27/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p16",
+  "summary": "Amazon's (AMZN.O) Leo has proposed a new constellation of up to 5,105 satellites to provide direct-to-device voice and data connectivity …",
+  "techmeme_url": "https://www.techmeme.com/260727/p16",
+  "title": "Amazon files an FCC application to deploy a constellation of up to 5,105 satellites starting in 2028 to provide direct-to-device voice and data connectivity (Akash Sriram/Reuters)"
+ },
  "a260727p2": {
   "article_url": "https://thezvi.substack.com/p/more-on-an-internal-openai-model",
   "date": "2026-07-27",
@@ -54,5 +110,21 @@
   "summary": "European satellite operators SES (SESFg.LU) and Eutelsat (ETL.PA) stand to receive roughly $6.1 billion in combined payments …",
   "techmeme_url": "https://www.techmeme.com/260727/p7",
   "title": "European satellite operators Eutelsat and SES stand to receive ~$6.1B in combined payments for clearing satellite spectrum for US wireless services (Leo Marchandon/Reuters)"
+ },
+ "a260727p8": {
+  "article_url": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html?unlocked_article_code=1.01A.qwMM.9wYnTyu0M430&smid=bs-share",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p8",
+  "summary": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
+  "techmeme_url": "https://www.techmeme.com/260727/p8",
+  "title": "A look at the secretive process Meta used to get an advantageous deal for its Hyperion data center in Louisiana, including tax breaks and lack of public input (New York Times)"
+ },
+ "a260727p9": {
+  "article_url": "https://www.reuters.com/business/nvidia-forms-industry-alliance-open-ai-security-after-hugging-face-hack-2026-07-27/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p9",
+  "summary": "Nvidia (NVDA.O) said on Monday it had formed a coalition with other companies to develop and share tools for AI safety and cybersecurity …",
+  "techmeme_url": "https://www.techmeme.com/260727/p9",
+  "title": "Nvidia forms the Open Secure AI Alliance, a coalition including CrowdStrike, Hugging Face, and Dell to develop and share tools for AI safety and cybersecurity (Jaspreet Singh/Reuters)"
  }
 }
