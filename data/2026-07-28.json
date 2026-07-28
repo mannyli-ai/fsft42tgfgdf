@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/260728/p1",
   "title": "How Chinese platforms like ActID and New Claw are paying people to license their likeness for AI-generated dramas and ads, often using vague licensing terms (Rest of World)"
  },
+ "a260728p10": {
+  "article_url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p10",
+  "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes …",
+  "techmeme_url": "https://www.techmeme.com/260728/p10",
+  "title": "AI Forensics: seven out of the nine top AI image models on Hugging Face edited an image of a clothed woman into a topless one using a simple six-word prompt (Matt Burgess/Wired)"
+ },
+ "a260728p11": {
+  "article_url": "https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p11",
+  "summary": "Funds run by local government make gains of 5,000% from chipmaker's blockbuster listing — A blockbuster IPO by CXMT has delivered …",
+  "techmeme_url": "https://www.techmeme.com/260728/p11",
+  "title": "CXMT's IPO delivers a windfall for Hefei, an eastern China inland industrial city, with the government sitting on 5,000%+ paper gains after an early investment (William Sandlund/Financial Times)"
+ },
+ "a260728p12": {
+  "article_url": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html?unlocked_article_code=1.1FA.K7IG.NJdMdH8RKzVm&smid=bs-share",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p12",
+  "summary": "Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.",
+  "techmeme_url": "https://www.techmeme.com/260728/p12",
+  "title": "European police say Binance's April 2025 policy asking law enforcement to route certain requests to foreign government agencies hinders criminal investigations (New York Times)"
+ },
+ "a260728p13": {
+  "article_url": "https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p13",
+  "summary": "Amazon is overhauling its AI strategy, winding down many in-house models, reorganizing teams, and focusing engineers on a new strategy …",
+  "techmeme_url": "https://www.techmeme.com/260728/p13",
+  "title": "Sources: Amazon overhauls its AI strategy, deprecating most of its flagship Nova AI models, as it shifts resources to its Frontier Model Research initiative (Eugene Kim/Business Insider)"
+ },
+ "a260728p14": {
+  "article_url": "https://www.wsj.com/business/earnings/paypal-lifts-profitability-guidance-says-turnaround-is-progressing-ddfd0c54?st=WyEaXL&reflink=desktopwebshare_permalink",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p14",
+  "summary": "Second-quarter revenue rose 5% to $8.68 billion — PayPal bumped up its profitability guidance and reported revenue growth …",
+  "techmeme_url": "https://www.techmeme.com/260728/p14",
+  "title": "PayPal reports Q2 revenue up 5% YoY to $8.68B, above $8.47B est., transaction margin dollars up 1% YoY to $3.9B, and a $1.1B profit, down from $1.26B in Q2 2025 (Elias Schisgall/Wall Street Journal)"
+ },
+ "a260728p15": {
+  "article_url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p15",
+  "summary": "Apple today launched Apple Upgrade, a new U.S. leasing program for iPhone, iPad, Mac, and Apple Watch.",
+  "techmeme_url": "https://www.techmeme.com/260728/p15",
+  "title": "Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones (Juli Clover/MacRumors)"
+ },
+ "a260728p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-28/amazon-data-centers-hit-in-iran-strikes-satellite-images-show",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p16",
+  "summary": "Satellite imagery shows damage to two Amazon.com Inc. data centers in Bahrain, supporting Iran's claims last week that it struck the sites with missiles.",
+  "techmeme_url": "https://www.techmeme.com/260728/p16",
+  "title": "ESA satellite images show damage to two Amazon data centers in Bahrain, supporting Iran's claims last week that it struck the sites; Amazon declined to comment (Olivia Solon/Bloomberg)"
+ },
+ "a260728p17": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-28/new-apple-tv-4k-box-homepod-mini-and-siri-ai-smart-home-hub-are-coming?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTI0NDE0NSwiZXhwIjoxNzg1ODQ4OTQ1LCJhcnRpY2xlSWQiOiJUSUhNM0tLSzNOWUIwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.umlC4nkV4RlOa2djdz4HK-Zy2jhCDTHEHtnb0IiBfxU",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p17",
+  "summary": "Apple Inc., after spending years as a laggard in the smart home market, is preparing a dramatic new push into the category with fresh devices and software.",
+  "techmeme_url": "https://www.techmeme.com/260728/p17",
+  "title": "Sources: Apple is preparing to debut a smart home hub with a 7\" square display and facial recognition tech, a new Apple TV, and a refreshed HomePod mini in 2026 (Mark Gurman/Bloomberg)"
+ },
+ "a260728p18": {
+  "article_url": "https://www.theinformation.com/articles/chinese-ai-startup-moonshot-seeks-nvidia-blackwell-chips-next-model",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p18",
+  "summary": "Beijing-based startup Moonshot AI, flush from the breakout success of its recently released model, Kimi K3 …",
+  "techmeme_url": "https://www.techmeme.com/260728/p18",
+  "title": "Sources: Moonshot is seeking access to more Nvidia Blackwell chips to prepare for Kimi K4's development, after training K3 on Nvidia chips, including Blackwell (The Information)"
+ },
+ "a260728p19": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/28/act-security-cloud-bessemer",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p19",
+  "summary": "Cloud-focused Act Security has raised $60 million and emerged from stealth, CEO Jonathan Langer tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260728/p19",
+  "title": "Tel Aviv-based Act Security, whose platform reduces the access surface across cloud infrastructure, emerges from stealth with a $40M Series A and a $20M seed (Chris Metinko/Axios)"
+ },
  "a260728p2": {
   "article_url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
   "date": "2026-07-28",
@@ -14,6 +94,46 @@
   "summary": "Weeks before its expected acquisition by SpaceX closes, AI coding startup Cursor is making its biggest push into India yet …",
   "techmeme_url": "https://www.techmeme.com/260728/p2",
   "title": "Cursor introduces Cursor Start, a ~$7 monthly subscription exclusive to India, its third-largest market, priced below its standard $20 Pro monthly subscription (Jagmeet Singh/TechCrunch)"
+ },
+ "a260728p20": {
+  "article_url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p20",
+  "summary": "On Tuesday, the AI company Recursive Superintelligence announced a $400 million compute deal with Amazon Web Services.",
+  "techmeme_url": "https://www.techmeme.com/260728/p20",
+  "title": "Richard Socher's Recursive Superintelligence signs a $410M, multiyear AWS compute deal to support its self-improving AI systems, after raising $650M in May (Russell Brandom/TechCrunch)"
+ },
+ "a260728p21": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p21",
+  "summary": "British startup Dwelly has raised $170 million to buy more real estate businesses and inject artificial intelligence into their operations.",
+  "techmeme_url": "https://www.techmeme.com/260728/p21",
+  "title": "UK startup Dwelly, which buys real estate businesses and adds AI to handle maintenance, contracts, and other tasks, raised $95M in equity and $75M in debt (Yazhou Sun/Bloomberg)"
+ },
+ "a260728p22": {
+  "article_url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p22",
+  "summary": "The market for AI-generated voice models is massive. Creative use cases require AI voice models to be more expressive …",
+  "techmeme_url": "https://www.techmeme.com/260728/p22",
+  "title": "Fish Audio, which offers AI voice models for creators and enterprises and has $21M in ARR, raised a $50M seed led by Coreline Ventures and Capital Today (Ivan Mehta/TechCrunch)"
+ },
+ "a260728p23": {
+  "article_url": "https://www.theblock.co/post/409887/core-scientific-ties-ai-pivot-amd-multi-gigawatt-infrastructure-deal",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p23",
+  "summary": "Quick Take — AMD will secure more than 500 megawatts of Core Scientific data-center capacity beginning in 2027 …",
+  "techmeme_url": "https://www.techmeme.com/260728/p23",
+  "title": "Core Scientific and AMD announce a deal under which AMD will secure 500+ MW of US data center capacity starting in 2027, with the ability to scale up to 2.5 GW (Naga Avan-Nomayo/The Block)"
+ },
+ "a260728p24": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-28/visa-to-cut-7-of-workforce-as-ceo-seeks-to-revamp-payments-firm",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p24",
+  "summary": "Visa Inc. is eliminating about 2,600 jobs as Chief Executive Officer Ryan McInerney seeks to make the firm more efficient …",
+  "techmeme_url": "https://www.techmeme.com/260728/p24",
+  "title": "Memo: Visa is cutting ~2,600 jobs, or ~7% of staff, primarily affecting tech and product teams; source: Visa plans to reinvest in stablecoin and other offerings (Paige Smith/Bloomberg)"
  },
  "a260728p3": {
   "article_url": "https://nymag.com/intelligencer/article/justin-sun-world-liberty-lawsuit-trump-crypto-herro.html",
