@@ -167,6 +167,14 @@
   "techmeme_url": "https://www.techmeme.com/260727/p28",
   "title": "X rolls out X Money to US Premium and Premium+ subscribers, combining a deposit account with up to 6% APY, free instant transfers on X, and a Visa debit card (Zac Hall/9to5Mac)"
  },
+ "a260727p29": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-27/orange-morrison-partner-on-french-data-center-project",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p29",
+  "summary": "By continuing, I agree to the Privacy Policy and Terms of Service. … Explainers … AI",
+  "techmeme_url": "https://www.techmeme.com/260727/p29",
+  "title": "French carrier Orange and infrastructure investor Morrison agree to create a data center platform in France targeting 400 MW, backed by a €3B investment program (Molly Schuetz/Bloomberg)"
+ },
  "a260727p3": {
   "article_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
   "date": "2026-07-27",
@@ -174,6 +182,70 @@
   "summary": "Open-weight models are becoming the foundation for the next AI ecosystem. The US should compete in it, not wall itself off.",
   "techmeme_url": "https://www.techmeme.com/260727/p3",
   "title": "As open-weight models become the next AI ecosystem's foundation, a US ban on Chinese models would risk ceding the neutral substrate where innovation compounds (Tobi Knaup)"
+ },
+ "a260727p30": {
+  "article_url": "https://www.reuters.com/world/judge-blocks-minnesota-implementing-novel-prediction-markets-ban-2026-07-27/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p30",
+  "summary": "A federal judge on Monday blocked Minnesota from enforcing a newly enacted law that made the state the first nationally …",
+  "techmeme_url": "https://www.techmeme.com/260727/p30",
+  "title": "A federal judge issues a preliminary injunction blocking Minnesota from enforcing a newly enacted law that banned prediction markets like Kalshi and Polymarket (Nate Raymond/Reuters)"
+ },
+ "a260727p31": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/cadence-raises-annual-forecasts-demand-booms-ai-chip-design-2026-07-27/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p31",
+  "summary": "Cadence Design Systems (CDNS.O) raised its annual revenue and profit forecasts on Monday, banking on robust demand for its AI-powered chip and system design software.",
+  "techmeme_url": "https://www.techmeme.com/260727/p31",
+  "title": "Cadence reports Q2 revenue up 24.2% YoY to $1.58B and raises its annual revenue forecast to between $6.26B and $6.34B vs. $6.21B est.; CDNS up 4%+ after hours (Reuters)"
+ },
+ "a260727p32": {
+  "article_url": "https://www.anthropic.com/news/position-open-weights-models",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p32",
+  "summary": "Over the last few days there has been a lot of discussion about open-weights models, especially those from China.",
+  "techmeme_url": "https://www.techmeme.com/260727/p32",
+  "title": "Dario Amodei says Anthropic has never backed an open-weights model ban, lists reasons top chips shouldn't be sold to China, calls for global model testing, more (Anthropic)"
+ },
+ "a260727p33": {
+  "article_url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p33",
+  "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+  "techmeme_url": "https://www.techmeme.com/260727/p33",
+  "title": "Claude chats showed in Google and Bing search results, despite Anthropic's robots.txt saying not to crawl them, likely because the pages lacked a \"noindex\" tag (Maddy Varner/Wired)"
+ },
+ "a260727p34": {
+  "article_url": "https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p34",
+  "summary": "Following the release of iOS 26.6, iPadOS 26.6, and related software updates, Apple has detailed a huge number of security fixes included in today's new OS versions.",
+  "techmeme_url": "https://www.techmeme.com/260727/p34",
+  "title": "Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs (Zac Hall/9to5Mac)"
+ },
+ "a260727p35": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-27/crypto-to-data-centers-treasury-model-bust-has-firms-chasing-ai",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p35",
+  "summary": "The implosion of the once-hot market for cryptocurrency treasury stocks is prompting a number of firms to pivot to artificial intelligence in an attempt to win back investors.",
+  "techmeme_url": "https://www.techmeme.com/260727/p35",
+  "title": "Several digital-asset treasury firms have pivoted to AI amid a slump in crypto prices, but their poor stock performance suggests the strategy is not working (Monique Mulima/Bloomberg)"
+ },
+ "a260727p36": {
+  "article_url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p36",
+  "summary": "OpenAI's ChatGPT is now refusing requests to generate text that directly mimics the style of famous authors.",
+  "techmeme_url": "https://www.techmeme.com/260727/p36",
+  "title": "ChatGPT appears to block direct requests to copy an author's style, instead offering to capture the overall \"feeling\", amid its legal battles with book authors (Kyle Orland/Ars Technica)"
+ },
+ "a260727p37": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-28/korean-stocks-sink-as-chipmakers-plung-on-deepening-ai-fatigue",
+  "date": "2026-07-27",
+  "permalink_id": "a260727p37",
+  "summary": "South Korean stocks plunged, dragged by the nation's memory chipmaking powerhouses as investor sentiment continues to worsen on the artificial intelligence boom.",
+  "techmeme_url": "https://www.techmeme.com/260727/p37",
+  "title": "At market open Korean chipmakers' stocks plunged, with Samsung Electronics dropping 11%+, SK Hynix down 12%+, and the Korea Composite Stock Price Index down 9%+ (Youkyung Lee/Bloomberg)"
  },
  "a260727p4": {
   "article_url": "https://www.wsj.com/tech/ai/ai-chatbot-in-person-social-interactions-d1cb6831",
