@@ -135,6 +135,46 @@
   "techmeme_url": "https://www.techmeme.com/260728/p24",
   "title": "Memo: Visa is cutting ~2,600 jobs, or ~7% of staff, primarily affecting tech and product teams; source: Visa plans to reinvest in stablecoin and other offerings (Paige Smith/Bloomberg)"
  },
+ "a260728p25": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p25",
+  "summary": "GrubMarket, a food supply chain and delivery group, has confidentially filed for a U.S. initial public offering, it said on Tuesday.",
+  "techmeme_url": "https://www.techmeme.com/260728/p25",
+  "title": "GrubMarket, which connects wholesalers and distributors to grocers and other food buyers, confidentially files for a US IPO; it was valued at $4.5B in February (Arasu Kannagi Basil/Reuters)"
+ },
+ "a260728p26": {
+  "article_url": "https://www.theinformation.com/articles/openai-anthropic-quietly-teaming-washington",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p26",
+  "summary": "OpenAI and Anthropic are arch enemies whose leaders can't stand each other. But the two foes have formed an unholy alliance …",
+  "techmeme_url": "https://www.techmeme.com/260728/p26",
+  "title": "Sources: OpenAI and Anthropic have lobbied the Trump administration to make sure lagging competitors also have to comply with government reviews of their models (Stephanie Palazzolo/The Information)"
+ },
+ "a260728p27": {
+  "article_url": "https://www.crn.com/news/security/2026/5-things-to-know-about-cyera-s-deal-to-acquire-oasis-security",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p27",
+  "summary": "The $1 billion acquisition deal aims to bring capabilities for non-human identity security to the Cyera data security platform.",
+  "techmeme_url": "https://www.techmeme.com/260728/p27",
+  "title": "Data security startup Cyera agrees to acquire Oasis Security, which provides non-human identity security, in a deal valued at about $1B (Kyle Alspach/CRN)"
+ },
+ "a260728p28": {
+  "article_url": "https://www.calcalistech.com/ctechnews/article/ryb30q8bge",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p28",
+  "summary": "Mate Security says traditional security operations were not designed for AI-scale attacks. The startup is betting that trusted autonomous agents …",
+  "techmeme_url": "https://www.techmeme.com/260728/p28",
+  "title": "Mate, which is developing a platform to allow AI agents to detect, respond to, and proactively hunt threats, raised a $35M Series A led by Canaan Partners (Meir Orbach/CTech)"
+ },
+ "a260728p29": {
+  "article_url": "https://www.wsj.com/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p29",
+  "summary": "Corning issued disappointing third-quarter sales guidance, as growth is being squeezed by production limits on its booming AI connectivity products …",
+  "techmeme_url": "https://www.techmeme.com/260728/p29",
+  "title": "Corning's shares fall 16%+ after weak Q3 guidance, as its growth is squeezed by production limits on its AI connectivity products; Q2 sales rose 17% to $4.74B (Adriano Marchese/Wall Street Journal)"
+ },
  "a260728p3": {
   "article_url": "https://nymag.com/intelligencer/article/justin-sun-world-liberty-lawsuit-trump-crypto-herro.html",
   "date": "2026-07-28",
@@ -142,6 +182,86 @@
   "summary": "Justin Sun was already one of the richest people in the world, having made his fortune in the no-rules early phase of the crypto industry …",
   "techmeme_url": "https://www.techmeme.com/260728/p3",
   "title": "A profile of Justin Sun, who made his fortune in the early phases of crypto, advised for Trump family's WLF, then sued WLF alleging fraud and breach of contract (Jen Wieczner/New York Magazine)"
+ },
+ "a260728p30": {
+  "article_url": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p30",
+  "summary": "Shein's U.S. business is under investigation by the Federal Trade Commission, the fast fashion giant revealed …",
+  "techmeme_url": "https://www.techmeme.com/260728/p30",
+  "title": "Filing: Shein says its US business is under FTC investigation and it is \"cooperating\", without giving specifics, as the company prepares for an IPO in Hong Kong (Gabrielle Fonrouge/CNBC)"
+ },
+ "a260728p31": {
+  "article_url": "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p31",
+  "summary": "EBay and several former executives have agreed to pay nearly $56 million in a settlement with a Massachusetts couple …",
+  "techmeme_url": "https://www.techmeme.com/260728/p31",
+  "title": "eBay and several ex-executives agree to pay a $56M settlement to resolve a 2021 civil case involving the 2019 stalking and harassment of two e-commerce bloggers (Annie Palmer/CNBC)"
+ },
+ "a260728p32": {
+  "article_url": "https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p32",
+  "summary": "Power sources providing electricity only to data centers and not the public grid may not be subject to federal pollution laws …",
+  "techmeme_url": "https://www.techmeme.com/260728/p32",
+  "title": "Letter: the US EPA says power plants providing electricity only to data centers and not to the public grid would not be subject to federal pollution laws (Tim McLaughlin/Reuters)"
+ },
+ "a260728p33": {
+  "article_url": "https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p33",
+  "summary": "The startup will invest in expanding engineering and sales teams, accelerating ecosystem support, and expanding corporate partnerships.",
+  "techmeme_url": "https://www.techmeme.com/260728/p33",
+  "title": "Tel Aviv-based Hush Security, which lets organizations securely control enterprise AI agents, raised a $30M Series A, bringing its total funding to $41M (Ionut Arghire/SecurityWeek)"
+ },
+ "a260728p34": {
+  "article_url": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html?unlocked_article_code=1.1FA.n8t8.V0StB9-mJb0x&smid=url-share",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p34",
+  "summary": "Claude Mythos Preview discovered new attacks in testing against weakened cryptographic algorithms, which protect online financial transactions, private communications and more.",
+  "techmeme_url": "https://www.techmeme.com/260728/p34",
+  "title": "Anthropic says Claude Mythos Preview was able to break a weaker version of AES and it orchestrated another improved attack against HAWK cryptographic system (Dustin Volz/New York Times)"
+ },
+ "a260728p35": {
+  "article_url": "https://nypost.com/2026/07/28/business/nyc-ai-startup-backed-by-tech-billionaire-khosla-sues-rippling-over-trade-secret-theft/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p35",
+  "summary": "A New York-based AI startup is suing Rippling - a Silicon Valley software giant that got a $3 million tax break from Gov. Kathy Hochul …",
+  "techmeme_url": "https://www.techmeme.com/260728/p35",
+  "title": "NYC-based AI startup Runlayer sues Rippling for allegedly stealing trade secrets to \"build essentially a clone\" of Runlayer's safety and governance product (Taylor Herzlich/New York Post)"
+ },
+ "a260728p36": {
+  "article_url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=p6gb3f&reflink=desktopwebshare_permalink",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p36",
+  "summary": "The history of democracy and economics has proved that centralized power stifles human potential. — We are fortunate to live at an incredible moment in history.",
+  "techmeme_url": "https://www.techmeme.com/260728/p36",
+  "title": "Mark Zuckerberg argues that superintelligence should be widely distributed as a tool that empowers everyone, rather than centralized in a few institutions (Mark Zuckerberg/Wall Street Journal)"
+ },
+ "a260728p37": {
+  "article_url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p37",
+  "summary": "The Model Context Protocol, the open standard that has quietly become the connective tissue between AI agents and the world's software …",
+  "techmeme_url": "https://www.techmeme.com/260728/p37",
+  "title": "The Agentic AI Foundation updates MCP with a fully stateless architecture, a hardened authentication model, a formal 12-month deprecation policy, and more (Michael Nuñez/VentureBeat)"
+ },
+ "a260728p38": {
+  "article_url": "https://www.youtube.com/watch?v=XDB5beon4DY",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p38",
+  "summary": "Sam Altman joins us for a wide-ranging conversation about OpenAI's next chapter, the race for compute, and what happens as artificial intelligence becomes mo...",
+  "techmeme_url": "https://www.techmeme.com/260728/p38",
+  "title": "Q&A with Sam Altman on the Hugging Face breach, the race for compute, distillation, open source, concentration of power, robotics, OpenAI's future, and more (Invest Like The Best on YouTube)"
+ },
+ "a260728p39": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTI1OTMxOCwiZXhwIjoxNzg1ODY0MTE4LCJhcnRpY2xlSWQiOiJUSVVPTDNUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDQThGQ0Y4NkY1QjY0ODlCODA4ODkwNTFBNjMxRERBRCJ9.1OZ9Q9tpQyb4UKCCxCYZwDIhUSsS7oVy3mPN2ir2YZQ",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p39",
+  "summary": "More than 1,100 staffers across top artificial intelligence firms have signed a petition that calls on the US government …",
+  "techmeme_url": "https://www.techmeme.com/260728/p39",
+  "title": "Sources: OpenAI, Anthropic, and DeepMind staffers are sharing a letter asking the US government to \"deliberately pace the frontier of automated AI development\" (Bloomberg)"
  },
  "a260728p4": {
   "article_url": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
