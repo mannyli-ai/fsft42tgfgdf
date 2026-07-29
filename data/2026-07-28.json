@@ -270,5 +270,125 @@
   "summary": "The company slipped by the chipmaker Nvidia, amid growing concern about costs associated with the artificial intelligence boom.",
   "techmeme_url": "https://www.techmeme.com/260728/p4",
   "title": "Apple overtakes Nvidia to become the world's most valuable publicly traded company, two years after it lost the crown, closing at a $4.9T market cap on Monday (Kalley Huang/New York Times)"
+ },
+ "a260728p40": {
+  "article_url": "https://www.axios.com/2026/07/28/coursera-learnvector-andrew-ng",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p40",
+  "summary": "Coursera is putting $100 million into LearnVector, a new AI education company founded by Andrew Ng, a pioneer in AI and Coursera's chairman …",
+  "techmeme_url": "https://www.techmeme.com/260728/p40",
+  "title": "Coursera is investing $100M in LearnVector, a new AI education company founded by Andrew Ng that aims to build AI agents that function as personal tutors (Ina Fried/Axios)"
+ },
+ "a260728p41": {
+  "article_url": "https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p41",
+  "summary": "The Trump administration on Tuesday unveiled bans that target imports of new Chinese robots and power inverters …",
+  "techmeme_url": "https://www.techmeme.com/260728/p41",
+  "title": "The US FCC bans importing Chinese humanoid robots and power inverters to protect the US AI buildout from national security threats and to reshore key industries (Reuters)"
+ },
+ "a260728p42": {
+  "article_url": "https://www.barrons.com/articles/seagate-earnings-stock-price-57669b63?st=e1hAsp&reflink=desktopwebshare_permalink",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p42",
+  "summary": "Choose Barron's as a preferred source of financial news — Key Points — Seagate Technology stock jumped …",
+  "techmeme_url": "https://www.techmeme.com/260728/p42",
+  "title": "Seagate reports Q4 revenue up 49% YoY to $3.6B, vs. $3.5B est., adjusted earnings of $5.71 a share, above analysts' forecast of $5.10; STX jumps 6%+ after hours (Nate Wolf/Barron's Online)"
+ },
+ "a260728p43": {
+  "article_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p43",
+  "summary": "This post walks through how the intrusion actually worked: the two initial-access vectors, how the agent pivoted and moved laterally …",
+  "techmeme_url": "https://www.techmeme.com/260728/p43",
+  "title": "Hugging Face publishes a timeline of the OpenAI agent intrusion, including how the agent took ~17.6K actions, and details using GLM-5.2 to analyze the attack (Hugging Face)"
+ },
+ "a260728p44": {
+  "article_url": "https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p44",
+  "summary": "Quick Take — Ionic Digital was formed from Celsius Mining's assets and later took direct control of its sites from Hut 8.",
+  "techmeme_url": "https://www.techmeme.com/260728/p44",
+  "title": "Bitcoin miner and AI infrastructure company Ionic Digital surged more than 25% to nearly $63 in its Nasdaq debut, giving it an implied valuation of ~$2.75B (Kyle Baird/The Block)"
+ },
+ "a260728p45": {
+  "article_url": "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p45",
+  "summary": "The rogue agent that escaped from OpenAI and went on a days-long hacking spree at the AI firm Hugging Face also compromised a customer at a second tech company …",
+  "techmeme_url": "https://www.techmeme.com/260728/p45",
+  "title": "Sources: the OpenAI agent that breached Hugging Face also compromised a customer at AI infrastructure company Modal Labs (Reuters)"
+ },
+ "a260728p46": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-28/nxp-s-upbeat-revenue-forecast-fails-to-impress-investors",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p46",
+  "summary": "NXP Semiconductors NV struggled to impress investors with a generally upbeat forecast for the current period, the latest sign of deepening concern about the chip sector.",
+  "techmeme_url": "https://www.techmeme.com/260728/p46",
+  "title": "NXP reports Q2 revenue up 19% YoY to $3.5B, vs. $3.46B est., as it struggled to impress investors with a generally upbeat Q3 forecast; NXPI down 5%+ after hours (Christina Kyriasoglou/Bloomberg)"
+ },
+ "a260728p47": {
+  "article_url": "https://www.reuters.com/legal/litigation/tech-employees-call-us-backed-global-effort-manage-risks-advanced-ai-2026-07-28/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p47",
+  "summary": "More than 1,100 employees from leading tech firms on Tuesday urged the U.S. government to support an international effort …",
+  "techmeme_url": "https://www.techmeme.com/260728/p47",
+  "title": "OpenAI and Anthropic release statements in support of the \"Pacing the Frontier\" initiative; Anthropic says Dario Amodei and several co-founders have signed it (Anhata Rooprai/Reuters)"
+ },
+ "a260728p48": {
+  "article_url": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p48",
+  "summary": "Seed funding trends tell us a lot about how savvy investors see the future unfolding. And lately, the data tells us there's great concern about cybersecurity risks posed by AI.",
+  "techmeme_url": "https://www.techmeme.com/260728/p48",
+  "title": "Security- and AI-related startups have raised $855M across more than 150 reported seed-stage rounds this year, on track for an all-time high (Joanna Glasner/Crunchbase News)"
+ },
+ "a260728p49": {
+  "article_url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p49",
+  "summary": "SK Hynix shares fell on Wednesday as exponential second-quarter earnings and revenue growth still failed to satisfy analysts' supercharged expectations …",
+  "techmeme_url": "https://www.techmeme.com/260728/p49",
+  "title": "SK Hynix reports Q2 revenue up 257% YoY to ~$54.34B, below ~$57.56B est., and operating profit up 557% YoY to ~$41.48B, below analyst estimate of ~$43.85B (Jenny Lee/CNBC)"
+ },
+ "a260728p50": {
+  "article_url": "https://www.cbsnews.com/minnesota/news/elon-musk-xai-sues-minnesota-law-banning-ai-nudification/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p50",
+  "summary": "Billionaire Elon Musk's artificial intelligence company is suing Minnesota over a first-of-its-kind law that bans apps and websites …",
+  "techmeme_url": "https://www.techmeme.com/260728/p50",
+  "title": "xAI sues Minnesota's AG over a state law banning apps and sites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment (Riley Moser/CBS News)"
+ },
+ "a260728p51": {
+  "article_url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p51",
+  "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four …",
+  "techmeme_url": "https://www.techmeme.com/260728/p51",
+  "title": "OpenAI says the rogue AI that breached Hugging Face used exposed credentials from \"four accounts\" tied to four \"publicly available\" third-party services (Wired)"
+ },
+ "a260728p52": {
+  "article_url": "https://www.wsj.com/tech/ai/a-backlash-against-anthropic-is-brewing-in-silicon-valley-3b3ddc80",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p52",
+  "summary": "The AI pioneer faces growing distrust from startup founders and researchers over competitive tactics, guardrails and lack of support for open-weight models",
+  "techmeme_url": "https://www.techmeme.com/260728/p52",
+  "title": "Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models (Wall Street Journal)"
+ },
+ "a260728p53": {
+  "article_url": "https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html?unlocked_article_code=1.1FA.v7pw.l7VK2Yjz9HVK&smid=url-share",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p53",
+  "summary": "On the betting websites Kalshi and Polymarket, people can now wager on whether the Food and Drug Administration will decide this year …",
+  "techmeme_url": "https://www.techmeme.com/260728/p53",
+  "title": "Doctors and researchers worry that FDA-related wagers on Kalshi and Polymarket could compromise drug development tests and erode public trust in the process (Rebecca Robbins/New York Times)"
+ },
+ "a260728p54": {
+  "article_url": "https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4",
+  "date": "2026-07-28",
+  "permalink_id": "a260728p54",
+  "summary": "Meta chief warns against ‘regulatory capture’ of American rules on the technology — Mark Zuckerberg …",
+  "techmeme_url": "https://www.techmeme.com/260728/p54",
+  "title": "Mark Zuckerberg says the US should not ban Chinese AI models and that AI model peer reviews or vetting could be positive if \"done well with thoughtful people\" (Hannah Murphy/Financial Times)"
  }
 }
