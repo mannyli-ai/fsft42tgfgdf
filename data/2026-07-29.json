@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/260729/p1",
   "title": "OpenAI releases an \"early\" version of the open-source Codex Security CLI for scanning repositories, verifying fixes, adding CI/CD security checks, and more (@openai)"
  },
+ "a260729p10": {
+  "article_url": "https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p10",
+  "summary": "Enterprise AI startup Freehand has raised $75 million in a Series B funding round to scale its autonomous AI agents …",
+  "techmeme_url": "https://www.techmeme.com/260729/p10",
+  "title": "Freehand, which builds AI agents to manage supply chain spend and operations for Fortune 500 companies, raised a $75M Series B, after a $25M Series A in 2024 (Mary Ann Azevedo/Crunchbase News)"
+ },
+ "a260729p11": {
+  "article_url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p11",
+  "summary": "Spur Intelligence, a cybersecurity startup based in Lake Mary, Florida, has raised a $200 million round led by Insight Partners.",
+  "techmeme_url": "https://www.techmeme.com/260729/p11",
+  "title": "Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners (Julie Bort/TechCrunch)"
+ },
+ "a260729p12": {
+  "article_url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html?unlocked_article_code=1.1VA.e8sV.PdyR8boC53M4&smid=nytcore-ios-share",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p12",
+  "summary": "The future of artificial intelligence depends on finding more skilled humans for some very physical jobs.",
+  "techmeme_url": "https://www.techmeme.com/260729/p12",
+  "title": "OpenAI, Google, Meta, BlackRock, and others are recruiting electricians and carpenters by the thousands, with some of the highest pay the industry has ever seen (Lydia DePillis/New York Times)"
+ },
+ "a260729p13": {
+  "article_url": "https://www.ft.com/content/7b1197a5-e59a-4beb-ab83-e800e6ebc527",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p13",
+  "summary": "Banks rush to embrace tokenised system blurring the lines between traditional finance and digital asset ecosystem",
+  "techmeme_url": "https://www.techmeme.com/260729/p13",
+  "title": "BNY, the world's biggest bank for safeguarding assets, plans to use blockchain tech for its transfer agency record-keeping systems that service ~$8.6T in assets (Financial Times)"
+ },
+ "a260729p14": {
+  "article_url": "https://www.nytimes.com/2026/07/29/business/dealbook/sick-of-ai-generated-content-the-slop-janitor-is-here-to-help.html?unlocked_article_code=1.1VA.dT93.w5tXvUOcek7n&smid=url-share",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p14",
+  "summary": "Pangram, an A.I. detection start-up, promises near-perfect accuracy in sniffing out writing and imagery that wasn't made by humans.",
+  "techmeme_url": "https://www.techmeme.com/260729/p14",
+  "title": "New York-based AI detection startup Pangram raised $9M led by Menlo, and releases Pangram 4.0 and its first AI image detection model, claiming 99.5% accuracy (Niko Gallogly/New York Times)"
+ },
+ "a260729p15": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-faces-uk-probe-over-copilot-linked-price-hikes",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p15",
+  "summary": "The UK's consumer and antitrust watchdog is investigating whether Microsoft Corp. misled customers into paying …",
+  "techmeme_url": "https://www.techmeme.com/260729/p15",
+  "title": "The UK CMA opens an investigation into Microsoft over a potential consumer law breach involving users paying more to renew Microsoft 365 after it added Copilot (Upmanyu Trivedi/Bloomberg)"
+ },
+ "a260729p16": {
+  "article_url": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p16",
+  "summary": "Is this the future of foldable phones? — Samsung clearly thinks so. The company has given its new wide foldable the …",
+  "techmeme_url": "https://www.techmeme.com/260729/p16",
+  "title": "Samsung Galaxy Z Fold 8 review: comfortable when shut, the 4:3 inner display is great, and impressive battery life, but no telephoto or IP68 and some app errors (Dominic Preston/The Verge)"
+ },
+ "a260729p17": {
+  "article_url": "https://www.reuters.com/world/china/us-award-globalfoundries-300-million-develop-faster-ai-chip-links-2026-07-29/",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p17",
+  "summary": "GlobalFoundries (GFS.O) said on Wednesday the U.S. government will award $300 million to the chipmaker to bolster research …",
+  "techmeme_url": "https://www.techmeme.com/260729/p17",
+  "title": "GlobalFoundries says the US plans to award it $300M in CHIPS Act funding to bolster R&D of silicon photonics tech to power more efficient AI data centers (Reuters)"
+ },
+ "a260729p18": {
+  "article_url": "https://www.theinformation.com/articles/openrouter-financials-suggest-steep-price-possible-acquirer-stripe",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p18",
+  "summary": "If Stripe ends up buying three-year-old startup OpenRouter for close to $10 billion, the payments firm would be paying …",
+  "techmeme_url": "https://www.techmeme.com/260729/p18",
+  "title": "Source: OpenRouter was recently generating ~$140M in annualized revenue, or ~$12M per month, up nearly 3x since April, making Stripe's $10B offer a big premium (The Information)"
+ },
+ "a260729p19": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-29/faa-approves-doordash-delivery-drones-humans-will-still-handle-most-orders",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p19",
+  "summary": "DoorDash Inc. is building its own delivery drones and has gained the necessary approvals to operate them commercially …",
+  "techmeme_url": "https://www.techmeme.com/260729/p19",
+  "title": "DoorDash says the FAA granted it Part 135 air carrier certification to operate a drone delivery service and it plans to launch drone deliveries in the fall (Natalie Lung/Bloomberg)"
+ },
  "a260729p2": {
   "article_url": "https://www.ft.com/content/61b2953d-ee0d-45de-af6e-a9c1cf524b33?accessToken=zwAAAZ-saIC9kc9hspU97g1F3tOvbqnBz1JLMw.MEUCIDABGXDaUtwfjiMl_j0Ohk_6Hx0HjyE1Uzp_OG2oNaMlAiEA6DTjVNTJxSj7jaq_c69FedmGnNqmN-lSINe3xyIgX4A&sharetype=gift&token=56cb59cc-cc42-4a97-9807-70b1d6540680",
   "date": "2026-07-29",
@@ -14,6 +94,22 @@
   "summary": "Landmark project that solved protein folding gives way to a wider race to build AI systems for scientific discovery",
   "techmeme_url": "https://www.techmeme.com/260729/p2",
   "title": "Sources: Google DeepMind has reassigned the majority of the original authors of the AlphaFold papers; about a quarter of the papers' full-time authors have left (Madhumita Murgia/Financial Times)"
+ },
+ "a260729p20": {
+  "article_url": "https://www.ft.com/content/e1725176-ebe2-4d29-abe9-a27e11e8c1a8",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p20",
+  "summary": "Billionaire had accused brands of organising an illegal boycott — Elon Musk's X has settled a long-running legal battle …",
+  "techmeme_url": "https://www.techmeme.com/260729/p20",
+  "title": "X settles a long-running legal battle with the World Federation of Advertisers, ending a case that accused brands like Mars and Shell of illegally boycotting X (Daniel Thomas/Financial Times)"
+ },
+ "a260729p21": {
+  "article_url": "https://www.reuters.com/business/eliyan-raises-145-million-1-billion-valuation-ease-ai-chip-data-bottlenecks-2026-07-29/",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p21",
+  "summary": "Eliyan, a startup that aims to ease the bottlenecks in transferring data between AI chips in data centers …",
+  "techmeme_url": "https://www.techmeme.com/260729/p21",
+  "title": "Eliyan, which aims to license tech and make physical \"chiplets\" to ease AI chip data transfer bottlenecks, raised a $145M Series C at a $1B valuation (Stephen Nellis/Reuters)"
  },
  "a260729p3": {
   "article_url": "https://tech.eu/2026/07/28/zuriq-raises-255m-to-scale-its-breakthrough-2d-quantum-architecture/",
@@ -54,5 +150,21 @@
   "summary": "ChangXin Memory Technologies (CXMT) and Zhipu AI have not only seen their share prices skyrocket, but they have also handed a windfall …",
   "techmeme_url": "https://www.techmeme.com/260729/p7",
   "title": "CXMT's IPO prospectus showed Alibaba had a ~5% stake, which is now worth $20B+, a nearly 20x return, based on CXMT's ~$464B closing market cap on July 28 (Wency Chen/South China Morning Post)"
+ },
+ "a260729p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p8",
+  "summary": "Moonshot AI secured a $35 billion valuation after raising a larger-than-anticipated $3.5 billion in a just-closed round of financing …",
+  "techmeme_url": "https://www.techmeme.com/260729/p8",
+  "title": "Sources: Moonshot AI hit a $35B valuation after closing a $3.5B round, exceeding its initial target of $1B to $2B, and plans a Hong Kong IPO as soon as 2026 (Bloomberg)"
+ },
+ "a260729p9": {
+  "article_url": "https://resiliencemedia.co/agon-emerges-from-stealth-with-30m-to-build-ai-training-models-for-defence/",
+  "date": "2026-07-29",
+  "permalink_id": "a260729p9",
+  "summary": "Startup founded by the co-founder of Cambridge Aerospace and alums from Anduril, Applied Intuition and Helsing aims at a critical gap in the market.",
+  "techmeme_url": "https://www.techmeme.com/260729/p9",
+  "title": "London-based Agon, which is developing sovereign AI training infrastructure for European defense, emerges from stealth with a $7M pre-seed and a $23M seed (Ingrid Lunden/Resilience Media)"
  }
 }
