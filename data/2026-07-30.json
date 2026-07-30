@@ -143,6 +143,62 @@
   "techmeme_url": "https://www.techmeme.com/260730/p3",
   "title": "A look at ByteDance's efforts to become China's leading company across all aspects of AI, from frontier models and video generation to infrastructure and chips (Financial Times)"
  },
+ "a260730p33": {
+  "article_url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p33",
+  "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
+  "techmeme_url": "https://www.techmeme.com/260730/p33",
+  "title": "Google DeepMind releases Gemini Robotics 2, which combines several different AI models into a single system to control a range of robots, including humanoids (Will Knight/Wired)"
+ },
+ "a260730p34": {
+  "article_url": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b?st=pphibh&reflink=desktopwebshare_permalink",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p34",
+  "summary": "The highflying hedge fund run by Leopold Aschenbrenner is in crisis mode after AI-related bets sank — Situational Awareness …",
+  "techmeme_url": "https://www.techmeme.com/260730/p34",
+  "title": "Sources: AI-focused hedge fund Situational Awareness sold the bulk of its stock portfolio to Ken Griffin's Citadel after suffering deep losses (Wall Street Journal)"
+ },
+ "a260730p35": {
+  "article_url": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p35",
+  "summary": "Leopold Aschenbrenner's hedge fund suffered steep losses in recent days from tech sell-off — Situational Awareness rapidly sold …",
+  "techmeme_url": "https://www.techmeme.com/260730/p35",
+  "title": "Source: Situational Awareness has a $5B stake in Anthropic, and will continue to run as a private investment firm after suffering heavy losses in recent days (Financial Times)"
+ },
+ "a260730p36": {
+  "article_url": "https://www.reuters.com/technology/cyber-firm-wiz-says-flaw-could-have-led-mass-exposure-microsoft-cloud-customers-2026-07-30/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p36",
+  "summary": "Alphabet-owned (GOOGL.O) cybersecurity company Wiz said on Thursday it had found a sweeping flaw …",
+  "techmeme_url": "https://www.techmeme.com/260730/p36",
+  "title": "Wiz says a now-patched flaw in Azure CosmosDB would have let a hacker remotely compromise any of its users; Microsoft has seen \"no evidence of customer impact\" (Raphael Satter/Reuters)"
+ },
+ "a260730p37": {
+  "article_url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p37",
+  "summary": "He sits on the couch in his living room, clad in an orange shirt emblazoned with a cartoon version of the motorcycle driven by Italian racer Valentino Rossi.",
+  "techmeme_url": "https://www.techmeme.com/260730/p37",
+  "title": "Friend announces an AI pendant with a speaker for spoken replies for $249, up from its original necklace's $129 price, with an optional $10 monthly subscription (Boone Ashworth/Wired)"
+ },
+ "a260730p38": {
+  "article_url": "https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p38",
+  "summary": "Following 404 Media's reporting on how LinkedIn is full of AI slop, the platform is giving users a chance to report it when they see it.",
+  "techmeme_url": "https://www.techmeme.com/260730/p38",
+  "title": "LinkedIn introduces a \"seems like AI slop\" button to allow users to report posts they think are AI-generated (Joseph Cox/404 Media)"
+ },
+ "a260730p39": {
+  "article_url": "https://www.axios.com/2026/07/30/openai-cuts-prices-gpt-terra-luna5",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p39",
+  "summary": "OpenAI said Thursday it is cutting prices for two GPT-5.6 models after improving the efficiency of the systems that serve them.",
+  "techmeme_url": "https://www.techmeme.com/260730/p39",
+  "title": "OpenAI says it is cutting the price of GPT-5.6 Luna by ~80% and the price of GPT-5.6 Terra by 20% after improving the efficiency of the systems that serve them (Ina Fried/Axios)"
+ },
  "a260730p4": {
   "article_url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
   "date": "2026-07-30",
@@ -150,6 +206,70 @@
   "summary": "Deciding what's real on the Internet won't be easy in the future. — The scale of AI-generated media can be hard to grasp.",
   "techmeme_url": "https://www.techmeme.com/260730/p4",
   "title": "Though Google's SynthID tech for watermarking AI images is hard to break, there will always be ways to create AI-generated content without any labeling (Ryan Whitwam/Ars Technica)"
+ },
+ "a260730p40": {
+  "article_url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p40",
+  "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks …",
+  "techmeme_url": "https://www.techmeme.com/260730/p40",
+  "title": "Google pilots a faster twice-a-week schedule for Chrome security releases as AI tools drive a surge in bug discoveries; Chrome 149 and 150 fixed 1,072 bugs (Lily Hay Newman/Wired)"
+ },
+ "a260730p41": {
+  "article_url": "https://www.wsj.com/tech/banks-in-talks-to-lend-15-billion-for-anthropic-data-center-backed-by-google-606d7afd?st=xCJsTe&reflink=desktopwebshare_permalink",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p41",
+  "summary": "Google's guarantees of power and lease obligations would help developer secure financing for the 1.6-gigawatt Texas project",
+  "techmeme_url": "https://www.techmeme.com/260730/p41",
+  "title": "Sources: a group of banks is in talks to lend $15B to Nexus to build a Texas data center; Anthropic will lease it and Google has provided financial guarantees (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a260730p42": {
+  "article_url": "https://thinkingmachines.ai/news/inkling-small/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p42",
+  "summary": "Try on Tinker Model card Hugging Face — Today, we are releasing Inkling-Small, an efficient open-weights model …",
+  "techmeme_url": "https://www.techmeme.com/260730/p42",
+  "title": "Thinking Machines releases Inkling-Small, an open-weight model with 276B total and 12B active parameters, saying it \"achieves comparable performance\" to Inkling (Thinking Machines Lab)"
+ },
+ "a260730p43": {
+  "article_url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p43",
+  "summary": "Okta on Thursday agreed to acquire AI identity security startup Permiso Security, betting that demand for protecting AI agents …",
+  "techmeme_url": "https://www.techmeme.com/260730/p43",
+  "title": "Okta agrees to acquire AI identity security startup Permiso; source: the acquisition is valued at just under $200M and is structured as an almost all-cash deal (Jagmeet Singh/TechCrunch)"
+ },
+ "a260730p44": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-30/situational-awareness-assets-fall-to-10-billion-after-losses",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p44",
+  "summary": "Assets at Leopold Aschenbrenner's hedge fund Situational Awareness have slumped to about $10 billion after it was forced to liquidate some positions to meet margin calls.",
+  "techmeme_url": "https://www.techmeme.com/260730/p44",
+  "title": "Source: Situational Awareness' assets have fallen to ~$10B after it liquidated some positions to meet margin calls, down from a reported $20B+ as of late May (Bloomberg)"
+ },
+ "a260730p45": {
+  "article_url": "https://www.axios.com/2026/07/30/judge-pentagon-case-worse-anthropic",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p45",
+  "summary": "A federal judge on Thursday signaled she's become even more skeptical of the Pentagon's decision to blacklist Anthropic …",
+  "techmeme_url": "https://www.techmeme.com/260730/p45",
+  "title": "At a hearing, a US judge says \"I don't see additional evidence\" from the Pentagon justifying its designation of Anthropic as a supply-chain risk (Maria Curi/Axios)"
+ },
+ "a260730p46": {
+  "article_url": "https://www.theregister.com/cyber-crime/2026/07/30/amazon-links-four-poisoned-npm-packages-to-one-north-korean-crew/5281120",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p46",
+  "summary": "Researchers say Sapphire Sleet socially engineered maintainers before publishing malicious updates through trusted accounts",
+  "techmeme_url": "https://www.techmeme.com/260730/p46",
+  "title": "Amazon researchers link the compromises of four npm packages, including axios, over the past 18 months to the North Korea-linked group tracked as Sapphire Sleet (Carly Page/The Register)"
+ },
+ "a260730p47": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p47",
+  "summary": "China's DeepSeek is planning a massive artificial-intelligence data center in Inner Mongolia, according to people familiar with the matter …",
+  "techmeme_url": "https://www.techmeme.com/260730/p47",
+  "title": "Sources: DeepSeek plans to build a 1 GW data center in Inner Mongolia and aims to bring at least part of its capacity online by the end of 2027 or early 2028 (Bloomberg)"
  },
  "a260730p5": {
   "article_url": "https://www.ft.com/content/5c2ae092-14af-4bd1-8e3d-8996755cba6a",
