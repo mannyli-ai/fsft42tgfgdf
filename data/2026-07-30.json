@@ -7,6 +7,46 @@
   "techmeme_url": "https://www.techmeme.com/260730/p1",
   "title": "As the UK slips in Ookla's mobile download speed and Opensignal's network quality rankings, operators blame planning rules and low prices for underinvestment (Financial Times)"
  },
+ "a260730p15": {
+  "article_url": "https://www.ft.com/content/e18c380f-c25d-4e91-8135-d9c2424ab720",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p15",
+  "summary": "Lawyers for former president insist he did not authorise the projection following legal challenge from leftwing groups",
+  "techmeme_url": "https://www.techmeme.com/260730/p15",
+  "title": "An AI avatar of Brazil's jailed ex-president Jair Bolsonaro, who is banned from communicating publicly, is testing new AI rules ahead of Brazil's 2026 elections (Financial Times)"
+ },
+ "a260730p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-30/disney-ceo-d-amaro-wants-to-overhaul-disney-streaming-to-compete-with-netflix",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p16",
+  "summary": "Streaming has been a drag on Disney's share price as subscriber growth stalled. A tech overhaul and more foreign-language shows are in the cards.",
+  "techmeme_url": "https://www.techmeme.com/260730/p16",
+  "title": "Disney CEO Josh D'Amaro is leading a tech overhaul of Disney+ to close the gap with Netflix and YouTube, including better recommendations and vertical videos (Bloomberg)"
+ },
+ "a260730p17": {
+  "article_url": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p17",
+  "summary": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it's challenging engineers to make every GPU count.",
+  "techmeme_url": "https://www.techmeme.com/260730/p17",
+  "title": "LinkedIn says it will keep its investments in GPUs, compute, and storage capacity flat during FY 2027, after doubling its GPU efficiency in the past six months (Paresh Dave/Wired)"
+ },
+ "a260730p18": {
+  "article_url": "https://www.ft.com/content/77baac40-d803-4084-94f3-a133653072cf",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p18",
+  "summary": "E-commerce giant's staff said the new technology had caused budget overruns that sometimes took months to detect",
+  "techmeme_url": "https://www.techmeme.com/260730/p18",
+  "title": "Sources: Amazon staff find \"catastrophically expensive\" AI costs due to a lack of controls, like $1.8M on Claude to fail to match author details with listings (Rafe Rosner-Uddin/Financial Times)"
+ },
+ "a260730p19": {
+  "article_url": "https://www.wsj.com/finance/investing/intercontinental-exchange-to-buy-marketaxess-in-6-billion-deal-f5ff553a?st=SRySn3&reflink=desktopwebshare_permalink",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p19",
+  "summary": "The acquisition of MarketAxess is expected to close in the first half of 2027 — Intercontinental Exchange agreed to acquire MarketAxess …",
+  "techmeme_url": "https://www.techmeme.com/260730/p19",
+  "title": "Intercontinental Exchange agrees to acquire electronic fixed-income trading platform MarketAxess for $6B in cash, a 33% premium, set to close in H1 2027 (Katherine Hamilton/Wall Street Journal)"
+ },
  "a260730p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-07-29/higher-airfares-loom-on-busy-routes-as-ai-squeezes-out-bargains",
   "date": "2026-07-30",
@@ -14,6 +54,86 @@
   "summary": "Globetrotters hunting for airfare bargains are in for a rude awakening: the days of stumbling across a cheap seat on a popular flight could soon disappear.",
   "techmeme_url": "https://www.techmeme.com/260730/p2",
   "title": "Airlines are using AI to adjust seat prices more quickly, capturing more revenue while narrowing the pricing gaps that once let travelers find bargain fares (K Oanh Ha/Bloomberg)"
+ },
+ "a260730p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-30/meta-reports-279-billion-in-future-data-center-leases-for-ai",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p20",
+  "summary": "Meta Platforms Inc. said it has $279 billion in future lease agreements mostly related to artificial intelligence data centers …",
+  "techmeme_url": "https://www.techmeme.com/260730/p20",
+  "title": "Filing: Meta reports $279B in future lease agreements in Q2 related to AI data centers that are not reflected on its balance sheet, up 53% from the prior period (Shona Ghosh/Bloomberg)"
+ },
+ "a260730p21": {
+  "article_url": "https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p21",
+  "summary": "ZDNET's key takeaways — Google Earth can now generate AI images with Nano Banana. — The tool is entertaining, but weak for serious geographic work.",
+  "techmeme_url": "https://www.techmeme.com/260730/p21",
+  "title": "Google integrates Nano Banana 2 into Google Earth via a new Create Image button, letting users prompt to create infographics or visual alterations of locations (David Gewirtz/ZDNET)"
+ },
+ "a260730p22": {
+  "article_url": "https://www.datacenterdynamics.com/en/news/google-backed-fusion-firm-cfs-raises-1bn-in-equity-financing/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p22",
+  "summary": "Has now raised $4bn, the most of any fusion company — Google-backed nuclear fusion company Commonwealth Fusion Systems (CFS) …",
+  "techmeme_url": "https://www.techmeme.com/260730/p22",
+  "title": "Google-backed nuclear fusion company Commonwealth Fusion Systems raised $1B, after raising a $1.8B Series B in 2021 and $863M in 2025, and plans a 2030s launch (Zachary Skidmore/DatacenterDynamics)"
+ },
+ "a260730p23": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-30/nscale-to-buy-ai-software-startup-anyscale-for-1-65-billion",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p23",
+  "summary": "Cloud provider Nscale agreed to acquire software startup Anyscale to help customers use AI computing power more efficiently.",
+  "techmeme_url": "https://www.techmeme.com/260730/p23",
+  "title": "London-based Nscale agrees to acquire Anyscale, a source says for ~$1.65B; Anyscale, which helps AI workloads run more efficiently, had a $1B+ valuation in 2022 (Brody Ford/Bloomberg)"
+ },
+ "a260730p24": {
+  "article_url": "https://www.theinformation.com/articles/tsmc-develops-ai-chip-packaging-tech-counter-intel",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p24",
+  "summary": "Taiwan Semiconductor Manufacturing Co. is developing an advanced chip-packaging technology similar to what Intel already offers …",
+  "techmeme_url": "https://www.techmeme.com/260730/p24",
+  "title": "Sources: TSMC is developing advanced AI chip packaging tech, internally called \"EMIB-like\", similar to Intel's Embedded Multi-die Interconnect Bridge technique (Qianer Liu/The Information)"
+ },
+ "a260730p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-30/iconiq-backs-satellite-startup-k2-space-at-6-8-billion-value",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p25",
+  "summary": "Startup K2 Space, which builds large satellites for high-power tasks like data-heavy communications and defense missions …",
+  "techmeme_url": "https://www.techmeme.com/260730/p25",
+  "title": "K2 Space, which builds satellites for tasks like data-heavy communications and may power space-based data centers, raised a $500M Series D at a $6.8B valuation (Rebecca Torrence/Bloomberg)"
+ },
+ "a260730p26": {
+  "article_url": "https://www.reuters.com/world/amazons-zoox-wins-first-us-approval-paid-robotaxis-with-no-human-controls-2026-07-30/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p26",
+  "summary": "Amazon's (AMZN.O) Zoox won U.S. approval on Wednesday for limited commercial deployment of its novel steering-wheel-free robotaxis …",
+  "techmeme_url": "https://www.techmeme.com/260730/p26",
+  "title": "Amazon's Zoox receives the NHTSA's first US approval for paid deployment of its steering wheel-free robotaxi and can deploy up to 2,500 per year through 2028 (Abhirup Roy/Reuters)"
+ },
+ "a260730p27": {
+  "article_url": "https://www.nytimes.com/2026/07/30/business/dealbook/simile-ai-agents-funding.html",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p27",
+  "summary": "Simile, a fast-growing start-up, says it can provide companies with accurate insights by surveying millions of A.I.-generated consumers.",
+  "techmeme_url": "https://www.techmeme.com/260730/p27",
+  "title": "Simile, which offers \"agentic twins\" of real people to assess companies' products, brands, and services, raised $200M led by Greenoaks at a $2B valuation (Sri Muppidi/New York Times)"
+ },
+ "a260730p28": {
+  "article_url": "https://www.axios.com/2026/07/30/scale-ai-google-cloud-coo-francis-desouza",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p28",
+  "summary": "Scale AI has hired former Google Cloud COO Francis deSouza as CEO, year after Scale AI founder Alexandr Wang left the AI infrastructure company for Meta.",
+  "techmeme_url": "https://www.techmeme.com/260730/p28",
+  "title": "Scale AI hires former Google Cloud COO Francis deSouza as CEO, replacing interim CEO Jason Droege, who took over last year after Alexandr Wang left for Meta (Madison Mills/Axios)"
+ },
+ "a260730p29": {
+  "article_url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p29",
+  "summary": "London-based Inforcer announced Thursday a $50 million Series C round led by Insight Partners — the latest sign of investor interest …",
+  "techmeme_url": "https://www.techmeme.com/260730/p29",
+  "title": "London-based Inforcer, which helps managed service providers handle their clients' Microsoft 365 accounts, raised a $50M Series C led by Insight Partners (Dominic-Madori Davis/TechCrunch)"
  },
  "a260730p3": {
   "article_url": "https://www.ft.com/content/fde2dd97-317a-41b8-a746-d917c5680397?accessToken=zwAAAZ-xgTrfkdP94t2XMXpBuNOnRtkXxWgDlw.MEUCIEGNOinMBAok1x316ztlSZr6pA1hZXNuSxqKrKKuVf6WAiEA4L1c3yjASw7ivssNZ0Ekj2igLZO0dtdGbnyaskqfM24&sharetype=gift&token=3b94dd13-e9f2-4eb0-a194-5e5946634b70",
