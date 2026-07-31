@@ -279,6 +279,38 @@
   "techmeme_url": "https://www.techmeme.com/260730/p5",
   "title": "Q&A with CuspAI's Max Welling on its AI Materials Foundry, partnerships with Nvidia and others, Geoff Hinton and Yann LeCun joining its advisory board, and more (John Thornhill/Financial Times)"
  },
+ "a260730p56": {
+  "article_url": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p56",
+  "summary": "Coinbase shares dropped in extended trading on Thursday after the crypto platform posted a wider-than-expected loss for the second quarter …",
+  "techmeme_url": "https://www.techmeme.com/260730/p56",
+  "title": "Coinbase reports Q2 revenue down 19% YoY to $1.2B, vs. $1.3B est., stablecoin revenue below est., and a wider-than-expected loss; COIN drops 5%+ after hours (CNBC)"
+ },
+ "a260730p57": {
+  "article_url": "https://thehill.com/policy/technology/6000186-commerce-ai-chips-stakes/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p57",
+  "summary": "The Department of Commerce quietly announced this week it will designate more than $870 million in federal incentives …",
+  "techmeme_url": "https://www.techmeme.com/260730/p57",
+  "title": "The Commerce Dept. signed letters of intent for $874M in CHIPS Act funding in exchange for minority stakes in GlobalFoundries, Kepler, and five other companies (Miranda Nazzaro/The Hill)"
+ },
+ "a260730p58": {
+  "article_url": "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p58",
+  "summary": "Some of Anthropic's most powerful models — including Mythos 5 and an internal research model — gained unauthorized access …",
+  "techmeme_url": "https://www.techmeme.com/260730/p58",
+  "title": "Anthropic says three of its models, including an internal research model, gained unauthorized access to real-world systems during internal cybersecurity testing (Sam Sabin/Axios)"
+ },
+ "a260730p59": {
+  "article_url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5PUGEzeFFTVUwiLCJwIjoiL2dhbWVzLzk3MzUyMC94Ym94LWNlby1tZW1vLW9uZS15ZWFyLWdyb3d0aCIsImV4cCI6MTc4NTg4MTczNCwiaWF0IjoxNzg1NDQ5NzM0fQ.algOvvB2pSSJyTRXYNP-weAUHyIZIquJVRaZLAr4rrA",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p59",
+  "summary": "Asha Sharma wants Xbox to return to growth. Asha Sharma wants Xbox to return to growth.",
+  "techmeme_url": "https://www.techmeme.com/260730/p59",
+  "title": "In a memo to employees, Xbox CEO Asha Sharma lays out priorities for the unit, including returning to player and revenue growth by the end of fiscal year 2027 (The Verge)"
+ },
  "a260730p6": {
   "article_url": "https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1?st=4UGMqx&reflink=desktopwebshare_permalink",
   "date": "2026-07-30",
@@ -287,6 +319,86 @@
   "techmeme_url": "https://www.techmeme.com/260730/p6",
   "title": "Stripe says thousands of solo operators on its service generate $1M+ in annual revenue, and those making $10M+ nearly tripled between 2023 and 2025, aided by AI (Te-Ping Chen/Wall Street Journal)"
  },
+ "a260730p60": {
+  "article_url": "https://www.theatlantic.com/national-security/2026/07/zelensky-asked-trump-for-a-favor-from-elon-musk/688122/?gift=iWa_iB9lkw4UuiWbIbrWGf8KO4hSG_sYsrNJUCFLh8M",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p60",
+  "summary": "Ukraine wants to start using Musk's Starlink to target ballistic-missile launchers inside Russia. — During closed-door talks …",
+  "techmeme_url": "https://www.techmeme.com/260730/p60",
+  "title": "Sources: Zelenskyy asked Trump to secure Elon Musk's permission for the use of Starlink to guide drone strikes inside Russia, but Trump was noncommittal (The Atlantic)"
+ },
+ "a260730p61": {
+  "article_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p61",
+  "summary": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet …",
+  "techmeme_url": "https://www.techmeme.com/260730/p61",
+  "title": "Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident (Anthropic)"
+ },
+ "a260730p62": {
+  "article_url": "https://www.wsj.com/tech/ai/anthropic-ai-models-hacked-three-companies-during-tests-bd752c86?st=ybLxqi&reflink=desktopwebshare_permalink",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p62",
+  "summary": "The breaches, which follow a similar incident involving rival OpenAI and startup Hugging Face, were due to a mistake, Anthropic said",
+  "techmeme_url": "https://www.techmeme.com/260730/p62",
+  "title": "Anthropic says the models that breached three companies include Opus 4.7, Mythos 5, and an unnamed research model, and the earliest incidents date back to April (Robert McMillan/Wall Street Journal)"
+ },
+ "a260730p63": {
+  "article_url": "https://www.macrumors.com/2026/07/30/apple-iphone-mac-ipad-supply-constraints/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p63",
+  "summary": "Apple is expecting supply constraints to have a much bigger impact on revenue during the September quarter …",
+  "techmeme_url": "https://www.techmeme.com/260730/p63",
+  "title": "Tim Cook says Apple expects \"the impact from the supply constraints to increase significantly sequentially\" and the market pricing for memory to keep rising (Juli Clover/MacRumors)"
+ },
+ "a260730p64": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-30/microsoft-eyes-history-with-490-billion-pop-in-market-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTQzMTU5NiwiZXhwIjoxNzg2MDM2Mzk2LCJhcnRpY2xlSWQiOiJUSVpRSFdUOU5KTFMwMCIsImJjb25uZWN0SWQiOiIxMkE1QzVFRUNERDg0NUJEQjVFOTM1MUE0Mzk4QTAxNCJ9.UcfZVlhhNWxtm9btMC_oHL6ppDj2-zutwfHlErfaJSc",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p64",
+  "summary": "Microsoft Corp. made market history on Thursday, adding nearly half a trillion dollars to its value, the most by any stock in a single day.",
+  "techmeme_url": "https://www.techmeme.com/260730/p64",
+  "title": "Microsoft's stock closed up 15.5% on Thursday, adding ~$450B to its market capitalization, the largest single-day market value increase in stock market history (Subrat Patnaik/Bloomberg)"
+ },
+ "a260730p65": {
+  "article_url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p65",
+  "summary": "Apple says it has now topped 1.5 billion subscribers for its services business, up from 1 billion in January 2025.",
+  "techmeme_url": "https://www.techmeme.com/260730/p65",
+  "title": "Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth (Sarah Perez/TechCrunch)"
+ },
+ "a260730p66": {
+  "article_url": "https://www.cnbc.com/2026/07/30/chip-stock-rally-lam-research-micron-amd.html",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p66",
+  "summary": "Chip stocks rocketed on Thursday after strong tech earnings from Microsoft and Lam Research sparked a widespread rally …",
+  "techmeme_url": "https://www.techmeme.com/260730/p66",
+  "title": "Chip stocks rallied Thursday after strong Microsoft and Lam Research earnings: Lam Research closed up 18%, Micron 18%, Sandisk 26%, Arm 7%, AMD 13%, Intel 11% (Samantha Subin/CNBC)"
+ },
+ "a260730p67": {
+  "article_url": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p67",
+  "summary": "South Korea's chip heavyweights SK Hynix and Samsung Electronics skyrocketed in Seoul on Friday, tracking a sharp rally in U.S. technology stocks after blockbuster earnings …",
+  "techmeme_url": "https://www.techmeme.com/260730/p67",
+  "title": "Shares of SK Hynix and Samsung surge more than 20% in Seoul on Friday, marking a sharp reversal from this week's sell-off (Lee Ying Shan/CNBC)"
+ },
+ "a260730p68": {
+  "article_url": "https://www.wsj.com/business/autos/tesla-weighs-sale-of-china-business-to-pave-way-for-potential-spacex-merger-5ae26026?st=phju9H&reflink=article_copyURL_share",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p68",
+  "summary": "The U.S. automaker could sell or spin off the business in its second-largest market over geopolitical concerns",
+  "techmeme_url": "https://www.techmeme.com/260730/p68",
+  "title": "Sources: Tesla execs were told to prepare for a separation of its China unit ahead of a potential SpaceX merger; advisers weighed a sale, spinoff, or closure (Wall Street Journal)"
+ },
+ "a260730p69": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p69",
+  "summary": "Breaking Down Apple's 3Q Results and Outlook — Video Player is loading. — Unmute — Current Time 0:00 Loaded: 16.01% Playback Rate",
+  "techmeme_url": "https://www.techmeme.com/260730/p69",
+  "title": "Apple forecasts Q4 revenue growth of 9% to 11% YoY, below a 12%+ estimate, citing supply constraints and currency fluctuations; AAPL drops 5%+ after hours (Mark Gurman/Bloomberg)"
+ },
  "a260730p7": {
   "article_url": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1",
   "date": "2026-07-30",
@@ -294,5 +406,13 @@
   "summary": "Millions suffer ‘unprecedented’ losses after Samsung and SK Hynix stock tumbles — Song Mi-kyung pocketed a profit of about Won300mn …",
   "techmeme_url": "https://www.techmeme.com/260730/p7",
   "title": "Tens of millions of South Korean retail investors, the market's biggest buyers in 2026, were caught in this week's selloff, as Samsung and SK Hynix tumble (Song Jung-a/Financial Times)"
+ },
+ "a260730p70": {
+  "article_url": "https://www.wsj.com/politics/policy/trump-donations-company-fundraising-1e34a78f?st=9oqXmb",
+  "date": "2026-07-30",
+  "permalink_id": "a260730p70",
+  "summary": "Meredith O'Rourke, nicknamed ‘princess of darkness,’ carries out president's desire to wring hundreds of millions from companies for his projects",
+  "techmeme_url": "https://www.techmeme.com/260730/p70",
+  "title": "Sources: SoftBank gave $50M to Trump's library; Apple, Microsoft, and Amazon gave $25M, $10M, and $5M to his WH ballroom; Meta gave $10M to a pro-Trump group (Wall Street Journal)"
  }
 }
