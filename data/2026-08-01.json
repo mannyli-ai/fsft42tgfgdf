@@ -7,6 +7,14 @@
   "techmeme_url": "https://www.techmeme.com/260801/p1",
   "title": "Sources detail how OpenAI fell behind Anthropic in revenue growth and valuation after prioritizing consumer chatbots and flashy side projects over coding tools (Berber Jin/Wall Street Journal)"
  },
+ "a260801p10": {
+  "article_url": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p10",
+  "summary": "Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year's famed security conference aim to push the boundaries of security and transparency.",
+  "techmeme_url": "https://www.techmeme.com/260801/p10",
+  "title": "This year's Defcon badges include Baochip-1x, an open source chip whose security is verifiable and that can also be used as a hardware security token (Kim Zetter/Wired)"
+ },
  "a260801p2": {
   "article_url": "https://www.crn.com/news/security/2026/threatlocker-lands-190m-in-new-funding-5-key-things-to-know",
   "date": "2026-08-01",
@@ -62,5 +70,13 @@
   "summary": "the first full day of the second Trump administration — Larry Ellison woke up in his 33-bedroom, 34-bathroom oceanfront mansion in Florida …",
   "techmeme_url": "https://www.techmeme.com/260801/p8",
   "title": "Inside Larry Ellison's debt-fueled push to turn Oracle into an AI juggernaut by aligning with Trump, backing Project Stargate, and partnering with OpenAI (New York Times)"
+ },
+ "a260801p9": {
+  "article_url": "https://www.semafor.com/article/07/28/2026/token-diplomacy-how-china-is-shaping-the-worlds-ai-future",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p9",
+  "summary": "Reporter and Lead Writer, Semafor Flagship — THE SCENE — In the days before the American AI industry erupted in a bitter dispute …",
+  "techmeme_url": "https://www.techmeme.com/260801/p9",
+  "title": "At the UN AI for Good summit, a big Chinese delegation argued Chinese open-source AI models are the future for most of the world, while US presence was muted (J.D. Capelouto/Semafor)"
  }
 }
