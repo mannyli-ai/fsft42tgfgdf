@@ -15,6 +15,46 @@
   "techmeme_url": "https://www.techmeme.com/260801/p10",
   "title": "This year's Defcon badges include Baochip-1x, an open source chip whose security is verifiable and that can also be used as a hardware security token (Kim Zetter/Wired)"
  },
+ "a260801p11": {
+  "article_url": "https://openai.com/index/ten-advances-in-mathematics",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p11",
+  "summary": "Read the paper(opens in a new window)Read the reasoning walkthroughs(opens in a new window) — We want to empower scientists …",
+  "techmeme_url": "https://www.techmeme.com/260801/p11",
+  "title": "OpenAI says an internal version of Astra, its next big model, produced results for 10 problems in math, quantum complexity, and theoretical computer science (OpenAI)"
+ },
+ "a260801p12": {
+  "article_url": "https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html?unlocked_article_code=1.1VA._mua.on11w2XIItJp&smid=nytcore-ios-share",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p12",
+  "summary": "The milestones for artificial intelligence keep getting grander. — In 2023, an A.I. system passed the bar exam.",
+  "techmeme_url": "https://www.techmeme.com/260801/p12",
+  "title": "A look at the deluge of AI computing power set to come online in the coming years; Epoch AI expects the number of AI chips in use to double every nine months (New York Times)"
+ },
+ "a260801p13": {
+  "article_url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html?unlocked_article_code=1.2FA.k92q.frV8abocJAzk",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p13",
+  "summary": "Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.",
+  "techmeme_url": "https://www.techmeme.com/260801/p13",
+  "title": "Officials: the scope of cyberattacks on US water systems now includes at least seven states and may be far wider; MN was just the first to publicly report them (New York Times)"
+ },
+ "a260801p14": {
+  "article_url": "https://www.cnbc.com/2026/08/01/trump-medias-new-data-service-gives-faster-access-to-trumps-posts.html",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p14",
+  "summary": "Trump Media and Technology Group's new paid data service launched on Aug. 1, providing faster access to Truth Social posts …",
+  "techmeme_url": "https://www.techmeme.com/260801/p14",
+  "title": "Trump Media's new paid data API debuts, for \"a direct, licensed, real-time feed of the platform's most market-moving Truths\"; Dem. senators asked SEC to probe (CJ Haddad/CNBC)"
+ },
+ "a260801p15": {
+  "article_url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p15",
+  "summary": "More than 1,000 bitcoin, worth about $70 million, was drained from 1,196 wallets in a 41-minute window on July 30, nearly double the amount reported when the theft first surfaced.",
+  "techmeme_url": "https://www.techmeme.com/260801/p15",
+  "title": "Bitcoin hardware wallet Coldcard shipped a faulty firmware build, and hackers are now draining wallets; Galaxy Research estimates ~$70M stolen (Shaurya Malwa/CoinDesk)"
+ },
  "a260801p2": {
   "article_url": "https://www.crn.com/news/security/2026/threatlocker-lands-190m-in-new-funding-5-key-things-to-know",
   "date": "2026-08-01",
