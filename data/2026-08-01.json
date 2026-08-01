@@ -1,0 +1,66 @@
+{
+ "a260801p1": {
+  "article_url": "https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695?st=KhR6t6&reflink=desktopwebshare_permalink",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p1",
+  "summary": "Bets on consumer chatbots and flashy side projects overshadowed AI coding opportunity, which rival Anthropic used to capture the lead",
+  "techmeme_url": "https://www.techmeme.com/260801/p1",
+  "title": "Sources detail how OpenAI fell behind Anthropic in revenue growth and valuation after prioritizing consumer chatbots and flashy side projects over coding tools (Berber Jin/Wall Street Journal)"
+ },
+ "a260801p2": {
+  "article_url": "https://www.crn.com/news/security/2026/threatlocker-lands-190m-in-new-funding-5-key-things-to-know",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p2",
+  "summary": "The cybersecurity vendor is planning to extend its zero trust security platform to provide enhanced protections for AI- and agentic-related risks …",
+  "techmeme_url": "https://www.techmeme.com/260801/p2",
+  "title": "ThreatLocker raised a $190M Series F led by Elephant as it looks to extend its zero-trust enterprise security platform to protect against AI-related risks (Kyle Alspach/CRN)"
+ },
+ "a260801p3": {
+  "article_url": "https://www.axios.com/pro/fintech-deals/2026/07/28/prophetx-35m-b2b-prediction-markets",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p3",
+  "summary": "ProphetX, a CFTC-designated sports prediction market, raised $35 million in new funding, CEO Dean Sisun tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260801/p3",
+  "title": "ProphetX, a CFTC-designated sports prediction market that is also building a B2B business to sell its exchange infrastructure to other companies, raised $35M (Ryan Lawler/Axios)"
+ },
+ "a260801p4": {
+  "article_url": "https://fortune.com/2026/07/30/forget-robots-assembly-lines-foundational-industries-ai-to-run-entire-factory-manufacturing-china-robotics/",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p4",
+  "summary": "Jonathan Winer thinks the U.S. is fighting the wrong manufacturing war. — His startup, Foundational Industries …",
+  "techmeme_url": "https://www.techmeme.com/260801/p4",
+  "title": "Foundational Industries, which aims to build AI-run factories for physical products, starting with custom data center rack enclosures, raised a $25M seed (Lily Mae Lazarus/Fortune)"
+ },
+ "a260801p5": {
+  "article_url": "https://www.businessinsider.com/",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p5",
+  "summary": "Harmony raised a $34 million seed round led by Lightspeed to automate workplace requests. — Its cofounders sold their last startup to Cisco for $500 million.",
+  "techmeme_url": "https://www.techmeme.com/260801/p5",
+  "title": "Harmony, which offers AI-powered enterprise software for handling tasks such as employee onboarding and software access, raised a $34M seed led by Lightspeed (Geoff Weiss/Business Insider)"
+ },
+ "a260801p6": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/30/bloom-security-endpoint-crowdstrike",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p6",
+  "summary": "Endpoint security startup Bloom Security emerged from stealth with a $20 million seed led by Glilot Capital Partners and Ten Eleven Ventures …",
+  "techmeme_url": "https://www.techmeme.com/260801/p6",
+  "title": "Tel Aviv-based Bloom Security, which develops endpoint security tools for monitoring AI agents, extensions, and more, emerges from stealth with a $20M seed (Chris Metinko/Axios)"
+ },
+ "a260801p7": {
+  "article_url": "https://betakit.com/y-combinator-grad-terminal-raises-20-million-usd-series-a-round/",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p7",
+  "summary": "Toronto startup landed Fortune 500 customers with almost no sales team. Now, it's shifting gears.",
+  "techmeme_url": "https://www.techmeme.com/260801/p7",
+  "title": "Toronto-based Terminal, whose API connects insurance products and commercial fleet software with telematics data, raised a $20M Series A led by Battery Ventures (Alex Riehl/BetaKit)"
+ },
+ "a260801p8": {
+  "article_url": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html?unlocked_article_code=1.11A.vzkn.HCHDjwhSAmRQ&smid=url-share",
+  "date": "2026-08-01",
+  "permalink_id": "a260801p8",
+  "summary": "the first full day of the second Trump administration — Larry Ellison woke up in his 33-bedroom, 34-bathroom oceanfront mansion in Florida …",
+  "techmeme_url": "https://www.techmeme.com/260801/p8",
+  "title": "Inside Larry Ellison's debt-fueled push to turn Oracle into an AI juggernaut by aligning with Trump, backing Project Stargate, and partnering with OpenAI (New York Times)"
+ }
+}
