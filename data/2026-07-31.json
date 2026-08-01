@@ -223,6 +223,46 @@
   "techmeme_url": "https://www.techmeme.com/260731/p34",
   "title": "Illinois Governor JB Pritzker signs the Children's Social Media Safety Act, a bill designed to limit children's access to \"addictive\" social media algorithms (Ben Szalinski/Capitol News Illinois)"
  },
+ "a260731p35": {
+  "article_url": "https://www.wsj.com/pro/cybersecurity/wave-of-hacks-hits-u-s-water-facilities-c4778225?st=DCPBCh&reflink=desktopwebshare_permalink",
+  "date": "2026-07-31",
+  "permalink_id": "a260731p35",
+  "summary": "Water plants in at least seven U.S. states have reported attacks this week, with some affecting operations",
+  "techmeme_url": "https://www.techmeme.com/260731/p35",
+  "title": "FBI and EPA say water and wastewater utilities in at least seven states reported cyberattacks this week, with some causing flooding and other operational issues (James Rundle/Wall Street Journal)"
+ },
+ "a260731p36": {
+  "article_url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
+  "date": "2026-07-31",
+  "permalink_id": "a260731p36",
+  "summary": "OpenAI has discovered other instances in which autonomous agents have escaped containment as the company expands its investigation …",
+  "techmeme_url": "https://www.techmeme.com/260731/p36",
+  "title": "Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI's network (Reuters)"
+ },
+ "a260731p37": {
+  "article_url": "https://www.barrons.com/articles/roblox-stock-earnings-stock-price-sell-ratings-9b262ffc?st=i8YQo3&reflink=desktopwebshare_permalink",
+  "date": "2026-07-31",
+  "permalink_id": "a260731p37",
+  "summary": "Choose Barron's as a preferred source of financial news — Key Points — Shares of Roblox tumbled Friday as Wall Street responded harshly …",
+  "techmeme_url": "https://www.techmeme.com/260731/p37",
+  "title": "Roblox shares close down ~27%, its worst-ever daily percentage decline, after forecasting falling bookings and slowing revenue growth; RBLX is down 40%+ YTD (Kit Norton/Barron's Online)"
+ },
+ "a260731p38": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
+  "date": "2026-07-31",
+  "permalink_id": "a260731p38",
+  "summary": "Amazon.com Inc. shares surged the most since 2012 after the company reported accelerating cloud-computing revenue, easing investors' concerns …",
+  "techmeme_url": "https://www.techmeme.com/260731/p38",
+  "title": "Amazon shares closed up 15.32% on Friday, the biggest one-day jump since April 2012, after the company reported accelerating AWS revenue (Spencer Soper/Bloomberg)"
+ },
+ "a260731p39": {
+  "article_url": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?accessToken=zwAAAZ-6af_SkdOK6ebkpTxE2tOOfcnYHw30uQ.MEYCIQDUd-_yZUoo3llQPHrs4yuX0SR0WrznLczygLoW4SZsLQIhAPLgzeAH5zK3KdZaJK1LwEd64qigiS5OXyhrU1NHFbHn&sharetype=gift&token=97afb22a-6c8d-4c56-86e5-ba00a79b87da&syn-25a6b1a6=1",
+  "date": "2026-07-31",
+  "permalink_id": "a260731p39",
+  "summary": "Ecommerce giant has roughly 5% stake in AI lab after equity deal — Amazon has completed a $50bn investment in OpenAI …",
+  "techmeme_url": "https://www.techmeme.com/260731/p39",
+  "title": "Filing: Amazon has completed its $50B investment in OpenAI; source: OpenAI received the final tranche this week, taking Amazon's position to roughly 5% (Financial Times)"
+ },
  "a260731p4": {
   "article_url": "https://www.reuters.com/world/asia-pacific/sony-posts-40-rise-q1-profit-beating-estimates-2026-07-31/",
   "date": "2026-07-31",
@@ -230,6 +270,46 @@
   "summary": "Sony (6758.T) reported on Friday a 40% rise in first-quarter operating profit, beating analyst estimates, boosted by the performance …",
   "techmeme_url": "https://www.techmeme.com/260731/p4",
   "title": "Sony reports Q1 operating profit up 40% YoY to ~$2.92B, raises FY profit forecast by 8% to ~$10.56B, and says it secured enough memory chip supply for the FY (Sam Nussey/Reuters)"
+ },
+ "a260731p40": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-07-31",
+  "permalink_id": "a260731p40",
+  "summary": "OpenAI is preparing to release a new model family, tentatively using the name “Astra,” with improved abilities …",
+  "techmeme_url": "https://www.techmeme.com/260731/p40",
+  "title": "Sources: OpenAI demoed a new \"Astra\" AI model family to US policymakers and regulators this week, touting its improved abilities to complete long-running tasks (The Information)"
+ },
+ "a260731p41": {
+  "article_url": "https://www.reuters.com/legal/litigation/ftc-approves-ionq-acquisition-skywater-semiconductor-foundry-2026-07-31/",
+  "date": "2026-07-31",
+  "permalink_id": "a260731p41",
+  "summary": "The U.S. Federal Trade Commission cleared quantum computing firm IonQ's (IONQ.N) $1.8 billion acquisition of chipmaker SkyWater Technology …",
+  "techmeme_url": "https://www.techmeme.com/260731/p41",
+  "title": "The FTC clears quantum computing company IonQ's $1.8B acquisition of chipmaker SkyWater after the FTC's two members disagreed at first on imposing conditions (Jody Godoy/Reuters)"
+ },
+ "a260731p42": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
+  "date": "2026-07-31",
+  "permalink_id": "a260731p42",
+  "summary": "Cybersecurity experts are faulting Anthropic PBC and OpenAI for sloppy safeguards after their models broke into outside organizations …",
+  "techmeme_url": "https://www.techmeme.com/260731/p42",
+  "title": "Cybersecurity experts fault Anthropic and OpenAI for sloppy safeguards and inadequate human oversight after their models broke into outside organizations (Bloomberg)"
+ },
+ "a260731p43": {
+  "article_url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+  "date": "2026-07-31",
+  "permalink_id": "a260731p43",
+  "summary": "For years, India was the world's largest app download market but one of its toughest places to make money.",
+  "techmeme_url": "https://www.techmeme.com/260731/p43",
+  "title": "Sensor Tower: India's mobile app market generated a record $345M in consumer spending in Q2, up 35% YoY; ChatGPT ranked No. 1 by downloads and No. 2 by revenue (Jagmeet Singh/TechCrunch)"
+ },
+ "a260731p44": {
+  "article_url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+  "date": "2026-07-31",
+  "permalink_id": "a260731p44",
+  "summary": "On Friday, a judge largely denied a motion to dismiss from a web scraper, SerpApi, which is accused of conspiring with Perplexity AI …",
+  "techmeme_url": "https://www.techmeme.com/260731/p44",
+  "title": "A US judge largely denies Perplexity and three data scraper firms' bid to dismiss Reddit's lawsuit over claims of copyright law violations under DMCA (Ashley Belanger/Ars Technica)"
  },
  "a260731p5": {
   "article_url": "https://kotaku.com/sony-says-dont-panic-it-has-enough-ram-for-all-the-ps5s-it-plans-to-sell-this-year-with-the-launch-of-gta-6-2000720603",
