@@ -1,0 +1,42 @@
+{
+ "a260802p1": {
+  "article_url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p1",
+  "summary": "iPhone maker has limited the number of vulnerabilities researchers can submit to manage wave of reports",
+  "techmeme_url": "https://www.techmeme.com/260802/p1",
+  "title": "Apple introduced a cap and a 30-day cool-off period on bug report submissions, citing a deluge of AI-assisted reports; researchers can request higher quotas (Financial Times)"
+ },
+ "a260802p2": {
+  "article_url": "https://www.wsj.com/tech/a-tech-founder-wanted-to-start-a-new-country-an-actual-country-got-in-the-way-52cd21e5?st=HATuRx",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p2",
+  "summary": "Balaji Srinivasan left Silicon Valley and created an incubator for new countries in an Asian ghost city, before the government shut it down",
+  "techmeme_url": "https://www.techmeme.com/260802/p2",
+  "title": "Malaysia shuts down Network School, Balaji Srinivasan's techno-utopian project, over licensing issues; Srinivasan says he is opening a new campus in Kazakhstan (Wall Street Journal)"
+ },
+ "a260802p3": {
+  "article_url": "https://fintech.global/",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p3",
+  "summary": "LemonEdge, a fund accounting platform designed specifically for the private markets sector, has secured $21m in Series A funding …",
+  "techmeme_url": "https://www.techmeme.com/260802/p3",
+  "title": "LemonEdge, a fund accounting and operations software provider for the private markets sector, raised a $21M Series A led by Blackstone Innovations Investments (FinTech Global)"
+ },
+ "a260802p4": {
+  "article_url": "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p4",
+  "summary": "Managers capitalise on investors' desire to ‘hedge’ against US market bets — China's venture capital firms are rushing …",
+  "techmeme_url": "https://www.techmeme.com/260802/p4",
+  "title": "Chinese VC firms are rushing to raise new funds after three years of record-low fundraising, amid renewed enthusiasm for China's tech, AI, and robotics sectors (Eleanor Olcott/Financial Times)"
+ },
+ "a260802p5": {
+  "article_url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79?st=NaiF5s&reflink=desktopwebshare_permalink",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p5",
+  "summary": "Jacob Tsimerman won the biggest prize in math. Now he's working on the most important problem of his career.",
+  "techmeme_url": "https://www.techmeme.com/260802/p5",
+  "title": "A profile of Jacob Tsimerman, who won the Fields Medal last week and is taking a leave from the University of Toronto to join OpenAI and work on AI safety (Ben Cohen/Wall Street Journal)"
+ }
+}
