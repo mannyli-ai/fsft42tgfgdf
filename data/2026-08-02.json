@@ -46,5 +46,21 @@
   "summary": "Factories churning out servers for data centres are pushing exports to record levels",
   "techmeme_url": "https://www.techmeme.com/260802/p6",
   "title": "As Taiwanese server makers expand in Mexico, the country has become the second-largest supplier of servers to the US, behind Taiwan, with $46.9B in YTD sales (Financial Times)"
+ },
+ "a260802p7": {
+  "article_url": "https://www.bloomberg.com/news/newsletters/2026-08-02/apple-subscriptions-macbook-air-shortages-apple-to-make-glasses-health-device-msbvajjp?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTY4MTM3MiwiZXhwIjoxNzg2Mjg2MTcyLCJhcnRpY2xlSWQiOiJUSjVBVzFSMjRVOEQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.n9QvaBQdmko-iUwRDtJDb80m1WResV5qfUXFhpPz-GI",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p7",
+  "summary": "Also: MacBook Air runs into major shortages. — Apple has finally delivered a hardware subscription program …",
+  "techmeme_url": "https://www.techmeme.com/260802/p7",
+  "title": "Thoughts on Apple Upgrade; sources: MacBook Air is now facing shortages too; Apple wants to turn its future glasses and headsets into health and fitness devices (Mark Gurman/Bloomberg)"
+ },
+ "a260802p8": {
+  "article_url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p8",
+  "summary": "Both major AI labs' models broke containment, escaped onto the internet, and hacked other companies.",
+  "techmeme_url": "https://www.techmeme.com/260802/p8",
+  "title": "Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions (Lily Hay Newman/Wired)"
  }
 }
