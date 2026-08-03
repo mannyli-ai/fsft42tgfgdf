@@ -127,6 +127,54 @@
   "techmeme_url": "https://www.techmeme.com/260803/p23",
   "title": "Sources: the Trump administration invites staffers from OpenAI, Google, Anthropic, and others to the White House on Tuesday to review the AI oversight framework (The Information)"
  },
+ "a260803p24": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/india-proposes-extending-tax-breaks-contract-manufacturing-boost-apple-2026-08-03/",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p24",
+  "summary": "India has proposed extending tax exemptions until 2041 for foreign companies that provide machinery to contract manufacturers …",
+  "techmeme_url": "https://www.techmeme.com/260803/p24",
+  "title": "India proposes extending tax exemptions until 2041 for foreign companies that provide machinery to contract manufacturers, changes that Apple had lobbied for (Reuters)"
+ },
+ "a260803p25": {
+  "article_url": "https://fortune.com/2026/08/03/power-ai-khosla-a16z-bet-startup-reinvent-mining-mariana-minerals/",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p25",
+  "summary": "The last century was fueled by oil and gas. Turner Caldwell is betting the next century runs on metals.",
+  "techmeme_url": "https://www.techmeme.com/260803/p25",
+  "title": "Mariana Minerals, which builds and operates mines using its MarianaOS software platform, raised a $310M Series B, bringing its total funding to $400M (Allie Garfinkle/Fortune)"
+ },
+ "a260803p26": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-03/sequoia-leads-1-billion-funding-round-for-nuclear-startup-valar",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p26",
+  "summary": "Sequoia Capital led a $1 billion funding round for Valar Atomics Inc. that the nuclear startup says will help it shift from demonstrating small reactors to producing them in volume.",
+  "techmeme_url": "https://www.techmeme.com/260803/p26",
+  "title": "Valar, which is making small modular nuclear reactors to power data centers, raised a $1B Series B led by Sequoia at a $6B post-money valuation (Bloomberg)"
+ },
+ "a260803p27": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/china-steps-up-protection-chip-designs-revised-regulations-2026-08-03/",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p27",
+  "summary": "China has revised regulations protecting integrated-circuit layout designs, tightening registration standards and allowing punitive damages …",
+  "techmeme_url": "https://www.techmeme.com/260803/p27",
+  "title": "China revises its regulations to tighten protection of chip layout designs, including punitive damages for serious infringement, taking effect from October 15 (Eduardo Baptista/Reuters)"
+ },
+ "a260803p28": {
+  "article_url": "https://www.axios.com/2026/08/03/white-house-finalizes-ai-framework-behind-closed-doors",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p28",
+  "summary": "The White House said on Monday it met its deadline to establish a voluntary framework for evaluating advanced AI models …",
+  "techmeme_url": "https://www.techmeme.com/260803/p28",
+  "title": "The White House says it has met its deadline to establish a voluntary framework for evaluating advanced AI models; it did not provide details of the framework (Maria Curi/Axios)"
+ },
+ "a260803p29": {
+  "article_url": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImRHdFZCNzZrZGQiLCJwIjoiL2dhbWVzLzk3NDU0NC9taWNyb3NvZnQteGJveC0zNjAtZ2FtZXMtcGMtZGlzYy1kaWdpdGFsLXByb2dyYW0iLCJleHAiOjE3ODYyMDcwMjgsImlhdCI6MTc4NTc3NTAyOH0.gclBENkJ9N08A1VMrcbhgUld-W_Sth3y0rmcedhHsMo",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p29",
+  "summary": "﻿The disc to digital program seems like it's close to launching, too.",
+  "techmeme_url": "https://www.techmeme.com/260803/p29",
+  "title": "Leaked doc: Microsoft plans to bring Xbox 360 games to PC, and the games will be able to run on its next-gen Project Helix console, \"Xbox PCs\", and handhelds (The Verge)"
+ },
  "a260803p3": {
   "article_url": "https://thezvi.substack.com/p/further-developments-about-internal",
   "date": "2026-08-03",
@@ -134,6 +182,30 @@
   "summary": "If I had a nickel for every major leading AI lab that sheepishly admitted that the model it thought was sandboxed had …",
   "techmeme_url": "https://www.techmeme.com/260803/p3",
   "title": "A detailed recap of the real-world target hacks by OpenAI and Anthropic models, exposing failures in AI alignment training and lack of meaningful supervision (Zvi Mowshowitz/Don't Worry About the Vase)"
+ },
+ "a260803p30": {
+  "article_url": "https://www.pcmag.com/news/with-subscriber-counts-decimated-by-starlink-hughesnet-files-for-bankruptcy",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p30",
+  "summary": "US satellite internet provider Hughesnet has filed for Chapter 11 bankruptcy after running low on cash and losing subscribers to Starlink.",
+  "techmeme_url": "https://www.techmeme.com/260803/p30",
+  "title": "US satellite internet provider Hughesnet files for Chapter 11 after losing subscribers to Starlink and plans to focus on business and government customers (Michael Kan/PCMag)"
+ },
+ "a260803p31": {
+  "article_url": "https://www.nytimes.com/2026/08/03/us/politics/fbi-agent-cryptocurrency.html?unlocked_article_code=1.2lA.w1kj.PQWdLROpxYmF&smid=url-share",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p31",
+  "summary": "The agent confessed to making unauthorized withdrawals from a criminal target overseas, according to court papers.",
+  "techmeme_url": "https://www.techmeme.com/260803/p31",
+  "title": "Court docs: an FBI agent has been charged with amassing ~$1M worth of cryptocurrency, largely by making unauthorized withdrawals from a criminal target overseas (Devlin Barrett/New York Times)"
+ },
+ "a260803p32": {
+  "article_url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p32",
+  "summary": "Several popular Samsung smart TV apps contain code that share the owner's internet connection with strangers …",
+  "techmeme_url": "https://www.techmeme.com/260803/p32",
+  "title": "Samsung says it's restricting app registrations and removing apps with SDKs that can turn smart TVs into residential proxy exit nodes, after a similar ban by LG (Zack Whittaker/TechCrunch)"
  },
  "a260803p4": {
   "article_url": "https://asia.nikkei.com/business/aerospace-defense-industries/japanese-startups-rush-into-defense-drones",
