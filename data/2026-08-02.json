@@ -7,6 +7,62 @@
   "techmeme_url": "https://www.techmeme.com/260802/p1",
   "title": "Apple introduced a cap and a 30-day cool-off period on bug report submissions, citing a deluge of AI-assisted reports; researchers can request higher quotas (Financial Times)"
  },
+ "a260802p10": {
+  "article_url": "https://x.com/karpathy",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p10",
+  "summary": "We're starting to leave the territory where you'd test an LLM by e.g. “create an svg of pelican on a bicycle”.",
+  "techmeme_url": "https://www.techmeme.com/260802/p10",
+  "title": "LLMs are moving from generating artifacts to creating hyper-custom worlds on demand, but still lack the ability to natively perceive and audit what they create (Andrej Karpathy/@karpathy)"
+ },
+ "a260802p11": {
+  "article_url": "https://www.bloomberg.com/news/newsletters/2026-07-31/inside-tencent-s-failed-attempt-to-take-on-grand-theft-auto?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTUxNzQ4OSwiZXhwIjoxNzg2MTIyMjg5LCJhcnRpY2xlSWQiOiJUSjFUVzFOM04wOVIwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.0SmpBILxIhlKSxDB7GABJfewBw23WVKVLBIBc8TYPuM&leadSource=article-gifting",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p11",
+  "summary": "Lightspeed's Last Sentinel burnt through six years of development and hundreds of millions of dollars — Hi everyone.",
+  "techmeme_url": "https://www.techmeme.com/260802/p11",
+  "title": "Sources detail the troubled development of Tencent's ambitious, GTA-like game Last Sentinel, which has burned hundreds of millions of dollars over six years (Jason Schreier/Bloomberg)"
+ },
+ "a260802p12": {
+  "article_url": "https://www.theinformation.com/articles/exclusive-data-center-costs-set-rise-u-s-states-move-repeal-tax-breaks",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p12",
+  "summary": "Governors and legislatures in U.S. states that previously welcomed data centers are suddenly moving to rip away sales tax breaks …",
+  "techmeme_url": "https://www.techmeme.com/260802/p12",
+  "title": "Four US states rolled back or paused data center tax incentives, and nine others are weighing repeal measures, potentially adding 7% or more to equipment costs (Ann Davis Vaughan/The Information)"
+ },
+ "a260802p13": {
+  "article_url": "https://www.theinformation.com/articles/robinhood-now-makes-revenue-predictions-stock-trades",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p13",
+  "summary": "Brokerage app Robinhood has quickly become a force in prediction markets, challenging the hold of Kalshi and Polymarket on the popular betting market.",
+  "techmeme_url": "https://www.techmeme.com/260802/p13",
+  "title": "Robinhood's prediction markets revenue surged 10x+ YoY to $156M in Q2, topping stock and crypto for the first time as speculators shift to real-world event bets (Yueqi Yang/The Information)"
+ },
+ "a260802p14": {
+  "article_url": "https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a?st=abjGZ8",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p14",
+  "summary": "Silicon Valley startups are setting up open models, with some operating on shoestring budgets because of limited interest from VCs",
+  "techmeme_url": "https://www.techmeme.com/260802/p14",
+  "title": "A look at the US open-weight AI model ecosystem, as VCs question the revenue potential of open-weight startups like Arcee, Reflection AI, and Poolside (Wall Street Journal)"
+ },
+ "a260802p15": {
+  "article_url": "https://www.scientificamerican.com/article/ai-helped-produce-two-proofs-for-the-same-cryptography-problem/",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p15",
+  "summary": "An M.I.T. Ph.D. student and two University of California system cryptographers used GPT-5.6 Sol Ultra in different ways …",
+  "techmeme_url": "https://www.techmeme.com/260802/p15",
+  "title": "Two independent teams used GPT-5.6 Sol Ultra on the same quantum cryptography problem, filing papers 3 hours apart, raising questions about scientific credit (Peter Hall/Scientific American)"
+ },
+ "a260802p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p16",
+  "summary": "Alibaba Group Holding Ltd. released its latest flagship AI model, with performance claims putting it alongside global leaders like Anthropic's Fable.",
+  "techmeme_url": "https://www.techmeme.com/260802/p16",
+  "title": "Alibaba says its 2.4T-parameter Qwen3.8-Max tops Kimi K3 on some benchmarks, and plans to release the open weights of Qwen3.8-Max and Qwen3.8-27B next week (Luz Ding/Bloomberg)"
+ },
  "a260802p2": {
   "article_url": "https://www.wsj.com/tech/a-tech-founder-wanted-to-start-a-new-country-an-actual-country-got-in-the-way-52cd21e5?st=HATuRx",
   "date": "2026-08-02",
@@ -62,5 +118,13 @@
   "summary": "Both major AI labs' models broke containment, escaped onto the internet, and hacked other companies.",
   "techmeme_url": "https://www.techmeme.com/260802/p8",
   "title": "Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions (Lily Hay Newman/Wired)"
+ },
+ "a260802p9": {
+  "article_url": "https://www.wsj.com/tech/cybersecurity/security-flaw-placed-30-years-of-dna-evidence-at-risk-of-hacking-1932775a?st=zGgyGg&reflink=desktopwebshare_permalink",
+  "date": "2026-08-02",
+  "permalink_id": "a260802p9",
+  "summary": "Researchers found that widely used lab machines produced digital DNA files that are vulnerable to tampering",
+  "techmeme_url": "https://www.techmeme.com/260802/p9",
+  "title": "Researchers used AI-assisted code to undetectably tamper with data from computerized scans of physical DNA evidence produced by widely used crime-lab machines (Mariah Timms/Wall Street Journal)"
  }
 }
