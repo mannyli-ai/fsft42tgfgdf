@@ -15,6 +15,78 @@
   "techmeme_url": "https://www.techmeme.com/260803/p10",
   "title": "YouTuber Hank Green faces online criticism after using ChatGPT to help research a script, and says his LLM usage \"is not healthy for me or good for the world\" (Anthony Ha/TechCrunch)"
  },
+ "a260803p11": {
+  "article_url": "https://www.ft.com/content/69d55b1b-fa3f-420c-905a-6699d28a7b89",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p11",
+  "summary": "Ian Cheshire tells FT that watchdog will need ‘more resources’ to enforce online safety rules as it takes on wider brief",
+  "techmeme_url": "https://www.techmeme.com/260803/p11",
+  "title": "Ofcom Chair Ian Cheshire says he is overseeing a \"wide-ranging\" review aimed at refitting the regulator to new duties overseeing Big Tech and enforcing the OSA (Daniel Thomas/Financial Times)"
+ },
+ "a260803p12": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03/",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p12",
+  "summary": "A version of Chinese startup DeepSeek's flagship AI model is by far the least expensive to run on benchmark tests among …",
+  "techmeme_url": "https://www.techmeme.com/260803/p12",
+  "title": "Artificial Analysis: DeepSeek's V4-Flash costs $0.14/1M input and $0.28/1M output tokens, or $0.03 per test, far below Kimi K3's $0.86 and GPT-5.6 Sol's $1.86 (Eduardo Baptista/Reuters)"
+ },
+ "a260803p13": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p13",
+  "summary": "Chinese tech giant Alibaba Group made its new flagship model, Qwen3.8-Max, widely available on Monday through application programming interfaces …",
+  "techmeme_url": "https://www.techmeme.com/260803/p13",
+  "title": "Alibaba prices Qwen3.8-Max at $2 per 1M input tokens and $6 per 1M output tokens via its API, below Kimi K3's $3/1M input tokens and $15/1M output tokens (Henry Siu/The Information)"
+ },
+ "a260803p14": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-03/ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p14",
+  "summary": "South Korean AI chip designer DeepX Co. has secured fresh funding at roughly four times its previous valuation …",
+  "techmeme_url": "https://www.techmeme.com/260803/p14",
+  "title": "Sources: South Korean AI chip designer DeepX raised a ~$29M Series D at a ~$2.2B valuation, and is in talks to raise ~$209M at a ~$2.4B valuation by September (Yoolim Lee/Bloomberg)"
+ },
+ "a260803p15": {
+  "article_url": "https://www.axios.com/2026/08/03/ai-talent-wars-openai-google-meta-anthropic",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p15",
+  "summary": "Top AI researchers continue to jump between leading AI labs as competition for elite talent intensifies.",
+  "techmeme_url": "https://www.techmeme.com/260803/p15",
+  "title": "Source: Dario Amodei expressed concern about staff coming to Anthropic for the money rather than the mission, as Anthropic, OpenAI, and others battle for talent (Axios)"
+ },
+ "a260803p16": {
+  "article_url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p16",
+  "summary": "The European Union gained new powers to inspect AI models, restrict EU market access and fine model providers …",
+  "techmeme_url": "https://www.techmeme.com/260803/p16",
+  "title": "The EU's AI Act enforcement powers take effect, letting it evaluate AI models before regional release, restrict market access, fine model providers, and more (Kai Nicol-Schwarz/CNBC)"
+ },
+ "a260803p17": {
+  "article_url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p17",
+  "summary": "It's so hard for big businesses to get AI tools working reliably that whole new organizations of forward-deployed engineers or FDEs …",
+  "techmeme_url": "https://www.techmeme.com/260803/p17",
+  "title": "June, which aims to help enterprise AI deployment by finding bottlenecks and building agents, emerges from stealth with $20M led by Marc Benioff's Time Ventures (Tim Fernholz/TechCrunch)"
+ },
+ "a260803p18": {
+  "article_url": "https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p18",
+  "summary": "Quick Take — Strategy has sold 1,638 BTC for approximately $104.7 million, reducing its total holdings to 842,138 BTC.",
+  "techmeme_url": "https://www.techmeme.com/260803/p18",
+  "title": "Michael Saylor's Strategy sold 1,638 bitcoin for ~$104.7M, reducing its holdings to 842,138, or ~4% of total supply, with a $10.9B paper loss at current prices (James Hunt/The Block)"
+ },
+ "a260803p19": {
+  "article_url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p19",
+  "summary": "Cybersecurity startup Horizon3 has raised a $250 million Series E at a $2 billion valuation, more than tripling its valuation in 14 months.",
+  "techmeme_url": "https://www.techmeme.com/260803/p19",
+  "title": "Horizon3, whose AI penetration testing platform NodeZero helps find and exploit attack paths in production systems, raised a $250M Series E at a $2B valuation (Kate Park/TechCrunch)"
+ },
  "a260803p2": {
   "article_url": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html?unlocked_article_code=1.2VA.khtF.stlDJiDcjqVJ&smid=nytcore-ios-share",
   "date": "2026-08-03",
@@ -22,6 +94,38 @@
   "summary": "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.",
   "techmeme_url": "https://www.techmeme.com/260803/p2",
   "title": "An unsecured police dashboard exposed China's extensive tracking of foreigners, aggregating data from surveillance cameras, facial recognition tools, and more (New York Times)"
+ },
+ "a260803p20": {
+  "article_url": "https://www.wsj.com/finance/banking/visa-to-buy-fraud-defense-platform-biocatch-in-2-4-billion-deal-5e36f6e3?st=tQ11WG&reflink=desktopwebshare_permalink",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p20",
+  "summary": "BioCatch uses artificial intelligence to detect fraud and distinguish legitimate users from attackers",
+  "techmeme_url": "https://www.techmeme.com/260803/p20",
+  "title": "Visa plans to acquire Israeli company BioCatch, which uses AI to detect fraud and distinguish legitimate users from attackers in real time, for $2.4B in cash (Katherine Hamilton/Wall Street Journal)"
+ },
+ "a260803p21": {
+  "article_url": "https://www.calcalistech.com/ctechnews/article/b1ahbbcbfe",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p21",
+  "summary": "Israeli cybersecurity company reaches $185 million in total funding as enterprises race to secure autonomous AI agents.",
+  "techmeme_url": "https://www.techmeme.com/260803/p21",
+  "title": "Zenity, which develops a platform for securing AI agents, raised a $125M Series C led by Norwest Venture Partners, taking its total funding to ~$185M (Meir Orbach/CTech)"
+ },
+ "a260803p22": {
+  "article_url": "https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?accessToken=zwAAAZ_H-oeEkc8syclqDltMM9OpWj0RByoUXA.MEUCICLSWprghtd4XPm8Cmb5YuWhyw6dV4KLyacScMGjLoVVAiEAtJ4cC11Nt1OwpDzPVoIizgkd-T1OqDWh_mwDX0mj854&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise&shareId=361c8c8c-4fb5-47fc-84a6-486b88bf5cc8",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p22",
+  "summary": "iPhone maker files complaint over latest government demand to allow access to encrypted user data",
+  "techmeme_url": "https://www.techmeme.com/260803/p22",
+  "title": "UK court filing: in July, Apple launched a new legal challenge against the UK government's attempt to create a \"backdoor\" to access encrypted customer data (Tim Bradshaw/Financial Times)"
+ },
+ "a260803p23": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-08-03",
+  "permalink_id": "a260803p23",
+  "summary": "The Trump administration has invited staffers from major tech companies including OpenAI, Google and Anthropic to the White House …",
+  "techmeme_url": "https://www.techmeme.com/260803/p23",
+  "title": "Sources: the Trump administration invites staffers from OpenAI, Google, Anthropic, and others to the White House on Tuesday to review the AI oversight framework (The Information)"
  },
  "a260803p3": {
   "article_url": "https://thezvi.substack.com/p/further-developments-about-internal",
