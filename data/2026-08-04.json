@@ -135,6 +135,46 @@
   "techmeme_url": "https://www.techmeme.com/260804/p24",
   "title": "A World Bank report says developing economies stand to benefit more from AI boosting their workers' output than they will lose in jobs being replaced by AI (Joseph Cotterill/Financial Times)"
  },
+ "a260804p25": {
+  "article_url": "https://www.reuters.com/world/new-jersey-ag-files-antitrust-lawsuit-against-amazon-2026-08-04/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p25",
+  "summary": "New Jersey sued Amazon.com on Tuesday, accusing the online retailer of abusing its market power over independent delivery drivers.",
+  "techmeme_url": "https://www.techmeme.com/260804/p25",
+  "title": "New Jersey files an antitrust lawsuit against Amazon, alleging it abuses its dominance to impose low pay and poor conditions on independent delivery drivers (Jody Godoy/Reuters)"
+ },
+ "a260804p26": {
+  "article_url": "https://www.upstartsmedia.com/p/ambrook-raises-30m-series-b-real-economy",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p26",
+  "summary": "In the early days of her startup, Ambrook, CEO Mackenzie Burnett and a small team would hop on a plane - then often take a bumpy drive …",
+  "techmeme_url": "https://www.techmeme.com/260804/p26",
+  "title": "Ambrook, which offers accounting software, raised a $30M Series B led by Lachy Groom as it expands beyond farming into trucking, construction, and real estate (Alex Konrad/Upstarts Media)"
+ },
+ "a260804p27": {
+  "article_url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p27",
+  "summary": "They're the rare, complex situations that are difficult to anticipate and train for. — Handling these long-tail events takes more than just object detection and motion prediction.",
+  "techmeme_url": "https://www.techmeme.com/260804/p27",
+  "title": "Nvidia makes Alpamayo 2 Super, its frontier open reasoning model for robotaxis and AVs, available for commercial use under the OpenMDW-1.1 license (Jessica Soares/NVIDIA)"
+ },
+ "a260804p28": {
+  "article_url": "https://siliconangle.com/2026/08/04/oligo-security-raises-60m-ai-speeds-exploit-development/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p28",
+  "summary": "Runtime security startup Oligo Security Ltd. said today that it had raised $60 million in new funding to accelerate product innovation and expand global go-to-market operations.",
+  "techmeme_url": "https://www.techmeme.com/260804/p28",
+  "title": "Oligo, which offers runtime security tools, raised $60M from Ballistic Ventures, Canon Capital, and others, bringing its total funding to $140M (Duncan Riley/SiliconANGLE)"
+ },
+ "a260804p29": {
+  "article_url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p29",
+  "summary": "Self-propagating malware named ‘ChainDrop’ has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry.",
+  "techmeme_url": "https://www.techmeme.com/260804/p29",
+  "title": "Researchers: ChainDrop, a Shai-Hulud-based worm, has compromised 1,300+ npm packages, like Keyv, Cacheable, and flat-cache, with a combined 2B monthly downloads (Bill Toulas/BleepingComputer)"
+ },
  "a260804p3": {
   "article_url": "https://openai.com/index/apple-is-getting-this-wrong",
   "date": "2026-08-04",
@@ -142,6 +182,78 @@
   "summary": "Apple is one of the greatest companies of all time, and built a reputation for obsessing over the smallest details.",
   "techmeme_url": "https://www.techmeme.com/260804/p3",
   "title": "OpenAI disputes Apple's account of pre-lawsuit contacts, rejects claims that ex-staff used confidential information, shares iMessages and emails, and more (OpenAI)"
+ },
+ "a260804p30": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-04/doj-says-openai-settles-worker-discrimination-allegations",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p30",
+  "summary": "A unit of OpenAI has reached a settlement with the US Justice Department to resolve allegations that the California-based …",
+  "techmeme_url": "https://www.techmeme.com/260804/p30",
+  "title": "The DOJ secures a $3.2M settlement from OpenAI to resolve allegations it discriminated against US workers by preferring workers with temporary employment visas (Jimmy Jenkins/Bloomberg)"
+ },
+ "a260804p31": {
+  "article_url": "https://www.reuters.com/world/china/us-weighs-polysilicon-price-floor-tariffs-counter-china-solar-chips-2026-08-04/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p31",
+  "summary": "The Trump administration is preparing to set a price floor and impose tariffs on polysilicon and related products …",
+  "techmeme_url": "https://www.techmeme.com/260804/p31",
+  "title": "Sources: the US is preparing to set a price floor and impose tariffs on polysilicon, a material critical to chips, later this month, in a bid to counter China (Reuters)"
+ },
+ "a260804p32": {
+  "article_url": "https://www.tomshardware.com/pc-components/ssds/sandisk-and-sk-hynix-unveil-hbf-spec-up-to-16-hi-nand-stacks-3-tb-s-bandwidth-ucie",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p32",
+  "summary": "The specification is here, but what about the interest? … The specification was released through the Open Compute Project (OCP) …",
+  "techmeme_url": "https://www.techmeme.com/260804/p32",
+  "title": "Sandisk and SK Hynix announce the High Bandwidth Flash (HBF) open specification that enables up to 512GB memory modules with 0.4 TB/s to 3.0 TB/s bandwidth (Anton Shilov/Tom's Hardware)"
+ },
+ "a260804p33": {
+  "article_url": "https://www.reuters.com/world/anthropic-names-global-affairs-chief-tackle-ai-policy-trump-tensions-persist-2026-08-04/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p33",
+  "summary": "Anthropic on Tuesday named Mariano-Florentino Cuéllar its first chief global affairs officer, as the developer …",
+  "techmeme_url": "https://www.techmeme.com/260804/p33",
+  "title": "Anthropic names Mariano-Florentino Cuéllar, an ex-California Supreme Court justice and a special assistant in Obama's WH, as its first global affairs chief (Jeffrey Dastin/Reuters)"
+ },
+ "a260804p34": {
+  "article_url": "https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p34",
+  "summary": "Microsoft is introducing budget limits for AI use but says it still wants to be an ‘AI-first’ company. — Microsoft has introduced …",
+  "techmeme_url": "https://www.techmeme.com/260804/p34",
+  "title": "Internal email: Microsoft introduces token budget limits for employees' AI use, saying \"tokenmaxxing is not what we are optimizing for\" (Emanuel Maiberg/404 Media)"
+ },
+ "a260804p35": {
+  "article_url": "https://www.axios.com/2026/08/04/white-house-ai-framework-under-wraps",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p35",
+  "summary": "The White House does not plan to publicly release its new framework for evaluating advanced AI models, three sources familiar with the discussions told Axios.",
+  "techmeme_url": "https://www.techmeme.com/260804/p35",
+  "title": "Sources: the White House doesn't plan to publicly release its voluntary AI framework; details will be available to the companies that are part of the process (Maria Curi/Axios)"
+ },
+ "a260804p36": {
+  "article_url": "https://mistral.ai/news/shieldstral/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p36",
+  "summary": "Every product that ships a model needs to answer questions like these — but the right answer depends on the product, the audience, and the moment.",
+  "techmeme_url": "https://www.techmeme.com/260804/p36",
+  "title": "Mistral releases Shieldstral, a 3B multimodal safety classifier that it says matches models up to 7x its size on text safety, available under Apache 2.0 (Mistral AI Blog)"
+ },
+ "a260804p37": {
+  "article_url": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InJWYk5xVHE4N20iLCJwIjoiL3RlY2gvOTc1MzAwL3RlbGVncmFtLWFwcC1zdG9yZS10YWtlZG93bi1leHRvcnRpb24tcGF2ZWwtZHVyb3YiLCJleHAiOjE3ODYzMDM2NjAsImlhdCI6MTc4NTg3MTY2MH0.8vkfeIHSsNamv44pEynFD6YZAf24e4aEfKQEgejIEEo",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p37",
+  "summary": "Pavel Durov claims attackers post illegal content and manipulate reports to ‘trigger the removal of legitimate communities.’",
+  "techmeme_url": "https://www.techmeme.com/260804/p37",
+  "title": "Pavel Durov says an extortionist planted \"illegal porn in a public chat\" to get the app pulled from the App Store and manipulated Apple into \"overreacting\" (Emma Roth/The Verge)"
+ },
+ "a260804p38": {
+  "article_url": "https://abcnews.com/US/12-states-face-cyberattacks-water-systems-sources/story?id=135348482",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p38",
+  "summary": "So far, there's been no widespread disruptions to water supplies or treatment. — Luke Barr, Jack Date, Katherine Faulders, Josh Margolin, and Aaron Katersky",
+  "techmeme_url": "https://www.techmeme.com/260804/p38",
+  "title": "Sources: possible cyberattacks targeting water and wastewater utilities have now been reported in at least 12 US states, and Iran is the prime suspect (ABC News)"
  },
  "a260804p4": {
   "article_url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04/",
