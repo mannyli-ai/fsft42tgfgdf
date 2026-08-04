@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/260804/p1",
   "title": "Sources: HP, Asus, and Acer have started using small amounts of DRAM chips from CXMT in their laptops for non-US markets, amid an unprecedented memory shortage (Nikkei Asia)"
  },
+ "a260804p10": {
+  "article_url": "https://www.ft.com/content/7600731b-4f7f-4d38-a478-3196c565a880",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p10",
+  "summary": "Financial companies hope to modernise markets with the technology but systemic risks remain.",
+  "techmeme_url": "https://www.techmeme.com/260804/p10",
+  "title": "How Wall Street learned to love the blockchain, as US regulators accept tokenized assets and other tech can offer significant advantages in speed and efficiency (Nikou Asgari/Financial Times)"
+ },
+ "a260804p11": {
+  "article_url": "https://www.reuters.com/legal/transactional/bending-spoons-makes-first-post-ipo-acquisition-with-13-billion-airtable-deal-2026-08-04/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p11",
+  "summary": "Bending Spoons (BSP.O) has agreed to buy Airtable in an all-cash deal valuing the U.S. software firm at $1.285 billion …",
+  "techmeme_url": "https://www.techmeme.com/260804/p11",
+  "title": "Bending Spoons agrees to acquire Airtable in an all-cash deal valuing the US software company at $1.285B, set to close by 2026's end, its first post-IPO deal (Reuters)"
+ },
+ "a260804p12": {
+  "article_url": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html?unlocked_article_code=1.21A.X6TY.5tmeofQ_BMdI&smid=bs-share",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p12",
+  "summary": "The Trump administration has struggled over how to approach to “open source” models, which are freely available to download and favored by Chinese companies.",
+  "techmeme_url": "https://www.techmeme.com/260804/p12",
+  "title": "Sources: the US is focused on promoting US AI models to be more competitive, after officials considered taking a more interventionist approach to open-source AI (New York Times)"
+ },
+ "a260804p13": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-04/huawei-s-top-scientist-warns-of-chip-limit-nvidia-will-soon-face",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p13",
+  "summary": "Huawei Technologies Co.'s top semiconductor scientist warned of the looming physical limits Western chipmaking giants including Nvidia Corp. face …",
+  "techmeme_url": "https://www.techmeme.com/260804/p13",
+  "title": "In a rare interview, Huawei's top chip scientist, Liao Heng, warns of the looming physical limits Western chipmakers face and lauds Huawei's Tau Scaling Law (Bloomberg)"
+ },
+ "a260804p14": {
+  "article_url": "https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html?unlocked_article_code=1.21A.yxaO.d5Q_5XIBo9sK&smid=bs-share",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p14",
+  "summary": "A 24-year-old woman logged onto a videoconference from her bedroom in Florida on a Friday morning in April 2025 to face a deposition in her lawsuit against Uber.",
+  "techmeme_url": "https://www.techmeme.com/260804/p14",
+  "title": "Uber is defending 4,000+ rider sexual-violence lawsuits by aggressively examining plaintiffs' drinking, clothing, and more, after promising to protect survivors (Emily Steel/New York Times)"
+ },
+ "a260804p15": {
+  "article_url": "https://www.reuters.com/world/trump-administration-drafting-ban-chinese-data-center-devices-sources-say-2026-08-04/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p15",
+  "summary": "The Trump administration is drafting a ban on U.S. imports of new models of Chinese data center components …",
+  "techmeme_url": "https://www.techmeme.com/260804/p15",
+  "title": "Sources: the FCC is drafting a restriction on US imports of new models of Chinese data center optical transceivers, set to take effect upon publication in 2026 (Alexandra Alper/Reuters)"
+ },
+ "a260804p16": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p16",
+  "summary": "China's state-backed CXMT Corp. is poised to produce smartphone memory chips that are on par with the industry's most advanced designs …",
+  "techmeme_url": "https://www.techmeme.com/260804/p16",
+  "title": "Sources: CXMT is set to manufacture small quantities of LPDDR6 smartphone memory around 2026's end, as it seeks to compete with Micron, SK Hynix, and Samsung (Bloomberg)"
+ },
+ "a260804p17": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-04/nvidia-dell-back-ai-cloud-startup-volta-at-2-4-billion-value",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p17",
+  "summary": "Volta Infra Holdings Ltd., a new artificial intelligence cloud company, has raised $300 million in venture funding and secured …",
+  "techmeme_url": "https://www.techmeme.com/260804/p17",
+  "title": "AI cloud startup Volta Infra raised $300M led by a16z and Altimeter at a $2.4B valuation and says it landed a $10B contract with an unnamed leading AI developer (Dina Bass/Bloomberg)"
+ },
+ "a260804p18": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p18",
+  "summary": "Anthropic PBC has struck a $10 billion deal for computing capacity from a months-old infrastructure startup …",
+  "techmeme_url": "https://www.techmeme.com/260804/p18",
+  "title": "Sources: Anthropic agreed to a $10B deal for computing capacity in Norway from Nvidia-backed AI cloud startup Volta Infra, which says the deal is for six years (Bloomberg)"
+ },
+ "a260804p19": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-04/polymarket-seeks-more-than-20-billion-valuation-in-funding-round",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p19",
+  "summary": "Polymarket is seeking to raise capital at a valuation of more than $20 billion, months after it closed an earlier round with new investment from hedge fund D.E. Shaw & Co.",
+  "techmeme_url": "https://www.techmeme.com/260804/p19",
+  "title": "Sources: Polymarket is in early talks with prospective investors to raise ~$1B at a $20B+ valuation, up from $15B in April 2026 and $9B in October 2025 (Todd Gillespie/Bloomberg)"
+ },
  "a260804p2": {
   "article_url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
   "date": "2026-08-04",
@@ -14,6 +94,46 @@
   "summary": "Today, I'm talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO.",
   "techmeme_url": "https://www.techmeme.com/260804/p2",
   "title": "Q&A with Bluesky CEO Toni Schneider on the AT Protocol, ActivityPub, scaling moderation, Bluesky's reputation as a progressive social media network, and more (Nilay Patel/The Verge)"
+ },
+ "a260804p20": {
+  "article_url": "https://fortune.com/2026/08/04/happyrobot-worth-1-2-billion-founder-says-just-getting-started/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p20",
+  "summary": "Pablo Palafox likes to say his company is “getting started” even as its valuation just crossed ten figures.",
+  "techmeme_url": "https://www.techmeme.com/260804/p20",
+  "title": "HappyRobot, which uses AI to automate freight operator communications, raised a $150M Series C at a $1.2B valuation, after a $44M Series B in September 2025 (Lily Mae Lazarus/Fortune)"
+ },
+ "a260804p21": {
+  "article_url": "https://www.reuters.com/technology/obsidian-security-raises-funding-11-billion-valuation-ai-security-demand-2026-08-04/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p21",
+  "summary": "Obsidian Security said on Tuesday it had raised $85 million in a Series D funding round that valued the AI security startup at $1.1 billion …",
+  "techmeme_url": "https://www.techmeme.com/260804/p21",
+  "title": "Obsidian Security, which helps companies secure AI agents, raised an $85M Series D at a $1.1B valuation, after raising a $90M Series C in April 2022 (Akash Sriram/Reuters)"
+ },
+ "a260804p22": {
+  "article_url": "https://futurism.com/artificial-intelligence/regular-people-data-center-arrest-protest",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p22",
+  "summary": "People are rising up everywhere. … It takes a lot to get your typical white-bread American riled up enough that they're willing to go to jail.",
+  "techmeme_url": "https://www.techmeme.com/260804/p22",
+  "title": "Analysis: in 2026 so far, US police arrested at least 37 people in connection to data center protests and intervened to prevent confrontations in 12 more cases (Joe Wilkins/Futurism)"
+ },
+ "a260804p23": {
+  "article_url": "https://siliconangle.com/2026/08/04/convex-reels-57m-ai-optimized-application-backend/",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p23",
+  "summary": "Developer tooling startup Convex Inc. today disclosed that it has closed a $57 million funding round led by Insight Partners.",
+  "techmeme_url": "https://www.techmeme.com/260804/p23",
+  "title": "Convex, which provides an AI-optimized application backend for developers, raised a $57M Series B led by Insight Partners, taking its total funding to $110.5M (Maria Deutscher/SiliconANGLE)"
+ },
+ "a260804p24": {
+  "article_url": "https://www.ft.com/content/33c20c4e-6a25-42da-9f1e-6664c8388957?accessToken=zwAAAZ_NV5S2kc8zwgxOaiVC2tOfHmZkyDiJVw.MEUCIQCteSF6phjOxCWPA8pLq_dB03iWyeovBJprL5Z_XiFflgIgB8Ou-MxGsXIQVwyRQL06YHVLj38ccmQBtOZWUt8fmq0&sharetype=gift&token=40ae027d-65ea-4e4e-a986-09e370687654&syn-25a6b1a6=1",
+  "date": "2026-08-04",
+  "permalink_id": "a260804p24",
+  "summary": "World Bank says workers in poorer economies more likely to benefit from the technology than be replaced by it",
+  "techmeme_url": "https://www.techmeme.com/260804/p24",
+  "title": "A World Bank report says developing economies stand to benefit more from AI boosting their workers' output than they will lose in jobs being replaced by AI (Joseph Cotterill/Financial Times)"
  },
  "a260804p3": {
   "article_url": "https://openai.com/index/apple-is-getting-this-wrong",
