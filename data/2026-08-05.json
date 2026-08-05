@@ -111,6 +111,70 @@
   "techmeme_url": "https://www.techmeme.com/260805/p21",
   "title": "Sources: ByteDance founder Zhang Yiming told employees at an all-hands last month that the company will not use model distillation to accelerate capabilities (The Information)"
  },
+ "a260805p22": {
+  "article_url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html?unlocked_article_code=1.3FA.pkQi.S90soFNOUXcF&smid=url-share",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p22",
+  "summary": "Developers built Sunflower, an artificial intelligence tool customized for Ugandan languages, using a Chinese model.",
+  "techmeme_url": "https://www.techmeme.com/260805/p22",
+  "title": "Developers in Africa are increasingly choosing Chinese open-source AI models over US models, saying they are downloadable, easier to customize, and much cheaper (New York Times)"
+ },
+ "a260805p23": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/08/05/faye-travel-acquisitions-madrona",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p23",
+  "summary": "Travel protection startup Faye raised a $50 million Series C led by Madrona, CEO Elad Schaffer tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260805/p23",
+  "title": "Faye, which offers travel insurance services and uses AI to help resolve claims, raised a $50M Series C led by Madrona, taking its total funding to $100M (Chris Metinko/Axios)"
+ },
+ "a260805p24": {
+  "article_url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p24",
+  "summary": "Nearly a year ago, Zoox opened its robotaxi service to the public in Las Vegas. Now, it is ready to start charging for those rides.",
+  "techmeme_url": "https://www.techmeme.com/260805/p24",
+  "title": "Amazon's Zoox will start charging for rides in Las Vegas from August 10, marking the launch of its commercial operations after offering free rides since 2025 (Kirsten Korosec/TechCrunch)"
+ },
+ "a260805p25": {
+  "article_url": "https://www.businessinsider.com/elon-musk-spacex-will-only-buy-from-nvidia-2026-8",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p25",
+  "summary": "SpaceX says it's ready to be a one-chip supplier company. — On SpaceX's highly anticipated earnings call on Wednesday …",
+  "techmeme_url": "https://www.techmeme.com/260805/p25",
+  "title": "Elon Musk says SpaceX has decided to \"build exclusively on Nvidia because we think the Vera Rubin architecture is the best architecture\" (Shubhangi Goel/Business Insider)"
+ },
+ "a260805p26": {
+  "article_url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p26",
+  "summary": "Demis Hassabis is leaving his role as CEO of Google DeepMind to be the unit's chairman. Chief scientist Jeff Dean and several Google AI colleagues …",
+  "techmeme_url": "https://www.techmeme.com/260805/p26",
+  "title": "Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ (Axios)"
+ },
+ "a260805p27": {
+  "article_url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p27",
+  "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs …",
+  "techmeme_url": "https://www.techmeme.com/260805/p27",
+  "title": "Jeff Dean and three other Google execs are leaving to launch Discovery Loop, which will seek AI-powered breakthroughs in drug discovery, chip design, and more (Steven Levy/Wired)"
+ },
+ "a260805p28": {
+  "article_url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html?unlocked_article_code=1.3FA.mlf-.8hYfKBMJEvf7&smid=url-share",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p28",
+  "summary": "Jeff Dean, who for years was one of Google's most important executives, is leading the new artificial intelligence company with the backing of Google.",
+  "techmeme_url": "https://www.techmeme.com/260805/p28",
+  "title": "Discovery Loop, co-founded by Jeff Dean, is backed by seed funding from Radical Ventures, Khosla Ventures, and others; Google also has a stake in the company (Cade Metz/New York Times)"
+ },
+ "a260805p29": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p29",
+  "summary": "Alphabet Inc.'s Google is losing some of its most prominent artificial intelligence veterans in a seismic overhaul that is casting doubt over leadership …",
+  "techmeme_url": "https://www.techmeme.com/260805/p29",
+  "title": "Google says Chief AI Architect and Google DeepMind CTO Koray Kavukcuoglu will lead Google DeepMind as SVP, reporting to Sundar Pichai (Bloomberg)"
+ },
  "a260805p3": {
   "article_url": "https://www.reuters.com/business/media-telecom/china-ai-hardware-stocks-slump-after-news-us-plans-ban-imports-chinese-2026-08-05/",
   "date": "2026-08-05",
@@ -118,6 +182,46 @@
   "summary": "Shares of Chinese optical module makers such as Zhongji Innolight (300308.SZ) slumped on Wednesday after a Reuters report …",
   "techmeme_url": "https://www.techmeme.com/260805/p3",
   "title": "Innolight falls after a report said the US plans to restrict imports of new Chinese data center optical transceivers; 62% of its Q1 revenue came from the US (Reuters)"
+ },
+ "a260805p30": {
+  "article_url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p30",
+  "summary": "Hark, a startup that raised $700 million in Series A funding in May, today launched its agent Hark Handoff, which can use a browser efficiently to complete tasks.",
+  "techmeme_url": "https://www.techmeme.com/260805/p30",
+  "title": "Hark, founded by Figure AI CEO Brett Adcock, previews Handoff, a computer use agent it says outperforms GPT-5.4 and Opus 4.8, and plans for a summer release (Ivan Mehta/TechCrunch)"
+ },
+ "a260805p31": {
+  "article_url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p31",
+  "summary": "It's also planning big changes for developers and old Reddit. … Reddit is enlisting AI to help moderate new subreddits — and eventually the rest of site.",
+  "techmeme_url": "https://www.techmeme.com/260805/p31",
+  "title": "Reddit expands its test of Rules Hub, a suite of tools that rely on LLMs to help moderators manage their communities, and plans a full launch later this year (Jay Peters/The Verge)"
+ },
+ "a260805p32": {
+  "article_url": "https://www.404media.co/apples-private-relay-is-exposing-users-real-ip-addresses/",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p32",
+  "summary": "Researchers found a group of issues that mean Private Relay isn't actually protecting users' real IP addresses.",
+  "techmeme_url": "https://www.techmeme.com/260805/p32",
+  "title": "Mysk: Apple's Private Relay tool can leak users' IP addresses due to issues in Apple's WebKit browser engine, also affecting OnionBrowser, a Tor browser for iOS (Joseph Cox/404 Media)"
+ },
+ "a260805p33": {
+  "article_url": "https://www.businessinsider.com/jack-ma-invests-30-million-ai-insurance-startup-corgi-2026-8",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p33",
+  "summary": "Jack is back. — Chinese billionaire Jack Ma's private equity firm secretly led the latest funding round for Corgi …",
+  "techmeme_url": "https://www.techmeme.com/260805/p33",
+  "title": "Source: Yunfeng Capital, a PE firm co-founded by Jack Ma, invested ~$30M in AI insurance tech startup Corgi, leading a round that reportedly valued Corgi at $4B (Business Insider)"
+ },
+ "a260805p34": {
+  "article_url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+  "date": "2026-08-05",
+  "permalink_id": "a260805p34",
+  "summary": "Meta is rolling out its first coding agent called Muse Code as the company tries to challenge leading AI labs Anthropic and OpenAI.",
+  "techmeme_url": "https://www.techmeme.com/260805/p34",
+  "title": "Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens (Jonathan Vanian/CNBC)"
  },
  "a260805p4": {
   "article_url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImxFdUx0VXBLR1MiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk3MzA5OC9yZWRkaXQtYWktc2VhcmNoLXNlby1tYXJrZXRpbmctYnJhbmRzLXNwYW0iLCJleHAiOjE3ODYyNzcxNDQsImlhdCI6MTc4NTg0NTE0NH0.5xvH6sSk5P0dplXamVR86M7YGKK3aSa-PeL8MZI3TL0",
