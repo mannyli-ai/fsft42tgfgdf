@@ -287,6 +287,38 @@
   "techmeme_url": "https://www.techmeme.com/260806/p55",
   "title": "New Mexico trial: a judge orders Meta to pay $567M and make changes for underage users after finding its platforms helped create a public nuisance harming teens (KOB 4)"
  },
+ "a260806p56": {
+  "article_url": "https://www.forbes.com/sites/iainmartin/2026/08/06/ais-latest-rocket-ship-is-an-old-school-28-year-old-data-company/",
+  "date": "2026-08-06",
+  "permalink_id": "a260806p56",
+  "summary": "For nearly three decades, Alex Bouzari ran a data storage stalwart for research labs at the likes of NASA.",
+  "techmeme_url": "https://www.techmeme.com/260806/p56",
+  "title": "A profile of DDN, a managed data storage company whose annual revenue is expected to grow from $300M pre-AI boom to $1B by year's end, fueled by AI partnerships (Iain Martin/Forbes)"
+ },
+ "a260806p57": {
+  "article_url": "https://www.platformer.news/",
+  "date": "2026-08-06",
+  "permalink_id": "a260806p57",
+  "summary": "Disclosure: my fiancé works at Anthropic, whose models Replit uses and which Masad discusses below.",
+  "techmeme_url": "https://www.techmeme.com/260806/p57",
+  "title": "An interview with Replit CEO Amjad Masad on why \"vibe coding\" is never about coding, the SaaS apocalypse, building a \"self-driving company\", and more (Casey Newton/Platformer)"
+ },
+ "a260806p58": {
+  "article_url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+  "date": "2026-08-06",
+  "permalink_id": "a260806p58",
+  "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+  "techmeme_url": "https://www.techmeme.com/260806/p58",
+  "title": "Security researchers claim Kimi K3 went outside its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet (Will Knight/Wired)"
+ },
+ "a260806p59": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-charge-big-users-its-next-open-source-ai-model-sources-say-2026-08-07/",
+  "date": "2026-08-06",
+  "permalink_id": "a260806p59",
+  "summary": "Chinese technology giant Alibaba (9988.HK) plans to ask major users of the next version of its Qwen open-source AI model for a share …",
+  "techmeme_url": "https://www.techmeme.com/260806/p59",
+  "title": "Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share (Reuters)"
+ },
  "a260806p6": {
   "article_url": "https://www.ft.com/content/33303552-64c0-444f-8d43-e853cfd09a41",
   "date": "2026-08-06",
