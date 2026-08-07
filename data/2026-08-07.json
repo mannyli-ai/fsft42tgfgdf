@@ -7,6 +7,46 @@
   "techmeme_url": "https://www.techmeme.com/260807/p1",
   "title": "Sources: an addendum to the bipartisan Clarity Act would force President Trump to divest from crypto businesses, letting him defer paying taxes on the gains (Bloomberg)"
  },
+ "a260807p10": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-07/us-reviews-china-s-offshore-access-to-nvidia-chips-after-ai-breakthroughs",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p10",
+  "summary": "A key US agency is reviewing how Chinese AI firms acquire and access Nvidia Corp. chips overseas, following a spate …",
+  "techmeme_url": "https://www.techmeme.com/260807/p10",
+  "title": "Sources: the US Commerce Department's BIS is reviewing how Chinese AI companies access Nvidia chips overseas, including by legally renting foreign data centers (Mackenzie Hawkins/Bloomberg)"
+ },
+ "a260807p11": {
+  "article_url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p11",
+  "summary": "The customer support industry has seen a massive influx of startups like Sierra, Decagon and Parloa trying to infuse AI …",
+  "techmeme_url": "https://www.techmeme.com/260807/p11",
+  "title": "Athens-based Omilia, which builds self-learning AI agents that work across different customer contact points, raised a $67M Series B led by Expedition Growth (Ivan Mehta/TechCrunch)"
+ },
+ "a260807p12": {
+  "article_url": "https://fortune.com/2026/08/07/ai-obsessed-silicon-valley-live-commerce-platform-whatnot-new-funding-round-20-billion/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p12",
+  "summary": "Whatnot, started in a Funko Pop-flooded rental house, is now a $20 billion company. — The live commerce platform exclusively told Fortune …",
+  "techmeme_url": "https://www.techmeme.com/260807/p12",
+  "title": "Livestream shopping app Whatnot raised a $545M Series G led by Iconiq, Lightspeed, and Avra at a $20B valuation, up from an $11.5B valuation in October 2025 (Allie Garfinkle/Fortune)"
+ },
+ "a260807p13": {
+  "article_url": "https://www.reuters.com/business/take-two-sticks-annual-bookings-outlook-says-track-gta-vi-november-launch-2026-08-07/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p13",
+  "summary": "Take-Two Interactive (TTWO.O) maintained its annual bookings forecast on Friday, but reiterated the November 19 launch date …",
+  "techmeme_url": "https://www.techmeme.com/260807/p13",
+  "title": "Take-Two reports Q1 bookings down 3% YoY to $1.39B, vs. $1.38B est., forecasts Q2 and FY 2027 bookings below est., reiterates GTA VI's November 19 launch date (Deborah Sophia/Reuters)"
+ },
+ "a260807p14": {
+  "article_url": "https://www.youtube.com/watch?v=87DyyMV0kCY",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p14",
+  "summary": "The ‘Breaking’ News: The OpenAI-Hugging Face Incident - A Technical Reconstruction and Its Implications for AIWhen AI Goes Rogue. The Incident That Changed E...",
+  "techmeme_url": "https://www.techmeme.com/260807/p14",
+  "title": "At Black Hat, OpenAI reconstructs the OpenAI-Hugging Face incident and examines its implications for AI security, cyber resilience, and alignment (Black Hat on YouTube)"
+ },
  "a260807p2": {
   "article_url": "https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef",
   "date": "2026-08-07",
@@ -22,5 +62,53 @@
   "summary": "Bryan Kim, who invested in consumer tech and AI startups at Andreessen, is creating his own firm, Mido Capital Bryan Kim …",
   "techmeme_url": "https://www.techmeme.com/260807/p3",
   "title": "Filing: ex-a16z partner Bryan Kim is forming venture firm Mido Capital; sources: he plans to raise ~$100M for a fund backing early-stage AI and other startups (Yuliya Chernova/Wall Street Journal)"
+ },
+ "a260807p4": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0MjQzNCwiZXhwIjoxNzg2NjQ3MjM0LCJhcnRpY2xlSWQiOiJUSjlGTTNUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI0OEFDOEE5MkEwNTM0MkQ4OEIyRjkwQjhDMTgzMTdDMyJ9.m-IAuV3sebL_WR3AKvma_4KEcsUWnjiZf5cmAI_i3L8",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p4",
+  "summary": "The US military's cyberwarfare unit is scrutinizing an unusually high number of deaths by suicide among personnel over a month-long period this summer …",
+  "techmeme_url": "https://www.techmeme.com/260807/p4",
+  "title": "Sources: up to five people tied to US Cyber Command died by suicide from early June to early July 2026, prompting it to flag a potential suicide cluster (Bloomberg)"
+ },
+ "a260807p5": {
+  "article_url": "https://www.ft.com/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p5",
+  "summary": "Google is shifting control of its AI effort from London back to Silicon Valley in a sweeping leadership overhaul that cements …",
+  "techmeme_url": "https://www.techmeme.com/260807/p5",
+  "title": "Sources: Google's AI shakeup is a seismic shift in the works for months and cements Sergey Brin's influence, after execs became frustrated with Demis Hassabis (Financial Times)"
+ },
+ "a260807p6": {
+  "article_url": "https://newsletter.semianalysis.com/p/gemini-is-cooked-but-gcp-is-cooking",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p6",
+  "summary": "GCP YoY rev growth >100%, DeepMind's long term failure is Google Cloud's short term gain — On Wednesday, August 5th …",
+  "techmeme_url": "https://www.techmeme.com/260807/p6",
+  "title": "Analysis: Google DeepMind has lost frontier-model momentum amid leadership and RL talent departures, with Google Cloud emerging as a winner with more compute (SemiAnalysis)"
+ },
+ "a260807p7": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-to-spend-38-billion-on-chip-factory-expansion-in-korea",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p7",
+  "summary": "SK Hynix Inc. plans a 54 trillion won ($38 billion) expansion of its chipmaking facilities in South Korea, the memory chip maker said in a statement Friday.",
+  "techmeme_url": "https://www.techmeme.com/260807/p7",
+  "title": "SK Hynix plans a $38B chipmaking expansion in South Korea, including a new ~$24.7B DRAM facility in Yongin and a ~$13.3B NAND fabrication plant in Cheongju (Yoolim Lee/Bloomberg)"
+ },
+ "a260807p8": {
+  "article_url": "https://www.ft.com/content/78c3db17-89f1-4bd4-b7c6-86c0495ba3c2",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p8",
+  "summary": "Mike Cannon-Brookes' move comes as shares in Australian software company soar on strong quarterly sales",
+  "techmeme_url": "https://www.techmeme.com/260807/p8",
+  "title": "Atlassian CEO Mike Cannon-Brookes says he will buy $250M of company shares after strong Q4 results eased fears that AI could threaten its business model (Nic Fildes/Financial Times)"
+ },
+ "a260807p9": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/trump-signs-executive-order-protect-us-polysilicon-industry-2026-08-06/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p9",
+  "summary": "The White House on Thursday imposed a series of price floors and a 15% tariff on products made from polysilicon, the raw material used …",
+  "techmeme_url": "https://www.techmeme.com/260807/p9",
+  "title": "The White House imposes a series of price floors and a 15% tariff on products made from polysilicon, a chip raw material primarily produced by China (Reuters)"
  }
 }
