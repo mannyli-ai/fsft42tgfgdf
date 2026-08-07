@@ -47,6 +47,46 @@
   "techmeme_url": "https://www.techmeme.com/260807/p14",
   "title": "At Black Hat, OpenAI reconstructs the OpenAI-Hugging Face incident and examines its implications for AI security, cyber resilience, and alignment (Black Hat on YouTube)"
  },
+ "a260807p15": {
+  "article_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p15",
+  "summary": "We're making updates to Claude Fable 5's biology safeguards in a way that substantially reduces false positives.",
+  "techmeme_url": "https://www.techmeme.com/260807/p15",
+  "title": "Anthropic updates Claude Fable 5's biology safeguards to reduce false positives, cutting biology-related \"fallbacks\" by ~85% in testing across product surfaces (Anthropic)"
+ },
+ "a260807p16": {
+  "article_url": "https://www.wsj.com/cmo-today/videoamp-cuts-staff-as-ai-agents-take-center-stage-ef6f44d1?st=ABRvH2&reflink=desktopwebshare_permalink",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p16",
+  "summary": "Plus, Claire's redesigns its ear-piercing experience to compete with trendy studios",
+  "techmeme_url": "https://www.techmeme.com/260807/p16",
+  "title": "Ad measurement company VideoAmp cut ~20% of its staff this week, citing that \"AI is a major platform shift\"; sources: 50 to 60 were laid off, including the CTO (Nat Ives/Wall Street Journal)"
+ },
+ "a260807p17": {
+  "article_url": "https://www.dealstreetasia.com/stories/ai-startup-acrab-raises-130m-in-vertex-backed-series-b-funding-491373/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p17",
+  "summary": "Acrab, a Singapore-headquartered AI infrastructure startup, has announced raising $130 million in a Series B funding round backed by existing investors Vertex Ventures …",
+  "techmeme_url": "https://www.techmeme.com/260807/p17",
+  "title": "Singapore-based AI infrastructure startup Acrab raised a $130M Series B, bringing its total funding to more than $480M (Mars W. Mosqueda Jr/DealStreetAsia)"
+ },
+ "a260807p18": {
+  "article_url": "https://variety.com/2026/tv/news/nielsen-acquire-doubleverify-digital-media-measurement-1236829441/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p18",
+  "summary": "Audience-measurement giant Nielsen said it would acquire the digital-media monitor DoubleVerify in an all-cash transaction …",
+  "techmeme_url": "https://www.techmeme.com/260807/p18",
+  "title": "Nielsen agrees to acquire and take digital media monitor DoubleVerify private in an all-cash deal with a ~$2.15B enterprise value, expected to close by Q1 2027 (Brian Steinberg/Variety)"
+ },
+ "a260807p19": {
+  "article_url": "https://www.wsj.com/pro/private-equity/ai-startup-multiplier-takes-on-big-four-accounting-with-a-private-equity-twist-bf1d3dc4?st=hhFxaP&reflink=desktopwebshare_permalink",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p19",
+  "summary": "The $300 million company raised $35 million and hired former Slack CFO Allen Shim as it pursues an aggressive, acquisition-led expansion",
+  "techmeme_url": "https://www.techmeme.com/260807/p19",
+  "title": "Singapore-based Multiplier, which acquires accounting firms to boost their growth with AI tools, raised a $35M Series B led by TheGP at a $300M valuation (Maria Armental/Wall Street Journal)"
+ },
  "a260807p2": {
   "article_url": "https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef",
   "date": "2026-08-07",
@@ -54,6 +94,54 @@
   "summary": "TikTok owner training a model three times larger than Moonshot's Kimi K3 — ByteDance is training an AI model that could approach …",
   "techmeme_url": "https://www.techmeme.com/260807/p2",
   "title": "Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic's Mythos 5 (Financial Times)"
+ },
+ "a260807p20": {
+  "article_url": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p20",
+  "summary": "OpenAI “cannot rule out” that its upcoming model Astra has\"critical\" cyber capabilities, a designation that has prompted …",
+  "techmeme_url": "https://www.techmeme.com/260807/p20",
+  "title": "OpenAI says it has expanded safety testing around its upcoming model Astra as it \"cannot rule out\" critical cyber capabilities, potentially delaying its launch (Axios)"
+ },
+ "a260807p21": {
+  "article_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p21",
+  "summary": "Cloudflare is the latest company to join the race to build a new web browser. But instead of pitching a Chrome alternative to consumers …",
+  "techmeme_url": "https://www.techmeme.com/260807/p21",
+  "title": "Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run (Sarah Perez/TechCrunch)"
+ },
+ "a260807p22": {
+  "article_url": "https://www.theinformation.com/articles/harvey-talks-raise-funding-15-5-billion-valuation",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p22",
+  "summary": "Legal AI startup Harvey is in talks to raise at least $500 million at a $15.5 billion valuation including the investment, a 40% premium to its last valuation five months ago.",
+  "techmeme_url": "https://www.techmeme.com/260807/p22",
+  "title": "Sources: legal AI startup Harvey is in talks to raise $500M+ at a $15.5B valuation, up from $11B in March, and is generating $350M+ in annualized revenue (The Information)"
+ },
+ "a260807p23": {
+  "article_url": "https://www.eu-startups.com/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p23",
+  "summary": "NavVis, a Munich-based spatial twin platform for the built world, has raised a €73.7 million ($85 million) …",
+  "techmeme_url": "https://www.techmeme.com/260807/p23",
+  "title": "Munich-based NavVis, which provides enterprises with spatial data on factories, plants, buildings, and more, raised an $85M Series D led by The Jordan Company (Rahul Raj/EU-Startups)"
+ },
+ "a260807p24": {
+  "article_url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InRibFpKY1lub1giLCJwIjoiL3RlY2gvOTc2ODgwL21pY3Jvc29mdC1lZGdlLWV4dGVuc2lvbnMtYWQtYmxvY2tlcnMtbXYyLW12MyIsImV4cCI6MTc4NjU1Njk4NiwiaWF0IjoxNzg2MTI0OTg2fQ.7M9iBQ_tAcgKnjkl_2Viwl_WUp4sTv1MRnygbs8X11Q",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p24",
+  "summary": "﻿Microsoft's plan for Edge means that uBlock Origin users are losing one of their browser options.",
+  "techmeme_url": "https://www.techmeme.com/260807/p24",
+  "title": "Microsoft plans to end support for Manifest V2 extensions in Edge starting this month, following Google Chrome, and for enterprise users in early 2027 (Stevie Bonifield/The Verge)"
+ },
+ "a260807p25": {
+  "article_url": "https://www.reuters.com/world/middle-east/us-sanctions-dubai-crypto-exchange-aiding-irans-irgc-following-reuters-report-2026-08-07/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p25",
+  "summary": "The United States on Friday sanctioned an unlicensed multi-state cryptocurrency exchange, alleging it processed millions of dollars …",
+  "techmeme_url": "https://www.techmeme.com/260807/p25",
+  "title": "The US Treasury sanctions Dubai-based unlicensed crypto exchange Shelbit, alleging it processed millions in crypto for IRGC and other Iran-linked groups (Reuters)"
  },
  "a260807p3": {
   "article_url": "https://www.wsj.com/pro/venture-capital/former-andreessen-horowitz-partner-targets-100-million-new-fund-29e24438?st=7NLRyz&reflink=desktopwebshare_permalink",
