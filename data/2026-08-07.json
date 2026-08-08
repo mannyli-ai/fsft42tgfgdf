@@ -143,6 +143,38 @@
   "techmeme_url": "https://www.techmeme.com/260807/p25",
   "title": "The US Treasury sanctions Dubai-based unlicensed crypto exchange Shelbit, alleging it processed millions in crypto for IRGC and other Iran-linked groups (Reuters)"
  },
+ "a260807p26": {
+  "article_url": "https://www.theinformation.com/articles/cursor-maps-branding-changes-spacex-acquisition-nears",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p26",
+  "summary": "Cursor told staff at an all-hands meeting on Thursday that SpaceX could complete its $60 billion acquisition of the coding startup …",
+  "techmeme_url": "https://www.techmeme.com/260807/p26",
+  "title": "Sources: Cursor told staff on Thursday that SpaceX could complete its $60B acquisition as soon as next week and the Cursor brand name will likely be phased out (Grace Kay/The Information)"
+ },
+ "a260807p27": {
+  "article_url": "https://www.axios.com/2026/08/07/trump-media-crypto-treasury-deals",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p27",
+  "summary": "Truth Social's parent company, Trump Media and Technology Group, is pulling back from a pair of Crypto.com deals as its new leadership looks …",
+  "techmeme_url": "https://www.techmeme.com/260807/p27",
+  "title": "TMTG interim CEO Kevin McGurn says the company is pulling back from a pair of Crypto.com deals to focus on its media arm and its pending merger with TAE (Sara Fischer/Axios)"
+ },
+ "a260807p28": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/retailers-tap-ai-shopping-traffic-fight-keep-customer-data-2026-08-07/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p28",
+  "summary": "As shoppers increasingly turn to ChatGPT and Google's Gemini for product recommendations, retailers are racing to appear in chatbot results …",
+  "techmeme_url": "https://www.techmeme.com/260807/p28",
+  "title": "Retailers are updating their websites to rank highly in chatbot results, while making sure purchases are done on their own sites to collect customer data (Arriana McLymore/Reuters)"
+ },
+ "a260807p29": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-07/data-center-firm-switch-is-said-to-file-confidentially-for-ipo",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p29",
+  "summary": "Switch Inc. filed confidentially for a US IPO, according to people familiar with the matter, joining its data center peers …",
+  "techmeme_url": "https://www.techmeme.com/260807/p29",
+  "title": "Sources: data center operator Switch filed confidentially for a US IPO, and a listing could take place as soon as November; Ben Horowitz is joining its board (Bailey Lipschultz/Bloomberg)"
+ },
  "a260807p3": {
   "article_url": "https://www.wsj.com/pro/venture-capital/former-andreessen-horowitz-partner-targets-100-million-new-fund-29e24438?st=7NLRyz&reflink=desktopwebshare_permalink",
   "date": "2026-08-07",
@@ -150,6 +182,62 @@
   "summary": "Bryan Kim, who invested in consumer tech and AI startups at Andreessen, is creating his own firm, Mido Capital Bryan Kim …",
   "techmeme_url": "https://www.techmeme.com/260807/p3",
   "title": "Filing: ex-a16z partner Bryan Kim is forming venture firm Mido Capital; sources: he plans to raise ~$100M for a fund backing early-stage AI and other startups (Yuliya Chernova/Wall Street Journal)"
+ },
+ "a260807p30": {
+  "article_url": "https://www.politico.com/news/2026/08/07/delays-imperil-senate-crypto-bill-01029817",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p30",
+  "summary": "The cryptocurrency industry's top Washington priority has run into a stinging setback in the U.S. Senate.",
+  "techmeme_url": "https://www.techmeme.com/260807/p30",
+  "title": "The Clarity Act faces uncertainty after Senate Republicans delayed a vote until after their August recess, pushing it to September, just weeks before midterms (Jasper Goodman/Politico)"
+ },
+ "a260807p31": {
+  "article_url": "https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e?st=nJ8LeW&reflink=desktopwebshare_permalink",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p31",
+  "summary": "Investment marks the latest known private-company bet by Situational Awareness after quick sale of its stock portfolio.",
+  "techmeme_url": "https://www.techmeme.com/260807/p31",
+  "title": "Sources: Situational Awareness invested $500M, including $400M this week, into Source Foundry, a startup that plans to develop new AI chip manufacturing tools (Wall Street Journal)"
+ },
+ "a260807p32": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p32",
+  "summary": "A US banking regulator turned down a charter application by Dutch financial-technology firm Bunq BV, which submitted a request …",
+  "techmeme_url": "https://www.techmeme.com/260807/p32",
+  "title": "The US OCC denies Dutch fintech Bunq's application for a national bank charter, citing the need for more clarity on its business plan to expand in the US (Bloomberg)"
+ },
+ "a260807p33": {
+  "article_url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p33",
+  "summary": "Chinese AI start-up targets Hong Kong listing to raise fresh funding for next phase of development",
+  "techmeme_url": "https://www.techmeme.com/260807/p33",
+  "title": "Filings: Moonshot restructured its China-based entity from a limited liability company to a joint stock company in its first visible step toward a Hong Kong IPO (Financial Times)"
+ },
+ "a260807p34": {
+  "article_url": "https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p34",
+  "summary": "Users running the latest version of Claude Code on macOS and Linux can now have their sessions message each other to share findings, ask questions, and coordinate work.",
+  "techmeme_url": "https://www.techmeme.com/260807/p34",
+  "title": "Anthropic announces a feature that allows different Claude Code sessions to message each other with updates and other information, available on macOS and Linux (Marcus Mendes/9to5Mac)"
+ },
+ "a260807p35": {
+  "article_url": "https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p35",
+  "summary": "Inference at 100B/GW/year, SpaceX's stellar pace, Microsoft's 10GW 2026 Awakening, Azure Can Grow Triple-Digits",
+  "techmeme_url": "https://www.techmeme.com/260807/p35",
+  "title": "Analysis: SpaceX is on track to build ~10 GW of compute capacity by 2027's end, with 6 GW-8 GW in 2027 alone, which could drive $300B in annual revenue run-rate (SemiAnalysis)"
+ },
+ "a260807p36": {
+  "article_url": "https://www.theinformation.com/articles/nvidia-invest-3-billion-blackstone-backed-power-firm-behind-stargate",
+  "date": "2026-08-07",
+  "permalink_id": "a260807p36",
+  "summary": "Nvidia has agreed to invest $2 billion into Lancium, the power infrastructure developer behind the OpenAI and Oracle AI campus in Texas …",
+  "techmeme_url": "https://www.techmeme.com/260807/p36",
+  "title": "Sources: Nvidia agrees to invest $2B in Lancium, the power infrastructure developer of the Stargate campus in Texas, plus $1B more if it hits certain thresholds (The Information)"
  },
  "a260807p4": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0MjQzNCwiZXhwIjoxNzg2NjQ3MjM0LCJhcnRpY2xlSWQiOiJUSjlGTTNUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI0OEFDOEE5MkEwNTM0MkQ4OEIyRjkwQjhDMTgzMTdDMyJ9.m-IAuV3sebL_WR3AKvma_4KEcsUWnjiZf5cmAI_i3L8",
