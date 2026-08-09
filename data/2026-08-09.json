@@ -30,5 +30,13 @@
   "summary": "SemiAnalysis thinks the DeepMind shakeup means Google is losing the AI race. It might be that Google is choosing to run a different race.",
   "techmeme_url": "https://www.techmeme.com/260809/p4",
   "title": "Google's AI shakeup suggests it may be prioritizing AI diffusion over frontier-model leadership, betting on AI compute as a bigger economic opportunity (Tim O'Reilly/Asimov's Addendum)"
+ },
+ "a260809p5": {
+  "article_url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41?st=9XMAjn&reflink=desktopwebshare_permalink",
+  "date": "2026-08-09",
+  "permalink_id": "a260809p5",
+  "summary": "A decade ago, a computer did something that no human would have done. It was considered a breakthrough for AI.",
+  "techmeme_url": "https://www.techmeme.com/260809/p5",
+  "title": "A look back at \"Move 37\", a watershed AI moment from AlphaGo's 2016 Go victory, as math witnesses similar breakthroughs where AI makes surprising discoveries (Ben Cohen/Wall Street Journal)"
  }
 }
