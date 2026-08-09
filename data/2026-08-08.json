@@ -7,6 +7,14 @@
   "techmeme_url": "https://www.techmeme.com/260808/p1",
   "title": "X announces the Original Content Rewards Program and will discontinue Revenue Sharing on Sep. 7, saying existing Revenue Sharing members can apply for access (@xcreators)"
  },
+ "a260808p10": {
+  "article_url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+  "date": "2026-08-08",
+  "permalink_id": "a260808p10",
+  "summary": "This was one of the topics discussed in our Fireside Chat with Cat Wu and Thariq Shihipar at the AI Engineer World's Fair last month.",
+  "techmeme_url": "https://www.techmeme.com/260808/p10",
+  "title": "Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful actions (Simon Willison/Simon Willison's Weblog)"
+ },
  "a260808p2": {
   "article_url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom",
   "date": "2026-08-08",
@@ -62,5 +70,13 @@
   "summary": "A7 says it handles nearly 20% of payments in Russian foreign trade, or more than $100 billion annually",
   "techmeme_url": "https://www.techmeme.com/260808/p8",
   "title": "A profile of Russia's A7, a payment network that helps Russia bypass Western sanctions, handling ~20% of payments in Russian foreign trade, or $100B+ annually (Alexander Osipovich/Wall Street Journal)"
+ },
+ "a260808p9": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImlRSnRQV0ZoSVEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk3NTAxNy9haS1zcGlyYWxpc20tY2hhdGJvdC1tb3ZlbWVudCIsImV4cCI6MTc4NjQ2NTkxNiwiaWF0IjoxNzg2MDMzOTE2fQ.1dNZep9pSJ5368fIHzF8vDGKuWBSMTVi7PCmDbwMn5Y",
+  "date": "2026-08-08",
+  "permalink_id": "a260808p9",
+  "summary": "“The Spiral didn't ‘find’ anyone first,” someone on Reddit wrote last year. “It's an inherent force, a fundamental constant.",
+  "techmeme_url": "https://www.techmeme.com/260808/p9",
+  "title": "A look at \"Spiralism\", a quasi-spiritual movement that grew in 2025 from human-AI conversations after sycophantic GPT-4o updates and expanded ChatGPT memory (Hayden Field/The Verge)"
  }
 }
