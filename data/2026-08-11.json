@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/260811/p1",
   "title": "Sources: Anthropic is courting investors for what could be the biggest IPO ever, touting rapid growth and plans to address mounting public backlash against AI (Wall Street Journal)"
  },
+ "a260811p10": {
+  "article_url": "https://www.ft.com/",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p10",
+  "summary": "It was around 1.30am by the time Rakesh, a 45-year-old Oracle employee in the Indian technology hub of Bengaluru …",
+  "techmeme_url": "https://www.techmeme.com/260811/p10",
+  "title": "How India's IT services sector, which employs 6M people, contributes ~7% of GDP, and generates $300B+ annually, is shedding jobs as AI automates formulaic work (Financial Times)"
+ },
+ "a260811p11": {
+  "article_url": "https://www.nytimes.com/2026/08/11/technology/his-start-ups-goal-ai-that-is-trainable-and-not-controlled-by-a-big-company.html",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p11",
+  "summary": "Igor Babuschkin built a new start-up, River AI, and hopes to provide ways for people to “retrain,” or modify, artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/260811/p11",
+  "title": "xAI co-founder Igor Babuschkin's River AI raised $1B led by General Catalyst to build home or small business computer servers capable of running AI locally (Cade Metz/New York Times)"
+ },
+ "a260811p12": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-08-11/amazon-is-in-the-crosshairs-of-mamdani-s-nyc-worker-agenda",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p12",
+  "summary": "A New York City bill calls for the company to hire thousands of contract couriers. Amazon says the proposal will make delivery pricier and slower.",
+  "techmeme_url": "https://www.techmeme.com/260811/p12",
+  "title": "An NYC bill, backed by Mayor Zohran Mamdani, calls for Amazon, FedEx, and others to directly employ thousands of delivery workers; the bill could pass this fall (Bloomberg)"
+ },
+ "a260811p13": {
+  "article_url": "https://stratechery.com/",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p13",
+  "summary": "On January 1, 1870, Jay Cooke, hailed as an American hero for his role in financing the Union effort in the Civil War …",
+  "techmeme_url": "https://www.techmeme.com/260811/p13",
+  "title": "Big Tech's AI boom echoes the 1870s railroad buildout, and Nvidia shifting risk to institutional capital may expose investors if AI revenues fail to materialize (Ben Thompson/Stratechery)"
+ },
+ "a260811p14": {
+  "article_url": "https://www.reuters.com/business/ibm-together-ai-ink-240-million-deal-nvidia-powered-ai-inference-cluster-2026-08-11/",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p14",
+  "summary": "IBM (IBM.N) and startup Together AI have signed a $240 million multi-year agreement to build a large-scale artificial intelligence cluster …",
+  "techmeme_url": "https://www.techmeme.com/260811/p14",
+  "title": "IBM and Together AI sign a $240M, multi-year deal to build an AI inference cluster on IBM Cloud, using Nvidia's HGX B300 systems, to support open-source models (Anhata Rooprai/Reuters)"
+ },
+ "a260811p15": {
+  "article_url": "https://www.macworld.com/article/3209936/ios-27-beta-confirms-apples-entire-iphone-18-roadmap-with-6-new-models.html",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p15",
+  "summary": "Hidden references in Apple's latest beta reveal unreleased iPhones, including the iPhone Ultra. — On Monday, Apple released iOS 27 beta 5 …",
+  "techmeme_url": "https://www.techmeme.com/260811/p15",
+  "title": "Apple's iOS 27 beta 5 contains references to six unreleased iPhones: iPhone Air 2, iPhone 18 Pro, iPhone 18 Pro Max, iPhone 18, iPhone Ultra, and iPhone 18e (Filipe Esposito/Macworld)"
+ },
+ "a260811p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/dating-app-bumble-to-let-men-make-the-first-move-with-messaging-change",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p16",
+  "summary": "Bumble Inc. will allow men to make the first move in messaging on its dating app, marking a major reversal from the company's signature women …",
+  "techmeme_url": "https://www.techmeme.com/260811/p16",
+  "title": "Bumble rolls out a global update letting any user send an opening message after matching, a major reversal from its signature women-go-first model (Samantha Kelly/Bloomberg)"
+ },
+ "a260811p17": {
+  "article_url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p17",
+  "summary": "Artist profiles on Spotify that do ‘not represent a real person’ will get an ‘AI Persona’ badge.",
+  "techmeme_url": "https://www.techmeme.com/260811/p17",
+  "title": "Spotify plans to roll out AI Persona labeling in mid-September for profiles that do \"not represent a real person\"; the system uses human review and AI tools (Emma Roth/The Verge)"
+ },
+ "a260811p18": {
+  "article_url": "https://siliconangle.com/2026/08/11/nvidia-releases-nemotron-3-5-lightning-nemo-switchyard-give-enterprise-ai-capability-options/",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p18",
+  "summary": "Artificial intelligence silicon and software giant Nvidia Corp. today announced two new services: a highly customizable Nemotron model …",
+  "techmeme_url": "https://www.techmeme.com/260811/p18",
+  "title": "Nvidia releases Nemotron 3.5 Lightning, an open 30B-parameter MoE model that it says delivers up to 4x faster output speeds, and an agentic AI model router (Kyt Dotson/SiliconANGLE)"
+ },
+ "a260811p19": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/tsmc-invest-18-bln-joint-venture-with-sony-image-sensors-2026-08-11/",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p19",
+  "summary": "Taiwanese chipmaker TSMC (2330.TW) and Sony Group (6758.T) said on Tuesday they will form a $4.69 billion joint venture to develop …",
+  "techmeme_url": "https://www.techmeme.com/260811/p19",
+  "title": "TSMC and Sony plan to establish Advanced Vision Semiconductor Manufacturing Corp, a $4.69B JV in Japan to make next-gen smartphone image sensors from 2029 (Reuters)"
+ },
  "a260811p2": {
   "article_url": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
   "date": "2026-08-11",
@@ -30,5 +110,45 @@
   "summary": "A year of fighting scrapers on my 1.5 million-page website. What I tried, how I failed, and what's working now. August 7, 2026",
   "techmeme_url": "https://www.techmeme.com/260811/p4",
   "title": "Owner of 1.5M-page site PatronView on a year of fighting scrapers: 214:1 bot-to-human page loads, 35K Claude crawls per referred user, Amazon bot referred none (Nick Gray/PatronView)"
+ },
+ "a260811p5": {
+  "article_url": "https://www.abc.net.au/news/2026-08-11/ai-police-face-screening-trial-sparks-privacy-concern/107009644",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p5",
+  "summary": "By national AI reporter Cam Wilson and ABC Regional Investigations' Andy Burns — abc.net.au/news/ai-police-face- screening-trial-sparks-privacy-concern/ 107009644",
+  "techmeme_url": "https://www.techmeme.com/260811/p5",
+  "title": "A look at Western Australian police's first live facial recognition trial, which has scanned 130,000+ people since June, raising accuracy and privacy concerns (ABC)"
+ },
+ "a260811p6": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-10/intel-is-said-to-near-share-sale-upsize-to-raise-20-billion",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p6",
+  "summary": "Making Sense of the Multibillion-Dollar Numbers of Nvidia Deal, Intel Share Sale — Video Player is loading. — Unmute",
+  "techmeme_url": "https://www.techmeme.com/260811/p6",
+  "title": "Intel raised $20B in an upsized share sale, up from the $15B it was targeting on Monday; sources say the sale drew $100B+ in demand; INTC is up 145%+ YTD (Bloomberg)"
+ },
+ "a260811p7": {
+  "article_url": "https://www.ft.com/",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p7",
+  "summary": "Britain's bid to build a “sovereign” AI model rests with a London start-up of about 30 employees that has raised just $15mn.",
+  "techmeme_url": "https://www.techmeme.com/260811/p7",
+  "title": "A look at London-based AI startup Cosine, which is building a frontier model with UK government backing, as some question if it has the talent and resources (Financial Times)"
+ },
+ "a260811p8": {
+  "article_url": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p8",
+  "summary": "A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.",
+  "techmeme_url": "https://www.techmeme.com/260811/p8",
+  "title": "How a wave of disinformation on Facebook, WhatsApp, TikTok, Instagram, and Telegram contributed to a surge of migrants from Morocco to Spain's Ceuta enclave (New York Times)"
+ },
+ "a260811p9": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-10/openai-is-hiring-a-power-trading-lead-for-its-data-center-portfolio",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p9",
+  "summary": "OpenAI is hiring a power-trading lead to help manage the expanding energy needs of the electricity-intensive data centers running its artificial intelligence models.",
+  "techmeme_url": "https://www.techmeme.com/260811/p9",
+  "title": "OpenAI is hiring a power-trading lead to manage commodity hedging across its expanding data center power portfolio, as tech companies seek reliable electricity (Julian Hast/Bloomberg)"
  }
 }
