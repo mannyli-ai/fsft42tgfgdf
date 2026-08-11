@@ -126,5 +126,101 @@
   "summary": "YouTube announced on Monday that new creators will have to meet higher thresholds to begin earning money from ads and subscriptions.",
   "techmeme_url": "https://www.techmeme.com/260810/p35",
   "title": "YouTube says new creators will need double, or 8,000+, watch hours over the past year or 20M Shorts views in the last 90 days to start earning money from Feb. 1 (Aisha Malik/TechCrunch)"
+ },
+ "a260810p36": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-10/meta-loses-last-minute-bid-to-pause-landmark-state-ags-trial",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p36",
+  "summary": "Meta Platforms Inc. failed to obtain an emergency order pausing a landmark trial slated to begin this week involving claims …",
+  "techmeme_url": "https://www.techmeme.com/260810/p36",
+  "title": "The Ninth Circuit dismisses Meta's bid to pause a landmark trial by state AGs alleging its products addict children and have caused a youth mental health crisis (Isaiah Poritz/Bloomberg)"
+ },
+ "a260810p37": {
+  "article_url": "https://www.anthropic.com/research/riemann-zeta",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p37",
+  "summary": "Recently, a member of staff at Anthropic gave Claude an unreasonable challenge. It was about one of the most famous …",
+  "techmeme_url": "https://www.techmeme.com/260810/p37",
+  "title": "Anthropic details an unreleased Claude model's attempt to solve the Riemann hypothesis; it didn't solve it but \"unexpectedly\" made strides on a related problem (Anthropic)"
+ },
+ "a260810p38": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-10/sergey-brin-crosses-100-million-in-spending-to-fight-wealth-tax",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p38",
+  "summary": "Billionaire Sergey Brin has now poured over $100 million into his fight to stop a wealth tax in California.",
+  "techmeme_url": "https://www.techmeme.com/260810/p38",
+  "title": "Filing: Sergey Brin donated an additional $20M to Building a Better California, which fights California's wealth tax, bringing his total contributions to $102M (Alicia Clanton/Bloomberg)"
+ },
+ "a260810p39": {
+  "article_url": "https://www.theinformation.com/articles/applied-compute-talks-double-valuation-3-billion-open-source-demand",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p39",
+  "summary": "Applied Compute, a year-old startup that helps companies run and customize open-source models with their own data …",
+  "techmeme_url": "https://www.techmeme.com/260810/p39",
+  "title": "Source: Applied Compute, which helps companies customize models with their data, is in talks to raise \"hundreds of millions\" led by Elad Gil at a ~$3B valuation (The Information)"
+ },
+ "a260810p40": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-10/openai-buys-back-7-billion-of-employee-shares-in-tender-offer",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p40",
+  "summary": "OpenAI has completed a deal to help employees sell roughly $7 billion worth of shares in the company ahead of a possible Wall Street debut …",
+  "techmeme_url": "https://www.techmeme.com/260810/p40",
+  "title": "Sources: OpenAI bought back ~$7B in shares from current and former employees in a tender offer valuing it at $852B, unchanged from its most recent funding round (Bloomberg)"
+ },
+ "a260810p41": {
+  "article_url": "https://spyglass.org/meta-open-ai-muse-glimmer/",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p41",
+  "summary": "Zuck returns to his “open” AI arguments at an opportune time... I'm old enough to remember the last time Mark Zuckerberg …",
+  "techmeme_url": "https://www.techmeme.com/260810/p41",
+  "title": "With his long essay, Zuckerberg returns to his \"open\" AI arguments at an opportune time, as Chinese open models narrow the performance gap at much lower cost (M.G. Siegler/Spyglass)"
+ },
+ "a260810p42": {
+  "article_url": "https://x.com/claudeai/status/2086891169217122586",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p42",
+  "summary": "We're making Claude Sonnet 5's introductory pricing permanent. We launched Sonnet 5 in June at $2 per million input tokens and $10 per million output tokens through August 31, and that price will remain unchanged.",
+  "techmeme_url": "https://www.techmeme.com/260810/p42",
+  "title": "Anthropic makes Claude Sonnet 5's introductory pricing permanent at $2/1M input tokens and $10/1M output tokens, canceling a planned September 1 increase (Claude/@claudeai)"
+ },
+ "a260810p43": {
+  "article_url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0?accessToken=zwAAAZ_uOfhQkdPknft1-EFEZtOld_eq_4d5oA.MEUCIHgqM8KPxOu1Uu1bT3eGYYsxG_YmCltQIRvgORkZ9zW2AiEA5Kk-QGzgfQHbIoX2lI4UQc4H5Qu3GbWt14uYAv4-lew&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise&shareId=eee9faa5-0116-4e34-a65e-6c1e4cb5e966",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p43",
+  "summary": "Chloé Bakalar's departure is one of several high-profile exits at the group in recent weeks as safety concerns mount",
+  "techmeme_url": "https://www.techmeme.com/260810/p43",
+  "title": "Source: OpenAI head of ethics Chloé Bakalar departs after less than a year, following exits by the head of safety systems and a former head of mission alignment (Financial Times)"
+ },
+ "a260810p44": {
+  "article_url": "https://www.techdirt.com/2026/08/10/spacexs-earnings-show-elon-wiped-out-two-thirds-of-twitters-ad-business/",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p44",
+  "summary": "When SpaceX filed for its IPO, we went through the S-1 to point out just how far off the mark Elon Musk's predictions about his Twitter takeover turned out to be.",
+  "techmeme_url": "https://www.techmeme.com/260810/p44",
+  "title": "SpaceX's earnings show X's Q2 ad revenue at $367M, down from $1.08B at Twitter in Q2 2022; Musk once said he would take its annual ad revenue to $12B in 2027 (Mike Masnick/Techdirt)"
+ },
+ "a260810p45": {
+  "article_url": "https://www.nbcnews.com/business/corporations/trump-media-doubles-down-selling-faster-access-truth-social-posts-rcna591834",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p45",
+  "summary": "The company's interim CEO said more than 10 customer agreements have already been signed for the Truth Social service that launched this month.",
+  "techmeme_url": "https://www.techmeme.com/260810/p45",
+  "title": "Trump Media reports a Q2 net loss of $238.1M, vs. a net loss of $20M in Q2 2025, and says 10+ clients are paying up to $100K per month for its Truth API (Steve Kopack/NBC News)"
+ },
+ "a260810p46": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/apple-s-glass-centric-20th-anniversary-iphone-remains-on-track-for-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjQxMjEyOSwiZXhwIjoxNzg3MDE2OTI5LCJhcnRpY2xlSWQiOiJUSktIUzJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.XJjKKAyt833SdTS4pkRxlt1AjGWea1_HY8ykX4Y_V7s",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p46",
+  "summary": "Apple Inc. is still planning to offer a glass-centric overhaul of the iPhone for the device's 20th anniversary, people familiar with the matter said …",
+  "techmeme_url": "https://www.techmeme.com/260810/p46",
+  "title": "Sources: Apple remains on track for a glass-centric design overhaul of iPhone Pro's line for 2027, countering rumors that led Jefferies to downgrade AAPL (Mark Gurman/Bloomberg)"
+ },
+ "a260810p47": {
+  "article_url": "https://www.wsj.com/business/see-how-a-tesla-spacex-merger-gives-musk-a-shortcut-to-his-1-trillion-payday-327bc491",
+  "date": "2026-08-10",
+  "permalink_id": "a260810p47",
+  "summary": "A critical clause in the CEO's Tesla stock award would wipe away lofty performance targets if a merger happened",
+  "techmeme_url": "https://www.techmeme.com/260810/p47",
+  "title": "How a clause in Elon Musk's Tesla pay package, worth up to ~$1T, could provide him a shortcut around lofty performance targets if Tesla merged with SpaceX (Wall Street Journal)"
  }
 }
