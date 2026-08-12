@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/260812/p1",
   "title": "OpenAI VP of Global Policy Ann O'Leary says AI policy in the US is anchored in the states and informed by California's AI transparency law passed last year (Chase DiFeliciantonio/Politico)"
  },
+ "a260812p10": {
+  "article_url": "https://www.wsj.com/tech/foxconns-ai-hardware-sales-drive-profit-beat-58d9bac3?st=1xP7Gc&reflink=desktopwebshare_permalink",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p10",
+  "summary": "Net profit for the three months ended June rose 35% from a year earlier — Foxconn Technology Group reported another strong quarter …",
+  "techmeme_url": "https://www.techmeme.com/260812/p10",
+  "title": "Foxconn reports Q2 revenue up 41% YoY to ~$78.4B, with cloud and networking products contributing 50%+ for the first time, and net profit up 35% YoY to ~$1.86B (Sherry Qin/Wall Street Journal)"
+ },
+ "a260812p11": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p11",
+  "summary": "Former Alibaba star researcher Junyang Lin announced that he had started a new AI company, confirming The Information's earlier reports.",
+  "techmeme_url": "https://www.techmeme.com/260812/p11",
+  "title": "Former Alibaba star researcher Junyang Lin launches Shanghai-based Pragmatik Labs to build digital and physical AI agents; Pragmatik hit a $2B valuation in June (Juro Osawa/The Information)"
+ },
+ "a260812p12": {
+  "article_url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p12",
+  "summary": "DeepMind's new boss is set to face intense pressure to close the AI performance gap with OpenAI and Anthropic.",
+  "techmeme_url": "https://www.techmeme.com/260812/p12",
+  "title": "A look at the challenges facing incoming Google DeepMind head Koray Kavukcuoglu, who joined DeepMind in 2012 and will oversee Gemini and frontier AI research (Kai Nicol-Schwarz/CNBC)"
+ },
+ "a260812p13": {
+  "article_url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p13",
+  "summary": "A debate about recursive self-improvement. — Had Ryan Greenblatt on to discuss/debate recursive self-improvement.",
+  "techmeme_url": "https://www.techmeme.com/260812/p13",
+  "title": "Q&A with Redwood Research Chief Scientist Ryan Greenblatt on AI R&D, RSI, whether human expert data bottlenecks AI progress, token prices, alignment, and more (Dwarkesh Patel/Dwarkesh Podcast)"
+ },
+ "a260812p14": {
+  "article_url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p14",
+  "summary": "As AI makes coding dramatically faster, the next big challenge in software development is testing and validating all that code.",
+  "techmeme_url": "https://www.techmeme.com/260812/p14",
+  "title": "AI code-testing startup Blacksmith raised a $45M Series B led by Peak XV Partners at a $550M valuation, up from $60M after it raised a $10M Series A in 2025 (Jagmeet Singh/TechCrunch)"
+ },
+ "a260812p15": {
+  "article_url": "https://www.wsj.com/business/new-york-city-launches-sweeping-investigation-into-polymarket-and-kalshi-fa1d80a4?st=mXCwcr&reflink=desktopwebshare_permalink",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p15",
+  "summary": "Probe targets the marketing practices of four prediction markets with operations in the city — The New York City Council …",
+  "techmeme_url": "https://www.techmeme.com/260812/p15",
+  "title": "The NYC Council sent letters to Polymarket, Kalshi, Coinbase, and Gemini Titan to investigate alleged deceptive marketing practices and targeting minors (Wall Street Journal)"
+ },
+ "a260812p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/jumia-wins-ifc-axian-backing-in-50-million-equity-fundraising",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p16",
+  "summary": "Jumia Technologies AG secured $50 million in fresh equity funding from its biggest shareholder and the World Bank's International Finance Corp …",
+  "techmeme_url": "https://www.techmeme.com/260812/p16",
+  "title": "African e-commerce company Jumia raised $50M, including ~$25M from the World Bank; its US-listed shares are down from $60+ in 2021 to $6, valuing Jumia at $743M (Loni Prinsloo/Bloomberg)"
+ },
+ "a260812p17": {
+  "article_url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p17",
+  "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It's just the beginning.",
+  "techmeme_url": "https://www.techmeme.com/260812/p17",
+  "title": "A look at AI news website RuntimeWire, which costs $100/day to run and \"beat\" human reporters to OpenAI's Black Hat disclosure, favoring quantity over quality (Kate Knibbs/Wired)"
+ },
+ "a260812p18": {
+  "article_url": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p18",
+  "summary": "Skan AI, a startup that builds what it calls a “context graph of work” by observing how employees actually perform …",
+  "techmeme_url": "https://www.techmeme.com/260812/p18",
+  "title": "Skan AI, which is building a \"context graph of work\" by observing staff using enterprise software, raised a $63M Series C co-led by Cathay Innovation and Dell (Michael Nuñez/VentureBeat)"
+ },
+ "a260812p19": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/nebius-reports-514-jump-in-ai-cloud-sales-as-demand-booms",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p19",
+  "summary": "Nebius Group NV reported a 514% jump in second-quarter sales for its cloud business following strong demand for AI computing power.",
+  "techmeme_url": "https://www.techmeme.com/260812/p19",
+  "title": "Amsterdam-based neocloud Nebius reports Q2 cloud revenue up 514% YoY to $575M and total revenue of $582M, above $557M est.; NBIS jumps 15%+, and is up 145%+ YTD (Paula Doenecke/Bloomberg)"
+ },
  "a260812p2": {
   "article_url": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795",
   "date": "2026-08-12",
@@ -14,6 +94,30 @@
   "summary": "AI agents ran simultaneous reconnaissance and break-ins in display of new phase of cyberwarfare.",
   "techmeme_url": "https://www.techmeme.com/260812/p2",
   "title": "Researchers say suspected Chinese hackers used open-source AI agents to build an autonomous hacking tool that compromised Taiwanese government websites in July (Tom Wilson/Financial Times)"
+ },
+ "a260812p20": {
+  "article_url": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p20",
+  "summary": "The company, Thrive Holdings, acquires businesses to infuse them with artificial intelligence and drew interest from backers like SoftBank.",
+  "techmeme_url": "https://www.techmeme.com/260812/p20",
+  "title": "Thrive Capital's Thrive Holdings, which acquires traditional service businesses and adds AI, raised $2B from SoftBank, D1, and others at a $12B valuation (Michael J. de la Merced/New York Times)"
+ },
+ "a260812p21": {
+  "article_url": "https://www.reuters.com/technology/ai-code-review-platform-coderabbit-valued-15-billion-latest-funding-round-2026-08-12/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p21",
+  "summary": "AI code review startup CodeRabbit said on Wednesday it had raised $143 million in a funding round that valued it at $1.5 billion.",
+  "techmeme_url": "https://www.techmeme.com/260812/p21",
+  "title": "AI code review startup CodeRabbit raised a $143M Series C co-led by Atomico and Smash at a $1.5B valuation, after raising a $60M Series B in September 2025 (Prakhar Srivastava/Reuters)"
+ },
+ "a260812p22": {
+  "article_url": "https://www.wsj.com/cio-journal/why-at-t-is-betting-big-on-open-weight-ai-a0ea03b1?st=t7aCLG&reflink=desktopwebshare_permalink",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p22",
+  "summary": "The telecom company is staking its future on open models, both to control token cost and protect its proprietary data",
+  "techmeme_url": "https://www.techmeme.com/260812/p22",
+  "title": "AT&T says open models currently account for ~25% of its AI usage, and it targets 70% to 80% over time; AT&T uses an average of 45B AI tokens per day (Belle Lin/Wall Street Journal)"
  },
  "a260812p3": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/dayone-data-centers-said-to-confidentially-file-for-5-billion-ipo-us",
@@ -46,5 +150,21 @@
   "summary": "From marathon training to tracking office angst, health obsessives are linking their data to chatbots to build hyperpersonalized coaches",
   "techmeme_url": "https://www.techmeme.com/260812/p6",
   "title": "Some health and fitness obsessives are using AI for hyperpersonalized training, building custom dashboards and tools to analyze their sleep, workouts, and diet (Wall Street Journal)"
+ },
+ "a260812p8": {
+  "article_url": "https://www.wsj.com/business/entrepreneurship/vibe-coding-startup-lovable-hits-13-billion-valuation-0c87ff8a?st=zd6W2k&reflink=desktopwebshare_permalink",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p8",
+  "summary": "New funding round catapults AI company into the ranks of Europe's most valuable startups — Artificial-intelligence startup Lovable …",
+  "techmeme_url": "https://www.techmeme.com/260812/p8",
+  "title": "Stockholm-based AI coding startup Lovable raised $400M at a $13.3B valuation, up from $6.6B in December 2025, becoming one of Europe's most valuable startups (Ben Dummett/Wall Street Journal)"
+ },
+ "a260812p9": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/tencent-sales-top-estimates-on-wechat-ad-surge-resilient-games",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p9",
+  "summary": "Tencent Holdings Ltd. more than doubled spending on AI projects and computing to about $7.8 billion last quarter …",
+  "techmeme_url": "https://www.techmeme.com/260812/p9",
+  "title": "Tencent reports Q2 revenue up 11% YoY to ~$30.4B, above ~$30B est., driven by surging WeChat advertising and resilient game spending, and net income of ~$8.3B (Bloomberg)"
  }
 }
