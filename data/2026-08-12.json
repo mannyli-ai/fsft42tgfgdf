@@ -127,6 +127,70 @@
   "techmeme_url": "https://www.techmeme.com/260812/p3",
   "title": "Sources: Singapore-based data center operator DayOne confidentially files for a US IPO, aims to list as soon as next quarter, and is considering raising ~$5B (Bloomberg)"
  },
+ "a260812p32": {
+  "article_url": "https://9to5google.com/2026/08/12/google-drops-the-ai-pro-to-6-months-with-pixel-11-pro-ditches-free-plan-for-base-model/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p32",
+  "summary": "With the launch of the Pixel 9, Google offered fairly extensive 12-month free trials of the Google One AI Pro plan …",
+  "techmeme_url": "https://www.techmeme.com/260812/p32",
+  "title": "Google is cutting the Google One AI Pro trial bundled with the Pixel 11 Pro and other handsets from 12 to six months and removes the free trial for the Pixel 11 (Damien Wilde/9to5Google)"
+ },
+ "a260812p33": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/google-to-track-insulin-trends-with-new-wearables-feature-on-watch-5-fitbit-air",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p33",
+  "summary": "Alphabet Inc.'s Google Inc. is bringing a new set of health features to its wearables, including one that tracks insulin resistance over time …",
+  "techmeme_url": "https://www.techmeme.com/260812/p33",
+  "title": "Google introduces an insulin-resistance trend feature that uses AI, an accelerometer, and other sensors, launching first on the Pixel Watch 5 and Fitbit devices (Samantha Kelly/Bloomberg)"
+ },
+ "a260812p34": {
+  "article_url": "https://www.engadget.com/2234879/google-pixel-11-pro-announced-specs-price/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p34",
+  "summary": "The Tensor G6 processor and handy new features are also on tap. — Google has introduced its latest flagships …",
+  "techmeme_url": "https://www.techmeme.com/260812/p34",
+  "title": "Google says the Pixel 11 Pro and Pro XL are its most durable Pixel phones yet, using spacecraft-grade aluminum frames and a twice as scratch-resistant coating (Mariella Moon/Engadget)"
+ },
+ "a260812p35": {
+  "article_url": "https://siliconangle.com/2026/08/12/google-debuts-sl2t-ai-model-thats-designed-understand-sign-language/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p35",
+  "summary": "Google DeepMind said today it wants to bring the artificial intelligence revolution to the estimated 70 million people across …",
+  "techmeme_url": "https://www.techmeme.com/260812/p35",
+  "title": "Google DeepMind launches SL2T, a multilingual sign-language-to-text model debuting on the Pixel 11 in Gboard and Live Transcribe, first for ASL to English text (Mike Wheatley/SiliconANGLE)"
+ },
+ "a260812p36": {
+  "article_url": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p36",
+  "summary": "If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible.",
+  "techmeme_url": "https://www.techmeme.com/260812/p36",
+  "title": "Google's Pixel 11 introduces Camera Looks, a total rethink of how the camera captures and styles an image, as users seek \"more authentic or traditional\" photos (David Imel/The Verge)"
+ },
+ "a260812p37": {
+  "article_url": "https://www.reuters.com/legal/litigation/flightaware-withdraws-lawsuit-against-kalshi-over-flight-cancellation-markets-2026-08-12/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p37",
+  "summary": "Flight-tracking company FlightAware withdrew its lawsuit against Kalshi on Tuesday, a day after it filed the suit that accuses …",
+  "techmeme_url": "https://www.techmeme.com/260812/p37",
+  "title": "FlightAware withdraws its Kalshi lawsuit, after alleging Kalshi used its data to let users bet on flight cancellations; Kalshi no longer names it as a source (Sumedha Mukherjee/Reuters)"
+ },
+ "a260812p38": {
+  "article_url": "https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p38",
+  "summary": "ClearJet, an AI-enabled logistics technology startup, has raised a $25 million Series B, it tells Crunchbase News exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260812/p38",
+  "title": "ClearJet, whose AI-enabled logistics service connects shippers with unused cargo capacity on commercial flights, raised a $25M Series B led by Edison Partners (Mary Ann Azevedo/Crunchbase News)"
+ },
+ "a260812p39": {
+  "article_url": "https://x.ai/news/grok-4-6",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p39",
+  "summary": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work. — Try for free",
+  "techmeme_url": "https://www.techmeme.com/260812/p39",
+  "title": "SpaceXAI releases Grok 4.6, saying it matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and prices it at $2/1M input and $6/1M output tokens (xAI)"
+ },
  "a260812p4": {
   "article_url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
   "date": "2026-08-12",
@@ -134,6 +198,62 @@
   "summary": "As India's quick-commerce platforms race to deliver everything from groceries to smartphones in minutes, electric mobility startup Yulu …",
   "techmeme_url": "https://www.techmeme.com/260812/p4",
   "title": "Bengaluru-based Yulu, which gets ~95% of its revenue from renting e-bikes to gig workers, raised a $93M Series C, sources say at a ~$170M post-money valuation (Jagmeet Singh/TechCrunch)"
+ },
+ "a260812p40": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/08/11/silicon-data-compute-pricing-nvidia",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p40",
+  "summary": "Silicon Data, a financial data platform for the AI economy, raised $30.5 million in Series A funding led by the Valor Atreides AI Fund, CEO Carmen Li tells Axios Pro.",
+  "techmeme_url": "https://www.techmeme.com/260812/p40",
+  "title": "Silicon Data, which offers real-time compute pricing data to financial institutions and exchanges, raised a $30.5M Series A led by the Valor Atreides AI Fund (Chris Metinko/Axios)"
+ },
+ "a260812p41": {
+  "article_url": "https://www.reuters.com/legal/transactional/bank-america-launches-250-billion-initiative-us-tech-energy-infrastructure-2026-08-12/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p41",
+  "summary": "Bank of America (BAC.N) said on Wednesday it plans to deploy $250 billion by July 2027 to support U.S. digital and infrastructure projects …",
+  "techmeme_url": "https://www.techmeme.com/260812/p41",
+  "title": "Bank of America says it plans to deploy $250B by July 2027 to support US digital and infrastructure projects, including data centers and energy infrastructure (Reuters)"
+ },
+ "a260812p42": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/uk-plans-safeguards-to-stop-terrorists-using-ai-for-bioweapons",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p42",
+  "summary": "The UK government is planning to regulate the use of artificial intelligence in gene synthesis as officials become increasingly concerned …",
+  "techmeme_url": "https://www.techmeme.com/260812/p42",
+  "title": "Sources: the UK government is planning to regulate the use of AI in gene synthesis to prevent terrorists and other bad actors from using AI for bioweapons (Ellen Milligan/Bloomberg)"
+ },
+ "a260812p43": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/apple-taps-american-airlines-veteran-as-government-affairs-head?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjU1MzM1NSwiZXhwIjoxNzg3MTU4MTU1LCJhcnRpY2xlSWQiOiJUSk5XWTVUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.ifjL3r95MbnLYiNwFY3GCeIlEeDmLo8UBXyYsnWNJLU",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p43",
+  "summary": "Apple Inc. hired Nate Gatten as its new head of government affairs, tapping a longtime American Airlines Group Inc. executive …",
+  "techmeme_url": "https://www.techmeme.com/260812/p43",
+  "title": "Sources: Apple hired Nate Gatten, an American Airlines exec with GOP ties, as government affairs VP, seeking someone who could align with Trump administration (Mark Gurman/Bloomberg)"
+ },
+ "a260812p44": {
+  "article_url": "https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p44",
+  "summary": "Google co-founder Sergey Brin in recent months has urged key AI staff to go all in on the company's Gemini model as parent Alphabet …",
+  "techmeme_url": "https://www.techmeme.com/260812/p44",
+  "title": "Sources detail moves behind Google's AI reshuffle; Sergey Brin urged key staff to go all in on Gemini, and some teams shifted from DeepMind to corporate Google (Kenrick Cai/Reuters)"
+ },
+ "a260812p45": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p45",
+  "summary": "Kalshi, the biggest prediction market, is in advanced talks to raise at least $750 million in a new financing round at a $40 billion valuation …",
+  "techmeme_url": "https://www.techmeme.com/260812/p45",
+  "title": "Sources: Kalshi is in advanced talks to raise $750M+ co-led by Sequoia Capital and Wellington Management at a $40B valuation; Kalshi was valued at $22B in May (Yueqi Yang/The Information)"
+ },
+ "a260812p46": {
+  "article_url": "https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p46",
+  "summary": "The agency that polices the industry does not have the staffing, the legal tools or the will to broadly crack down on wagers that are easily manipulated, experts say.",
+  "techmeme_url": "https://www.techmeme.com/260812/p46",
+  "title": "Kalshi referred 32 possible insider traders to the CFTC in the three months through June; sources: CFTC has up to 20 ongoing probes using just Kalshi's evidence (Sharon LaFraniere/New York Times)"
  },
  "a260812p5": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/healthcare-ev-startups-steer-africa-toward-record-funding-year",
