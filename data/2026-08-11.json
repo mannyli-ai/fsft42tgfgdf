@@ -199,6 +199,70 @@
   "techmeme_url": "https://www.techmeme.com/260811/p31",
   "title": "Royal Bank of Canada and Bank of Montreal agree to sell payments company Moneris to PE firm Francisco Partners for CA$2B in cash, splitting proceeds equally (Bloomberg)"
  },
+ "a260811p32": {
+  "article_url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p32",
+  "summary": "Decentralized social network Bluesky was one of the bigger beneficiaries of the exodus from Elon Musk's X in November 2024, following the U.S. elections.",
+  "techmeme_url": "https://www.techmeme.com/260811/p32",
+  "title": "Similarweb: Bluesky's mobile MAUs fell 27% YoY to 10.4M in June and DAUs fell 26% to 3M in July; X's mobile MAUs fell 3% to 302M and DAUs fell 7% to 123.7M (Sarah Perez/TechCrunch)"
+ },
+ "a260811p33": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/uber-exits-serve-robotics-stake-as-delivery-alliance-unravels",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p33",
+  "summary": "Uber Technologies Inc. has divested from long-time partner Serve Robotics Inc. as the two companies clash over how to deploy delivery robots …",
+  "techmeme_url": "https://www.techmeme.com/260811/p33",
+  "title": "Filings show Uber divested from long-time partner Serve Robotics in Q2, as the companies clash over how to deploy delivery robots; Serve has a DoorDash deal (Natalie Lung/Bloomberg)"
+ },
+ "a260811p34": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/super-micro-gives-sales-forecast-that-tops-rosiest-projections",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p34",
+  "summary": "Super Micro Computer Inc. gave a revenue forecast for the current quarter that topped analysts' estimates, a sign the booming artificial …",
+  "techmeme_url": "https://www.techmeme.com/260811/p34",
+  "title": "Super Micro reports Q4 revenue up 93% YoY to $11.1B, vs. $11.3B est., and forecasts Q1 and FY 2027 revenue above estimates; SMCI jumps 9%+ after hours (Dina Bass/Bloomberg)"
+ },
+ "a260811p35": {
+  "article_url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p35",
+  "summary": "CoreWeave shares jumped 14% in extended trading on Tuesday after the AI infrastructure provider reported results than topped Wall Street expectations.",
+  "techmeme_url": "https://www.techmeme.com/260811/p35",
+  "title": "CoreWeave reports Q2 revenue up 112% YoY to $2.58B, vs. $2.56B est., and a $104B revenue backlog, with 1.5 GW of contracted power; CRWV jumps 9%+ after hours (Jordan Novet/CNBC)"
+ },
+ "a260811p36": {
+  "article_url": "https://www.businessinsider.com/weil-valuation-750-million-for-ai-science-startup-2026-8",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p36",
+  "summary": "Kevin Weil, the former chief product officer of OpenAI, has sought a valuation of at least $750 million for a new AI science startup …",
+  "techmeme_url": "https://www.techmeme.com/260811/p36",
+  "title": "Sources: former OpenAI Chief Product Officer Kevin Weil is aiming to raise $150M for a new AI science startup, seeking a valuation of at least $750M (Business Insider)"
+ },
+ "a260811p37": {
+  "article_url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p37",
+  "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say …",
+  "techmeme_url": "https://www.techmeme.com/260811/p37",
+  "title": "Researchers find that feeding a frontier model's encrypted reasoning traces to a weaker model from the same provider can make it output the traces in plaintext (Will Knight/Wired)"
+ },
+ "a260811p38": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/accel-raises-3-5-billion-to-invest-in-emerging-global-ai-startups",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p38",
+  "summary": "Accel, a global venture capital firm with offices in Silicon Valley, London and Bangalore, India, has raised $3.5 billion …",
+  "techmeme_url": "https://www.techmeme.com/260811/p38",
+  "title": "Accel raised $3.5B in funds for early-stage investments, including a $1.35B global expansion fund for larger early-stage rounds and rapid follow-on investments (Natasha Mascarenhas/Bloomberg)"
+ },
+ "a260811p39": {
+  "article_url": "https://www.theinformation.com/articles/kalshi-tops-4-billion-annualized-revenue-seeks-40-billion-valuation",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p39",
+  "summary": "World Cup wagers helped double Kalshi's revenue to a more than $4 billion annualized rate in July, from a pace of over $2 billion two months earlier, a person familiar with the matter said.",
+  "techmeme_url": "https://www.techmeme.com/260811/p39",
+  "title": "Source: Kalshi's annualized revenue topped $4B in July, up from $2B+ two months earlier, and its operating expenses totaled $300M in June (Yueqi Yang/The Information)"
+ },
  "a260811p4": {
   "article_url": "https://patronview.com/",
   "date": "2026-08-11",
@@ -206,6 +270,38 @@
   "summary": "A year of fighting scrapers on my 1.5 million-page website. What I tried, how I failed, and what's working now. August 7, 2026",
   "techmeme_url": "https://www.techmeme.com/260811/p4",
   "title": "Owner of 1.5M-page site PatronView on a year of fighting scrapers: 214:1 bot-to-human page loads, 35K Claude crawls per referred user, Amazon bot referred none (Nick Gray/PatronView)"
+ },
+ "a260811p40": {
+  "article_url": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p40",
+  "summary": "The U.S. Commodity Futures Trading Commission announced it had ordered prediction market operator Kalshi to continue operating …",
+  "techmeme_url": "https://www.techmeme.com/260811/p40",
+  "title": "The CFTC uses its \"emergency authority\" to order Kalshi to continue operating in New York after the state filed a lawsuit in July seeking to shutter Kalshi (Nikhilesh De/CoinDesk)"
+ },
+ "a260811p41": {
+  "article_url": "https://thenewstack.io/openais-chatgpt-desktop-linux/",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p41",
+  "summary": "On Tuesday, OpenAI launched its ChatGPT desktop for Linux. — Now in preview, the app, which combines ChatGPT, ChatGPT Work …",
+  "techmeme_url": "https://www.techmeme.com/260811/p41",
+  "title": "OpenAI launches a ChatGPT desktop app for Linux in preview, supporting ChatGPT Work, Codex, and more; Computer Use outside the in-app browser is not available (Frederic Lardinois/The New Stack)"
+ },
+ "a260811p42": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-08-11/suno-stares-down-universal-and-sony-to-reshape-the-future-of-music?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjQ4NjQxMCwiZXhwIjoxNzg3MDkxMjEwLCJhcnRpY2xlSWQiOiJUSk1JQ0hSMjRVOU8wMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.TBMIeS8NPLcnFaiLOvDCXHN0JX7ghM24kRXIhlh_tTY",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p42",
+  "summary": "Investors are betting the $5 billion company will be the next Spotify. — Mikey Shulman stands in the middle of a dark concert hall …",
+  "techmeme_url": "https://www.techmeme.com/260811/p42",
+  "title": "A profile of Suno, which has been used by more than 100M people since 2023 and has 2M+ paid subscribers, as it faces copyright lawsuits from UMG and Sony Music (Bloomberg)"
+ },
+ "a260811p43": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-08-11/how-candy-crush-became-one-of-the-most-successful-mobile-games-of-all-time?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjQ5MTYwNywiZXhwIjoxNzg3MDk2NDA3LCJhcnRpY2xlSWQiOiJUSkxRS0dWVFREME4wMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.R164SGt8FSWSxuGNL_HttryWoEsH57So_okLoVo4-yQ",
+  "date": "2026-08-11",
+  "permalink_id": "a260811p43",
+  "summary": "Fifteen years in, those shiny sweets are still on top. — Johanna Chouraqui doesn't time travel anymore.",
+  "techmeme_url": "https://www.techmeme.com/260811/p43",
+  "title": "A look at Candy Crush's continued popularity 15 years after its launch, with an estimated 81.5M MAUs and in-app revenue of $876.5M in fiscal year 2025 (Alanna Okun/Bloomberg)"
  },
  "a260811p5": {
   "article_url": "https://www.abc.net.au/news/2026-08-11/ai-police-face-screening-trial-sparks-privacy-concern/107009644",
