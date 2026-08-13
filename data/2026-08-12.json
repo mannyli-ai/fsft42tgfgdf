@@ -255,6 +255,30 @@
   "techmeme_url": "https://www.techmeme.com/260812/p46",
   "title": "Kalshi referred 32 possible insider traders to the CFTC in the three months through June; sources: CFTC has up to 20 ongoing probes using just Kalshi's evidence (Sharon LaFraniere/New York Times)"
  },
+ "a260812p47": {
+  "article_url": "https://apnews.com/article/trump-media-lawsuit-truth-social-access-wall-street-traders-7f057fd1dba31dd4e357c8bf635ee009",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p47",
+  "summary": "President Donald Trump was sued in federal court Wednesday to stop him from making money off a new, paid service …",
+  "techmeme_url": "https://www.techmeme.com/260812/p47",
+  "title": "Freedom of the Press Foundation and The Intercept sue Trump after Trump Media & Technology offered a subscription service for faster access to Trump's posts (Bernard Condon/Associated Press)"
+ },
+ "a260812p48": {
+  "article_url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p48",
+  "summary": "At Mistral, we believe every enterprise and country must be in control of the models it uses, choose where the intelligence runs …",
+  "techmeme_url": "https://www.techmeme.com/260812/p48",
+  "title": "Mistral says its platform will support third-party open models, starting with Z.ai's GLM-5.2, and run them on the same infrastructure as its own models (Mistral AI Blog)"
+ },
+ "a260812p49": {
+  "article_url": "https://www.reuters.com/business/cerebras-raises-annual-targets-strong-ai-chip-demand-2026-08-12/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p49",
+  "summary": "Cerebras Systems (CBRS.O) raised its annual revenue and gross margin forecasts on Wednesday, buoyed by robust demand for its chips from companies ramping up data-center capacity to power AI services.",
+  "techmeme_url": "https://www.techmeme.com/260812/p49",
+  "title": "Cerebras reports Q2 revenue up 74% YoY to $180M and raises its annual revenue and gross margin forecasts; CBRS drops 14%+ after hours (Reuters)"
+ },
  "a260812p5": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/healthcare-ev-startups-steer-africa-toward-record-funding-year",
   "date": "2026-08-12",
@@ -262,6 +286,70 @@
   "summary": "African-focused startups are on track for a record fundraising year after investments surged in the first six months …",
   "techmeme_url": "https://www.techmeme.com/260812/p5",
   "title": "Briter: Africa-focused startups raised $3.3B in H1 2026, up 73% YoY, driven by Zipline's $950M raise; US- and UAE-incorporated entities raised half the capital (Nduka Orjinmo/Bloomberg)"
+ },
+ "a260812p50": {
+  "article_url": "https://www.reuters.com/technology/cisco-forecasts-upbeat-annual-revenue-2026-08-12/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p50",
+  "summary": "Cisco Systems (CSCO.O) forecast fiscal 2027 revenue above Wall Street expectations on Wednesday, signaling confidence that strong demand …",
+  "techmeme_url": "https://www.techmeme.com/260812/p50",
+  "title": "Cisco reports Q4 revenue up 18% YoY to $17.25B, vs. $16.82B est., AI infrastructure orders from hyperscalers worth $4B, forecasts FY 2027 revenue above est. (Juby Babu/Reuters)"
+ },
+ "a260812p51": {
+  "article_url": "https://www.youtube.com/watch?v=c84y9gAY90c",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p51",
+  "summary": "Tune in to see something special. Watch the Made by Google live show on August 12 at 6 PM ET.",
+  "techmeme_url": "https://www.techmeme.com/260812/p51",
+  "title": "A recording of the Made by Google 2026 event hosted by Trevor Noah (Made by Google on YouTube)"
+ },
+ "a260812p52": {
+  "article_url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p52",
+  "summary": "The streaming platform Twitch will now use creators' content to help train generative AI models for its parent company, Amazon.",
+  "techmeme_url": "https://www.techmeme.com/260812/p52",
+  "title": "Twitch says it intends to use videos streamed on its platform to help train Amazon's generative AI models and tells creators how to opt out (Amanda Silberling/TechCrunch)"
+ },
+ "a260812p53": {
+  "article_url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p53",
+  "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate …",
+  "techmeme_url": "https://www.techmeme.com/260812/p53",
+  "title": "Sources: the White House is expected to expand its AI oversight framework in the coming months to cover open models once they reach frontier capabilities (Hugo Lowell/Wired)"
+ },
+ "a260812p54": {
+  "article_url": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b?st=RivHB3&reflink=desktopwebshare_permalink",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p54",
+  "summary": "The content deals could provide the tech company's voice assistant with current news and information",
+  "techmeme_url": "https://www.techmeme.com/260812/p54",
+  "title": "Sources: Apple is discussing multiyear content deals with publishers to deliver current news and information for Siri AI, with a potential nine-figure budget (Alexandra Bruell/Wall Street Journal)"
+ },
+ "a260812p55": {
+  "article_url": "https://www.businessinsider.com/former-google-exec-jeff-dean-valuation-for-new-ai-startup-2026-8",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p55",
+  "summary": "Jeff Dean spent 27 years helping build Google. Now, investors could be betting $1 billion that he can build the next big thing in AI outside it.",
+  "techmeme_url": "https://www.techmeme.com/260812/p55",
+  "title": "Sources: former Google exec Jeff Dean is in talks for $1B in funding at a ~$10B valuation for his new science and engineering-focused AI startup, Discovery Loop (Business Insider)"
+ },
+ "a260812p56": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p56",
+  "summary": "Anthropic PBC is in talks to buy the artificial intelligence startup Decart AI for about $6 billion, according to people familiar with the matter.",
+  "techmeme_url": "https://www.techmeme.com/260812/p56",
+  "title": "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)"
+ },
+ "a260812p57": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/andreessen-horowitz-tiger-global-back-yuno-s-45-million-round",
+  "date": "2026-08-12",
+  "permalink_id": "a260812p57",
+  "summary": "Yuno, a Colombian-founded payments infrastructure startup that helps companies process transactions across different markets …",
+  "techmeme_url": "https://www.techmeme.com/260812/p57",
+  "title": "Yuno, a payments infrastructure provider for processing transactions globally, raised a $45M Series B led by Global PayTech with a16z and others participating (Maria Clara Cobo/Bloomberg)"
  },
  "a260812p6": {
   "article_url": "https://www.wsj.com/tech/ai/the-datamaxxers-feeding-their-every-health-move-to-ai-df0af9b5?st=hqiG7z&reflink=desktopwebshare_permalink",
