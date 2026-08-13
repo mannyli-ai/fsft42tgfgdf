@@ -183,6 +183,86 @@
   "techmeme_url": "https://www.techmeme.com/260813/p3",
   "title": "Foreign investment in Japan's chip industry has reached ~$37B, as government subsidies attract companies working on logic and memory chips and image sensors (Shuhei Ochiai/Nikkei Asia)"
  },
+ "a260813p30": {
+  "article_url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p30",
+  "summary": "Databricks on Thursday said it closed a $5 billion funding round at a $190 billion valuation. — The company said that it has …",
+  "techmeme_url": "https://www.techmeme.com/260813/p30",
+  "title": "Databricks closed a $5B funding round at a $190B valuation, six months after raising $5B at a $134B valuation, and says it has crossed $7B in revenue run rate (Samantha Subin/CNBC)"
+ },
+ "a260813p31": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/deepseek-increases-prices-for-ai-services-by-multiple-times",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p31",
+  "summary": "DeepSeek is steeply raising the prices for its flagship V4 models ahead of a potential initial public offering …",
+  "techmeme_url": "https://www.techmeme.com/260813/p31",
+  "title": "DeepSeek raises prices, adding dynamic pricing, ahead of a potential IPO; V4-Flash output tokens go from $0.28/1M to $1.32 during peak hours and $0.66 off-peak (Saritha Rai/Bloomberg)"
+ },
+ "a260813p32": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/amd-plans-to-raise-as-much-as-5-billion-from-debt-offering",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p32",
+  "summary": "Advanced Micro Devices Inc. is planning to raise as much $5 billion in what could be the chipmaker's biggest-ever investment-grade bond sale …",
+  "techmeme_url": "https://www.techmeme.com/260813/p32",
+  "title": "Sources: AMD plans to raise as much as $5B in what could be the chipmaker's biggest-ever investment-grade bond sale, as it ramps up spending to meet AI demand (Brian W Smith/Bloomberg)"
+ },
+ "a260813p33": {
+  "article_url": "https://www.wsj.com/economy/trade/trump-tariff-refunds-company-earnings-1af269a2?st=4XdC5h&reflink=desktopwebshare_permalink",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p33",
+  "summary": "Apple, Nike and FedEx are just a few companies recovering big sums relatively quickly, and some are passing at least a share on to customers",
+  "techmeme_url": "https://www.techmeme.com/260813/p33",
+  "title": "Tech hardware companies report the highest US CBP tariff refunds at $2.5B across six companies, including $2.2B in refunds to Apple alone; Amazon received $640M (Wall Street Journal)"
+ },
+ "a260813p34": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/hpe-wins-approval-for-doj-settlement-on-14-billion-juniper-deal",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p34",
+  "summary": "Hewlett Packard Enterprise Co. secured court approval for its settlement with the US Justice Department over its takeover …",
+  "techmeme_url": "https://www.techmeme.com/260813/p34",
+  "title": "HPE secures court approval for its settlement with the US DOJ over its takeover of networking company Juniper, defeating a challenge by Democratic state AGs (Bloomberg)"
+ },
+ "a260813p35": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/openai-hires-new-chief-revenue-officer-after-less-than-a-year?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjYzNzAyNSwiZXhwIjoxNzg3MjQxODI1LCJhcnRpY2xlSWQiOiJUSk82VjhLR0NUR1cwMCIsImJjb25uZWN0SWQiOiJFODA3NUYyRkZGMjA0NUI2QTlEQzA5M0EyQTdEQTE4NiJ9.Pjwpg4oWW1DrWBKheUGWUUAp8G3HtQtKIRCREtxgk1o&leadSource=article-gifting",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p35",
+  "summary": "OpenAI is naming its second new chief revenue officer in less than a year, a sign of efforts to bolster sales growth ahead of a highly anticipated Wall Street debut.",
+  "techmeme_url": "https://www.techmeme.com/260813/p35",
+  "title": "OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave (Shirin Ghaffary/Bloomberg)"
+ },
+ "a260813p36": {
+  "article_url": "https://ramp.com/data/ai-index-august-2026",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p36",
+  "summary": "Dear Colleagues: Today's letter includes my monthly update of Ramp AI Index, our flagship research using spend data from Ramp to track how American businesses are using AI.",
+  "techmeme_url": "https://www.techmeme.com/260813/p36",
+  "title": "Ramp's July AI index: Anthropic's market share hit 43.5%, widening its lead over OpenAI; Fable 5 is only 6% of tokens businesses bought, likely due to high cost (Ara Kharazian/Ramp)"
+ },
+ "a260813p37": {
+  "article_url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p37",
+  "summary": "X is significantly expanding its open-source codebase, which includes the app's “For You” algorithm and its core ranking engine …",
+  "techmeme_url": "https://www.techmeme.com/260813/p37",
+  "title": "X makes the source code for its For You timeline available on GitHub and adds tools to let users see if X's ranking systems \"shadowbanned\" them (Sarah Perez/TechCrunch)"
+ },
+ "a260813p38": {
+  "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p38",
+  "summary": "Our most intelligent workhorse model yet for coding and agents. — Senior Director, Product Management, on behalf of the Gemini team",
+  "techmeme_url": "https://www.techmeme.com/260813/p38",
+  "title": "Google unveils Gemini 3.7 Flash, its \"most intelligent workhorse model\" for coding and agents, pricing it at $0.75/1M input and $3.75/1M output tokens at launch (Tulsee Doshi/Google)"
+ },
+ "a260813p39": {
+  "article_url": "https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p39",
+  "summary": "OpenAI is previewing a new way to run its most capable GPT-5.6 model at dramatically higher speeds. The company says its new Ultrafast …",
+  "techmeme_url": "https://www.techmeme.com/260813/p39",
+  "title": "OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second (Zac Hall/9to5Mac)"
+ },
  "a260813p4": {
   "article_url": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/",
   "date": "2026-08-13",
@@ -190,6 +270,38 @@
   "summary": "The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams.",
   "techmeme_url": "https://www.techmeme.com/260813/p4",
   "title": "London- and Boston-based Mindgard, which offers automated AI security and red-teaming tools to help organizations secure AI systems, raised a $30M Series A (Ionut Arghire/SecurityWeek)"
+ },
+ "a260813p40": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/us-robot-vacuum-maker-one-ups-china-rivals-with-voice-commands",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p40",
+  "summary": "The device, from Silicon Valley brand Matic, can be controlled fully by voice instructions, helping it stand apart from the competition.",
+  "techmeme_url": "https://www.techmeme.com/260813/p40",
+  "title": "US-based robot vacuum maker Matic rolls out a firmware update that lets users control its $1,245 vacuum with voice commands in more than 70 languages (Chris Welch/Bloomberg)"
+ },
+ "a260813p41": {
+  "article_url": "https://www.reuters.com/legal/transactional/vantage-data-centers-explores-ipo-100-billion-valuation-or-sale-sources-say-2026-08-13/",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p41",
+  "summary": "Vantage Data Centers, a major hyperscale developer and operator, is exploring options including an IPO or sale as soon as next year …",
+  "techmeme_url": "https://www.techmeme.com/260813/p41",
+  "title": "Sources: Vantage Data Centers, a major hyperscale developer, is exploring options including a sale or an IPO at a valuation of about $100B as soon as next year (Reuters)"
+ },
+ "a260813p42": {
+  "article_url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p42",
+  "summary": "Tether, the company behind the world's largest stablecoin USDT USDT — , said Thursday that it had completed a full financial audit …",
+  "techmeme_url": "https://www.techmeme.com/260813/p42",
+  "title": "Tether says KPMG completed Tether's first full audit and found its 2025 financial statements fairly presented its financial position in all material respects (Krisztian Sandor/CoinDesk)"
+ },
+ "a260813p43": {
+  "article_url": "https://www.reuters.com/world/silver-lake-talks-buy-workday-sources-say-2026-08-13/",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p43",
+  "summary": "Private equity firm Silver Lake is in talks to acquire Workday (WDAY.O), which has a market value of about $43 billion …",
+  "techmeme_url": "https://www.techmeme.com/260813/p43",
+  "title": "Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ (Milana Vinn/Reuters)"
  },
  "a260813p5": {
   "article_url": "https://www.ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6?accessToken=zwAAAZ_5xcXzkdOjgD5wy01ET9OjHgW-LyxE9g.MEUCIQCWTIny3JTJV8e-PGyK0XL2tg5g_7Ay-rpKkwGZCpp1-AIgbMgJQPlqWgqAsX4s1k4gYaC4b8k0JveZOs35OJQvbZ4&sharetype=gift&token=7e8483bb-395d-429e-afca-2f4ab5ad150b",
