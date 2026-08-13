@@ -47,6 +47,46 @@
   "techmeme_url": "https://www.techmeme.com/260813/p14",
   "title": "In Q2 2026, server-led eSSDs reached 48% of NAND flash shipments as AI workloads shifted from training to inference, driving 5x YoY industry revenue growth (Counterpoint Research)"
  },
+ "a260813p15": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p15",
+  "summary": "Meta Platforms Inc. says it has removed access to more than 750,000 Instagram and Facebook accounts in Australia believed to belong …",
+  "techmeme_url": "https://www.techmeme.com/260813/p15",
+  "title": "Meta says it removed 750,000+ Australian accounts believed to belong to under-16s to comply with the social media ban, including 462,000 Instagram accounts (Newley Purnell/Bloomberg)"
+ },
+ "a260813p16": {
+  "article_url": "https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71?st=nNBiWk&reflink=desktopwebshare_permalink",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p16",
+  "summary": "Demis Hassabis discussed the proposed new entity with heads of other AI labs and Trump administration officials including Scott Bessent",
+  "techmeme_url": "https://www.techmeme.com/260813/p16",
+  "title": "Sources: Demis Hassabis pitched a new independent industry AI safety entity, modeled on the IAEA, to top Trump officials before stepping down as DeepMind's CEO (Wall Street Journal)"
+ },
+ "a260813p17": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p17",
+  "summary": "Chinese AI developer DeepSeek has launched its flagship model, V4-Pro, to mixed reviews from users, with some expressing disappointment.",
+  "techmeme_url": "https://www.techmeme.com/260813/p17",
+  "title": "DeepSeek launches V4-Pro, its most advanced model that rivals Kimi K3 on some benchmarks but is priced much lower, at $0.435/1M input and $0.87/1M output tokens (The Information)"
+ },
+ "a260813p18": {
+  "article_url": "https://www.ft.com/",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p18",
+  "summary": "Anthropic investors expect the AI start-up to float at a valuation of $2tn or more in October, a dizzying figure that would eclipse SpaceX …",
+  "techmeme_url": "https://www.techmeme.com/260813/p18",
+  "title": "Sources: Anthropic's investors expect it to float at a $2T+ valuation in an October IPO and to hit $100B to $120B in annualized revenue by the end of 2026 (Financial Times)"
+ },
+ "a260813p19": {
+  "article_url": "https://www.wsj.com/business/retail/adyen-shares-jump-as-earnings-rise-and-growth-accelerates-c67ec790?st=hXrSw4&reflink=desktopwebshare_permalink",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p19",
+  "summary": "Net revenue increased 19% and processed volumes climbed 24% — Shares in Adyen jumped after the Amsterdam-based …",
+  "techmeme_url": "https://www.techmeme.com/260813/p19",
+  "title": "Amsterdam-based Adyen reports H1 2026 net revenue up 19% YoY to €1.3B, processed volumes up 24% YoY to €803.8B, and EBITDA of €641.5M; ADYEN.AS rises 12%+ (Adam Whittaker/Wall Street Journal)"
+ },
  "a260813p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/trump-enlists-private-sector-to-boost-cyber-offensive-arsenal",
   "date": "2026-08-13",
@@ -54,6 +94,86 @@
   "summary": "The US government is partnering with private-sector firms to launch cyber attacks abroad, expanding the scope of national security operations …",
   "techmeme_url": "https://www.techmeme.com/260813/p2",
   "title": "President Trump signs a memo letting the US government partner with private companies to conduct cyberattacks abroad against criminal groups targeting Americans (Patrick Howell O'Neill/Bloomberg)"
+ },
+ "a260813p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/cxmt-overtakes-tencent-to-become-most-valuable-chinese-company",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p20",
+  "summary": "CXMT Corp. has overtaken Hong Kong-listed Tencent Holdings Ltd. as the world's most valuable Chinese company …",
+  "techmeme_url": "https://www.techmeme.com/260813/p20",
+  "title": "CXMT overtakes Tencent to become the most valuable Chinese company, with a ~$524B market cap, above Tencent's $510B; CXMT's Shanghai shares jumped 460%+ at IPO (Bloomberg)"
+ },
+ "a260813p21": {
+  "article_url": "https://www.reuters.com/world/china/microsoft-retreats-china-ai-boom-helps-it-keep-window-open-2026-08-13/",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p21",
+  "summary": "Microsoft once regarded the idea of quitting China as unthinkable. — The year was 2010 and Google was about to exit due to concerns over censorship and cyberattacks.",
+  "techmeme_url": "https://www.techmeme.com/260813/p21",
+  "title": "Filings and sources: Microsoft shuttered 15+ branch offices and joint ventures in China in the past five years, amid China's push for domestic software (Reuters)"
+ },
+ "a260813p22": {
+  "article_url": "https://www.wsj.com/business/earnings/smic-posts-earnings-beat-as-mature-node-orders-surge-444e75f7?st=CUyD27&reflink=desktopwebshare_permalink",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p22",
+  "summary": "The Chinese chip foundry's net profit more than tripled in the second quarter — SMIC, China's biggest chip foundry …",
+  "techmeme_url": "https://www.techmeme.com/260813/p22",
+  "title": "SMIC reports Q2 revenue up 36% YoY to ~$3B, net profit up 3x+ to ~$479.2M, above ~$283.1M est., and a 25.3% gross margin, driven by strong mature-node orders (Sherry Qin/Wall Street Journal)"
+ },
+ "a260813p23": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/jd-com-profit-beats-estimates-after-food-delivery-fight-calms",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p23",
+  "summary": "JD.com Inc. posted its first quarterly revenue decline since listing in 2014, in the latest sign of waning Chinese consumer sentiment.",
+  "techmeme_url": "https://www.techmeme.com/260813/p23",
+  "title": "JD.com reports Q2 revenue down 2.9% YoY to ~$51.4B and net income of ~$1.1B, above ~$964M est., driven by JD Retail profitability and narrowing food losses (Luz Ding/Bloomberg)"
+ },
+ "a260813p24": {
+  "article_url": "https://www.wsj.com/business/deals/accelerant-to-go-private-in-4-4b-deal-with-thoma-bravo-177df4a7?st=j3GBp4&reflink=desktopwebshare_permalink",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p24",
+  "summary": "The deal is expected to close in the first half of 2027 — Accelerant agreed to go private in a deal with private-equity firm Thoma Bravo worth more than $4 billion.",
+  "techmeme_url": "https://www.techmeme.com/260813/p24",
+  "title": "Accelerant, which uses data analytics to connect insurance underwriters with risk capital partners, agrees to go private with Thoma Bravo in a $4.4B deal (Katherine Hamilton/Wall Street Journal)"
+ },
+ "a260813p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/china-s-didi-returns-to-profit-on-strong-domestic-ride-demand",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p25",
+  "summary": "Didi Global Inc. swung back to profit after two consecutive quarterly losses, helped by strong ride-hailing demand in China.",
+  "techmeme_url": "https://www.techmeme.com/260813/p25",
+  "title": "Didi reports Q2 revenue up 11% YoY to ~$9.3B, net income of ~$128M, after two consecutive quarterly losses, China mobility transaction value up 9.5% to ~$13.4B (Luz Ding/Bloomberg)"
+ },
+ "a260813p26": {
+  "article_url": "https://www.washingtonpost.com/technology/2026/08/13/flock-unveils-changes-after-post-report-police-misuse-its-network/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzg2NTkzNjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzg3OTc1OTk5LCJpYXQiOjE3ODY1OTM2MDAsImp0aSI6ImM5ZGE1ZTEyLWFhMmYtNDI3Mi1hNGQ0LWY2ZGZmYzU2N2I3MCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMDgvMTMvZmxvY2stdW52ZWlscy1jaGFuZ2VzLWFmdGVyLXBvc3QtcmVwb3J0LXBvbGljZS1taXN1c2UtaXRzLW5ldHdvcmsvIn0.JkThiw7M8B7LCnurzaJ_ncQ3-gnoIvOnJyiSCqQbeyA&itid=gfta",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p26",
+  "summary": "The license-plate-reader firm said it will require stricter oversight after a Washington Post investigation found dozens of officers …",
+  "techmeme_url": "https://www.techmeme.com/260813/p26",
+  "title": "Flock says it will now require US law enforcement to attach a criminal case number to license plate searches, after a WaPo investigation into police misuse (Washington Post)"
+ },
+ "a260813p27": {
+  "article_url": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjVGMURaM1drcDQiLCJwIjoiL3BvbGljeS85NzkzMzkvZmxvY2stY2VvLWF1ZGl0cy1kYXRhLXJldGVudGlvbiIsImV4cCI6MTc4NzA1OTA1NSwiaWF0IjoxNzg2NjI3MDU1fQ.bWI6Ig8PWL-dV72LeLmthsL_4xquYfsk0hvy_VHaGLA",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p27",
+  "summary": "﻿After reports that some cops misused tracking data it collects, Flock is rolling out policy changes.",
+  "techmeme_url": "https://www.techmeme.com/260813/p27",
+  "title": "Flock CEO Garrett Langley acknowledges the company \"got this one wrong\" and is assuming greater responsibility for preventing US law enforcement misuse (Lauren Feiner/The Verge)"
+ },
+ "a260813p28": {
+  "article_url": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p28",
+  "summary": "In South Korea, where a mountainous landscape makes building huge projects an incredible undertaking, the world's leading maker …",
+  "techmeme_url": "https://www.techmeme.com/260813/p28",
+  "title": "Inside SK Hynix's $720B Yongin Cluster, which it calls the world's largest network of memory factories and is set to go into production in February 2027 (Katie Tarasov/CNBC)"
+ },
+ "a260813p29": {
+  "article_url": "https://www.geekwire.com/2026/microsoft-starts-merging-its-copilot-consumer-and-business-apps-in-advance-of-super-app-rollout/",
+  "date": "2026-08-13",
+  "permalink_id": "a260813p29",
+  "summary": "Microsoft is starting the process of combining its consumer and business Copilot apps into one, laying the structural foundation for an upcoming …",
+  "techmeme_url": "https://www.techmeme.com/260813/p29",
+  "title": "Microsoft begins merging its consumer and commercial Copilot apps into a single app, with a mobile and web rollout in mid-August and desktop in mid-September (Todd Bishop/GeekWire)"
  },
  "a260813p3": {
   "article_url": "https://asia.nikkei.com/business/tech/semiconductors/sony-tsmc-deal-brings-overseas-investment-in-japan-chipmaking-to-37bn",
