@@ -1,0 +1,42 @@
+{
+ "a260814p1": {
+  "article_url": "https://www.reuters.com/world/china/chinese-chipmaker-smic-increases-prices-strong-ai-demand-2026-08-14/",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p1",
+  "summary": "China's top foundry, Semiconductor Manufacturing International Corp (0981.HK), said on Friday that AI-related demand would continue …",
+  "techmeme_url": "https://www.techmeme.com/260814/p1",
+  "title": "SMIC co-CEO Zhao Haijun says the company raised prices following negotiations with customers in Q1, and that it will charge more for wafers processed in Q3 (Reuters)"
+ },
+ "a260814p2": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p2",
+  "summary": "Apple (AAPL.O) has trained a large language model specifically for the China market, three people familiar with the matter said …",
+  "techmeme_url": "https://www.techmeme.com/260814/p2",
+  "title": "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)"
+ },
+ "a260814p3": {
+  "article_url": "https://www.ft.com/content/5ca83d6d-2c13-4d5e-b564-881f89189b3e",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p3",
+  "summary": "US to impose up to 100% levies on unmanned aircraft and their components — President Donald Trump has imposed sweeping …",
+  "techmeme_url": "https://www.techmeme.com/260814/p3",
+  "title": "The White House announces new tariffs on drones and components, including a 100% levy on \"particularly sensitive\" models, aiming to cut reliance on Chinese tech (Demetri Sevastopulo/Financial Times)"
+ },
+ "a260814p4": {
+  "article_url": "http://www.cnn.com/2026/08/11/business/data-centers-ai-economy",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p4",
+  "summary": "A $15 million aquatic center with a six-lane pool, waterslides and a lazy river opened in Quincy, Washington, a few weeks ago.",
+  "techmeme_url": "https://www.techmeme.com/260814/p4",
+  "title": "A look at Quincy, a rural Washington farming town of 8,500 that benefited from a data center boom as its poverty rate fell from 29.4% in 2012 to 6.2% in 2024 (Nathaniel Meyersohn/CNN)"
+ },
+ "a260814p5": {
+  "article_url": "https://z.ai/",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p5",
+  "summary": "With GLM-5.2 we built the stack: IndexShare for efficient long-context processing, SAO for RL on long-horizon tasks …",
+  "techmeme_url": "https://www.techmeme.com/260814/p5",
+  "title": "Z.ai debuts GLM-5.3, using the same base model as GLM-5.2 with scaled post-training for stronger coding and cyber skills, with weights due in two weeks (Z.ai)"
+ }
+}
