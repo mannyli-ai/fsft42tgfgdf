@@ -7,6 +7,30 @@
   "techmeme_url": "https://www.techmeme.com/260814/p1",
   "title": "SMIC co-CEO Zhao Haijun says the company raised prices following negotiations with customers in Q1, and that it will charge more for wafers processed in Q3 (Reuters)"
  },
+ "a260814p10": {
+  "article_url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p10",
+  "summary": "DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.",
+  "techmeme_url": "https://www.techmeme.com/260814/p10",
+  "title": "DeepSeek debuts DeepSeek Harness under the MIT license in developer preview, touting a design where \"everything is a plugin\" that can be swapped out as a plugin (Carl Franzen/VentureBeat)"
+ },
+ "a260814p11": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p11",
+  "summary": "Lam Research (LRCX.O) said on Thursday it intends to invest more than $3 billion in the next five years to expand its global research …",
+  "techmeme_url": "https://www.techmeme.com/260814/p11",
+  "title": "Chip equipment maker Lam Research plans to invest $3B+ over five years to expand its global R&D network, aiming to increase its experiment capacity by 50%+ (Anzar Mehraj/Reuters)"
+ },
+ "a260814p12": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p12",
+  "summary": "RedotPay has delayed plans for an initial public offering in the US as the stablecoin payments company seeks regulatory approvals and deals …",
+  "techmeme_url": "https://www.techmeme.com/260814/p12",
+  "title": "Sources: stablecoin payments company RedotPay delays plans for a US IPO to 2027 or later, as it seeks regulatory approvals and deals with legal issues (Bloomberg)"
+ },
  "a260814p2": {
   "article_url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
   "date": "2026-08-14",
@@ -38,5 +62,37 @@
   "summary": "With GLM-5.2 we built the stack: IndexShare for efficient long-context processing, SAO for RL on long-horizon tasks …",
   "techmeme_url": "https://www.techmeme.com/260814/p5",
   "title": "Z.ai debuts GLM-5.3, using the same base model as GLM-5.2 with scaled post-training for stronger coding and cyber skills, with weights due in two weeks (Z.ai)"
+ },
+ "a260814p6": {
+  "article_url": "https://www.afr.com/technology/canva-investors-wipe-10b-from-valuation-20260813-p60o48",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p6",
+  "summary": "Canva and two of its longest-standing Australian backers have wiped over $10 billion ($US7.1 billion) off the design software giant's valuation …",
+  "techmeme_url": "https://www.techmeme.com/260814/p6",
+  "title": "Blackbird and Airtree revalue Canva at $34.9B, down from $42B in 2025, as it struggles in the AI era; Canva's internal valuation falls to $31B, down from $38.9B (Australian Financial Review)"
+ },
+ "a260814p7": {
+  "article_url": "https://www.ft.com/content/4e3774b6-52e5-4b8a-be76-0bb87495e1f0",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p7",
+  "summary": "Largest US bank has continued to cultivate ties with prediction platform as it seeks $20bn valuation",
+  "techmeme_url": "https://www.techmeme.com/260814/p7",
+  "title": "Sources: JPMorgan Chase terminated its banking relationship with Polymarket in 2025 over regulatory concerns, though it still maintains some ties to the company (Financial Times)"
+ },
+ "a260814p8": {
+  "article_url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p8",
+  "summary": "Judge Donato was not having Google's ‘anticompetitive friction.’ — One month after Epic Games and Google seemingly stopped fighting …",
+  "techmeme_url": "https://www.techmeme.com/260814/p8",
+  "title": "Epic v. Google: in a compliance hearing, a judge orders Google to remove \"anticompetitive friction\" for installing third-party app stores from its Play Store (Sean Hollister/The Verge)"
+ },
+ "a260814p9": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/trustar-is-said-to-near-1-5-billion-deal-for-alibaba-gaming-arm",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p9",
+  "summary": "Asian private equity firm Trustar Capital is nearing a deal to acquire Alibaba Group Holding Ltd.'s video game business, according to people with knowledge of the matter.",
+  "techmeme_url": "https://www.techmeme.com/260814/p9",
+  "title": "Sources: Alibaba is nearing a deal to sell its Lingxi Games to PE firm Trustar Capital at a potential $1.5B+ valuation, as Alibaba continues its reorganization (Bloomberg)"
  }
 }
