@@ -31,6 +31,62 @@
   "techmeme_url": "https://www.techmeme.com/260814/p12",
   "title": "Sources: stablecoin payments company RedotPay delays plans for a US IPO to 2027 or later, as it seeks regulatory approvals and deals with legal issues (Bloomberg)"
  },
+ "a260814p13": {
+  "article_url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p13",
+  "summary": "France's top court on Friday blocked a bill banning social media access for under-15s, saying it infringed upon freedom of expression …",
+  "techmeme_url": "https://www.techmeme.com/260814/p13",
+  "title": "France's top court blocks a bill banning social media for under-15s, saying it infringed upon freedom of expression; Macron orders the PM to rework the bill (Reuters)"
+ },
+ "a260814p14": {
+  "article_url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p14",
+  "summary": "A wave of top OpenAI executives — including Sam Altman's top deputy, a longtime chief operating officer and the chief revenue officer …",
+  "techmeme_url": "https://www.techmeme.com/260814/p14",
+  "title": "Source: Greg Brockman is \"in founder mode\" and getting more involved across every level of OpenAI to build out a leadership team ahead of an expected IPO (Madison Mills/Axios)"
+ },
+ "a260814p15": {
+  "article_url": "https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p15",
+  "summary": "Gains on investments in companies like Anthropic are boosting earnings at some of the biggest technology companies",
+  "techmeme_url": "https://www.techmeme.com/260814/p15",
+  "title": "In Q2, \"other income\", mostly from investment gains, at Amazon and Alphabet totaled ~$121B after taxes and made up 66% and 71%, respectively, of profits (Jonathan Weil/Wall Street Journal)"
+ },
+ "a260814p16": {
+  "article_url": "https://x.com/alibaba_qwen/status/2088280182356611304",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p16",
+  "summary": "We promised open weights for Qwen3.8. Now, time to meet them! 🎉 ⚡ Qwen3.8-27B: - A native multimodal dense model. With just 27B parameters, it outperforms Qwen3.7-Plus overall and shines in real-world coding & office workflows. - 262K native context, easily extendable to 1M",
+  "techmeme_url": "https://www.techmeme.com/260814/p16",
+  "title": "Alibaba releases weights for Qwen3.8 models under Apache 2.0 license, including Qwen3.8-27B, which it says beats Qwen3.7-Plus and excels in real-world coding (@alibaba_qwen)"
+ },
+ "a260814p17": {
+  "article_url": "https://9to5mac.com/2026/08/14/apple-maps-opens-ad-booking-for-businesses-promotional-offer-available/",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p17",
+  "summary": "Ads are coming to Apple Maps soon in the US and Canada, and today businesses can start booking their own ads. Here are the details, including a limited-time promotional offer for businesses.",
+  "techmeme_url": "https://www.techmeme.com/260814/p17",
+  "title": "Apple officially opens ad bookings for businesses on Apple Maps ahead of an upcoming full rollout across the US and Canada (Ryan Christoffel/9to5Mac)"
+ },
+ "a260814p18": {
+  "article_url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p18",
+  "summary": "Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music.",
+  "techmeme_url": "https://www.techmeme.com/260814/p18",
+  "title": "Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain (Emma Roth/The Verge)"
+ },
+ "a260814p19": {
+  "article_url": "https://www.axios.com/2026/08/14/tesla-sought-permit-for-5000-robotaxis-in-las-vegas-it-got-10",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p19",
+  "summary": "Tesla applied for a permit to deploy up to 5,000 robotaxis in Clark County, Nevada, but got approval from the state for just 10.",
+  "techmeme_url": "https://www.techmeme.com/260814/p19",
+  "title": "Nevada granted Tesla a robotaxi permit, but capped the fleet at 10 vehicles, not 5,000 that Tesla sought, banned airport pickups, and ordered other restrictions (Joann Muller/Axios)"
+ },
  "a260814p2": {
   "article_url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
   "date": "2026-08-14",
