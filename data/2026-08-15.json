@@ -7,6 +7,38 @@
   "techmeme_url": "https://www.techmeme.com/260815/p1",
   "title": "Sources: OpenAI's repeated exec reshuffles and departures have frustrated some staff as it prepares for an IPO; it disbanded its \"preparedness\" team in July (Financial Times)"
  },
+ "a260815p10": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+  "date": "2026-08-15",
+  "permalink_id": "a260815p10",
+  "summary": "Alibaba Group Holding's open-weight models have accumulated more than 3 billion global downloads in the past six months …",
+  "techmeme_url": "https://www.techmeme.com/260815/p10",
+  "title": "Alibaba's open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 (Saritha Rai/Bloomberg)"
+ },
+ "a260815p11": {
+  "article_url": "https://www.anthropic.com/news/claude-text-watermark",
+  "date": "2026-08-15",
+  "permalink_id": "a260815p11",
+  "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude …",
+  "techmeme_url": "https://www.techmeme.com/260815/p11",
+  "title": "Anthropic details Claude's text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite (Anthropic)"
+ },
+ "a260815p12": {
+  "article_url": "https://www.washingtonpost.com/technology/2026/08/15/woman-alleges-grok-made-thousands-sexual-abuse-images-childhood-snap/",
+  "date": "2026-08-15",
+  "permalink_id": "a260815p12",
+  "summary": "When Jane Doe 4, as she is identified in legal filings, arrived at her parents' house in Wyoming to set up a family party earlier this year …",
+  "techmeme_url": "https://www.techmeme.com/260815/p12",
+  "title": "A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online (Washington Post)"
+ },
+ "a260815p13": {
+  "article_url": "https://www.theinformation.com/articles/startups-find-old-slack-threads-tickets-suddenly-high-demand",
+  "date": "2026-08-15",
+  "permalink_id": "a260815p13",
+  "summary": "Eight days after AI agent startup Warmly in late June agreed to be acquired by HubSpot, CEO Maximus Greenwald found an unusual email in his inbox.",
+  "techmeme_url": "https://www.techmeme.com/260815/p13",
+  "title": "Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)"
+ },
  "a260815p2": {
   "article_url": "https://www.constellationr.com/insights/news/dynatrace-acquires-arize-accelerates-ai-observability-efforts",
   "date": "2026-08-15",
