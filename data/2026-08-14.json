@@ -95,6 +95,86 @@
   "techmeme_url": "https://www.techmeme.com/260814/p2",
   "title": "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)"
  },
+ "a260814p20": {
+  "article_url": "https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p20",
+  "summary": "At the end of a week of turmoil in OpenAI's C-suite, finance chief Sarah Friar held a meeting with investors on Friday …",
+  "techmeme_url": "https://www.techmeme.com/260814/p20",
+  "title": "Source: OpenAI CFO told investors that enterprise business now generates more revenue than ChatGPT-led consumer business; enterprise customers grew 32% in July (Kate Rooney/CNBC)"
+ },
+ "a260814p21": {
+  "article_url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p21",
+  "summary": "Anthropic does not plan to release an internal model that appears to be more powerful than top-of-the-line Mythos …",
+  "techmeme_url": "https://www.techmeme.com/260814/p21",
+  "title": "Risk report: Anthropic raises misalignment risk estimate from very low to low and says it doesn't plan to release a stronger internal model called \"Model 2\" (Madison Mills/Axios)"
+ },
+ "a260814p22": {
+  "article_url": "https://www.wsj.com/business/deals/stripe-advent-in-talks-to-buy-paypal-ea6aa2ba?st=XbFRVy",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p22",
+  "summary": "The fintech startup and private-equity firm Advent offered to buy the struggling payments company in July",
+  "techmeme_url": "https://www.techmeme.com/260814/p22",
+  "title": "Sources: PayPal is in talks to sell itself to a group including Stripe and Advent, which proposed paying $60.50/share in July; PayPal is seeking a higher price (Wall Street Journal)"
+ },
+ "a260814p23": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/thrive-investor-letter-reveals-openai-fueled-growth-stake-sale",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p23",
+  "summary": "Thrive Capital's 2022 early-stage venture capital fund, a $516 million investment vehicle that made early bets on OpenAI …",
+  "techmeme_url": "https://www.techmeme.com/260814/p23",
+  "title": "Investor letter: Thrive's 2022 early-stage $516M fund that invested in OpenAI and SpaceX was worth $3.7B+ as of the end of June, net of fees and other charges (Natasha Mascarenhas/Bloomberg)"
+ },
+ "a260814p24": {
+  "article_url": "https://www.reuters.com/world/us-regulator-approves-bank-charter-trump-backed-crypto-company-world-liberty-2026-08-14/",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p24",
+  "summary": "A national U.S. bank regulator on Friday conditionally approved a bank charter application linked to President Donald Trump …",
+  "techmeme_url": "https://www.techmeme.com/260814/p24",
+  "title": "The US OCC conditionally approves a bank charter application for Trump family's World Liberty Financial, allowing it to directly issue its USD1 stablecoin (Reuters)"
+ },
+ "a260814p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/amazon-s-new-user-agreement-seeks-to-curb-class-action-suits",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p25",
+  "summary": "Amazon.com Inc. reintroduced a clause in its user agreement that seeks to prevent shoppers from filing class-action lawsuits …",
+  "techmeme_url": "https://www.techmeme.com/260814/p25",
+  "title": "Amazon adds a clause in its user agreement that seeks to prevent shoppers from filing class-action lawsuits against it, after removing a similar clause in 2021 (Spencer Soper/Bloomberg)"
+ },
+ "a260814p26": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p26",
+  "summary": "Anthropic PBC is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago …",
+  "techmeme_url": "https://www.techmeme.com/260814/p26",
+  "title": "Docs: Anthropic told investors it generated $11.5B+ in revenue, with positive adjusted operating income, in Q2, up from $787M in Q2 2025 and $4.73B in Q1 2026 (Bloomberg)"
+ },
+ "a260814p27": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-has-21-billion-spacex-stake-30-billion-in-intel-shares",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p27",
+  "summary": "Nvidia Corp. on Friday disclosed a nearly $21 billion stake in Elon Musk's SpaceX and a $30 billion one in Intel Corp.",
+  "techmeme_url": "https://www.techmeme.com/260814/p27",
+  "title": "Filing: Nvidia has a nearly $21B stake in SpaceX and a $30B stake in Intel; Nvidia invested as much as $2B in xAI in 2025 and $5B in Intel (Lynn Doan/Bloomberg)"
+ },
+ "a260814p28": {
+  "article_url": "https://www.reuters.com/technology/chinas-zai-says-new-model-nears-anthropics-mythos-5-cyber-defence-tests-2026-08-14/",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p28",
+  "summary": "Chinese AI startup Z.ai said on Friday its open-source GLM-5.3 model had neared Anthropic's restricted Mythos 5 in identifying software …",
+  "techmeme_url": "https://www.techmeme.com/260814/p28",
+  "title": "Z.ai says GLM-5.3 scores 84.5% on CyberGym, vs. Mythos 5's 83.8%, and its most sensitive cybersecurity functions will only be available to verified users (Reuters)"
+ },
+ "a260814p29": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p29",
+  "summary": "SpaceX has completed a $60 billion acquisition of artificial intelligence coding startup Cursor, a key part of Elon Musk's bid to gain ground on rivals Anthropic PBC and OpenAI.",
+  "techmeme_url": "https://www.techmeme.com/260814/p29",
+  "title": "SpaceX closes its $60B acquisition of Cursor, two months after SpaceX formally announced it had agreed to acquire the startup (Bloomberg)"
+ },
  "a260814p3": {
   "article_url": "https://www.ft.com/content/5ca83d6d-2c13-4d5e-b564-881f89189b3e",
   "date": "2026-08-14",
@@ -102,6 +182,38 @@
   "summary": "US to impose up to 100% levies on unmanned aircraft and their components — President Donald Trump has imposed sweeping …",
   "techmeme_url": "https://www.techmeme.com/260814/p3",
   "title": "The White House announces new tariffs on drones and components, including a 100% levy on \"particularly sensitive\" models, aiming to cut reliance on Chinese tech (Demetri Sevastopulo/Financial Times)"
+ },
+ "a260814p30": {
+  "article_url": "https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3?st=4Kyavg&reflink=desktopwebshare_permalink",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p30",
+  "summary": "Under new proposed terms, the chip maker would initially backstop only half of the 10-gigawatt project",
+  "techmeme_url": "https://www.techmeme.com/260814/p30",
+  "title": "Sources: Nvidia has reworked a deal to finance an OpenAI Ohio data center campus so that it would initially guarantee only half of its planned $250B backstop (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a260814p31": {
+  "article_url": "https://electrek.co/2026/08/14/waymo-cpuc-approval-california-expansion-18-counties/",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p31",
+  "summary": "Waymo says California regulators have signed off on the biggest expansion of its robotaxi service yet, covering 18 counties from Sonoma down to San Diego.",
+  "techmeme_url": "https://www.techmeme.com/260814/p31",
+  "title": "Waymo receives approval from the California Public Utilities Commission to expand across 18 counties, including Sacramento and San Diego (Fred Lambert/Electrek)"
+ },
+ "a260814p32": {
+  "article_url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p32",
+  "summary": "As Anthropic prepares for what could be one of the biggest IPOs on record, Wall Street is looking further into the future …",
+  "techmeme_url": "https://www.techmeme.com/260814/p32",
+  "title": "Sources: Anthropic projects 2028 revenue of ~$190B-$200B, vs. a revenue run rate of $47B in May, as bankers and investors price the company ahead of an IPO (Echo Wang/Reuters)"
+ },
+ "a260814p33": {
+  "article_url": "https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=GnZbz2&reflink=desktopwebshare_permalink",
+  "date": "2026-08-14",
+  "permalink_id": "a260814p33",
+  "summary": "Commerce Secretary Howard Lutnick urges iPhone maker to find other solutions to AI-driven chip supply crunch",
+  "techmeme_url": "https://www.techmeme.com/260814/p33",
+  "title": "Commerce Secretary Howard Lutnick says the US is \"not in favor\" of Apple buying Chinese memory chips, and there have to be \"other solutions to the memory issue\" (Wall Street Journal)"
  },
  "a260814p4": {
   "article_url": "http://www.cnn.com/2026/08/11/business/data-centers-ai-economy",
