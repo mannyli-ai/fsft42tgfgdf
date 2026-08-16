@@ -46,5 +46,21 @@
   "summary": "The company built its empire on electronics. CEO Hiroki Totoki says its future is entertainment",
   "techmeme_url": "https://www.techmeme.com/260816/p6",
   "title": "A profile of Sony CEO Hiroki Totoki, who aims to transform the company into a business focused on music, movies, video games, and the tech that underpins them (Jason Douglas/Wall Street Journal)"
+ },
+ "a260816p7": {
+  "article_url": "https://www.washingtonpost.com/technology/2026/08/14/ai-becomes-major-election-issue-first-time-data-shows/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzg2NjgwMDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzg4MDYyMzk5LCJpYXQiOjE3ODY2ODAwMDAsImp0aSI6Ijk2OTNkOTM2LTg0ODgtNGVjOS1iNTdmLTVhY2ZjNTg5NmFlYyIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMDgvMTQvYWktYmVjb21lcy1tYWpvci1lbGVjdGlvbi1pc3N1ZS1maXJzdC10aW1lLWRhdGEtc2hvd3MvIn0.HwCWU70YJs-Ehcd0EjuIo042EWgf_bOlBZOXr7FILIg&itid=gfta",
+  "date": "2026-08-16",
+  "permalink_id": "a260816p7",
+  "summary": "Across the United States, political candidates are grappling with an issue that has never before featured widely in American political life: artificial intelligence.",
+  "techmeme_url": "https://www.techmeme.com/260816/p7",
+  "title": "How concerns about AI became an important midterms issue, with candidates adding AI and data center policies to their websites in ~40% of races across the US (Washington Post)"
+ },
+ "a260816p8": {
+  "article_url": "https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25?st=C8CWgw&reflink=desktopwebshare_permalink",
+  "date": "2026-08-16",
+  "permalink_id": "a260816p8",
+  "summary": "Patients, doctors and nurses are turning to the technology for help identifying rare and undiagnosed diseases",
+  "techmeme_url": "https://www.techmeme.com/260816/p8",
+  "title": "Patients, families, doctors, and nurses are increasingly turning to AI tools, such as Face2Gene, to help identify rare and hard-to-diagnose diseases (Alex Janin/Wall Street Journal)"
  }
 }
