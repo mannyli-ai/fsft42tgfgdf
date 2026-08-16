@@ -1,0 +1,34 @@
+{
+ "a260816p1": {
+  "article_url": "https://www.unite.ai/pathway-raises-new-funding-at-500m-valuation-to-scale-post-transformer-ai/",
+  "date": "2026-08-16",
+  "permalink_id": "a260816p1",
+  "summary": "AI research company Pathway has secured additional funding at a $500 million valuation, bringing its total seed financing to $30 million …",
+  "techmeme_url": "https://www.techmeme.com/260816/p1",
+  "title": "Pathway, which is developing AI models based on what it calls its \"Post-Transformer\" BDH architecture, raised a $30M seed at a $500M valuation (Antoine Tardif/Unite.AI)"
+ },
+ "a260816p2": {
+  "article_url": "https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed",
+  "date": "2026-08-16",
+  "permalink_id": "a260816p2",
+  "summary": "A decade after the disappearance of its handsets, the company's future rests on car and security software",
+  "techmeme_url": "https://www.techmeme.com/260816/p2",
+  "title": "BlackBerry posted a positive cash position in Q1, its first cash-positive first quarter in any fiscal year since 2017, driven by its QNX and Secusmart products (Ilya Gridneff/Financial Times)"
+ },
+ "a260816p3": {
+  "article_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "date": "2026-08-16",
+  "permalink_id": "a260816p3",
+  "summary": "In the AI world, time feels compressed. A few months after our spring report in our biannual analysis worked through the ecosystem …",
+  "techmeme_url": "https://www.techmeme.com/260816/p3",
+  "title": "Hugging Face says developers made 151K+ derivatives based on Qwen models, topping others, making Qwen one of the largest foundations in the open model ecosystem (Hugging Face)"
+ },
+ "a260816p4": {
+  "article_url": "https://gowers.wordpress.com/",
+  "date": "2026-08-16",
+  "permalink_id": "a260816p4",
+  "summary": "For the sake of anyone who might read this blog post in the distant future (a month from now, say), let me mention that I am writing …",
+  "techmeme_url": "https://www.techmeme.com/260816/p4",
+  "title": "Fields Medalist Timothy Gowers says most famous mathematics problems solved by LLMs so far have almost all been with counterexamples rather than proofs (Timothy Gowers/Gowers's Weblog)"
+ }
+}
