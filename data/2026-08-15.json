@@ -39,6 +39,38 @@
   "techmeme_url": "https://www.techmeme.com/260815/p13",
   "title": "Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)"
  },
+ "a260815p14": {
+  "article_url": "https://www.theinformation.com/articles/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal",
+  "date": "2026-08-15",
+  "permalink_id": "a260815p14",
+  "summary": "Nvidia is in talks to invest as much as $3 billion in SB Energy, the Softbank Group-backed developer of a massive planned Ohio …",
+  "techmeme_url": "https://www.techmeme.com/260815/p14",
+  "title": "Sources: Nvidia in talks to invest up to $3B in SoftBank-backed data center developer SB Energy that aims to IPO soon and is behind a huge OpenAI campus in Ohio (The Information)"
+ },
+ "a260815p15": {
+  "article_url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+  "date": "2026-08-15",
+  "permalink_id": "a260815p15",
+  "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+  "techmeme_url": "https://www.techmeme.com/260815/p15",
+  "title": "A look at Unitree's G1 and R1, the humanoid robots behind viral influencer accounts worldwide, as Unitree shipped 5,500+ units in 2025 and readies its China IPO (Zeyi Yang/Wired)"
+ },
+ "a260815p16": {
+  "article_url": "https://www.washingtonpost.com/politics/2026/08/13/chatbots-are-doing-work-congress-with-little-oversight/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzg2NjgwMDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzg4MDYyMzk5LCJpYXQiOjE3ODY2ODAwMDAsImp0aSI6IjQxNjU3NTQ1LWJlODEtNGUzZS05NDM2LWM4ODYyMWRlYjliMCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI2LzA4LzEzL2NoYXRib3RzLWFyZS1kb2luZy13b3JrLWNvbmdyZXNzLXdpdGgtbGl0dGxlLW92ZXJzaWdodC8ifQ.LWoudW4Z_RDIXaxivuLIj-VARUg7yt3sk7EONX8DRLE&itid=gfta",
+  "date": "2026-08-15",
+  "permalink_id": "a260815p16",
+  "summary": "The amendment was one of hundreds filed this summer to an annual defense bill making its way through Congress.",
+  "techmeme_url": "https://www.techmeme.com/260815/p16",
+  "title": "How Congressional lawmakers and aides are using AI tools with little oversight to write speeches and news releases, sort constituent mail, and more (Anna Liss-Roy/Washington Post)"
+ },
+ "a260815p17": {
+  "article_url": "https://x.com/darioamodei",
+  "date": "2026-08-15",
+  "permalink_id": "a260815p17",
+  "summary": "1/2 Thanks Gavin for an especially thoughtful exchange. I don't usually spend much time on social media but I wanted to engage here because it really brings out the heart of an important conversation. First, on regulation, I think that “either concentrate it in the hands of a",
+  "techmeme_url": "https://www.techmeme.com/260815/p17",
+  "title": "Dario Amodei shares his view on AI regulation, says open-weights aren't a \"sufficient\" solution, defends testing, highlights a \"crisis of trust\" in AI, and more (Dario Amodei/@darioamodei)"
+ },
  "a260815p2": {
   "article_url": "https://www.constellationr.com/insights/news/dynatrace-acquires-arize-accelerates-ai-observability-efforts",
   "date": "2026-08-15",
