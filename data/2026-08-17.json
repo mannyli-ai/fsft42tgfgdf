@@ -63,6 +63,30 @@
   "techmeme_url": "https://www.techmeme.com/260817/p16",
   "title": "Greg Brockman calls the OpenAI-Hugging Face incident \"a watershed moment\" and discusses how OpenAI and other organizations can use AI to improve cyber defenses (Greg Brockman)"
  },
+ "a260817p17": {
+  "article_url": "https://www.wsj.com/tech/uber-zipline-partner-with-goal-of-hitting-1-million-drone-deliveries-a-day-e022b67a",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p17",
+  "summary": "The desire for rapid delivery is “insatiable,” Uber's Chief Executive Dara Khosrowshahi says",
+  "techmeme_url": "https://www.techmeme.com/260817/p17",
+  "title": "Uber and Zipline partner to launch Uber Eats drone deliveries in Dallas and Houston by late 2026, aiming to scale nationwide and hit 1M daily deliveries in 2029 (Kelly Cloonan/Wall Street Journal)"
+ },
+ "a260817p18": {
+  "article_url": "https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p18",
+  "summary": "President Donald Trump-backed World Liberty Financial is collaborating with a Hong Kong-based venture offering artificial …",
+  "techmeme_url": "https://www.techmeme.com/260817/p18",
+  "title": "Trump-backed WLF is working with Hong Kong-based AI platform WorldClaw; 43 of the 90 AI models on WorldClaw are from Chinese companies flagged as security risks (Lawrence Delevingne/Reuters)"
+ },
+ "a260817p19": {
+  "article_url": "https://siliconangle.com/2026/08/17/gravis-robotics-gets-200m-funding-softbank-retrofit-excavators-self-driving-ai-systems/",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p19",
+  "summary": "Gravis Robotics AG said today it has bagged $200 million in funding from SoftBank Group Corp. in what is the largest-ever Series A round for a construction robotics startup.",
+  "techmeme_url": "https://www.techmeme.com/260817/p19",
+  "title": "ETH Zurich spinout Gravis Robotics raised a $200M Series A from SoftBank to scale Gravis Rack, an autonomous control appliance for retrofitting onto excavators (Mike Wheatley/SiliconANGLE)"
+ },
  "a260817p2": {
   "article_url": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs",
   "date": "2026-08-17",
@@ -70,6 +94,86 @@
   "summary": "The sealed complaint leaves Chainalysis' specific objections and requested remedy undisclosed as briefing continues.",
   "techmeme_url": "https://www.techmeme.com/260817/p2",
   "title": "Chainalysis sues the US government over ICE's $94.6M contract to buy forensic software and services from its competitor TRM Labs, calling the deal \"arbitrary\" (Ezra Reguerra/Cointelegraph)"
+ },
+ "a260817p20": {
+  "article_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p20",
+  "summary": "We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.",
+  "techmeme_url": "https://www.techmeme.com/260817/p20",
+  "title": "Investigation: Amazon is buying huge quantities of rare books, scanning them for AI, and destroying them; a tracked Biblio order went to its Las Vegas facility (Emanuel Maiberg/404 Media)"
+ },
+ "a260817p21": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-17/nvidia-to-invest-up-to-105-billion-for-openai-data-center-in-ohio",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p21",
+  "summary": "Nvidia Corp. has agreed to spend as much as $105 billion to support a massive new data center campus in Ohio set to be leased by OpenAI …",
+  "techmeme_url": "https://www.techmeme.com/260817/p21",
+  "title": "Filing: Nvidia agrees to spend up to $105B to support SB Energy's new Ohio data center campus OpenAI is set to lease; Nvidia agrees to invest $1.5B in SB Energy (Bloomberg)"
+ },
+ "a260817p22": {
+  "article_url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p22",
+  "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services.",
+  "techmeme_url": "https://www.techmeme.com/260817/p22",
+  "title": "Microsoft says the outage affecting GitHub's API, Actions, Pull Requests, and other services has been mitigated, three hours after it first confirmed the outage (Mayank Parmar/BleepingComputer)"
+ },
+ "a260817p23": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/apple-change-app-data-consent-rules-german-regulator-says-2026-08-17/",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p23",
+  "summary": "Apple will change rules governing how app developers can use personal data for targeted advertising on iPhones and iPads …",
+  "techmeme_url": "https://www.techmeme.com/260817/p23",
+  "title": "A German regulator says Apple will make changes to ATT, after finding Apple gave its apps more favorable consent prompts than those of third-party developers (Reuters)"
+ },
+ "a260817p24": {
+  "article_url": "https://www.ft.com/content/01b0ac67-3e80-42eb-b0f6-3128f484101a",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p24",
+  "summary": "Digital bank removed TS Anil as chief last year before reinstating him to board after investor rebellion",
+  "techmeme_url": "https://www.techmeme.com/260817/p24",
+  "title": "Monzo Chair Gary Hoffman is leaving after some of Monzo's biggest shareholders called for his removal following the board removing TS Anil as CEO in December (Simon Foy/Financial Times)"
+ },
+ "a260817p25": {
+  "article_url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p25",
+  "summary": "Recent Securities and Exchange Commission guidance is underpinning the debt-fueled data center buildout to support artificial intelligence.",
+  "techmeme_url": "https://www.techmeme.com/260817/p25",
+  "title": "Nvidia's $500B funding package announcement for AI infrastructure follows SEC's July guidance that confirmed looser restrictions for data center securitizations (Tobias Burns/CNBC)"
+ },
+ "a260817p26": {
+  "article_url": "https://news.bloomberglaw.com/business-and-practice/google-aims-to-boost-ai-with-purchase-of-spirit-airlines-data",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p26",
+  "summary": "Google LLC won a bankruptcy auction for a trove of deindentified business data, software code, and operations records …",
+  "techmeme_url": "https://www.techmeme.com/260817/p26",
+  "title": "Google wins a bankruptcy auction with a $10M bid to acquire deidentified business data, software code, and more from Spirit Airlines to improve its AI models (James Nani/Bloomberg Law)"
+ },
+ "a260817p27": {
+  "article_url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p27",
+  "summary": "﻿By tracking views from the instant a video starts to play, YouTube's new counter works more like TikTok, X, and Instagram.",
+  "techmeme_url": "https://www.techmeme.com/260817/p27",
+  "title": "YouTube will start counting a view as soon as a video starts to play, from August 24, lining up with the system used by Instagram, TikTok, and its Shorts videos (Emma Roth/The Verge)"
+ },
+ "a260817p28": {
+  "article_url": "https://cursor.com/changelog/origin-code-hosting",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p28",
+  "summary": "Cursor can now host your code. — Origin begins rolling out today in early beta on all paid plans.",
+  "techmeme_url": "https://www.techmeme.com/260817/p28",
+  "title": "Cursor says it is rolling out its code hosting service Origin in early beta on all paid plans, featuring support for repos, pull requests, GitHub sync, and more (Cursor)"
+ },
+ "a260817p29": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-17/andreessen-horowitz-focus-of-doj-probe-over-board-directors",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p29",
+  "summary": "Venture capital firm Andreessen Horowitz is the focus of a Justice Department antitrust probe over whether its investment partners …",
+  "techmeme_url": "https://www.techmeme.com/260817/p29",
+  "title": "Sources: the US DOJ has been investigating a16z for nearly a year over whether its partners are improperly serving on the boards of competing AI companies (Bloomberg)"
  },
  "a260817p3": {
   "article_url": "https://www.ft.com/content/719c8108-f4ae-466b-80f4-96f26558d642",
