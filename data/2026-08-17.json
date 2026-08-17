@@ -7,6 +7,62 @@
   "techmeme_url": "https://www.techmeme.com/260817/p1",
   "title": "Anthropic's text watermark alters word probabilities to embed a fingerprint, which could degrade Claude's writing, despite its claim of no impact on quality (John Gruber/Daring Fireball)"
  },
+ "a260817p10": {
+  "article_url": "https://www.reuters.com/legal/government/binance-gave-moscow-client-details-used-charge-russian-over-ukraine-donations-2026-08-17/",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p10",
+  "summary": "Binance last year handed Russian authorities details of cryptocurrency donations to Ukrainian fundraising campaigns that were used …",
+  "techmeme_url": "https://www.techmeme.com/260817/p10",
+  "title": "Russian law enforcement docs: Binance provided Russia with transaction records and passport copies of IT specialist Yuri Belenkiy, leading to terrorism charges (Anton Zverev/Reuters)"
+ },
+ "a260817p11": {
+  "article_url": "https://www.ft.com/content/adeca274-67a3-4ee8-94f1-f43e4f28be97",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p11",
+  "summary": "Investors in gigawatt-scale campuses face billions in underinsured risks as insurers balk at cost of full coverage",
+  "techmeme_url": "https://www.techmeme.com/260817/p11",
+  "title": "Sources: Meta and BlackRock's $14B El Paso data center project is not insured against total loss, exposing lenders to credit risks and big potential liabilities (Financial Times)"
+ },
+ "a260817p12": {
+  "article_url": "https://fortune.com/2026/08/17/wispr-2-billion-valuation-dictations-only-the-beginning/",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p12",
+  "summary": "Tanay Kothari saw Iron Man when he was 10 years old. — It was 2008 and he wasn't entranced with Tony Stark.",
+  "techmeme_url": "https://www.techmeme.com/260817/p12",
+  "title": "Voice AI startup Wispr raised a $280M Series B led by Menlo Ventures at a $2B valuation, taking its total funding to $361M, and now has 100K business customers (Allie Garfinkle/Fortune)"
+ },
+ "a260817p13": {
+  "article_url": "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p13",
+  "summary": "Anyone with a stock portfolio has invariably noticed that semiconductor companies are on a tear this year.",
+  "techmeme_url": "https://www.techmeme.com/260817/p13",
+  "title": "Chip giants participated in startup funding rounds collectively surpassing $250B YTD; Nvidia leads the sector in deal volume with a record 59 funding rounds (Joanna Glasner/Crunchbase News)"
+ },
+ "a260817p14": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-17/groq-valued-at-3-5-billion-in-funding-round-after-nvidia-deal",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p14",
+  "summary": "Groq has raised $350 million in funding at a $3.5 billion valuation, roughly half what it was worth nearly a year ago …",
+  "techmeme_url": "https://www.techmeme.com/260817/p14",
+  "title": "Groq raised $350M led by Disruptive at a $3.5B valuation, down from $6.9B in September 2025 before Nvidia struck a licensing deal and hired much of its talent (Natasha Mascarenhas/Bloomberg)"
+ },
+ "a260817p15": {
+  "article_url": "https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c?st=KE3CJC&reflink=desktopwebshare_permalink",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p15",
+  "summary": "Agreement with SoftBank's SB Energy caps weeks of negotiations over the largest data-center project announced to date",
+  "techmeme_url": "https://www.techmeme.com/260817/p15",
+  "title": "OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a260817p16": {
+  "article_url": "https://blog.gregbrockman.com/the-defenders-window",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p16",
+  "summary": "The OpenAI-Hugging Face incident was a watershed moment for cybersecurity because it gave a peek into how the capabilities …",
+  "techmeme_url": "https://www.techmeme.com/260817/p16",
+  "title": "Greg Brockman calls the OpenAI-Hugging Face incident \"a watershed moment\" and discusses how OpenAI and other organizations can use AI to improve cyber defenses (Greg Brockman)"
+ },
  "a260817p2": {
   "article_url": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs",
   "date": "2026-08-17",
@@ -30,5 +86,45 @@
   "summary": "Friday's big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab.",
   "techmeme_url": "https://www.techmeme.com/260817/p4",
   "title": "Qwen 3.8 27B shows a 17GB open-weight general purpose model can have long context, effective tool calling, strong vision ability, and competent code generation (Simon Willison/Simon Willison's Weblog)"
+ },
+ "a260817p5": {
+  "article_url": "https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee?st=CNXFQm&reflink=desktopwebshare_permalink",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p5",
+  "summary": "Companies such as Caterpillar and Cummins are pivoting to feed a booming market for once-prosaic power equipment",
+  "techmeme_url": "https://www.techmeme.com/260817/p5",
+  "title": "How US industrial companies like Caterpillar, Cummins, Eaton, and Ford are pivoting their businesses to feed a booming AI data-center market for power equipment (Bob Tita/Wall Street Journal)"
+ },
+ "a260817p6": {
+  "article_url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p6",
+  "summary": "Amid fears for jobs, some film-makers say AI could enable them bypass studio giants and take more creative risks",
+  "techmeme_url": "https://www.techmeme.com/260817/p6",
+  "title": "AI film startups are setting up studios in Hollywood, using US and Chinese AI models while touting lower production costs and a way around traditional financing (Robert Booth/The Guardian)"
+ },
+ "a260817p7": {
+  "article_url": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2?st=hKauuG&reflink=desktopwebshare_permalink",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p7",
+  "summary": "Massive spending commitments for data-center leases and chips aren't shown on companies' balance sheets",
+  "techmeme_url": "https://www.techmeme.com/260817/p7",
+  "title": "Analysis: nine top tech companies including Alphabet and Meta had ~$3T of AI-related off-balance-sheet commitments, far exceeding their $600B in reported capex (Wall Street Journal)"
+ },
+ "a260817p8": {
+  "article_url": "https://www.reuters.com/legal/transactional/shein-eyes-company-valuation-around-25-billion-hong-kong-ipo-sources-say-2026-08-17/",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p8",
+  "summary": "Online fast-fashion retailer Shein is eyeing a company valuation of around $25 billion in its Hong Kong IPO …",
+  "techmeme_url": "https://www.techmeme.com/260817/p8",
+  "title": "Sources: Singapore-based Shein is aiming to hit a ~$25B valuation in its Hong Kong IPO, down from its $30B-$40B goal earlier in August after investor meetings (Reuters)"
+ },
+ "a260817p9": {
+  "article_url": "https://www.ft.com/content/8158cb5a-4bbd-43fd-b329-15a54e8422c8",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p9",
+  "summary": "FT analysis finds 60 largest planned facilities could emit equivalent of 27 coal plants or 24mn cars per year",
+  "techmeme_url": "https://www.techmeme.com/260817/p9",
+  "title": "An analysis of 60 of the largest planned US data centers: they could together produce 101.5M tons of CO2 per year, or ~7% of US power sector emissions in 2025 (Financial Times)"
  }
 }
