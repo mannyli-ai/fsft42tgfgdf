@@ -7,6 +7,30 @@
   "techmeme_url": "https://www.techmeme.com/260816/p1",
   "title": "Pathway, which is developing AI models based on what it calls its \"Post-Transformer\" BDH architecture, raised a $30M seed at a $500M valuation (Antoine Tardif/Unite.AI)"
  },
+ "a260816p10": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-08-16",
+  "permalink_id": "a260816p10",
+  "summary": "French Prime Minister Sebastien Lecornu will hold a crisis meeting Monday to respond to the cyberattack disclosed last week targeting the country's tax collection agency.",
+  "techmeme_url": "https://www.techmeme.com/260816/p10",
+  "title": "French PM Lecornu will hold a crisis meeting Monday over a June-July cyberattack on France's tax agency that compromised 678K individual and business accounts (Phil Serafino/Bloomberg)"
+ },
+ "a260816p11": {
+  "article_url": "https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87?st=7mfzgc&reflink=desktopwebshare_permalink",
+  "date": "2026-08-16",
+  "permalink_id": "a260816p11",
+  "summary": "The world's smartest AI models are now superhuman at math. They still respond to moral support and encouragement from mere humans.",
+  "techmeme_url": "https://www.techmeme.com/260816/p11",
+  "title": "How a Claude model made a math breakthrough during its unsuccessful 54-hour attempt to solve the Riemann hypothesis after a user repeatedly encouraged it (Ben Cohen/Wall Street Journal)"
+ },
+ "a260816p12": {
+  "article_url": "https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html?unlocked_article_code=1.5FA.fKfk.bMp5uecIkIOV&smid=bs-share",
+  "date": "2026-08-16",
+  "permalink_id": "a260816p12",
+  "summary": "The A.I. personas created by Inception Point AI include, clockwise from top left, Claire Delish, VV Steele, Nigel Thistledown and Lila Walker.Inception Point AI",
+  "techmeme_url": "https://www.techmeme.com/260816/p12",
+  "title": "A look at companies like Inception Point creating AI personas for media, fashion, film, and music industries that could host podcasts, model clothes, and more (Reggie Ugwu/New York Times)"
+ },
  "a260816p2": {
   "article_url": "https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed",
   "date": "2026-08-16",
@@ -62,5 +86,13 @@
   "summary": "Patients, doctors and nurses are turning to the technology for help identifying rare and undiagnosed diseases",
   "techmeme_url": "https://www.techmeme.com/260816/p8",
   "title": "Patients, families, doctors, and nurses are increasingly turning to AI tools, such as Face2Gene, to help identify rare and hard-to-diagnose diseases (Alex Janin/Wall Street Journal)"
+ },
+ "a260816p9": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+  "date": "2026-08-16",
+  "permalink_id": "a260816p9",
+  "summary": "Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models …",
+  "techmeme_url": "https://www.techmeme.com/260816/p9",
+  "title": "Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May (Bloomberg)"
  }
 }
