@@ -71,6 +71,22 @@
   "techmeme_url": "https://www.techmeme.com/260818/p17",
   "title": "Q&A with Proton CEO Andy Yen on Proton's story, dislodging \"a hundred million people\" from Google, AI backlash, privacy, US politics, EU Chat Control, and more (Andy Greenberg/Wired)"
  },
+ "a260818p18": {
+  "article_url": "https://www.reuters.com/legal/government/trump-agencies-set-crypto-policy-bill-stalls-limiting-industrys-gains-2026-08-18/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p18",
+  "summary": "As sweeping U.S. crypto legislation stalls, President Donald Trump's regulators are set to fill the void, but efforts …",
+  "techmeme_url": "https://www.techmeme.com/260818/p18",
+  "title": "As sweeping US crypto legislation stalls, the SEC and CFTC are moving to establish rules; the SEC is set to exempt certain token offerings from securities laws (Hannah Lang/Reuters)"
+ },
+ "a260818p19": {
+  "article_url": "https://www.reuters.com/legal/transactional/chip-designer-velaura-ai-valued-more-than-1-billion-after-funding-round-2026-08-18/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p19",
+  "summary": "Velaura AI was valued at more than $1 billion on Tuesday after raising $110 million in a Series A funding round …",
+  "techmeme_url": "https://www.techmeme.com/260818/p19",
+  "title": "Velaura AI, which is developing low-power chips for data centers and physical AI applications, like robotics, raised a $110M Series A at a $1B+ valuation (Prathik Jayaprakash/Reuters)"
+ },
  "a260818p2": {
   "article_url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
   "date": "2026-08-18",
@@ -78,6 +94,86 @@
   "summary": "Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.",
   "techmeme_url": "https://www.techmeme.com/260818/p2",
   "title": "Rogue Studio, which calls itself a \"playground for creative ethical mischief\", launches Rogue 1.0, an AI video tool to make adult content of Hollywood quality (Jason Parham/Wired)"
+ },
+ "a260818p20": {
+  "article_url": "https://www.nytimes.com/2026/08/18/us/politics/google-political-campaigns-email-spam.html?unlocked_article_code=1.6VA.9ECI.T-waQiU7KsnO&smid=nytcore-ios-share",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p20",
+  "summary": "Republicans previously sued Google claiming its spam filter was biased, but the case was dismissed.",
+  "techmeme_url": "https://www.techmeme.com/260818/p20",
+  "title": "Google quietly rolled out a new program to let verified political campaigns more easily bypass Gmail's spam filter, after years of complaints from the GOP (Shane Goldmacher/New York Times)"
+ },
+ "a260818p21": {
+  "article_url": "https://siliconangle.com/2026/08/17/palona-raises-20m-in-funding-to-bring-ai-automation-to-brick-and-mortar-businesses/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p21",
+  "summary": "Artificial intelligence startup Palona AI, which is building an intelligence operating layer for physical businesses, is ready to show …",
+  "techmeme_url": "https://www.techmeme.com/260818/p21",
+  "title": "Palona, which uses AI agents to automate real-time workflows in brick-and-mortar businesses, raised a $20M Series A, following a $10M seed in 2025 (Mike Wheatley/SiliconANGLE)"
+ },
+ "a260818p22": {
+  "article_url": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p22",
+  "summary": "One advertisement featured a pornographic video with a deepfake closely resembling a prominent US politician.",
+  "techmeme_url": "https://www.techmeme.com/260818/p22",
+  "title": "Meta ran ads for a nudify app; one ad showed a porn video with a deepfake closely resembling a prominent US politician; Apple removed the app from the App Store (Wired)"
+ },
+ "a260818p23": {
+  "article_url": "https://www.axios.com/pro/health-tech-deals/2026/08/18/francisco-partners-weave-communications-650m",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p23",
+  "summary": "Francisco Partners plans to take patient engagement software company Weave Communications private for approximately $650 million, the companies announced Tuesday.",
+  "techmeme_url": "https://www.techmeme.com/260818/p23",
+  "title": "Francisco Partners plans to take patient engagement software company Weave Communications private for ~$650M; Weave went public at a ~$1.5B valuation in 2021 (Brock E.W. Turner/Axios)"
+ },
+ "a260818p24": {
+  "article_url": "https://www.businessinsider.com/harvey-builds-tenet-ai-model-for-legal-work-2026-8",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p24",
+  "summary": "Harvey built an $11 billion legal-software business on top of other companies' AI models. Now it's trying to prove it can build one of its own.",
+  "techmeme_url": "https://www.techmeme.com/260818/p24",
+  "title": "Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 (Melia Robinson/Business Insider)"
+ },
+ "a260818p25": {
+  "article_url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p25",
+  "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+  "techmeme_url": "https://www.techmeme.com/260818/p25",
+  "title": "Apple unveils new EU business terms from October 1, resolving disputes with the EU, including a new 5% Core Technology Commission and App Store commission tiers (Apple)"
+ },
+ "a260818p26": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p26",
+  "summary": "Apple Inc. has agreed to a set of sweeping changes for its App Store in Europe, including dropping per-install fees …",
+  "techmeme_url": "https://www.techmeme.com/260818/p26",
+  "title": "The EU says it \"welcomes Apple's changes\"; Apple will reduce its fees in the EU, charging 26% for apps with IAP, 20% for alt payments, and 15% for link-outs (Bloomberg)"
+ },
+ "a260818p27": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p27",
+  "summary": "Anthropic PBC's revolving credit facility is set to rise above its roughly $10 billion target, according to people familiar with the matter …",
+  "techmeme_url": "https://www.techmeme.com/260818/p27",
+  "title": "Sources: Anthropic's revolving credit facility is set to surpass its ~$10B target as banks compete for roles on the upcoming IPO; Anthropic could limit the size (Bloomberg)"
+ },
+ "a260818p28": {
+  "article_url": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p28",
+  "summary": "﻿Comcast is activating free Wi-Fi motion sensing on Xfinity gateways, allowing its routers to detect movement at home.",
+  "techmeme_url": "https://www.techmeme.com/260818/p28",
+  "title": "Comcast is rolling out Wi-Fi motion sensing to its Xfinity XB7 and newer gateways, a free opt-in feature that enables its routers to detect movement at home (Jennifer Pattison Tuohy/The Verge)"
+ },
+ "a260818p29": {
+  "article_url": "https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p29",
+  "summary": "OpenAI said Tuesday that it has made several changes to its safety practices following its determination that an upcoming system …",
+  "techmeme_url": "https://www.techmeme.com/260818/p29",
+  "title": "OpenAI says it has made several changes to its safety practices following the Hugging Face breach and has paused two weeks of deployment-focused RL training (Ina Fried/Axios)"
  },
  "a260818p3": {
   "article_url": "https://www.ft.com/content/e5533f32-e4c2-4ce1-9d2e-a831e96546b4?accessToken=zwAAAaAUdX2DkdPlUz8y5MJM4dOdLqgx6WVGtA.MEYCIQDxbztAYCXai6m584Wa6YXJRvpYmzSvlZigLJmqkrq9OgIhAP5wTvJ7m7rd3VTkq8HjLcm-H2ytcgiKmGwYaSgTHCZW&sharetype=gift&token=60486c0e-78eb-4832-be88-a6638433c891&syn-25a6b1a6=1",
