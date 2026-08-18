@@ -247,6 +247,22 @@
   "techmeme_url": "https://www.techmeme.com/260817/p37",
   "title": "Sources: Situational Awareness offered part of its $5B Anthropic stake at a 20% discount as it scrambled for cash; word of its trouble left it \"being hunted\" (Wall Street Journal)"
  },
+ "a260817p38": {
+  "article_url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p38",
+  "summary": "Apple is working on camera-equipped AirPods that appear to be nearly ready to launch, based on a video MacRumors found in the macOS Tahoe 26.7 release candidate.",
+  "techmeme_url": "https://www.techmeme.com/260817/p38",
+  "title": "A video found in the macOS Tahoe 26.7 release candidate appears to show a man demoing camera-equipped AirPods using Visual Intelligence (Juli Clover/MacRumors)"
+ },
+ "a260817p39": {
+  "article_url": "https://asia.nikkei.com/spotlight/supply-chain/exclusive-google-plans-to-stop-making-pixel-products-in-china-in-2027",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p39",
+  "summary": "TAIPEI — Google has told suppliers it plans to have all of its Pixel smartphones, watches and wireless earbuds produced outside …",
+  "techmeme_url": "https://www.techmeme.com/260817/p39",
+  "title": "Sources: Google has told suppliers it plans to move all Pixel phone, smartwatch, and wireless earbud manufacturing out of China in 2027 amid US-China tensions (Lauly Li/Nikkei Asia)"
+ },
  "a260817p4": {
   "article_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
   "date": "2026-08-17",
@@ -254,6 +270,14 @@
   "summary": "Friday's big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab.",
   "techmeme_url": "https://www.techmeme.com/260817/p4",
   "title": "Qwen 3.8 27B shows a 17GB open-weight general purpose model can have long context, effective tool calling, strong vision ability, and competent code generation (Simon Willison/Simon Willison's Weblog)"
+ },
+ "a260817p40": {
+  "article_url": "https://apnews.com/article/brazil-discord-children-social-media-f7f4ee9c312cbf0b48ef94e189fddcdf",
+  "date": "2026-08-17",
+  "permalink_id": "a260817p40",
+  "summary": "Discord, the popular platform for gamers to communicate online, said on Monday it suspended its livestreams in Brazil after criticism …",
+  "techmeme_url": "https://www.techmeme.com/260817/p40",
+  "title": "Discord suspends livestreams in Brazil, after the country's data protection authority ordered it last week, saying Discord failed to protect children and teens (Associated Press)"
  },
  "a260817p5": {
   "article_url": "https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee?st=CNXFQm&reflink=desktopwebshare_permalink",
