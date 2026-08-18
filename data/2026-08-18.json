@@ -7,6 +7,70 @@
   "techmeme_url": "https://www.techmeme.com/260818/p1",
   "title": "Sources: AI-drafted bills are swamping the US House's Legislative Counsel, which now spends more time fixing them than it would spend to draft them from scratch (Owen Dahlkamp/Politico)"
  },
+ "a260818p10": {
+  "article_url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Im9tZlBZWm9hVXkiLCJwIjoiL3RlY2gvOTgxMjg5L3JlZGRpdC1haS10ZXh0LXZpZGVvLXBvc3RzIiwiZXhwIjoxNzg3NDQyOTQ3LCJpYXQiOjE3ODcwMTA5NDd9.7V79A_hM4lrOrvT8f1NkPQ_Zibuq4Ke3TqDUVklXQd8",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p10",
+  "summary": "Reddit's latest experiment creates videos with AI voices reading posts and comments out loud.",
+  "techmeme_url": "https://www.techmeme.com/260818/p10",
+  "title": "Reddit launches an early experiment to convert select text posts and comments into short videos with AI voiceovers, rolling out on the web, iOS, and Android (Jay Peters/The Verge)"
+ },
+ "a260818p11": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p11",
+  "summary": "Alibaba Group said its new small-size AI model that customers can run on their own personal computers has been downloaded …",
+  "techmeme_url": "https://www.techmeme.com/260818/p11",
+  "title": "Alibaba says its new open-source multimodal model, Qwen3.8-27B, passed 1M+ downloads within a few days of release, making it one of its fastest-growing models (Juro Osawa/The Information)"
+ },
+ "a260818p12": {
+  "article_url": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p12",
+  "summary": "The artificial intelligence start-up announced a chatbot mode that will automatically limit some conversations to better protect young users.",
+  "techmeme_url": "https://www.techmeme.com/260818/p12",
+  "title": "OpenAI launches ChatGPT for Teens, a new mode that limits high-risk chats around self-harm, eating disorders, and other topics, adds studying tools, and more (Cecilia Kang/New York Times)"
+ },
+ "a260818p13": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/xiaomi-profit-falls-after-memory-crunch-hits-smartphone-demand",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p13",
+  "summary": "Xiaomi Corp. posted profit that fell less than expected, raising hopes it can weather a persistent memory shortage that's weakened demand for smartphones.",
+  "techmeme_url": "https://www.techmeme.com/260818/p13",
+  "title": "Xiaomi reports Q2 revenue down 6.1% YoY to ~$16.2B and net income down 21% to ~$1.4B, above est., amid a persistent memory shortage and weaker smartphone demand (Bloomberg)"
+ },
+ "a260818p14": {
+  "article_url": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p14",
+  "summary": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
+  "techmeme_url": "https://www.techmeme.com/260818/p14",
+  "title": "Dutch company Fairphone launches its $650 flagship repairable Fairphone (Gen 6+) in the US and plans to keep launching new phone generations every two years (Julian Chokkattu/Wired)"
+ },
+ "a260818p15": {
+  "article_url": "https://www.reuters.com/legal/government/why-states-fought-present-united-case-against-meta-over-youth-social-media-harms-2026-08-18/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p15",
+  "summary": "As opening statements get underway in a landmark trial over claims that Meta Platforms (META.O) misled the public about the safety …",
+  "techmeme_url": "https://www.techmeme.com/260818/p15",
+  "title": "How a bipartisan coalition of US states fought to present a united case against Meta; Judge Rogers established a hybrid structure for the multi-week trial (Diana Novak Jones/Reuters)"
+ },
+ "a260818p16": {
+  "article_url": "https://www.wsj.com/business/earnings/klarna-searches-for-new-cfo-tempers-fy-outlook-ea016718?st=DNpdGb&reflink=desktopwebshare_permalink",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p16",
+  "summary": "The payments company tempered its outlook for the year, even as it swung to a profit and logged higher revenue in the second quarter",
+  "techmeme_url": "https://www.techmeme.com/260818/p16",
+  "title": "Klarna says CFO Niclas Neglén and CMO David Sandström plan to step down in early 2027, and lowers its full-year GMV guidance; KLAR falls 19%+ pre-market (Connor Hart/Wall Street Journal)"
+ },
+ "a260818p17": {
+  "article_url": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p17",
+  "summary": "Proton's CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
+  "techmeme_url": "https://www.techmeme.com/260818/p17",
+  "title": "Q&A with Proton CEO Andy Yen on Proton's story, dislodging \"a hundred million people\" from Google, AI backlash, privacy, US politics, EU Chat Control, and more (Andy Greenberg/Wired)"
+ },
  "a260818p2": {
   "article_url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
   "date": "2026-08-18",
@@ -14,5 +78,61 @@
   "summary": "Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.",
   "techmeme_url": "https://www.techmeme.com/260818/p2",
   "title": "Rogue Studio, which calls itself a \"playground for creative ethical mischief\", launches Rogue 1.0, an AI video tool to make adult content of Hollywood quality (Jason Parham/Wired)"
+ },
+ "a260818p3": {
+  "article_url": "https://www.ft.com/content/e5533f32-e4c2-4ce1-9d2e-a831e96546b4?accessToken=zwAAAaAUdX2DkdPlUz8y5MJM4dOdLqgx6WVGtA.MEYCIQDxbztAYCXai6m584Wa6YXJRvpYmzSvlZigLJmqkrq9OgIhAP5wTvJ7m7rd3VTkq8HjLcm-H2ytcgiKmGwYaSgTHCZW&sharetype=gift&token=60486c0e-78eb-4832-be88-a6638433c891&syn-25a6b1a6=1",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p3",
+  "summary": "Court rulings and new App Store rules are beginning to weigh on one of the iPhone maker's profitable growth engines",
+  "techmeme_url": "https://www.techmeme.com/260818/p3",
+  "title": "In filings, Apple acknowledges App Store regulatory changes are weighing on its $100B+ services business; US App Store spend fell 6% YoY in Q2, per Sensor Tower (Michael Acton/Financial Times)"
+ },
+ "a260818p4": {
+  "article_url": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p4",
+  "summary": "The macOS Tahoe 26.7 release candidate that Apple seeded today has references to several unreleased products, from home devices to iPhones, iPads, AirPods, and Macs.",
+  "techmeme_url": "https://www.techmeme.com/260818/p4",
+  "title": "Apple's macOS Tahoe 26.7 RC has references to unreleased products: a Home Hub, home accessories, new Beats, AirPods Pro 4, Apple Intelligence in China, and more (Juli Clover/MacRumors)"
+ },
+ "a260818p5": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/baidu-posts-fifth-straight-sales-drop-after-ai-lags-rivals",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p5",
+  "summary": "Baidu Inc.'s revenue fell for a fifth consecutive quarter, reflecting a weakening position in ads as well as AI development against rivals like Moonshot.",
+  "techmeme_url": "https://www.techmeme.com/260818/p5",
+  "title": "Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals (Bloomberg)"
+ },
+ "a260818p6": {
+  "article_url": "https://www.newscientist.com/article/2585091-planes-flying-over-the-atlantic-will-be-re-routed-to-avoid-contrails/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p6",
+  "summary": "Operation Blue Skies is the world's first trial to deploy contrail avoidance measures across an entire airspace …",
+  "techmeme_url": "https://www.techmeme.com/260818/p6",
+  "title": "Google unveils Operation Blue Skies, a £5M trial to re-route North Atlantic aircraft to reduce contrail-induced warming using Google's AI atmospheric forecasts (Madeleine Cuff/New Scientist)"
+ },
+ "a260818p7": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p7",
+  "summary": "China is pulling the plug on an older version of Microsoft Corp.'s Windows tailored for government agencies, taking another step toward rooting …",
+  "techmeme_url": "https://www.techmeme.com/260818/p7",
+  "title": "Sources: China orders some state-linked entities to uninstall a government-tailored version of Windows 10, ahead of its February 2027 retirement timeline (Bloomberg)"
+ },
+ "a260818p8": {
+  "article_url": "https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12?st=4fn3v1&reflink=desktopwebshare_permalink",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p8",
+  "summary": "Etched, founded by Harvard dropouts, has its own in-office data center and has signed quant-trading firm Jane Street as its first customer.",
+  "techmeme_url": "https://www.techmeme.com/260818/p8",
+  "title": "AI inference chip startup Etched raised $700M led by its new server rack customer Jane Street at a $21B valuation, up from $10.3B after raising $300M in July (Robbie Whelan/Wall Street Journal)"
+ },
+ "a260818p9": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/alibaba-shares-jump-5-as-alipay-launches-new-merchant-platform",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p9",
+  "summary": "Alibaba Group Holding Ltd. shares rose the most in two weeks as the launch of a new ecommerce platform boosted optimism toward …",
+  "techmeme_url": "https://www.techmeme.com/260818/p9",
+  "title": "Alibaba's Alipay launches a new \"all-in-one\" platform for businesses to use AI agents to automate tasks; Alibaba's stock jumps 5%+ and is up 40%+ since June (Jeanny Yu/Bloomberg)"
  }
 }
