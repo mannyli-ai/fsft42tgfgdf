@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/260819/p1",
   "title": "Austin-based Smack Technologies, which is developing AI decision-making tools for the US military, raised a $61M Series B led by Costanoa and First In (Mike Stone/Reuters)"
  },
+ "a260819p10": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/wisetech-raided-by-australian-antitrust-regulator-shares-plunge",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p10",
+  "summary": "WiseTech Global Ltd. said Australian antitrust authorities demanded the company hand over documents and data as part of an investigation …",
+  "techmeme_url": "https://www.techmeme.com/260819/p10",
+  "title": "WiseTech says Australian antitrust authorities raided its office, seeking documents and data as part of an alleged competition law breach probe; WTC falls 8%+ (Angus Whitley/Bloomberg)"
+ },
+ "a260819p11": {
+  "article_url": "https://www.theinformation.com/articles/google-says-ai-can-work-forward-deployed-engineers",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p11",
+  "summary": "Following the playbook Palantir pioneered, OpenAI, Anthropic, Microsoft and Amazon are investing billions of dollars to hire …",
+  "techmeme_url": "https://www.techmeme.com/260819/p11",
+  "title": "Google Cloud is deploying context-creating AI agents within its tools to automate tasks handled by forward-deployed engineers; Google is hiring hundreds of FDEs (Kevin McLaughlin/The Information)"
+ },
+ "a260819p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/kuaishou-earnings-drop-by-a-third-hit-by-ai-and-creator-costs",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p12",
+  "summary": "Kuaishou Technology earnings fell the most in five years, hit by higher revenue sharing payouts to creators while artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/260819/p12",
+  "title": "Kuaishou reports Q2 revenue flat at ~$5.2B, meeting est., net income down 36% YoY to ~$467M, the biggest drop since 2021, and Kling AI sales up 200% (Rachel Yeo/Bloomberg)"
+ },
+ "a260819p13": {
+  "article_url": "https://www.wsj.com/finance/investing/inside-the-race-to-build-americas-first-nuclear-reactor-in-a-generation-b17ea0c2?st=XARrXw&reflink=desktopwebshare_permalink",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p13",
+  "summary": "Renewed interest in atomic energy and AI mania are colliding at the Idaho National Lab — BUTTE COUNTY, Idaho …",
+  "techmeme_url": "https://www.techmeme.com/260819/p13",
+  "title": "SMR startup Oklo is currently building its reactor in Idaho, a step towards supplying Meta with power; there are an estimated 22 active US reactor projects (Jennifer Hiller/Wall Street Journal)"
+ },
+ "a260819p14": {
+  "article_url": "https://www.adweek.com/media/openai-is-taking-its-ad-business-to-31-new-european-markets/",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p14",
+  "summary": "Expansion of the AI giant's ads pilot comes as ad revenue climbs more than 25% since the start of August — The future of brands gets decided here.",
+  "techmeme_url": "https://www.techmeme.com/260819/p14",
+  "title": "OpenAI expands its ad pilot program across 31 European markets, including Germany, France, Spain, and Italy; the pilot launched in the US, the UK, and others (Trishla Ostwal/Adweek)"
+ },
+ "a260819p15": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/amazon-to-expand-drone-deliveries-to-suburban-chicago-atlanta",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p15",
+  "summary": "Amazon.com Inc. plans to expand its drone delivery operation to cities in at least five more US states in the coming months …",
+  "techmeme_url": "https://www.techmeme.com/260819/p15",
+  "title": "Amazon plans to expand Prime Air drone deliveries to cities in at least five more US states in the coming months, including suburban Chicago and Atlanta (Matt Day/Bloomberg)"
+ },
+ "a260819p16": {
+  "article_url": "https://www.ft.com/content/b36d4655-b05f-46a9-87b2-145437dbdc3b",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p16",
+  "summary": "Deal for former Pendragon software division follows rival buyout group Apax's withdrawal of offer on concerns over AI impact",
+  "techmeme_url": "https://www.techmeme.com/260819/p16",
+  "title": "UK-based automotive dealership software maker Pinewood agrees to a £545M cash takeover by US private equity firm Ridgeview, after an Apax takeover fell through (Financial Times)"
+ },
+ "a260819p17": {
+  "article_url": "https://www.wired.com/story/flock-safety-os-investigate/",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p17",
+  "summary": "Flock's surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police …",
+  "techmeme_url": "https://www.techmeme.com/260819/p17",
+  "title": "Reconstructed code from Flock's login pages shows a new AI-powered system, called OS Investigate, that integrates license plate scans, case files, and more (Wired)"
+ },
+ "a260819p18": {
+  "article_url": "https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p18",
+  "summary": "﻿The film isn't supposed to hit theaters for two days, but it's available to stream on Prime Video now.",
+  "techmeme_url": "https://www.techmeme.com/260819/p18",
+  "title": "Amazon appears to have leaked Jason Statham's new film Mutiny, streaming it in full on Prime Video in the US, two days before it was supposed to hit theaters (Jess Weatherbed/The Verge)"
+ },
+ "a260819p19": {
+  "article_url": "https://siliconangle.com/2026/08/19/prevalent-ai-raises-first-outside-capital-in-nine-years-with-22m-round/",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p19",
+  "summary": "Cybersecurity data company Prevalent AI Ltd. today said it has raised $22 million in growth funding, the first primary capital it has taken since being founded nine years ago.",
+  "techmeme_url": "https://www.techmeme.com/260819/p19",
+  "title": "Cybersecurity data company Prevalent AI raised $22M from Integrity Growth Partners, marking the nine-year-old startup's first-ever outside capital raise (Duncan Riley/SiliconANGLE)"
+ },
  "a260819p2": {
   "article_url": "https://venturebeat.com/ai/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
   "date": "2026-08-19",
@@ -14,6 +94,14 @@
   "summary": "After a stunning debut last week with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3 …",
   "techmeme_url": "https://www.techmeme.com/260819/p2",
   "title": "Z.ai prices GLM-5.3 API access at $1.40 per million input tokens and $4.40 per million output tokens, unchanged from GLM-5.2 (Carl Franzen/VentureBeat)"
+ },
+ "a260819p20": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p20",
+  "summary": "Marvell Technology Inc. and Alphabet Inc.'s Google announced an expanded chip-development partnership, including a warrant …",
+  "techmeme_url": "https://www.techmeme.com/260819/p20",
+  "title": "Marvell and Google expand their chip development deal, with Marvell granting Google a warrant to buy up to 58M+ shares at $206.58 each, totaling up to $12.2B (Dana Wollman/Bloomberg)"
  },
  "a260819p3": {
   "article_url": "https://www.ft.com/content/64ede483-c179-42fa-8fd2-f13b13cbd8ad",
@@ -38,5 +126,37 @@
   "summary": "Nvidia's massive head start in artificial intelligence turned the chipmaker into the world's most valuable company.",
   "techmeme_url": "https://www.techmeme.com/260819/p5",
   "title": "Nvidia, with quarterly free cash flow up 18x over the past three years to $48.5B, is using its balance sheet and credit rating to build an AI capital moat (Ari Levy/CNBC)"
+ },
+ "a260819p6": {
+  "article_url": "https://therecord.media/irregular-ai-hacking-model-blog",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p6",
+  "summary": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during supposedly …",
+  "techmeme_url": "https://www.techmeme.com/260819/p6",
+  "title": "AI evaluation lab Irregular's report on its role in hacking incidents involving OpenAI, Anthropic, and Meta models faces criticism over unanswered questions (Alexander Martin/The Record)"
+ },
+ "a260819p7": {
+  "article_url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339?st=RJAnb9",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p7",
+  "summary": "Tech companies are holding listening sessions, offering guaranteed jobs and writing big checks to win public support for the data centers they need.",
+  "techmeme_url": "https://www.techmeme.com/260819/p7",
+  "title": "US tech companies are offering community investments, guaranteed jobs, and hosting open houses to address concerns and win public support for AI data centers (Wall Street Journal)"
+ },
+ "a260819p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/sk-hynix-announces-28-6-billion-share-buy-back-on-ai-boom",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p8",
+  "summary": "SK Hynix Inc. unveiled plans to buy back 40 trillion won ($29 billion) of stock and return more of its profits to shareholders …",
+  "techmeme_url": "https://www.techmeme.com/260819/p8",
+  "title": "Filing: SK Hynix plans a ~$29B share buyback, repurchasing and canceling up to 24M treasury shares, in a bid to calm worries about the durability of AI spending (Denny Thomas/Bloomberg)"
+ },
+ "a260819p9": {
+  "article_url": "https://www.reuters.com/business/autos-transportation/samsung-hikes-chipmaking-prices-by-up-15-demand-spike-sources-say-2026-08-19/",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p9",
+  "summary": "Samsung Electronics (005930.KS) has raised prices for some advanced contract chipmaking services by up to 15% for new orders …",
+  "techmeme_url": "https://www.techmeme.com/260819/p9",
+  "title": "Sources: Samsung raises prices for advanced 4nm and 5nm chipmaking services by up to 15% for new orders in July, driven by AI demand and TSMC's tight capacity (Reuters)"
  }
 }
