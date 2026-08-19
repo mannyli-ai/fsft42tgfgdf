@@ -295,6 +295,38 @@
   "techmeme_url": "https://www.techmeme.com/260818/p42",
   "title": "Rillet, which is developing an AI-native accounting platform, raised a $100M Series C at a $1B valuation led by Iconiq, bringing its total funding to $200M+ (Nick Lichtenberg/Fortune)"
  },
+ "a260818p43": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-startup-temporal-in-talks-for-a-valuation-of-at-least-12-billion",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p43",
+  "summary": "Temporal Technologies Inc. is in talks for a fresh funding round that would give the AI startup a valuation of at least $12 billion …",
+  "techmeme_url": "https://www.techmeme.com/260818/p43",
+  "title": "Sources: Temporal is in talks for a fresh funding round that would give the open-source orchestration platform developer a ~$500M raise at a $12B+ valuation (Bloomberg)"
+ },
+ "a260818p44": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p44",
+  "summary": "Unitree Robotics shares rose 629% in its Shanghai trading debut after raising 6.1 billion yuan ($904 million) in an initial public offering …",
+  "techmeme_url": "https://www.techmeme.com/260818/p44",
+  "title": "Chinese humanoid robot maker Unitree's stock surged 629% in early trading in its Shanghai debut on Wednesday, after raising ~$904M in its IPO (Bloomberg)"
+ },
+ "a260818p45": {
+  "article_url": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p45",
+  "summary": "Beijing permits small shipments to help leading tech groups in drive to catch up with US rivals — Small batches of Nvidia's H200 chips …",
+  "techmeme_url": "https://www.techmeme.com/260818/p45",
+  "title": "Sources: Beijing allowed ByteDance and Tencent to each receive about 10,000 Nvidia H200 chips at their mainland China facilities in recent weeks (Zijing Wu/Financial Times)"
+ },
+ "a260818p46": {
+  "article_url": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p46",
+  "summary": "Expanded multistage chain of thought monitoring makes frontier model work more expensive — OpenAI on Tuesday said its decision …",
+  "techmeme_url": "https://www.techmeme.com/260818/p46",
+  "title": "OpenAI says new monitoring and security safeguards will add 20% compute overhead to monitored inference workloads; costs will not be passed on to customers (Thomas Claburn/The Register)"
+ },
  "a260818p5": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/baidu-posts-fifth-straight-sales-drop-after-ai-lags-rivals",
   "date": "2026-08-18",

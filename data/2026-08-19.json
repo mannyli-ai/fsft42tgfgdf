@@ -1,0 +1,42 @@
+{
+ "a260819p1": {
+  "article_url": "https://www.reuters.com/technology/pentagon-pressure-move-ai-faster-drives-smacks-new-funding-round-ceo-says-2026-08-17/",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p1",
+  "summary": "Smack Technologies, a defense-technology startup building artificial intelligence decision-making tools for the military …",
+  "techmeme_url": "https://www.techmeme.com/260819/p1",
+  "title": "Austin-based Smack Technologies, which is developing AI decision-making tools for the US military, raised a $61M Series B led by Costanoa and First In (Mike Stone/Reuters)"
+ },
+ "a260819p2": {
+  "article_url": "https://venturebeat.com/ai/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p2",
+  "summary": "After a stunning debut last week with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3 …",
+  "techmeme_url": "https://www.techmeme.com/260819/p2",
+  "title": "Z.ai prices GLM-5.3 API access at $1.40 per million input tokens and $4.40 per million output tokens, unchanged from GLM-5.2 (Carl Franzen/VentureBeat)"
+ },
+ "a260819p3": {
+  "article_url": "https://www.ft.com/content/64ede483-c179-42fa-8fd2-f13b13cbd8ad",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p3",
+  "summary": "Usage set to rise by a third this year as travellers opt for cheaper alternatives to data roaming charges",
+  "techmeme_url": "https://www.techmeme.com/260819/p3",
+  "title": "FDM CCS Insight: ~134M travel eSIMs will be used in 2026, up from 101.8M in 2025, challenging established carriers that generate 3%-5% of revenue from roaming (Kieran Smith/Financial Times)"
+ },
+ "a260819p4": {
+  "article_url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p4",
+  "summary": "Block, the technology company founded by former Twitter CEO Jack Dorsey that owns Square, Cash App and the music streaming service Tidal …",
+  "techmeme_url": "https://www.techmeme.com/260819/p4",
+  "title": "Block releases Berd, a desktop app it built to give its employees a single environment for working with AI agents across different models, under Apache 2.0 (Carl Franzen/VentureBeat)"
+ },
+ "a260819p5": {
+  "article_url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
+  "date": "2026-08-19",
+  "permalink_id": "a260819p5",
+  "summary": "Nvidia's massive head start in artificial intelligence turned the chipmaker into the world's most valuable company.",
+  "techmeme_url": "https://www.techmeme.com/260819/p5",
+  "title": "Nvidia, with quarterly free cash flow up 18x over the past three years to $48.5B, is using its balance sheet and credit rating to build an AI capital moat (Ari Levy/CNBC)"
+ }
+}
