@@ -183,6 +183,86 @@
   "techmeme_url": "https://www.techmeme.com/260818/p3",
   "title": "In filings, Apple acknowledges App Store regulatory changes are weighing on its $100B+ services business; US App Store spend fell 6% YoY in Q2, per Sensor Tower (Michael Acton/Financial Times)"
  },
+ "a260818p30": {
+  "article_url": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p30",
+  "summary": "Funding to physical AI companies is booming in 2026. — Venture investors appear to increasingly see physical AI as the next leg of the broader AI boom.",
+  "techmeme_url": "https://www.techmeme.com/260818/p30",
+  "title": "VC funding in physical AI companies totaled $47.4B across 521 deals in H1, up 80% from H1 2025, and more than the $41.9B invested from 2022 to 2024 (Mary Ann Azevedo/Crunchbase News)"
+ },
+ "a260818p31": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/sec-proposes-some-registration-exemptions-for-crypto-offerings",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p31",
+  "summary": "The Securities and Exchange Commission unveiled a proposal to exempt certain digital asset offerings from securities registration statements …",
+  "techmeme_url": "https://www.techmeme.com/260818/p31",
+  "title": "The US SEC proposes exempting certain digital asset offerings from securities registration statements, with exemptions for offerings up to $5M and $75M (Bloomberg)"
+ },
+ "a260818p32": {
+  "article_url": "https://www.theinformation.com/articles/anthropic-prepares-supervoting-power-founders-readies-mega-ipo",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p32",
+  "summary": "Anthropic has been preparing to give CEO Dario Amodei and other co-founders a class of stock with extra voting power to help insulate …",
+  "techmeme_url": "https://www.techmeme.com/260818/p32",
+  "title": "Sources: Anthropic prepares to give its co-founders shares with extra voting power to help insulate them from outside pressure; Amodei owns ~2% of Anthropic (The Information)"
+ },
+ "a260818p33": {
+  "article_url": "https://time.com/article/2026/08/18/openai-slowing-training/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p33",
+  "summary": "“I think it is a good time to slow down,” OpenAI CEO Sam Altman told me last week, describing the company's decision …",
+  "techmeme_url": "https://www.techmeme.com/260818/p33",
+  "title": "Sam Altman says OpenAI's decision to pace its AI development was caused by a collection of research observations showing \"various degrees of misalignment\" (Alex Heath/Time)"
+ },
+ "a260818p34": {
+  "article_url": "https://www.reuters.com/world/us/meta-faces-29-state-trial-that-could-reshape-instagram-facebook-2026-08-18/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p34",
+  "summary": "Meta Platforms (META.O) rejected accusations by U.S. states that it intentionally sought to addict children to its Facebook …",
+  "techmeme_url": "https://www.techmeme.com/260818/p34",
+  "title": "In opening arguments, US state AGs said Meta intentionally sought to addict children to Facebook and Instagram in pursuit of profit; Meta rejected the claims (Reuters)"
+ },
+ "a260818p35": {
+  "article_url": "https://www.nbcnews.com/politics/2028-election/gov-josh-shapiro-executive-order-data-centers-pennsylvania-rcna593177",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p35",
+  "summary": "Shapiro, a potential Democratic 2028 contender, earlier welcomed data center developments. His new executive order takes a starkly different tone toward the industry.",
+  "techmeme_url": "https://www.techmeme.com/260818/p35",
+  "title": "Pennsylvania Governor Josh Shapiro signs an executive order imposing new requirements on data center projects, including getting approval from local officials (Allan Smith/NBC News)"
+ },
+ "a260818p36": {
+  "article_url": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html?unlocked_article_code=1.6VA.Uni9.ZUhKhZ43toau&smid=url-share",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p36",
+  "summary": "The agency joins a growing number of workplaces and groups to ban Meta's devices, which have spurred privacy concerns.",
+  "techmeme_url": "https://www.techmeme.com/260818/p36",
+  "title": "Internal memo: ICE bars its employees from wearing Meta's AI glasses, saying they \"could unintentionally capture, record, or transmit sensitive information\" (New York Times)"
+ },
+ "a260818p37": {
+  "article_url": "https://x.com/artificialanlys/status/2089830890709135426",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p37",
+  "summary": "GLM-5.3 achieves 60 on the Artificial Analysis Intelligence Index, on par with Kimi K3 and up 7 points from GLM-5.2. Once the weights are released it will be tied as the leading open weights model @Zai_org has just launched GLM-5.3, which ties Kimi K3 (60) for the most",
+  "techmeme_url": "https://www.techmeme.com/260818/p37",
+  "title": "Z.ai's GLM-5.3 with max reasoning scores 60 on the Artificial Analysis Intelligence Index, on par with Kimi K3 but below Opus 5 at 63 and Fable 5 at 62 (@artificialanlys)"
+ },
+ "a260818p38": {
+  "article_url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998?st=6RaD3h&reflink=desktopwebshare_permalink",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p38",
+  "summary": "The ChatGPT-maker's revenue disappointed some investors, although the company told them its growth accelerated in the third quarter",
+  "techmeme_url": "https://www.techmeme.com/260818/p38",
+  "title": "Sources: OpenAI's Q2 revenue grew 18% QoQ to $6.7B, while its losses deepened; Anthropic's Q2 revenue more than doubled to $11.6B, with a small operating profit (Wall Street Journal)"
+ },
+ "a260818p39": {
+  "article_url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p39",
+  "summary": "Summary: In this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+  "techmeme_url": "https://www.techmeme.com/260818/p39",
+  "title": "Anthropic details two experiments showing how Claude can accelerate protein design and analytical chemistry, and says it plans an access program for scientists (Anthropic)"
+ },
  "a260818p4": {
   "article_url": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
   "date": "2026-08-18",
@@ -190,6 +270,30 @@
   "summary": "The macOS Tahoe 26.7 release candidate that Apple seeded today has references to several unreleased products, from home devices to iPhones, iPads, AirPods, and Macs.",
   "techmeme_url": "https://www.techmeme.com/260818/p4",
   "title": "Apple's macOS Tahoe 26.7 RC has references to unreleased products: a Home Hub, home accessories, new Beats, AirPods Pro 4, Apple Intelligence in China, and more (Juli Clover/MacRumors)"
+ },
+ "a260818p40": {
+  "article_url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p40",
+  "summary": "Americans have become increasingly worried about artificial intelligence over the years, and young adults' concern has continued to climb.",
+  "techmeme_url": "https://www.techmeme.com/260818/p40",
+  "title": "Survey: 52% of Americans say they are more concerned than excited about increased AI use in daily life, up from 37% in 2021, including 55% of those under 30 (Pew Research Center)"
+ },
+ "a260818p41": {
+  "article_url": "https://www.reuters.com/technology/cerebras-launches-new-server-chip-system-designed-speed-ai-chatbots-2026-08-19/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p41",
+  "summary": "Cerebras Systems (CBRS.O) announced on Tuesday a new version of its server hardware that includes its dinner-plate-sized chips that it says will speed AI chatbot queries.",
+  "techmeme_url": "https://www.techmeme.com/260818/p41",
+  "title": "Cerebras unveils CS-4, a server rack powered by three WSE-3 Turbo chips and built around its new Nexus architecture, with first shipments starting this quarter (Max A. Cherney/Reuters)"
+ },
+ "a260818p42": {
+  "article_url": "https://fortune.com/2026/08/18/rillet-unicorn-1-billion-valuation-series-c-nicolas-kopp-accounting-ai/",
+  "date": "2026-08-18",
+  "permalink_id": "a260818p42",
+  "summary": "Rillet, a two-year-old startup building what it calls the first truly AI-native accounting platform, has raised a $100 million Series C …",
+  "techmeme_url": "https://www.techmeme.com/260818/p42",
+  "title": "Rillet, which is developing an AI-native accounting platform, raised a $100M Series C at a $1B valuation led by Iconiq, bringing its total funding to $200M+ (Nick Lichtenberg/Fortune)"
  },
  "a260818p5": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/baidu-posts-fifth-straight-sales-drop-after-ai-lags-rivals",
