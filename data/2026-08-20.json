@@ -223,6 +223,46 @@
   "techmeme_url": "https://www.techmeme.com/260820/p34",
   "title": "Meta rolls out Pocket, an experimental vibe-coding app that lets users create and share small games, in the US, after launching it in Brazil last month (Sarah Perez/TechCrunch)"
  },
+ "a260820p35": {
+  "article_url": "https://www.hollywoodreporter.com/business/business-news/charter-communications-completes-cox-liberty-broadband-deal-1236677613/",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p35",
+  "summary": "“When Liberty first invested in Charter more than a decade ago, we saw an opportunity to build scale behind a great management team and operating model,\" said John Malone.",
+  "techmeme_url": "https://www.techmeme.com/260820/p35",
+  "title": "Charter closes its $34.5B Cox acquisition, announced in May 2025, uniting two of the biggest US cable and broadband providers, and completes its Liberty deal (Georg Szalai/The Hollywood Reporter)"
+ },
+ "a260820p36": {
+  "article_url": "https://www.newcomer.co/p/sources-poolside-strikes-6-billion",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p36",
+  "summary": "EXCLUSIVE TO NEWCOMER: Poolside AI, the artificial intelligence model-building startup, has struck a non-exclusive licensing deal …",
+  "techmeme_url": "https://www.techmeme.com/260820/p36",
+  "title": "Sources: Poolside struck a non-exclusive $6B licensing deal with Nvidia, plus a $1B investment at a $12B pre-money valuation; 109 staffers get Nvidia job offers (Newcomer)"
+ },
+ "a260820p37": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/08/20/twin1-ai-software-ai-agents",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p37",
+  "summary": "Twin1 AI, a startup that helps professionals create a digital twin, launched from stealth with a $20 million seed round, co-founder Lewis Liu tells Axios Pro.",
+  "techmeme_url": "https://www.techmeme.com/260820/p37",
+  "title": "San Mateo-based Twin1 AI, which creates professional digital twins that integrate with tools like Slack, launches from stealth with a $20M seed (Chris Metinko/Axios)"
+ },
+ "a260820p38": {
+  "article_url": "https://www.searchenginejournal.com/google-expands-personalization-across-search-discover-news/586528/",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p38",
+  "summary": "Google is rolling out a new embeddable Preferred Sources button, natural language Discover controls, and customizable audio briefings in the Google News app.",
+  "techmeme_url": "https://www.techmeme.com/260820/p38",
+  "title": "Google rolls out an embeddable \"Preferred Sources\" button, natural language Discover controls, and custom audio briefings in the Google News app on Android (Matt G. Southern/Search Engine Journal)"
+ },
+ "a260820p39": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-20/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p39",
+  "summary": "Broadcom Inc. is in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal …",
+  "techmeme_url": "https://www.techmeme.com/260820/p39",
+  "title": "Sources: Broadcom is in talks with a group of lenders to raise $60B+ in debt for an AI chip financing deal that will benefit Anthropic and other companies (Bloomberg)"
+ },
  "a260820p4": {
   "article_url": "https://www.ft.com/",
   "date": "2026-08-20",
@@ -230,6 +270,62 @@
   "summary": "Companies are selling machines to government-backed centres that then sell training data back to robot makers.",
   "techmeme_url": "https://www.techmeme.com/260820/p4",
   "title": "China's humanoid robot makers derive much of their revenue from government-backed training centers that sell training data back to them, raising demand concerns (William Langley/Financial Times)"
+ },
+ "a260820p40": {
+  "article_url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p40",
+  "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. — On August 17, GitHub experienced an outage that lasted 7 hours and 47 minutes.",
+  "techmeme_url": "https://www.techmeme.com/260820/p40",
+  "title": "GitHub says its 7+ hour August 17 outage was caused by a capacity failure when peak traffic overwhelmed an infrastructure component in a Central US data center (Vlad Fedorov/The GitHub Blog)"
+ },
+ "a260820p41": {
+  "article_url": "https://www.billboard.com/pro/apple-music-to-label-ai-generated-music/",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p41",
+  "summary": "The news builds on Apple's recent announcement of AI Transparency Tags for songs. Now, the service will soon make those disclosures visible to users.",
+  "techmeme_url": "https://www.techmeme.com/260820/p41",
+  "title": "Email: Apple Music tells industry partners that songs tagged as \"materially generated using AI\" by content providers will be visibly labeled on the service (Kristin Robinson/Billboard)"
+ },
+ "a260820p42": {
+  "article_url": "https://fortune.com/2026/08/20/supermicro-investigation-ceo-nvidia-smuggling/",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p42",
+  "summary": "Super Micro Computer said on Thursday that an independent investigation led by its board found no evidence that current members …",
+  "techmeme_url": "https://www.techmeme.com/260820/p42",
+  "title": "Super Micro says its independent probe found no evidence its CEO or senior management knew of an alleged scheme to smuggle $2.5B worth of Nvidia chips to China (Amanda Gerut/Fortune)"
+ },
+ "a260820p43": {
+  "article_url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p43",
+  "summary": "Well, this seems interesting. ChatGPT's latest update adds a new Mac integration: the ability to work with conversations from Apple's Messages app.",
+  "techmeme_url": "https://www.techmeme.com/260820/p43",
+  "title": "OpenAI rolls out an Apple Messages plugin for ChatGPT on macOS, letting ChatGPT read, search, and analyze chats, prepare and send messages, and more (Zac Hall/9to5Mac)"
+ },
+ "a260820p44": {
+  "article_url": "https://www.reuters.com/legal/government/ex-google-engineers-conviction-stealing-ai-secrets-partially-overturned-2026-08-20/",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p44",
+  "summary": "A federal judge on Thursday tossed part of the conviction of former Google software engineer Linwei Ding, who was found guilty earlier …",
+  "techmeme_url": "https://www.techmeme.com/260820/p44",
+  "title": "A US judge tosses part of the conviction of ex-Google engineer Linwei Ding, who was found guilty of stealing AI trade secrets to benefit two Chinese companies (Tom Hals/Reuters)"
+ },
+ "a260820p45": {
+  "article_url": "https://www.reuters.com/business/us-teen-drops-lawsuit-against-meta-google-snap-ahead-trial-2026-08-21/",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p45",
+  "summary": "A teen girl whose lawsuit was a test case in litigation accusing social media companies of deliberately addicting young people …",
+  "techmeme_url": "https://www.techmeme.com/260820/p45",
+  "title": "A NJ teenager drops her lawsuit against Meta, Google, and Snap over alleged social media addiction, without any payment; TikTok previously settled her claims (Diana Novak Jones/Reuters)"
+ },
+ "a260820p46": {
+  "article_url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+  "date": "2026-08-20",
+  "permalink_id": "a260820p46",
+  "summary": "Nevada, get ready for the robotaxis. — The Nevada Transportation Authority unanimously approved three permits Thursday that will allow Tesla …",
+  "techmeme_url": "https://www.techmeme.com/260820/p46",
+  "title": "Nevada approves permits letting Tesla deploy up to 5,000 robotaxis in the Las Vegas area over the next year, while Waymo and Uber are each allowed up to 1,000 (Kirsten Korosec/TechCrunch)"
  },
  "a260820p5": {
   "article_url": "https://www.niemanlab.org/2026/08/googles-new-ai-tool-helps-fact-checkers-investigate-ai-fakes/",
