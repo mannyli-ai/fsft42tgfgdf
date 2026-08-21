@@ -15,6 +15,70 @@
   "techmeme_url": "https://www.techmeme.com/260821/p10",
   "title": "Filings: China-based chipmaker YMTC's application to list its shares on Shanghai's STAR Market has been accepted, setting the stage for a $4.9B share sale (Reuters)"
  },
+ "a260821p11": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p11",
+  "summary": "South Korea's dominant chat app operator Kakao Corp (035720.KS) said on Friday it plans to spin off its chat app-based platform business …",
+  "techmeme_url": "https://www.techmeme.com/260821/p11",
+  "title": "Kakao plans to spin off its chat app-based platform business into a company tentatively named KakaoAI and relist it on the Korea Exchange on January 27, 2027 (Reuters)"
+ },
+ "a260821p12": {
+  "article_url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p12",
+  "summary": "Starcloud, a startup developing satellites that can perform AI inference in orbit, told TechCrunch that it has added a $250 million extension to its March $170 million Series A funding round.",
+  "techmeme_url": "https://www.techmeme.com/260821/p12",
+  "title": "Space data center startup Starcloud raised a $250M extension, at a $2.3B valuation, to its March $170M Series A; source: Nvidia invested $25M (Tim Fernholz/TechCrunch)"
+ },
+ "a260821p13": {
+  "article_url": "https://www.ft.com/content/6a068501-ec65-4061-9716-49c4124025d6",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p13",
+  "summary": "Regulator says ride-hailing group deactivated driver accounts through automated systems without adequately informing them",
+  "techmeme_url": "https://www.techmeme.com/260821/p13",
+  "title": "Uber is set to be fined €825M by the Dutch data watchdog over its use of automated systems to deactivate driver accounts, in the second largest fine under GDPR (Financial Times)"
+ },
+ "a260821p14": {
+  "article_url": "https://www.ft.com/content/65fb0ad1-e4d5-43be-9dcf-f7aba1bea3a6",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p14",
+  "summary": "New filings highlight iPhone maker's global tax liabilities — Apple paid Ireland $17bn in taxes last year …",
+  "techmeme_url": "https://www.techmeme.com/260821/p14",
+  "title": "Filings: Apple paid Ireland $17B in taxes in 2025, 40% of its $43B in global corporate income tax total, after an EU court ordered it to pay €13B in back taxes (Jamie John/Financial Times)"
+ },
+ "a260821p15": {
+  "article_url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p15",
+  "summary": "Apparently, hell has frozen over. Walmart on Friday said it will finally accept payments via both Apple Pay and Google Pay at its stores …",
+  "techmeme_url": "https://www.techmeme.com/260821/p15",
+  "title": "Walmart, which has long resisted contactless Tap to Pay payments, says its stores will get the tech, which supports Apple Pay and Google Pay, by the end of 2026 (Sarah Perez/TechCrunch)"
+ },
+ "a260821p16": {
+  "article_url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p16",
+  "summary": "A Department of Energy lab is investigating whether Chinese lidar sensors might pose a security risk if they become widely used …",
+  "techmeme_url": "https://www.techmeme.com/260821/p16",
+  "title": "Sources: the US Department of Energy is investigating whether Chinese lidar sensors might pose a security risk if they become widely used on vehicles in the US (Sean O'Kane/TechCrunch)"
+ },
+ "a260821p17": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/ai-cloud-firm-nscale-is-said-to-seek-up-to-3-billion-in-us-ipo",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p17",
+  "summary": "Nscale is seeking to raise as much as $3 billion in its US IPO, according to people familiar with the matter, joining a rush …",
+  "techmeme_url": "https://www.techmeme.com/260821/p17",
+  "title": "Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September (Bailey Lipschultz/Bloomberg)"
+ },
+ "a260821p18": {
+  "article_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p18",
+  "summary": "No items found. — Reading time — min — https://claude.com/blog/bringing- claude-mythos-5-to-more-defenders",
+  "techmeme_url": "https://www.techmeme.com/260821/p18",
+  "title": "Anthropic says Mythos 5 is now in public beta in Claude Security for Enterprise users, and it is working with providers to embed Mythos 5 in defensive tools (Claude)"
+ },
  "a260821p2": {
   "article_url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
   "date": "2026-08-21",
