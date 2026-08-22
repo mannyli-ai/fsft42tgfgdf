@@ -79,6 +79,14 @@
   "techmeme_url": "https://www.techmeme.com/260821/p18",
   "title": "Anthropic says Mythos 5 is now in public beta in Claude Security for Enterprise users, and it is working with providers to embed Mythos 5 in defensive tools (Claude)"
  },
+ "a260821p19": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzMzODY2MSwiZXhwIjoxNzg3OTQzNDYxLCJhcnRpY2xlSWQiOiJUSzROTENSS1YyVzAwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.ohN1U8Z8cP-hZz4AxobhyjvzgO2X1-Fp16j4LQHlAL8",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p19",
+  "summary": "Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vision Pro headset …",
+  "techmeme_url": "https://www.techmeme.com/260821/p19",
+  "title": "Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI (Mark Gurman/Bloomberg)"
+ },
  "a260821p2": {
   "article_url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
   "date": "2026-08-21",
@@ -87,6 +95,86 @@
   "techmeme_url": "https://www.techmeme.com/260821/p2",
   "title": "How the memory boom is reshaping Micron's hometown of Boise, Idaho, with new millionaires, job growth, rising housing costs, and uneven wealth distribution (CNBC)"
  },
+ "a260821p20": {
+  "article_url": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p20",
+  "summary": "The Justice Department and TikTok, along with parent company ByteDance, have reached a $400 million settlement to resolve allegations of violating children's online privacy laws …",
+  "techmeme_url": "https://www.techmeme.com/260821/p20",
+  "title": "The US DOJ and TikTok reach a $400M settlement to resolve allegations TikTok violated COPPA; the DOJ filed the lawsuit in 2024 (Ashley Gold/Axios)"
+ },
+ "a260821p21": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p21",
+  "summary": "Kaylin Voss, OpenAI's vice president of sales in the Americas, has resigned a week after her former boss, Denise Dresser …",
+  "techmeme_url": "https://www.techmeme.com/260821/p21",
+  "title": "OpenAI's VP of sales in the Americas, Kaylin Voss, has resigned a week after Denise Dresser left, and is returning to Salesforce, where she was Slack's CRO (Laura Bratton/The Information)"
+ },
+ "a260821p22": {
+  "article_url": "https://omarchy.org/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p22",
+  "summary": "It's time to dream big. Omarchy Quattro has given people a chance to experience what the malleable computer of the future looks like, and they like it (a lot!).",
+  "techmeme_url": "https://www.techmeme.com/260821/p22",
+  "title": "DHH launches Omacom Foundation, a non-profit supporting his Omarchy Linux distro, with $8M in funding from Michael Dell, Jack Dorsey, Patrick Collison, others (Omarchy News)"
+ },
+ "a260821p23": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p23",
+  "summary": "Anthropic PBC has hired Amir Salek, a founder of the custom chip program at Alphabet Inc.'s Google, as the AI lab lays the groundwork for a push into making its own semiconductors.",
+  "techmeme_url": "https://www.techmeme.com/260821/p23",
+  "title": "Anthropic hires Amir Salek, who ran Google's TPU business until 2022, to join its compute team as part of a push to develop its own chips (Dina Bass/Bloomberg)"
+ },
+ "a260821p24": {
+  "article_url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p24",
+  "summary": "The research project elevates Claude Opus 5 from a 30% model baseline to 100% as part of the complete AVO agent system, showing that system design …",
+  "techmeme_url": "https://www.techmeme.com/260821/p24",
+  "title": "Nvidia says its general-purpose coding agent system AVO scored 100% across all 25 environments in the ARC-AGI-3 public set, completing all 183 levels (Terry Chen/NVIDIA Technical Blog)"
+ },
+ "a260821p25": {
+  "article_url": "https://www.businessinsider.com/healthcare-startup-devoted-health-could-be-valued-at-25-billion-2026-8",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p25",
+  "summary": "Devoted Health is the latest startup to show that combining health and AI commands a premium valuation.",
+  "techmeme_url": "https://www.techmeme.com/260821/p25",
+  "title": "Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation (Katie Roof/Business Insider)"
+ },
+ "a260821p26": {
+  "article_url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p26",
+  "summary": "OpenAI said on Friday it is cutting the prices of its frontier GPT-5.6 Sol model for developers by more than 20% for the next three months …",
+  "techmeme_url": "https://www.techmeme.com/260821/p26",
+  "title": "OpenAI cuts GPT-5.6 Sol's API and credit prices by over 20% for the next three months, to $4/1M input tokens and $20/1M output tokens (Anzar Mehraj/Reuters)"
+ },
+ "a260821p27": {
+  "article_url": "https://www.reuters.com/technology/nvidia-invests-data-center-developer-cloverleaf-infrastructure-2026-08-21/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p27",
+  "summary": "Nvidia (NVDA.O) has made a minority investment in privately held Cloverleaf Infrastructure to develop infrastructure to power AI data center projects across …",
+  "techmeme_url": "https://www.techmeme.com/260821/p27",
+  "title": "Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites (Rashika Singh/Reuters)"
+ },
+ "a260821p28": {
+  "article_url": "https://9to5mac.com/2026/08/21/apple-lays-off-200-people-across-vision-pro-and-siri-teams/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p28",
+  "summary": "Apple is cutting jobs across multiple teams, according to a new Bloomberg report. All told, the company has cut …",
+  "techmeme_url": "https://www.techmeme.com/260821/p28",
+  "title": "Gurman: as part of Vision Pro cuts, Apple is largely shutting down a team focused on gaming and reducing the size of a unit producing immersive video content (Chance Miller/9to5Mac)"
+ },
+ "a260821p29": {
+  "article_url": "https://www.politico.com/news/2026/08/21/openai-calls-for-stronger-ai-laws-in-california-01046512",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p29",
+  "summary": "SAN FRANCISCO — OpenAI urged its home state of California on Friday to “strengthen” its landmark AI law following recent autonomous hacks …",
+  "techmeme_url": "https://www.techmeme.com/260821/p29",
+  "title": "OpenAI says California should amend SB 53 to expand safeguards, including requiring monitoring of frontier models under training, following AI agent hacks (Chase DiFeliciantonio/Politico)"
+ },
  "a260821p3": {
   "article_url": "https://www.scmp.com/tech/big-tech/article/3364781/china-clears-geely-landmark-satellite-iot-test-spur-commercial-space-sector",
   "date": "2026-08-21",
@@ -94,6 +182,30 @@
   "summary": "Geespace secures a two-year satellite IoT trial from MIIT, the first approval for a private Chinese firm",
   "techmeme_url": "https://www.techmeme.com/260821/p3",
   "title": "China grants Geely a two-year permit for the country's first private satellite IoT trial, letting Geely offer connectivity to sectors like transport and energy (Ben Jiang/South China Morning Post)"
+ },
+ "a260821p30": {
+  "article_url": "https://betakit.com/helcim-raises-53-million-amid-shakeup-in-canadian-payments/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p30",
+  "summary": "Calgary company reaches $250-million valuation, hopes to grow after Moneris sells to US private equity.",
+  "techmeme_url": "https://www.techmeme.com/260821/p30",
+  "title": "Helcim, a payments processor for SMBs, raised a CA$53M Series C led by Business Development Bank of Canada's Growth Venture Fund at a CA$250M valuation (Madison McLauchlan/BetaKit)"
+ },
+ "a260821p31": {
+  "article_url": "https://fortune.com/2026/08/21/exclusive-amazon-quietly-hiked-prices-echo-fire-tv-kindle-eero-significant-increases-memory-costs/",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p31",
+  "summary": "Amazon has raised prices for several of its first-party devices, including its Echo smart speakers and Fire TV line …",
+  "techmeme_url": "https://www.techmeme.com/260821/p31",
+  "title": "Amazon raises prices for its Echo smart speakers, Fire TV line, Kindle devices, and eero mesh networking systems to offset increases in memory and storage costs (Sebastian Herrera/Fortune)"
+ },
+ "a260821p32": {
+  "article_url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html?unlocked_article_code=1.7VA.MV6-.qU64iVlZqRdu&smid=url-share",
+  "date": "2026-08-21",
+  "permalink_id": "a260821p32",
+  "summary": "The offering could value the five-year-old A.I. start-up at $2 trillion, its bankers have told potential investors, which would exceed Elon Musk's SpaceX.",
+  "techmeme_url": "https://www.techmeme.com/260821/p32",
+  "title": "Sources: Anthropic's bankers said the company could raise $100B+ in its IPO, which could value it at $2T, in recent discussions with potential investors (New York Times)"
  },
  "a260821p4": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal",
