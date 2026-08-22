@@ -7,6 +7,14 @@
   "techmeme_url": "https://www.techmeme.com/260822/p1",
   "title": "Following abandoned IPO attempts in NYC and London, Shein is struggling to grow as it nears a Hong Kong listing at a fraction of its peak valuation of $100B (Sui-Lee Wee/New York Times)"
  },
+ "a260822p10": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/zalando-zara-use-ai-virtual-try-ons-to-tackle-clothing-returns",
+  "date": "2026-08-22",
+  "permalink_id": "a260822p10",
+  "summary": "Buying clothes online can leave shoppers frustrated and retailers drowning in returned goods. Now brands hope that AI-powered tools will deliver the perfect fit.",
+  "techmeme_url": "https://www.techmeme.com/260822/p10",
+  "title": "Apparel retailers like Zalando, Zara, and ASOS are betting on AI virtual fitting rooms to create a better online shopping experience and cut costly returns (Sonja Wind/Bloomberg)"
+ },
  "a260822p2": {
   "article_url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
   "date": "2026-08-22",
@@ -38,5 +46,37 @@
   "summary": "Beijing policymakers have made robotics a ‘strategic priority’ — At the World Robot Conference in Beijing this week …",
   "techmeme_url": "https://www.techmeme.com/260822/p5",
   "title": "Inside the World Robot Conference in Beijing, drawing over 300 exhibitors; Unitree founder Wang Xingxing said the industry's \"ChatGPT moment\" has yet to come (Financial Times)"
+ },
+ "a260822p6": {
+  "article_url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+  "date": "2026-08-22",
+  "permalink_id": "a260822p6",
+  "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+  "techmeme_url": "https://www.techmeme.com/260822/p6",
+  "title": "Cheap energy, abundant land, and proximity to Beijing have made Ulanqab, Inner Mongolia, a data center hub, with ~100 data centers built or under construction (Zeyi Yang/Wired)"
+ },
+ "a260822p7": {
+  "article_url": "https://wccftech.com/a-mysterious-ai-lab-is-offering-100-trillion-free-tokens-day-for-its-ox-alpha-model-as-evidence-points-to-zhipus-unreleased-glm/",
+  "date": "2026-08-22",
+  "permalink_id": "a260822p7",
+  "summary": "When an unknown AI lab drops an anonymous model - Ox Alpha - for free, while declaring that they have the capacity …",
+  "techmeme_url": "https://www.techmeme.com/260822/p7",
+  "title": "Ox Alpha, a \"stealth model\" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)"
+ },
+ "a260822p8": {
+  "article_url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzM3MzM3OSwiZXhwIjoxNzg3OTc4MTc5LCJhcnRpY2xlSWQiOiJUSzFCTzFLR1pBSVowMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.fkDLdJ6qkTKX0FAK_sbPEYQcSfeBcZcdbIQkeVOkzMM",
+  "date": "2026-08-22",
+  "permalink_id": "a260822p8",
+  "summary": "A spate of compelling releases at budget prices have made China the frontrunner in the race for global adoption.",
+  "techmeme_url": "https://www.techmeme.com/260822/p8",
+  "title": "A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses (Bloomberg)"
+ },
+ "a260822p9": {
+  "article_url": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html?unlocked_article_code=1.7VA.5e54.GDSmjwFMUqzc&smid=url-share",
+  "date": "2026-08-22",
+  "permalink_id": "a260822p9",
+  "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life.",
+  "techmeme_url": "https://www.techmeme.com/260822/p9",
+  "title": "Carrier Pidge hit 75K users and Roost 650K downloads, as slow messaging apps delivering texts at pigeon speeds attract users tired of constant notifications (Emmett Lindner/New York Times)"
  }
 }
