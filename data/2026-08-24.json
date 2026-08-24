@@ -7,6 +7,54 @@
   "techmeme_url": "https://www.techmeme.com/260824/p1",
   "title": "Source: AI researcher Luke Metz, who returned to OpenAI from TML earlier this year, joins Meta's Superintelligence Labs and will report to Alexandr Wang (Ina Fried/Axios)"
  },
+ "a260824p10": {
+  "article_url": "https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html?unlocked_article_code=1.71A.rqa5.BfRxch_4yB_h&smid=nytcore-ios-share",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p10",
+  "summary": "An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
+  "techmeme_url": "https://www.techmeme.com/260824/p10",
+  "title": "Ukrainian officials say an AI-guided, fully autonomous Russian drone killed three Ukrainians in a strike on a gas station in the city of Zaporizhzhia (New York Times)"
+ },
+ "a260824p11": {
+  "article_url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html?unlocked_article_code=1.71A.Vd9b.Lf7154ut_Lwy&smid=url-share",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p11",
+  "summary": "The young woman ran for her life, but it was too late. A small Russian drone resembling a model airplane swooped down from the sky …",
+  "techmeme_url": "https://www.techmeme.com/260824/p11",
+  "title": "Ukraine says Russia used an Nvidia Jetson Orin computing module in its autonomous AI-guided drones; Nvidia says they are widely available on resale markets (Andrew E. Kramer/New York Times)"
+ },
+ "a260824p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tencent",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p12",
+  "summary": "ByteDance Ltd. is consolidating the resources behind two of its artificial intelligence developer products to bolster China's …",
+  "techmeme_url": "https://www.techmeme.com/260824/p12",
+  "title": "Sources: ByteDance is merging coding platform Trae and agent-building tool Coze into Doubao, and plans to launch Doubao Work to compete with Tencent's WorkBuddy (Bloomberg)"
+ },
+ "a260824p13": {
+  "article_url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p13",
+  "summary": "Stablecoin-focused digital bank Fasset said Monday it has raised $68 million in a funding round led by Japan's SBI Group …",
+  "techmeme_url": "https://www.techmeme.com/260824/p13",
+  "title": "Fasset, which offers stablecoin-powered banking services across Asia and other emerging markets, raised $68M at a $1B valuation, after raising $51M in May (Krisztian Sandor/CoinDesk)"
+ },
+ "a260824p14": {
+  "article_url": "https://www.ft.com/content/d8279eab-023e-4403-8f0f-b0b64393dcbb?accessToken=zwAAAaAwOfykkdPYJ56rAj5EA9OPD7C2Q5Pcuw.MEUCIGNoUOFwljxnFaNPq_k1emHkmOhu3qcoR2LSfVs7khicAiEAsqubc_1hfgHuPIy7ZBPUJ81CjC604iyMunWsrta2oaQ&sharetype=gift&token=6eb6e0df-2345-420f-bab7-6653b920f922&syn-25a6b1a6=1",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p14",
+  "summary": "Banned by law since 1999, Dublin reconsiders atomic energy — Rising electricity consumption by Ireland's insatiable data centres …",
+  "techmeme_url": "https://www.techmeme.com/260824/p14",
+  "title": "Irish lawmakers reconsider the country's 1999 ban on nuclear power as data centers' growing power demands account for ~25% of the country's electricity use (Jude Webber/Financial Times)"
+ },
+ "a260824p15": {
+  "article_url": "https://www.nytimes.com/2026/08/24/business/media/amazon-youtube-netflix-streaming-platform.html",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p15",
+  "summary": "For years, Amazon has persuaded tens of millions of people to use its Prime Video app to subscribe to other services …",
+  "techmeme_url": "https://www.techmeme.com/260824/p15",
+  "title": "Sources: Netflix discussed adding streamers like Peacock and Fox One as it seeks to compete with YouTube and Roku in becoming a one-stop shop for TV content (John Koblin/New York Times)"
+ },
  "a260824p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/new-zealand-plans-social-media-ban-for-under-16s",
   "date": "2026-08-24",
@@ -22,5 +70,53 @@
   "summary": "The bloc struggles to keep up with US spending on high-tech equipment and facilities",
   "techmeme_url": "https://www.techmeme.com/260824/p3",
   "title": "Oxford Economics: US corporate spending on equipment and facilities is set to rise 40% between 2021 and 2027, over 3x faster than Europe, driven by the AI race (Financial Times)"
+ },
+ "a260824p4": {
+  "article_url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html?unlocked_article_code=1.7lA.FvlF.5opWX3zbC7Wr&smid=url-share",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p4",
+  "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn't shaken off its reputation as a magnet for criminals.",
+  "techmeme_url": "https://www.techmeme.com/260824/p4",
+  "title": "A look at the collapse of Zondacrypto, Eastern and Central Europe's biggest crypto exchange, which went dark in April and is facing money laundering allegations (Andrew Higgins/New York Times)"
+ },
+ "a260824p5": {
+  "article_url": "https://www.bloomberg.com/opinion/articles/2026-08-23/central-bank-digital-currencies-are-no-match-for-dollar-stablecoins",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p5",
+  "summary": "Cryptocurrencies emerged in part as a protest against central banks flooding the global economy with money during the financial crisis 18 years ago.",
+  "techmeme_url": "https://www.techmeme.com/260824/p5",
+  "title": "Global central banks are pushing CBDCs to defend monetary sovereignty against USD stablecoins, but are struggling to find demand for the digital currencies (Jonathan Levin/Bloomberg)"
+ },
+ "a260824p6": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/how-executives-are-training-to-become-chief-ai-officers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzI5MjUxMSwiZXhwIjoxNzg3ODk3MzExLCJhcnRpY2xlSWQiOiJUSzNWQzFOM04wOVYwMCIsImJjb25uZWN0SWQiOiIwQUFENjIyQkZCODY0MjkwOTk5RkVENzQyNUJDMTI3QiJ9.79558osrv_Mt9BbDtek10VvklRGpC-I83jF2b7hzLKc",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p6",
+  "summary": "Business schools are racing to prepare executives for the newest C-suite role, even as companies are still figuring out what the job entails.",
+  "techmeme_url": "https://www.techmeme.com/260824/p6",
+  "title": "US business schools are racing to prepare students to become chief AI officers, even as companies are still figuring out what the newest C-suite role entails (Rthvika Suvarna/Bloomberg)"
+ },
+ "a260824p7": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24/",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p7",
+  "summary": "Alibaba (9988.HK) officially rolled out its latest AI video generation-model Wan3. on Monday with enhanced capabilities after the Chinese internet giant launched …",
+  "techmeme_url": "https://www.techmeme.com/260824/p7",
+  "title": "Alibaba launches Wan3.0, a video generation model that can generate 30-second videos from documents, spreadsheets, slides, and web pages (Reuters)"
+ },
+ "a260824p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/xiaomi-develops-its-own-ai-mobile-chip-in-challenge-to-qualcomm",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p8",
+  "summary": "Xiaomi Corp. launched a mobile processor for its marquee devices, putting pressure on Qualcomm Inc. and MediaTek Inc., which for years supplied the key component to the Chinese company.",
+  "techmeme_url": "https://www.techmeme.com/260824/p8",
+  "title": "Xiaomi launches the Xring O3, a 3nm SoC for its mobile devices, as the company seeks to reduce reliance on longtime suppliers Qualcomm and MediaTek (Gao Yuan/Bloomberg)"
+ },
+ "a260824p9": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/",
+  "date": "2026-08-24",
+  "permalink_id": "a260824p9",
+  "summary": "China's Xpeng said on Monday its robotics business raised over $900 million in its first funding round, led by IDG and Gaorong Ventures …",
+  "techmeme_url": "https://www.techmeme.com/260824/p9",
+  "title": "Chinese EV maker XPeng says its robotics business raised $900M+ led by IDG and Gaorong Ventures at a $6.3B valuation, with Tencent and Alibaba participating (Reuters)"
  }
 }
