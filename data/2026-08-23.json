@@ -7,6 +7,38 @@
   "techmeme_url": "https://www.techmeme.com/260823/p1",
   "title": "Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses (Financial Times)"
  },
+ "a260823p10": {
+  "article_url": "https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash",
+  "date": "2026-08-23",
+  "permalink_id": "a260823p10",
+  "summary": "Texas Gov. Greg Abbott delivered one of the starkest warnings yet from a Republican to the AI industry …",
+  "techmeme_url": "https://www.techmeme.com/260823/p10",
+  "title": "Greg Abbott says data center companies \"dug their own grave\" by moving into communities without first gaining support, signaling growing Republican backlash (Axios)"
+ },
+ "a260823p11": {
+  "article_url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+  "date": "2026-08-23",
+  "permalink_id": "a260823p11",
+  "summary": "OpenAI CEO Sam Altman says he worries that AI will one day be controlled by a handful of companies, models, or people …",
+  "techmeme_url": "https://www.techmeme.com/260823/p11",
+  "title": "Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade \"a lot of liberty for safety\" (Truman Dickerson/Business Insider)"
+ },
+ "a260823p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-23/shein-seeks-up-to-1-8-billion-in-long-awaited-hong-kong-ipo",
+  "date": "2026-08-23",
+  "permalink_id": "a260823p12",
+  "summary": "Shein Global Holdings Ltd. is seeking to raise as much as $13.9 billion ($1.8 billion) in its Hong Kong initial public offering …",
+  "techmeme_url": "https://www.techmeme.com/260823/p12",
+  "title": "Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors (Julia Fioretti/Bloomberg)"
+ },
+ "a260823p13": {
+  "article_url": "https://www.axios.com/2026/08/23/trump-data-centers-michael-cohen-interview",
+  "date": "2026-08-23",
+  "permalink_id": "a260823p13",
+  "summary": "President Trump defended the expansion of data centers in an interview with his former fixer, Michael Cohen, that aired in full on Sunday.",
+  "techmeme_url": "https://www.techmeme.com/260823/p13",
+  "title": "Trump says communities that oppose data centers are \"making a mistake\" as they create \"tremendous amounts of jobs and money\", amid bipartisan backlash (Rebecca Falconer/Axios)"
+ },
  "a260823p2": {
   "article_url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
   "date": "2026-08-23",
@@ -62,5 +94,13 @@
   "summary": "AI lab's Fable 5 has met with sluggish demand from corporate clients — Anthropic's US customers are using cheaper alternatives …",
   "techmeme_url": "https://www.techmeme.com/260823/p8",
   "title": "Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 (George Hammond/Financial Times)"
+ },
+ "a260823p9": {
+  "article_url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+  "date": "2026-08-23",
+  "permalink_id": "a260823p9",
+  "summary": "The AI industry's next blockbuster acquisition may not be another model maker. — Hugging Face, whose platform helps developers discover …",
+  "techmeme_url": "https://www.techmeme.com/260823/p9",
+  "title": "Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders' interest (Katie Roof/Business Insider)"
  }
 }
