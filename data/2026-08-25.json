@@ -103,6 +103,46 @@
   "techmeme_url": "https://www.techmeme.com/260825/p20",
   "title": "Apple unveils M6, a 2nm chip with a 12-core CPU and GPU, and up to 32GB of unified memory, saying it provides \"the world's fastest single-threaded performance\" (Jay Peters/The Verge)"
  },
+ "a260825p25": {
+  "article_url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p25",
+  "summary": "Gatik, the autonomous vehicle startup known for its self-driving box trucks, has raised $200 million just two months after striking …",
+  "techmeme_url": "https://www.techmeme.com/260825/p25",
+  "title": "Autonomous trucking startup Gatik raised $200M, two months after striking a multi-year commercial agreement with PepsiCo, bringing its total funding to ~$500M (Kirsten Korosec/TechCrunch)"
+ },
+ "a260825p26": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/waymo-expands-driverless-rides-to-eu-with-germany-debut-in-2027",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p26",
+  "summary": "Waymo is planning to offer driverless ride-hailing services in Germany by the end of next year, marking its third planned international market …",
+  "techmeme_url": "https://www.techmeme.com/260825/p26",
+  "title": "Waymo plans to offer ride-hailing services in Germany, starting with Munich, by the end of 2027, marking its third international market and the first in the EU (Natalie Lung/Bloomberg)"
+ },
+ "a260825p27": {
+  "article_url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p27",
+  "summary": "Perplexity is launching Portable Computer today, a version of its agentic “Computer” platform that runs entirely …",
+  "techmeme_url": "https://www.techmeme.com/260825/p27",
+  "title": "Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs (Michael Nuñez/VentureBeat)"
+ },
+ "a260825p28": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/ai-safety-startup-alice-partner-of-google-anthropic-raises-140-million",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p28",
+  "summary": "An Israeli startup that works to protect artificial intelligence models from misuse and rogue behavior has raised $140 million …",
+  "techmeme_url": "https://www.techmeme.com/260825/p28",
+  "title": "Tel Aviv- and NYC-based Alice, which works to protect AI models from misuse and rogue behavior, raised $140M led by Apax Digital at a valuation \"close to $1B\" (Marissa Newman/Bloomberg)"
+ },
+ "a260825p29": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p29",
+  "summary": "Mexican startup Primero launched publicly on Tuesday with a $12 million seed round co-led by Kaszek and General Catalyst …",
+  "techmeme_url": "https://www.techmeme.com/260825/p29",
+  "title": "Mexico-based Primero, which aims to modernize legacy software used by Latin American companies with AI, raised a $12M seed co-led by Kaszek and General Catalyst (Kylie Madry/Reuters)"
+ },
  "a260825p3": {
   "article_url": "https://www.abc.net.au/news/2026-08-25/ai-generated-music-to-be-banned-from-aria-charts/107072642",
   "date": "2026-08-25",
@@ -110,6 +150,86 @@
   "summary": "In short: — Australia's main music charts have announced a ban on AI-generated music to start this week.",
   "techmeme_url": "https://www.techmeme.com/260825/p3",
   "title": "Australia's ARIA says songs created mostly or entirely by AI will be excluded from its charts; a song that used AI became the most-played song on radio in July (Cam Wilson/ABC)"
+ },
+ "a260825p30": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/uber-to-offer-optional-livestreams-of-teen-rides-to-parents-and-guardians",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p30",
+  "summary": "Uber Technologies Inc. is rolling out a new safety feature that lets parents or guardians view a video livestream of their teenager's ride.",
+  "techmeme_url": "https://www.techmeme.com/260825/p30",
+  "title": "Uber launches an optional safety feature allowing parents or guardians to watch a livestream of their teen's ride via the driver's front-facing phone camera (Natalie Lung/Bloomberg)"
+ },
+ "a260825p31": {
+  "article_url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p31",
+  "summary": "OpenAI's self-designed ASIC compared with Rubin, Jalapeño's TCO, throughput per MW, and spicy deets",
+  "techmeme_url": "https://www.techmeme.com/260825/p31",
+  "title": "A detailed look at Jalapeño, OpenAI's ASIC developed with Broadcom in 16 months, which beat Nvidia, AMD, and Google chips on multiple top open-weight models (SemiAnalysis)"
+ },
+ "a260825p32": {
+  "article_url": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p32",
+  "summary": "As AI models become more efficient, more devices can become autonomous, but developers need compact, energy-efficient computers built for edge AI …",
+  "techmeme_url": "https://www.techmeme.com/260825/p32",
+  "title": "Nvidia unveils the Jetson Orin Nano 2 edge AI computer that it says doubles inference performance, with 78 TOPS of AI compute and an eight-core Arm CPU (Eugene Demaitre/The Robot Report)"
+ },
+ "a260825p33": {
+  "article_url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea?st=exsTKj&reflink=desktopwebshare_permalink",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p33",
+  "summary": "The AI startup is likely to top SpaceX's eye-popping potential revenue estimate — SpaceX's record-breaking IPO tested the limits of an obscure financial metric.",
+  "techmeme_url": "https://www.techmeme.com/260825/p33",
+  "title": "Sources: Anthropic is likely to tell IPO investors that its potential revenue opportunities are above $30T, topping SpaceX's $28.5T; Uber predicted $6T in 2019 (Corrie Driebusch/Wall Street Journal)"
+ },
+ "a260825p34": {
+  "article_url": "https://variety.com/2026/biz/news/stability-ai-raises-76-million-funding-round-1236842351/",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p34",
+  "summary": "Stability AI, the AI startup backed by the likes of James Cameron and Sean Parker, has raised $76 million in a Series B funding round from a roster …",
+  "techmeme_url": "https://www.techmeme.com/260825/p34",
+  "title": "Stability AI, which has deals with UMG, WMG, and EA to build AI models from their IP, raised a $76M Series B from them, Sony Music, and others (Corbin Bolies/Variety)"
+ },
+ "a260825p35": {
+  "article_url": "https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html?unlocked_article_code=1.8FA.tvLi.iHWhdk68TPlM&smid=url-share",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p35",
+  "summary": "Under the proposal, states would no longer need to provide public notice or solicit comments on air pollution permits for data centers and other projects.",
+  "techmeme_url": "https://www.techmeme.com/260825/p35",
+  "title": "The EPA plans to eliminate a federal rule that US states must publicize and solicit public input on air pollution permit applications for data centers (Maxine Joselow/New York Times)"
+ },
+ "a260825p36": {
+  "article_url": "https://www.zdnet.com/article/anthropic-claude-and-cowork-share-memories-now-unless-you-opt-out/",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p36",
+  "summary": "ZDNET's key takeaways — Claude chat and Cowork now share one memory system. — Memory updates as you chat, with sensitive-data controls.",
+  "techmeme_url": "https://www.techmeme.com/260825/p36",
+  "title": "Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out (David Gewirtz/ZDNET)"
+ },
+ "a260825p37": {
+  "article_url": "https://variety.com/2026/digital/news/onlyfans-millionaires-creators-earned-more-than-1-million-1236842444/",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p37",
+  "summary": "A sizable bunch of top OnlyFans creators have taken home seven-figure checks from the fan-monetization site.",
+  "techmeme_url": "https://www.techmeme.com/260825/p37",
+  "title": "UK filing: in FY 2025, OnlyFans paid out $6.3B to creators, net revenue rose 10% YoY to $1.55B, and creator accounts hit 5M; 5,076 creators made $1M+ since 2016 (Todd Spangler/Variety)"
+ },
+ "a260825p38": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/ex-meta-staffer-says-99-of-teens-shunned-early-safety-tool",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p38",
+  "summary": "A former data scientist at Meta Platforms Inc. testified that less than 1% of teenagers were early adopters …",
+  "techmeme_url": "https://www.techmeme.com/260825/p38",
+  "title": "An ex-Meta staffer testified that less than 1% of teens used Instagram's opt-in \"Take a Break\" tool when it launched; the feature is now on by default for teens (Madlin Mekelburg/Bloomberg)"
+ },
+ "a260825p39": {
+  "article_url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p39",
+  "summary": "Search engines were built and optimized for people, who can't spare the time or attention required to scan entire webpages.",
+  "techmeme_url": "https://www.techmeme.com/260825/p39",
+  "title": "Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel (Anna Heim/TechCrunch)"
  },
  "a260825p6": {
   "article_url": "https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html?unlocked_article_code=1.7lA.B5FD.bP9xiKg4sJcA&smid=nytcore-ios-share",
