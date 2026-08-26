@@ -231,6 +231,70 @@
   "techmeme_url": "https://www.techmeme.com/260825/p39",
   "title": "Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel (Anna Heim/TechCrunch)"
  },
+ "a260825p40": {
+  "article_url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83?st=r8H2rW",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p40",
+  "summary": "Chris Malone joins a string of recent high-level executive departures as the AI giant heads toward an IPO and ramps up its spending on computing power",
+  "techmeme_url": "https://www.techmeme.com/260825/p40",
+  "title": "Chris Malone, who joined OpenAI as head of data centers in March 2025, has left the company amid a broader exodus (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a260825p41": {
+  "article_url": "https://www.skild.ai/blogs/s1",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p41",
+  "summary": "UNSEEN TASKS10-MINUTE HORIZONSONE VIDEO PROMPTNO POST-TRAINING — The evolution of language modeling provides a blueprint …",
+  "techmeme_url": "https://www.techmeme.com/260825/p41",
+  "title": "Skild AI unveils S1, a robotics foundation model that it says can learn tasks never seen during pretraining, using a single video demo, without fine-tuning (Skild AI)"
+ },
+ "a260825p42": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/zoom-gives-lukewarm-outlook-despite-expanded-product-line",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p42",
+  "summary": "Zoom Communications Inc. gave a sales outlook for the current quarter that was about in line with analysts' estimates …",
+  "techmeme_url": "https://www.techmeme.com/260825/p42",
+  "title": "Zoom reports Q2 revenue up 4.9% YoY to $1.28B, vs. $1.27B est., enterprise revenue up 7.8% to $787.5M, and forecasts Q3 adjusted EPS below estimates (Brody Ford/Bloomberg)"
+ },
+ "a260825p43": {
+  "article_url": "https://www.wsj.com/business/earnings/intuit-forecasts-slower-growth-takes-steps-to-win-more-turbotax-users-6633b7dc",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p43",
+  "summary": "The company expects revenue to increase 9% to 10% for fiscal 2027, down from 14% this year — Intuit forecast slower sales growth …",
+  "techmeme_url": "https://www.techmeme.com/260825/p43",
+  "title": "Intuit reports Q4 revenue up 14% YoY to $4.35B, vs. $4.27B est., and forecasts FY 2027 revenue growth of 9% to 10%, below ~11% est.; INTU drops 8%+ after hours (Wall Street Journal)"
+ },
+ "a260825p44": {
+  "article_url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p44",
+  "summary": "Nitter, an open source project that allowed people to read X posts without logging into or even opening the X app …",
+  "techmeme_url": "https://www.techmeme.com/260825/p44",
+  "title": "Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)"
+ },
+ "a260825p45": {
+  "article_url": "https://www.reuters.com/business/instagram-head-adam-mosseri-testify-meta-trial-2026-08-25/",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p45",
+  "summary": "The top executive at Instagram said few teenagers used a key safety feature to limit their use before it was turned on by default …",
+  "techmeme_url": "https://www.techmeme.com/260825/p45",
+  "title": "State AGs' trial: Adam Mosseri denies Instagram stalled by not making its \"Take a Break\" teen safety feature the default until nearly three years after launch (Reuters)"
+ },
+ "a260825p46": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p46",
+  "summary": "South Korean AI services platform Wrtn Technologies said on Wednesday it had raised around 100 billion won ($72.2 million) in a Series C funding round that valued …",
+  "techmeme_url": "https://www.techmeme.com/260825/p46",
+  "title": "South Korean AI services platform Wrtn raised a ~$72.2M Series C at a $722M+ valuation, bringing its total funding to ~$166M (Joyce Lee/Reuters)"
+ },
+ "a260825p47": {
+  "article_url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+  "date": "2026-08-25",
+  "permalink_id": "a260825p47",
+  "summary": "Amazon is soon pulling the plug on its 21-year-old crowdsourced work platform, called Mechanical Turk, the company said Tuesday.",
+  "techmeme_url": "https://www.techmeme.com/260825/p47",
+  "title": "AWS says it plans to shut down Mechanical Turk on September 30, 2026, following an assessment; the service, launched in 2005, outsourced tasks to humans (Annie Palmer/CNBC)"
+ },
  "a260825p6": {
   "article_url": "https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html?unlocked_article_code=1.7lA.B5FD.bP9xiKg4sJcA&smid=nytcore-ios-share",
   "date": "2026-08-25",
