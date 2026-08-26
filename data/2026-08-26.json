@@ -7,6 +7,54 @@
   "techmeme_url": "https://www.techmeme.com/260826/p1",
   "title": "Digs, which is building AI software for residential construction, raised a $25.3M Series A led by building materials giant Builders FirstSource (Kurt Schlosser/GeekWire)"
  },
+ "a260826p14": {
+  "article_url": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html?unlocked_article_code=1.8VA.szaB.MeK6Pn2Xzww5&smid=url-share",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p14",
+  "summary": "Bill Gates is the latest in a string of tech luminaries to call out the risks of artificial intelligence.Chona Kasinger for The New York Times",
+  "techmeme_url": "https://www.techmeme.com/260826/p14",
+  "title": "Bill Gates says tech executives are privately \"very worried\" about AI disruption but publicly downplay the risks to protect fundraising and planned IPOs (Karen Weise/New York Times)"
+ },
+ "a260826p15": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p15",
+  "summary": "The new AI model that's swept to the top of online usage charts with high performance at zero cost was created by China's Z.AI Co., also known as Zhipu.",
+  "techmeme_url": "https://www.techmeme.com/260826/p15",
+  "title": "Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard (Luz Ding/Bloomberg)"
+ },
+ "a260826p16": {
+  "article_url": "https://www.axios.com/2026/08/26/gates-confronts-the-epstein-questions-hanging-over-his-ai-push",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p16",
+  "summary": "Bill Gates tells Axios his association with Jeffrey Epstein was a “huge mistake” but hopes it won't prevent …",
+  "techmeme_url": "https://www.techmeme.com/260826/p16",
+  "title": "Bill Gates says his Jeffrey Epstein association was a \"huge mistake\" driven by a desire to raise funds, and hopes the ties will not undermine his AI arguments (Ina Fried/Axios)"
+ },
+ "a260826p17": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/chinas-moonshot-talks-with-microsoft-amazon-google-over-k3-revenue-sharing-2026-08-26/",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p17",
+  "summary": "China's Moonshot AI is negotiating revenue-sharing agreements with Microsoft (MSFT.O), Amazon (AMZN.O) and Alphabet's Google (GOOGL.O) …",
+  "techmeme_url": "https://www.techmeme.com/260826/p17",
+  "title": "Sources: Moonshot AI is in early talks over revenue-sharing agreements with Microsoft, Amazon, and Google to host Kimi K3, and is seeking up to a 30% share (Reuters)"
+ },
+ "a260826p18": {
+  "article_url": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4?st=eCvr4f",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p18",
+  "summary": "A 24-year-old investor was hailed as a visionary and attracted billions—before turning into Wall Street's latest cautionary tale",
+  "techmeme_url": "https://www.techmeme.com/260826/p18",
+  "title": "A profile of Leopold Aschenbrenner, who worked for SBF and OpenAI before launching Situational Awareness; Aschenbrenner married Dario Amodei's chief of staff (Wall Street Journal)"
+ },
+ "a260826p19": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-amd-microsoft",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p19",
+  "summary": "Huawei Pitches Egypt With AI Chips, Data Center Buildout — Video Player is loading. — Unmute — Current Time 0:00 Loaded: 100.00% Playback Rate",
+  "techmeme_url": "https://www.techmeme.com/260826/p19",
+  "title": "Sources and documents: Huawei proposes exporting its high-end Ascend 950-series chips to build Egyptian government AI data centers, testing US tech diplomacy (Mackenzie Hawkins/Bloomberg)"
+ },
  "a260826p2": {
   "article_url": "https://www.ft.com/content/1b1c357f-6a1c-4ce3-bb47-980c3de4d3d2",
   "date": "2026-08-26",
@@ -14,6 +62,78 @@
   "summary": "YMTC sets out Nand production ambitions in investor meetings for $5bn Shanghai IPO — YMTC aims to overtake Samsung and SK Hynix …",
   "techmeme_url": "https://www.techmeme.com/260826/p2",
   "title": "Sources: YMTC, which seeks to raise $5B in an IPO, told investors in IPO prep meetings that it aims to become the largest NAND flash supplier by the end of 2027 (Financial Times)"
+ },
+ "a260826p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/minimax-sales-nearly-quadruple-in-crowded-race-for-chinaai-lead",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p20",
+  "summary": "MiniMax Group Inc.'s revenue surged 283% in the first half of 2026, even as the Chinese AI upstart trailed rivals such as Z.AI Co. in releasing top-tier large language models.",
+  "techmeme_url": "https://www.techmeme.com/260826/p20",
+  "title": "Shanghai-based MiniMax reports H1 2026 revenue up 283% YoY to ~$116.6M, above 2025's 159% YoY growth, as its M3 model lags behind rivals like Z.ai's GLM-5.2 (Bloomberg)"
+ },
+ "a260826p21": {
+  "article_url": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p21",
+  "summary": "To make its workforce “AI native,” Meta explored slashing the size of many teams across the company by as much as 60% in two waves, internal documents show.",
+  "techmeme_url": "https://www.techmeme.com/260826/p21",
+  "title": "Investigation: Meta explored slashing many teams by ~60% to become \"AI native\", but pulled back after staff revolted and data showed AI agents were ineffective (Katie Paul/Reuters)"
+ },
+ "a260826p22": {
+  "article_url": "https://www.dwarkesh.com/p/dylan-patel-3",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p22",
+  "summary": "“Every force is screeching towards centralization.” — Had a lot of fun chatting again with my twin brother Dylan Patel.",
+  "techmeme_url": "https://www.techmeme.com/260826/p22",
+  "title": "Q&A with SemiAnalysis founder Dylan Patel on Anthropic and OpenAI controlling global compute, $11T of AI capex between 2024 and 2029, China's compute, and more (Dwarkesh Patel/Dwarkesh Podcast)"
+ },
+ "a260826p23": {
+  "article_url": "https://blog.andymasley.com/p/i-think-the-data-center-backlash",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p23",
+  "summary": "It's probably not your ideological thing, or mine. It's about object-level claims about how data centers impact the communities …",
+  "techmeme_url": "https://www.techmeme.com/260826/p23",
+  "title": "Public polling suggests the US' severe anti-data center backlash is primarily driven by local environmental and economic concerns, not anti-Big Tech sentiment (Andy Masley)"
+ },
+ "a260826p24": {
+  "article_url": "https://kotaku.com/rockstar-gta-6-leaks-grand-theft-auto-cyberleek-official-statement-2000728341",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p24",
+  "summary": "The company also uncharacteristically apologizes for the lack of official information",
+  "techmeme_url": "https://www.techmeme.com/260826/p24",
+  "title": "Rockstar says GTA 6 gameplay leaking \"in this way has been heartbreaking\", calling it \"unfortunate\" that the \"game experience may now be impacted\" by spoilers (John Walker/Kotaku)"
+ },
+ "a260826p25": {
+  "article_url": "https://www.wsj.com/tech/ai/microsoft-is-leaving-investors-flying-blind-on-its-ai-businesses-3607360a?st=TQ9Tjr&reflink=desktopwebshare_permalink",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p25",
+  "summary": "From capex to its flagship cloud platform, Microsoft stands out for lack of transparency — Cloud computing, meet cloudy numbers.",
+  "techmeme_url": "https://www.techmeme.com/260826/p25",
+  "title": "Microsoft faces investor criticism over opaque financial reporting across capex, its OpenAI deal, and Azure, which is buried in the Intelligent Cloud segment (Jonathan Weil/Wall Street Journal)"
+ },
+ "a260826p26": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p26",
+  "summary": "Alibaba Group Holding Ltd. released the latest model under its popular Qwen series, a lower-priced platform aimed at driving adoption of its marquee AI offering globally.",
+  "techmeme_url": "https://www.techmeme.com/260826/p26",
+  "title": "Alibaba releases Qwen3.8-Flash, an open-weight, 125B-parameter model built on its next-gen Qwen 4 architecture, saying it rivals Opus 4.6 and V4-Flash (Luz Ding/Bloomberg)"
+ },
+ "a260826p27": {
+  "article_url": "https://www.ft.com/content/7ee0ae41-db32-453d-ac30-80660ee9b60f",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p27",
+  "summary": "Tech billionaire reluctant to allow satellite system to be used for drone strikes deep inside Russia",
+  "techmeme_url": "https://www.techmeme.com/260826/p27",
+  "title": "Volodymyr Zelenskyy awards Elon Musk with Ukraine's Order of Freedom; sources say Zelenskyy asked Musk to authorize Starlink use up to 200km inside Russia (Fabrice Deprez/Financial Times)"
+ },
+ "a260826p28": {
+  "article_url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+  "date": "2026-08-26",
+  "permalink_id": "a260826p28",
+  "summary": "Meta agrees to teenage safeguards including daily usage limits and nighttime blocks nationwide Settlement averts California federal trial …",
+  "techmeme_url": "https://www.techmeme.com/260826/p28",
+  "title": "Filing: Meta agrees to pay up to $16.68B to settle 29 US states' claims that it designed Facebook and Instagram to addict children, misled customers, and more (Reuters)"
  },
  "a260826p3": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/india-ai-data-center-firm-orders-9-000-nvidia-vera-rubin-systems?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzY2MDM2OSwiZXhwIjoxNzg4MjY1MTY5LCJhcnRpY2xlSWQiOiJUS0I5OTlLSUpIOFQwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.1ruS2GnYzI5aZeRj1V50Lfgt_zPyXBt3G2jAwIdGrhE",
