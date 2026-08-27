@@ -71,6 +71,14 @@
   "techmeme_url": "https://www.techmeme.com/260827/p3",
   "title": "Meta is seeking to position itself as the industry leader in child safety through its settlement with AGs, while still refusing to admit any wrongdoing (Casey Newton/Platformer)"
  },
+ "a260827p39": {
+  "article_url": "https://www.theinformation.com/articles/trump-administration-executive-order-new-ai-regulator-stalls",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p39",
+  "summary": "The Trump administration has internally circulated a draft executive order in recent weeks, calling for the creation …",
+  "techmeme_url": "https://www.techmeme.com/260827/p39",
+  "title": "Sources: some Trump administration officials circulated a draft EO to create a self-regulatory organization for AI, but it needs buy-in from Trump and others (Leo Schwartz/The Information)"
+ },
  "a260827p4": {
   "article_url": "https://www.businessinsider.com/nvidia-q2-2027-earnings-bets-big-ai-18-billion-investment-2026-8",
   "date": "2026-08-27",
@@ -79,6 +87,86 @@
   "techmeme_url": "https://www.techmeme.com/260827/p4",
   "title": "Filing: Nvidia says it has $18B committed to equity investments for the rest of the fiscal year and held $47.9B in private companies as of late July (Geoff Weiss/Business Insider)"
  },
+ "a260827p40": {
+  "article_url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p40",
+  "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+  "techmeme_url": "https://www.techmeme.com/260827/p40",
+  "title": "OpenAI is testing a \"Persistent mode\" in Codex, designed to let AI agents \"continue working until put to sleep\" and proactively generate follow-up tasks (Maxwell Zeff/Wired)"
+ },
+ "a260827p41": {
+  "article_url": "https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p41",
+  "summary": "OpenAI, Anthropic, Amazon Web Services, Microsoft and more than 100 other companies warned Thursday …",
+  "techmeme_url": "https://www.techmeme.com/260827/p41",
+  "title": "OpenAI, Anthropic, AWS, Microsoft, and 100+ companies warn there is \"a limited window\" to prepare for AI-enabled cyberattacks and call for \"collective action\" (Sam Sabin/Axios)"
+ },
+ "a260827p42": {
+  "article_url": "https://www.reuters.com/technology/nvidia-start-employee-funded-us-political-action-committee-2026-08-27/",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p42",
+  "summary": "Tech company Nvidia will start an employee-funded political action committee, a source familiar with the plans told Reuters, as the company seeks to step up its efforts to influence U.S. policy.",
+  "techmeme_url": "https://www.techmeme.com/260827/p42",
+  "title": "Source: Nvidia plans an employee-funded political action committee called NVPAC, as it seeks to step up its efforts to influence US policy (Courtney Rozen/Reuters)"
+ },
+ "a260827p43": {
+  "article_url": "https://www.businessinsider.com/meta-hatch-personal-ai-agent-capabilities-employees-memo-2026-8",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p43",
+  "summary": "It can DJ. It can order food. It can book you a table at a restaurant. And of course, it can access your Instagram.",
+  "techmeme_url": "https://www.techmeme.com/260827/p43",
+  "title": "Internal memo: Meta's AI agent Hatch \"has its own computer\" to perform tasks, works when the app is closed, can connect to email, Instagram, OpenTable, and more (Hugh Langley/Business Insider)"
+ },
+ "a260827p44": {
+  "article_url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p44",
+  "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+  "techmeme_url": "https://www.techmeme.com/260827/p44",
+  "title": "Anthropic releases Model Hardware Standard, a framework to help AI agents use physical systems like microscopes, quantum computing hardware, and robot arms (Will Knight/Wired)"
+ },
+ "a260827p45": {
+  "article_url": "https://www.theinformation.com/articles/anthropic-considers-letting-shareholders-sell-ipo-departing-spacex-playbook",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p45",
+  "summary": "Anthropic has been working on a plan to let existing shareholders sell some stock in its blockbuster initial public offering …",
+  "techmeme_url": "https://www.techmeme.com/260827/p45",
+  "title": "Sources: Anthropic has been working on a plan to allow secondary stock sales in its IPO while also considering lockup periods longer than the standard 180 days (The Information)"
+ },
+ "a260827p46": {
+  "article_url": "https://www.engadget.com/2245799/youtube-creators-can-now-include-affiliate-links-to-amazon/",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p46",
+  "summary": "The retailer just finally joined YouTube Shopping's affiliate program. — YouTube has landed one of the biggest possible gets for its creator ecommerce platform.",
+  "techmeme_url": "https://www.techmeme.com/260827/p46",
+  "title": "YouTube adds Amazon to its shopping affiliate program, enabling US creators to tag Amazon products in Shorts, longform videos, and livestreams (Anna Washenko/Engadget)"
+ },
+ "a260827p47": {
+  "article_url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p47",
+  "summary": "Shares of Salesforce jumped 22% Thursday after the company reported a beat on second-quarter earnings and announced …",
+  "techmeme_url": "https://www.techmeme.com/260827/p47",
+  "title": "Salesforce stock closed up 22.6% on Thursday, its second-best day ever, after the company reported a beat on Q2 earnings and expanded its Anthropic partnership (CJ Haddad/CNBC)"
+ },
+ "a260827p48": {
+  "article_url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p48",
+  "summary": "Gemini Notebook's new ‘Expert Intelligence’ feature pulls information from the books you've purchased.",
+  "techmeme_url": "https://www.techmeme.com/260827/p48",
+  "title": "Google adds Expert Intelligence to Gemini Notebook, letting users import eligible titles they own in Google Play Books to ask questions, generate podcasts, more (Emma Roth/The Verge)"
+ },
+ "a260827p49": {
+  "article_url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p49",
+  "summary": "Nvidia shares rose nearly 9% Thursday after the chip giant's revenue guidance reassured investors that artificial intelligence demand will remain strong.",
+  "techmeme_url": "https://www.techmeme.com/260827/p49",
+  "title": "Nvidia stock closed up 8.74% on Thursday, adding ~$440B to Nvidia's market cap, after its revenue guidance reassured investors that AI demand remains strong (CNBC)"
+ },
  "a260827p5": {
   "article_url": "https://www.theguardian.com/technology/2026/aug/26/meta-trial-witness-settlement",
   "date": "2026-08-27",
@@ -86,6 +174,38 @@
   "summary": "Exclusive: Arturo Béjar, an ex-Facebook employee and whistleblower, said outcome ‘is not an all clear to say the product is safe’",
   "techmeme_url": "https://www.techmeme.com/260827/p5",
   "title": "Arturo Béjar, a key witness in state AGs' trial against Meta, says terms of the settlement are insufficient to protect young users; Meta rejects the criticism (Nick Robins-Early/The Guardian)"
+ },
+ "a260827p50": {
+  "article_url": "https://www.wsj.com/finance/currencies/trump-familys-new-crypto-bank-is-backed-by-abu-dhabi-sheikh-38579473?st=3A1SxG&reflink=desktopwebshare_permalink",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p50",
+  "summary": "The Emirati ‘spy sheikh’ backs a 49% stake in the entity behind the new World Liberty bank — The Abu Dhabi royal sometimes referred …",
+  "techmeme_url": "https://www.techmeme.com/260827/p50",
+  "title": "Sources: Abu Dhabi's Sheikh Tahnoon and co-investors back an entity owning 49%, the largest stake, in the company behind the Trump family's planned crypto bank (Wall Street Journal)"
+ },
+ "a260827p51": {
+  "article_url": "https://www.ft.com/content/1d990ab8-bb28-43b6-b9bc-daeb8a32c58f",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p51",
+  "summary": "Group's Google business was accused of overcharging developers who made software for the Google Play app store",
+  "techmeme_url": "https://www.techmeme.com/260827/p51",
+  "title": "Alphabet agrees to pay £260M to settle a UK class action lawsuit claiming it levied \"unfair\" charges on software downloaded from the Google Play app store (Alistair Gray/Financial Times)"
+ },
+ "a260827p52": {
+  "article_url": "https://www.newcomer.co/p/amid-personal-assistant-investor",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p52",
+  "summary": "Town, the buzzy enterprise personal agent, is raising at $1 billion, sources tell us — Two startup personal assistants have venture capitalists in a tizzy right now:",
+  "techmeme_url": "https://www.techmeme.com/260827/p52",
+  "title": "Sources: Town, which develops enterprise personal AI assistants, is in talks to raise at a $1B valuation in a round led by Index Ventures (Newcomer)"
+ },
+ "a260827p53": {
+  "article_url": "https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27/",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p53",
+  "summary": "Anthropic discussed buying artificial intelligence chip startup MatX for roughly $7 billion, seeking to accelerate efforts …",
+  "techmeme_url": "https://www.techmeme.com/260827/p53",
+  "title": "Sources: Anthropic discussed buying AI chip startup MatX for ~$7B, but talks are no longer active; MatX is now seeking to raise new capital at a ~$4B valuation (Reuters)"
  },
  "a260827p6": {
   "article_url": "https://www.seroundtable.com/google-search-goto-tracking-41957.html",
