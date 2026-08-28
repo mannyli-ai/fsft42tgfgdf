@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/260828/p1",
   "title": "Sources: some tech companies are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House (Wall Street Journal)"
  },
+ "a260828p10": {
+  "article_url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p10",
+  "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians …",
+  "techmeme_url": "https://www.techmeme.com/260828/p10",
+  "title": "Sources: Meta is testing robots from ABB and others to handle data center tasks such as swapping cables and resetting servers as it seeks to lower labor costs (Paresh Dave/Wired)"
+ },
+ "a260828p11": {
+  "article_url": "https://variety.com/2026/tv/news/apple-tv-price-increase-streaming-service-monthly-plan-1236845906/",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p11",
+  "summary": "Tech giant also ups price of Apple One multi-service bundle's individual plan — It's going to cost Americans a few more bucks to watch …",
+  "techmeme_url": "https://www.techmeme.com/260828/p11",
+  "title": "Apple TV raises prices in the US, with the monthly price up by $2 to $14.99, its fourth increase in four years; the individual Apple One tier rises $2 to $21.95 (Todd Spangler/Variety)"
+ },
+ "a260828p12": {
+  "article_url": "https://www.fastcompany.com/91587899/mark-zuckerberg-meta-ai-personal-superintelligence",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p12",
+  "summary": "Meta's CEO, Mark Zuckerberg, posted an AI manifesto to his company's website in August. The 6,537-word missive resembled similar proclamations …",
+  "techmeme_url": "https://www.techmeme.com/260828/p12",
+  "title": "How Meta founded FAIR in 2013, fell behind as it was distracted by the metaverse, and is spending an unprecedented amount of money trying to catch up (Harry McCracken/Fast Company)"
+ },
+ "a260828p13": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/stanford-grads-stock-app-snags-biggest-indonesia-round-in-years",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p13",
+  "summary": "Ajaib, an Indonesian online stock trading platform, scored $270 million in the country's largest tech fundraising round since 2022 …",
+  "techmeme_url": "https://www.techmeme.com/260828/p13",
+  "title": "Stock trading app Ajaib raised a $270M Series C from SBI Holdings, the largest round since 2022 in Indonesia, where startups raised just ~$340M last year (Olivia Poh/Bloomberg)"
+ },
+ "a260828p14": {
+  "article_url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p14",
+  "summary": "Andreessen Horowitz has launched a new “Machine Age” fund with $1.1 billion raised. The firm's aim with the new fund is to “open the throttle and accelerate the physical buildout of AI.”",
+  "techmeme_url": "https://www.techmeme.com/260828/p14",
+  "title": "a16z creates a $1.1B Machine Age fund focusing on hardware to \"open the throttle and accelerate the physical buildout of AI\" (Sean O'Kane/TechCrunch)"
+ },
+ "a260828p15": {
+  "article_url": "https://www.theinformation.com/articles/trump-administration-working-ai-rule-curb-chinas-remote-access-chips",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p15",
+  "summary": "Soon after President Donald Trump began his second term in office in 2025, the White House announced it would undo export controls …",
+  "techmeme_url": "https://www.techmeme.com/260828/p15",
+  "title": "Sources: the US is drafting a rule to close an export controls loophole that lets Chinese companies access AI chips via data centers in countries like Thailand (The Information)"
+ },
+ "a260828p16": {
+  "article_url": "https://www.businessinsider.com/alternative-social-media-app-retro-raises-21-million-capital-instagram-2026-8",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p16",
+  "summary": "There's a social media app I like using more than Instagram or TikTok — and it's attracted serious investor interest.",
+  "techmeme_url": "https://www.techmeme.com/260828/p16",
+  "title": "Filing: Lone Palm Labs, the startup behind friend-focused photo sharing app Retro, raised a $21M+ Series A from Thrive Capital and others (Sydney Bradley/Business Insider)"
+ },
+ "a260828p17": {
+  "article_url": "https://x.com/fi56622380/status/2093040177711329673",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p17",
+  "summary": "The next ARR growth engine after coding, the AI infra bubble, the Economics of open vs. closed source model Why is the AI semi buildout longer than the internet buildout?",
+  "techmeme_url": "https://www.techmeme.com/260828/p17",
+  "title": "Unlike internet's one-dimensional, flat-fee growth, AI grows across two exponentials, user penetration and tokens per user, allowing AI labs' economics to work (Fin/@fi56622380)"
+ },
+ "a260828p18": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/nvidia-backed-lambda-inks-1-billion-private-debt-for-chip-deal",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p18",
+  "summary": "Lambda Inc., an AI cloud-computing provider backed by Nvidia Corp., has raised about $1 billion of private short-dated debt …",
+  "techmeme_url": "https://www.techmeme.com/260828/p18",
+  "title": "Sources: AI cloud computing provider Lambda raised ~$1B of private short-dated debt to finance the purchase of Nvidia GPUs, which will be leased by Microsoft (Emily Graffeo/Bloomberg)"
+ },
+ "a260828p19": {
+  "article_url": "https://www.restaurantbusinessonline.com/technology/owner-raises-240m-ai-native-restaurant-tech",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p19",
+  "summary": "The funding, led by Goldman Sachs Alternatives, will help Owner develop AI agents for independent restaurants. — Rob Lehman (Owner president and COO) …",
+  "techmeme_url": "https://www.techmeme.com/260828/p19",
+  "title": "Owner, which makes AI agents that manage restaurants' websites, marketing, and other functions, raised a $240M Series D at a $2.3B valuation (Joe Guszkowski/Restaurant Business)"
+ },
  "a260828p2": {
   "article_url": "https://www.ft.com/content/7650d84f-4750-48c4-9a9e-ca899e608931?accessToken=zwAAAaBAB12Okc92UNhPR1BIxNOansqJnmCJMQ.MEUCIGS0q03APBAfmYzZx_JqqJzU_crroEmPDNYIIhVeQN6TAiEAooweiJKB-7yyiBqUZmymwYtV5RcCcykzQg3YxV0mphs",
   "date": "2026-08-28",
@@ -14,6 +94,22 @@
   "summary": "Treasury gives central bank a new legal objective as part of effort to promote UK as hub for stablecoins",
   "techmeme_url": "https://www.techmeme.com/260828/p2",
   "title": "The UK Treasury gives the Bank of England a new legal objective to support payment systems and digital money innovation, seeking to keep London competitive (Financial Times)"
+ },
+ "a260828p20": {
+  "article_url": "https://videocardz.com/newz/experimental-nvidia-dlss-5-mod-already-running-in-more-than-a-dozen-games-including-cyberpunk-2077-and-even-gta-v",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p20",
+  "summary": "DLSS 5 mod spreads to Cyberpunk 2077, RDR2, TLOU2, Wukong and more — It took modders only hours to get the leaked NVIDIA DLSS …",
+  "techmeme_url": "https://www.techmeme.com/260828/p20",
+  "title": "Modders get an experimental version of Nvidia's DLSS 5 Neural Rendering library running in over a dozen games after it leaked in NBA 2K27's early access build (VideoCardz.com)"
+ },
+ "a260828p21": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/meta-s-newspaper-ad-blitz-ups-pressure-on-social-media-rivals",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p21",
+  "summary": "Meta Platforms Inc. is intensifying its public pressure campaign on TikTok and YouTube, running full-page advertisements …",
+  "techmeme_url": "https://www.techmeme.com/260828/p21",
+  "title": "Meta intensifies its pressure campaign on TikTok and YouTube, running full-page ads in US newspapers demanding they adopt comparable teen safety protections (Alexandra S. Levine/Bloomberg)"
  },
  "a260828p3": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/tencent-touts-new-ai-model-it-claims-outperforms-z-ai-moonshot",
@@ -46,5 +142,29 @@
   "summary": "Seoul wants to direct use of homegrown AI chatbots to reduce reliance on U.S. or Chinese options, footing the bill and offering unlimited tokens",
   "techmeme_url": "https://www.techmeme.com/260828/p6",
   "title": "South Korea unveils a project with KT, SK Telecom, and Kakao to provide premium AI tools to the public for free, a move that treats AI like a public utility (Jiyoung Sohn/Wall Street Journal)"
+ },
+ "a260828p7": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/chinese-chipmaker-cxmt-s-sales-jump-10-fold-as-ai-demand-soars",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p7",
+  "summary": "CXMT Corp.'s first-half revenue leapt almost 10-fold while profit surged, reflecting a rush for AI hardware that's made the memory chipmaker China's most valuable business.",
+  "techmeme_url": "https://www.techmeme.com/260828/p7",
+  "title": "Chinese memory chipmaker CXMT reports H1 revenue of ~$22.4B, more than double its 2025 sales, and ~$11.5B in profit, compared to a loss a year earlier (Bloomberg)"
+ },
+ "a260828p8": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-08-27/inside-agi-bar-the-hub-of-china-s-ai-startup-boom?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Nzg4MzM3NCwiZXhwIjoxNzg4NDg4MTc0LCJhcnRpY2xlSWQiOiJUS0dCWTFSMjRVOFEwMCIsImJjb25uZWN0SWQiOiJCNTJEODQ3N0Q1QzU0MTg0OUYwNDAyMTk1N0RGQkVBMSJ9.XroiWGhq23v4EtOxCeSBnJF4Ic7B_VVLkcQxiQ50N_I",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p8",
+  "summary": "Beloved by entrepreneurs, coders and investors, AGI Bar offers a window into the startup ecosystem challenging Silicon Valley.",
+  "techmeme_url": "https://www.techmeme.com/260828/p8",
+  "title": "A look at Beijing's AGI Bar, the unofficial clubhouse for China's AI industry where entrepreneurs trade gossip, recruit talent, and court investors over beers (Bloomberg)"
+ },
+ "a260828p9": {
+  "article_url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+  "date": "2026-08-28",
+  "permalink_id": "a260828p9",
+  "summary": "Meta's India and Southeast Asia vice president, Sandhya Devanathan, is leaving the social media giant to join OpenAI, the ChatGPT maker told TechCrunch.",
+  "techmeme_url": "https://www.techmeme.com/260828/p9",
+  "title": "Meta's India and Southeast Asia VP Sandhya Devanathan is joining OpenAI to oversee consumer growth and enterprise adoption across SE Asia and Australia (Jagmeet Singh/TechCrunch)"
  }
 }
