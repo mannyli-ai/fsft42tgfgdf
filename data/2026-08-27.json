@@ -207,6 +207,46 @@
   "techmeme_url": "https://www.techmeme.com/260827/p53",
   "title": "Sources: Anthropic discussed buying AI chip startup MatX for ~$7B, but talks are no longer active; MatX is now seeking to raise new capital at a ~$4B valuation (Reuters)"
  },
+ "a260827p55": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-27/us-ftc-probing-youtube-over-social-media-policies?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Nzg3MDUyNiwiZXhwIjoxNzg4NDc1MzI2LCJhcnRpY2xlSWQiOiJUS0U5MU5LSkg2VkYwMCIsImJjb25uZWN0SWQiOiJDQThGQ0Y4NkY1QjY0ODlCODA4ODkwNTFBNjMxRERBRCJ9.e9QS2TC949dcH667a6FORlZl9_OdjvQRbYprlYzl0AA",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p55",
+  "summary": "The US Federal Trade Commission has been investigating whether Alphabet Inc.'s YouTube violated consumer protection laws …",
+  "techmeme_url": "https://www.techmeme.com/260827/p55",
+  "title": "Sources: the FTC has been investigating whether YouTube broke consumer protection laws by violating its own policies when suspending accounts or banning content (Bloomberg)"
+ },
+ "a260827p56": {
+  "article_url": "https://www.axios.com/2026/08/27/ai-uber-spending",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p56",
+  "summary": "After burning through its IT budget in the first quarter of the year, Uber has now stabilized its AI bills even as usage surges, the company tells Axios.",
+  "techmeme_url": "https://www.techmeme.com/260827/p56",
+  "title": "Uber says weekly AI agent requests have grown 9.4x since February, but total AI spending has stayed stable since April, after using up its 2026 AI budget in Q1 (Madison Mills/Axios)"
+ },
+ "a260827p57": {
+  "article_url": "https://www.theinformation.com/articles/inside-cognitions-booming-growth-high-cash-burn",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p57",
+  "summary": "Revenue is surging at Cognition and several other AI application providers, previously unreported data show …",
+  "techmeme_url": "https://www.techmeme.com/260827/p57",
+  "title": "Sources: Cognition is generating ~$900M in annualized revenue, up more than 3x since the start of the year, and executives project it will end 2026 with $1.5B+ (The Information)"
+ },
+ "a260827p58": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-27/workday-posts-lukewarm-results-blunting-recent-software-gains",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p58",
+  "summary": "Workday Inc., a maker of workplace management software, reported a measure of future sales that fell short of analysts' projections …",
+  "techmeme_url": "https://www.techmeme.com/260827/p58",
+  "title": "Workday reports Q2 revenue up 12.8% YoY to $2.65B vs. $2.63B est., and total subscription revenue backlog up 8% YoY to $27.4B, vs. $28.6B est. (Brody Ford/Bloomberg)"
+ },
+ "a260827p59": {
+  "article_url": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p59",
+  "summary": "U.S. cybersecurity agency CISA said it has observed cyberattacks targeting over 100 internet-exposed systems across the U.S. water and wastewater sector …",
+  "techmeme_url": "https://www.techmeme.com/260827/p59",
+  "title": "CISA says that cyberattacks on critical US infrastructure targeted 100+ internet-exposed water and wastewater systems in July, largely attacking PLCs (Zack Whittaker/TechCrunch)"
+ },
  "a260827p6": {
   "article_url": "https://www.seroundtable.com/google-search-goto-tracking-41957.html",
   "date": "2026-08-27",
@@ -214,6 +254,38 @@
   "summary": "This seems like a way for Google to help prevent scraping of its search results by third-party tools and AI companies …",
   "techmeme_url": "https://www.techmeme.com/260827/p6",
   "title": "Google starts rolling out the google.com/goto URL as a passthrough URL to help prevent scraping of its search results by third-party tools and AI companies (Barry Schwartz/Search Engine Roundtable)"
+ },
+ "a260827p60": {
+  "article_url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p60",
+  "summary": "A U.S. judge on Thursday blocked the Pentagon's blacklisting of Anthropic, the latest turn in the Claude maker's high-stakes fight with the military over AI safety on the battlefield.",
+  "techmeme_url": "https://www.techmeme.com/260827/p60",
+  "title": "A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was \"illegal and baseless\" (Jack Queen/Reuters)"
+ },
+ "a260827p61": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p61",
+  "summary": "A consortium of buyout firm Advent and payment processor Stripe has decided to abandon its pursuit of fintech pioneer PayPal Holdings Inc. …",
+  "techmeme_url": "https://www.techmeme.com/260827/p61",
+  "title": "Sources: Advent and Stripe are no longer pursuing a deal to acquire PayPal; the group offered to pay $60.50/share in July, valuing PayPal at $53B (Bloomberg)"
+ },
+ "a260827p62": {
+  "article_url": "https://www.wsj.com/finance/regulation/u-s-servicemember-kpmg-employee-are-targets-of-prediction-markets-crackdown-ec7fdd04",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p62",
+  "summary": "Charges could come this fall, part of a new batch of insider trading cases — Federal authorities are preparing charges …",
+  "techmeme_url": "https://www.techmeme.com/260827/p62",
+  "title": "Sources: federal authorities prepare to charge a US serviceman and a KPMG employee with insider trading on prediction markets, as part of a new batch of cases (Dave Michaels/Wall Street Journal)"
+ },
+ "a260827p63": {
+  "article_url": "https://www.cnbc.com/2026/08/27/bitgo-to-acquire-nydigs-institutional-trading-business-as-crypto-trading-rebounds.html",
+  "date": "2026-08-27",
+  "permalink_id": "a260827p63",
+  "summary": "The crypto infrastructure firm BitGo has agreed to buy the institutional trading business and related assets of NYDIG, CNBC has learned.",
+  "techmeme_url": "https://www.techmeme.com/260827/p63",
+  "title": "BitGo agrees to buy NYDIG's institutional trading business and related assets, expanding BitGo's derivatives offerings; ~30 NYDIG employees are joining BitGo (Tanaya Macheel/CNBC)"
  },
  "a260827p7": {
   "article_url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
