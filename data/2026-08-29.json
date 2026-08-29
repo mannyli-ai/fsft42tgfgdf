@@ -23,6 +23,30 @@
   "techmeme_url": "https://www.techmeme.com/260829/p11",
   "title": "Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs (Tim Ingham/Music Business Worldwide)"
  },
+ "a260829p12": {
+  "article_url": "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html?unlocked_article_code=1.9FA.YbRm.Bnnkb0t2vt5g&smid=nytcore-android-share",
+  "date": "2026-08-29",
+  "permalink_id": "a260829p12",
+  "summary": "State attorneys general spent months in negotiations. Then, as its legal losses mounted, the social media giant's new top lawyer brought a huge settlement to the table.",
+  "techmeme_url": "https://www.techmeme.com/260829/p12",
+  "title": "Sources detail how Meta's $17.1B settlement with state AGs came together as Meta wanted to avoid going to trial following losses in cases in LA and New Mexico (New York Times)"
+ },
+ "a260829p13": {
+  "article_url": "https://x.com/claudedevs",
+  "date": "2026-08-29",
+  "permalink_id": "a260829p13",
+  "summary": "Starting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will be in place.",
+  "techmeme_url": "https://www.techmeme.com/260829/p13",
+  "title": "Anthropic will \"permanently\" raise weekly Claude Code limits by 25% on Sept. 14 for most plans, which will work out a 17% reduction, given the current 50% boost (@claudedevs)"
+ },
+ "a260829p14": {
+  "article_url": "https://www.theinformation.com/articles/exclusive-spacex-lays-groundwork-turbine-blade-factory-solve-data-center-power-crunch",
+  "date": "2026-08-29",
+  "permalink_id": "a260829p14",
+  "summary": "Elon Musk intends to bypass the power supply chain for AI data centers in a way others assumed was impossible, by making highly complex components himself.",
+  "techmeme_url": "https://www.techmeme.com/260829/p14",
+  "title": "Job listings and other indicators: SpaceX is working on a Bastrop, TX foundry to build blades for large gas turbines, which could ease its AI power crunch (Ann Davis Vaughan/The Information)"
+ },
  "a260829p2": {
   "article_url": "https://www.scmp.com/tech/big-tech/article/3365595/meituan-snaps-losing-streak-profitable-june-quarter-though-douyin-threat-looms",
   "date": "2026-08-29",
