@@ -62,5 +62,13 @@
   "summary": "The hottest products at Apple right now are not the iPhone, the iPad or a buzzy new show on the company's streaming service.",
   "techmeme_url": "https://www.techmeme.com/260830/p8",
   "title": "Sources: OpenAI bought tens of thousands of Macs for RL, Anthropic rents them, Nvidia sees Apple as its main local AI rival as Macs gain traction with AI devs (Aaron Tilley/The Information)"
+ },
+ "a260830p9": {
+  "article_url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+  "date": "2026-08-30",
+  "permalink_id": "a260830p9",
+  "summary": "Since AI chatbots exploded in popularity and Google started offering AI-generated answers, people who research foreign influence campaigns …",
+  "techmeme_url": "https://www.techmeme.com/260830/p9",
+  "title": "Analysis: AI chatbots challenged or didn't respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time (Huo Jingnan/NPR)"
  }
 }
