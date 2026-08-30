@@ -38,5 +38,29 @@
   "summary": "It's a major warning shot, and might be the last one we get — All opinions are my personal view, and don't represent my employer or fellow investigators.",
   "techmeme_url": "https://www.techmeme.com/260830/p5",
   "title": "The OpenAI/Hugging Face incident feels \"more than 50%\" of the way to a full-blown AI takeover and as AI advances rapidly we may not get another warning shot (Ajeya Cotra/Planned Obsolescence)"
+ },
+ "a260830p6": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-08-26/quantum-computers-promise-breakthroughs-but-risk-a-cybersecurity-crisis?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Nzk4MjcwMCwiZXhwIjoxNzg4NTg3NTAwLCJhcnRpY2xlSWQiOiJUS0REMDlLSUpIOEwwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.spMVoNbGmYuQzzP1tR6-DmqxaNKSg5MFUqRe1JzJbRY",
+  "date": "2026-08-30",
+  "permalink_id": "a260830p6",
+  "summary": "Companies are racing to create devices that could revolutionize finance, supercharge medical and climate research …",
+  "techmeme_url": "https://www.techmeme.com/260830/p6",
+  "title": "A look at the race to build quantum computers, as the tech becomes a geopolitical battleground with potential to transform cybersecurity, finance, and more (Mark Bergen/Bloomberg)"
+ },
+ "a260830p7": {
+  "article_url": "https://www.bloomberg.com/news/newsletters/2026-08-30/john-ternus-management-team-apple-watch-series-12-foldable-iphone-apple-pencil-mtfvmdyu?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODA5ODY0NywiZXhwIjoxNzg4NzAzNDQ3LCJhcnRpY2xlSWQiOiJUS0w1SzFLR0lGUFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.2gXSf2BYyZq9psgCii60olZyvGHj5-CUy_EbBmSl1lA",
+  "date": "2026-08-30",
+  "permalink_id": "a260830p7",
+  "summary": "Also: Apple experimented with a Pencil for the coming foldable iPhone. — When John Ternus becomes Apple's CEO this week …",
+  "techmeme_url": "https://www.techmeme.com/260830/p7",
+  "title": "A look at the management changes John Ternus could make as many key Apple execs prepare to leave in the next few years; Apple tested a Pencil for folding iPhone (Mark Gurman/Bloomberg)"
+ },
+ "a260830p8": {
+  "article_url": "https://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac",
+  "date": "2026-08-30",
+  "permalink_id": "a260830p8",
+  "summary": "The hottest products at Apple right now are not the iPhone, the iPad or a buzzy new show on the company's streaming service.",
+  "techmeme_url": "https://www.techmeme.com/260830/p8",
+  "title": "Sources: OpenAI bought tens of thousands of Macs for RL, Anthropic rents them, Nvidia sees Apple as its main local AI rival as Macs gain traction with AI devs (Aaron Tilley/The Information)"
  }
 }
