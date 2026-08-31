@@ -7,6 +7,70 @@
   "techmeme_url": "https://www.techmeme.com/260831/p1",
   "title": "Shein raised $1.7B in its Hong Kong IPO, giving it a $26B market cap, far below its ~$100B valuation in 2022, as growth slows amid tariffs and competition (Charlotte Yang/Bloomberg)"
  },
+ "a260831p10": {
+  "article_url": "https://www.oneusefulthing.org/p/agency-and-agents",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p10",
+  "summary": "From the Hugging Face Incident to Twilight Factories — Agency is the initiative to act. Increasingly, it is going to determine …",
+  "techmeme_url": "https://www.techmeme.com/260831/p10",
+  "title": "The Hugging Face and Mythos 5 incidents show AI agents can self-organize, raising questions about how much agency they should have and when to seek human input (Ethan Mollick/One Useful Thing)"
+ },
+ "a260831p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/z-ai-sales-miss-estimates-after-china-s-ai-price-war-weighs",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p11",
+  "summary": "Z.AI Co. grew revenue far less than anticipated while its losses persisted, highlighting the mounting cost of fighting the likes of Moonshot …",
+  "techmeme_url": "https://www.techmeme.com/260831/p11",
+  "title": "Z.ai reports H1 2026 revenue up 400% to ~$142M, below its $200M projection; Z.ai's market value surged 800% since its January listing, peaking at $137B (Bloomberg)"
+ },
+ "a260831p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/huawei-profit-decline-widens-after-memory-crunch-takes-toll",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p12",
+  "summary": "Huawei Technologies Co. posted a deep profit decline after the Chinese tech champion grappled with rising memory costs and poured more resources into semiconductor research.",
+  "techmeme_url": "https://www.techmeme.com/260831/p12",
+  "title": "Huawei reports H1 2026 revenue up 10% YoY to ~$69.57B, with net income down 36% to $3.54B; it is now the top smartphone brand in China with a 20%+ market share (Bloomberg)"
+ },
+ "a260831p13": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/chinese-court-freezes-dutch-chipmaker-nexperia-bvs-stakes-four-china-units-2026-08-31/",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p13",
+  "summary": "A Chinese court has frozen up to 2.14 billion yuan ($300 million) of assets held by Dutch chipmaker Nexperia and its equipment arm …",
+  "techmeme_url": "https://www.techmeme.com/260831/p13",
+  "title": "A Chinese court froze up to $300M of assets held by Dutch chipmaker Nexperia, giving its Chinese parent company Wingtech leverage in its bid to regain control (Eduardo Baptista/Reuters)"
+ },
+ "a260831p14": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/tencent-backed-china-chipmaker-enflame-seeks-911-million-in-ipo",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p14",
+  "summary": "Shanghai Enflame Technology Co., backed by Tencent Holdings Ltd., is seeking to raise about 6.12 billion yuan ($911 million) in an initial public offering …",
+  "techmeme_url": "https://www.techmeme.com/260831/p14",
+  "title": "Filing: Tencent-backed AI chipmaker Enflame prices its Shanghai IPO at ~$21 per share, aiming to sell 43M shares and raise ~$911M (Bloomberg)"
+ },
+ "a260831p15": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p15",
+  "summary": "Nvidia Corp. is investing $3.5 billion into MediaTek Inc., deepening collaboration with the Taiwanese chipmaker at a time when it's working to persuade …",
+  "techmeme_url": "https://www.techmeme.com/260831/p15",
+  "title": "Nvidia plans to invest $3.5B into MediaTek through convertible bonds; MediaTek forecasts AI chip revenue of about $2B this year (Bloomberg)"
+ },
+ "a260831p16": {
+  "article_url": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p16",
+  "summary": "OpenAI on Monday announced that its advertising business has hit $1 billion in annualized revenue run rate …",
+  "techmeme_url": "https://www.techmeme.com/260831/p16",
+  "title": "OpenAI says its ad business has hit $1B in annualized revenue run rate and is expanding globally, as it touts its \"diversified business model\" ahead of an IPO (Ashley Capoot/CNBC)"
+ },
+ "a260831p17": {
+  "article_url": "https://www.engadget.com/2246914/instagram-will-demote-ai-generated-influencers-if-they-dont-clearly-label-their-account/",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p17",
+  "summary": "The app isn't cracking down on other kinds of AI slop, though. — Instagram is changing its rules for profiles that feature AI-generated personas.",
+  "techmeme_url": "https://www.techmeme.com/260831/p17",
+  "title": "Instagram says it will reduce the reach of accounts featuring AI-generated personas if they don't use a new \"AI-generated profile\" label (Karissa Bell/Engadget)"
+ },
  "a260831p2": {
   "article_url": "https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e",
   "date": "2026-08-31",
@@ -30,5 +94,45 @@
   "summary": "OpenAI in recent months has started giving some major customers the option of paying only when its AI completes tasks …",
   "techmeme_url": "https://www.techmeme.com/260831/p4",
   "title": "Sources: OpenAI starts letting some major customers pay only when its AI completes tasks, as Salesforce and other AI providers test outcome-based pricing (The Information)"
+ },
+ "a260831p5": {
+  "article_url": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p5",
+  "summary": "Analysts say large paper windfalls on investments in OpenAI, Anthropic and SpaceX have muddied the tech sector's earnings metrics",
+  "techmeme_url": "https://www.techmeme.com/260831/p5",
+  "title": "Big Tech reported Q2 \"other income\" rose significantly to $160B+, driven by investments in AI companies, raising concerns of paper gains overstating the AI boom (Financial Times)"
+ },
+ "a260831p6": {
+  "article_url": "https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9?accessToken=zwAAAaBMm1--kdPxAMkLwThBJdOqp4U7d2kNuQ.MEUCIQD9qTbanNcy4aFsIB63aMwpEWmKhiwKwei0K8iINe9fVAIgaV8LFEZp0Bew8dpQtvf4yTiM1UNRU7vKNYGwHUvRD08&sharetype=gift&token=0062664e-51e4-4d79-9f3f-55c018fd91f2",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p6",
+  "summary": "Detection software offers quick answers, but the risk of false positives and the stigma of being accused are leading to societal mistrust in the written word.",
+  "techmeme_url": "https://www.techmeme.com/260831/p6",
+  "title": "A look at Pangram, the AI detector at the center of disputed accusations against writers, including a pulled novel and a Commonwealth Prize-winning short story (Elaine Moore/Financial Times)"
+ },
+ "a260831p7": {
+  "article_url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p7",
+  "summary": "Andrew Bailey warns group about risk of advanced ‘frontier models’ destabilising the ‘highly interconnected’ financial system",
+  "techmeme_url": "https://www.techmeme.com/260831/p7",
+  "title": "Bank of England Governor warns that advanced AI could destabilize the highly interconnected global financial system via cyber disruption across jurisdictions (Simon Goodley/The Guardian)"
+ },
+ "a260831p8": {
+  "article_url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-31/how-google-is-courting-hollywood-to-use-its-ai-tools",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p8",
+  "summary": "Google is quietly courting Disney, Universal, Warner Bros. Discovery and other studios to license characters and film libraries for its AI tools …",
+  "techmeme_url": "https://www.techmeme.com/260831/p8",
+  "title": "Sources: Google approached Disney, Universal, and other studios to license characters and films for its AI tools, but legal and union concerns stalled deals (Wendy Lee/Los Angeles Times)"
+ },
+ "a260831p9": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/chatgpt-reddit-rddt-roblox-rblx-face-eu-digital-services-act-rules",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p9",
+  "summary": "ChatGPT, Reddit Inc. and video game company Roblox Corp. will face stricter European Union scrutiny after surpassing a threshold of 45 million monthly users in the bloc.",
+  "techmeme_url": "https://www.techmeme.com/260831/p9",
+  "title": "The EU designates ChatGPT, Reddit, and Roblox as very large online platforms after each hit 45M monthly users in the bloc, opening them up to more DSA scrutiny (Gian Volpicelli/Bloomberg)"
  }
 }
