@@ -1,0 +1,34 @@
+{
+ "a260831p1": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/shein-at-26-billion-still-stirs-unease-over-growth-outlook",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p1",
+  "summary": "Shein Global Holdings Ltd. completed its initial public offering at a valuation that's a fraction of what the company was once worth.",
+  "techmeme_url": "https://www.techmeme.com/260831/p1",
+  "title": "Shein raised $1.7B in its Hong Kong IPO, giving it a $26B market cap, far below its ~$100B valuation in 2022, as growth slows amid tariffs and competition (Charlotte Yang/Bloomberg)"
+ },
+ "a260831p2": {
+  "article_url": "https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p2",
+  "summary": "SB Energy's agreement deepens its financial ties with the artificial-intelligence company in an effort to build out projects",
+  "techmeme_url": "https://www.techmeme.com/260831/p2",
+  "title": "IPO documents: SoftBank's SB Energy plans to file for an IPO as soon as this week, aiming to raise $5B to $7B, and has awarded OpenAI warrants worth ~$5.5B (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a260831p3": {
+  "article_url": "https://openclaw.ai/blog/openclaw-2-accidentally/",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p3",
+  "summary": "How a push for simpler setup and a first-class browser experience grew into OpenClaw 2.0. — Today we released by far the largest update in the history of OpenClaw.",
+  "techmeme_url": "https://www.techmeme.com/260831/p3",
+  "title": "OpenClaw releases OpenClaw 2.0, its largest update to date built by 933 contributors, with a simplified installation process, a rebuilt browser app, and more (Hannes Rudolph/OpenClaw Blog)"
+ },
+ "a260831p4": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p4",
+  "summary": "OpenAI in recent months has started giving some major customers the option of paying only when its AI completes tasks …",
+  "techmeme_url": "https://www.techmeme.com/260831/p4",
+  "title": "Sources: OpenAI starts letting some major customers pay only when its AI completes tasks, as Salesforce and other AI providers test outcome-based pricing (The Information)"
+ }
+}

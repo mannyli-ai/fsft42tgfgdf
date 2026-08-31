@@ -7,6 +7,54 @@
   "techmeme_url": "https://www.techmeme.com/260830/p1",
   "title": "Grindr CEO George Arison plans premium services push, including a product costing up to $350 per month; Grindr averaged 1.4M paying users among 15M MAUs in Q2 (Kieran Smith/Financial Times)"
  },
+ "a260830p10": {
+  "article_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+  "date": "2026-08-30",
+  "permalink_id": "a260830p10",
+  "summary": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions …",
+  "techmeme_url": "https://www.techmeme.com/260830/p10",
+  "title": "Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on user PCs hijacked sessions to drain usage (Mayank Parmar/BleepingComputer)"
+ },
+ "a260830p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODEyMzY3MiwiZXhwIjoxNzg4NzI4NDcyLCJhcnRpY2xlSWQiOiJUS0xQMDFLSUpIOEswMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.wriOmsDtkJHaUaImJsL5A2bRfmmr7PAEFdQSbFvG7kI",
+  "date": "2026-08-30",
+  "permalink_id": "a260830p11",
+  "summary": "Apple's changing of the guard will be gradual, with outgoing CEO Tim Cook handling Trump, China. — Stepping into his new role …",
+  "techmeme_url": "https://www.techmeme.com/260830/p11",
+  "title": "John Ternus inherits rising component costs, staff retention issues, efforts to catch up in AI, and other challenges as he replaces Tim Cook on September 1 (Mark Gurman/Bloomberg)"
+ },
+ "a260830p12": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/08/26/nvidia-agentrys-agentic-chip-design",
+  "date": "2026-08-30",
+  "permalink_id": "a260830p12",
+  "summary": "Agentrys, a Nvidia alum-led chip design startup, raised $24.5 million in funding, CEO Mark Ren tells Axios Pro exclusively. … - The platform allows users to create their own agents …",
+  "techmeme_url": "https://www.techmeme.com/260830/p12",
+  "title": "Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek (Chris Metinko/Axios)"
+ },
+ "a260830p13": {
+  "article_url": "https://www.wsj.com/economy/global/how-the-ai-investment-craze-is-keeping-the-global-economy-afloat-0d62c000?st=L9yWzY&reflink=desktopwebshare_permalink",
+  "date": "2026-08-30",
+  "permalink_id": "a260830p13",
+  "summary": "Growth is holding up despite renewed tensions over trade, geopolitics and bond markets, though the AI boom's outsize role is a growing concern",
+  "techmeme_url": "https://www.techmeme.com/260830/p13",
+  "title": "The US-led AI boom is offsetting the global growth squeeze from the energy crunch; ING says the boom accounts for about a third of recent US economic growth (Jason Douglas/Wall Street Journal)"
+ },
+ "a260830p14": {
+  "article_url": "https://apnews.com/article/lake-trump-ontario-america-7c5c9776d72cb8e8d782e05ec6e7332b",
+  "date": "2026-08-30",
+  "permalink_id": "a260830p14",
+  "summary": "Google has updated its maps application to rename Lake Ontario as ‘Lake America’ for users in the United States …",
+  "techmeme_url": "https://www.techmeme.com/260830/p14",
+  "title": "Google updates Maps to show Lake America for US users, Lake Ontario for Canadian users, and both for the rest of the world, citing the US GNIS' name change (Associated Press)"
+ },
+ "a260830p15": {
+  "article_url": "https://asia.nikkei.com/spotlight/supply-chain/nvidia-supplier-unimicron-probed-over-allegedly-relabeling-china-made-parts",
+  "date": "2026-08-30",
+  "permalink_id": "a260830p15",
+  "summary": "TAIPEI — Taiwanese prosecutors said they are investigating Unimicron, a key supplier to Nvidia and Intel, over allegations …",
+  "techmeme_url": "https://www.techmeme.com/260830/p15",
+  "title": "Taiwanese authorities raided the office of PCB maker Unimicron, an Nvidia and Intel supplier, alleging it illegally labeled China-made parts as made in Taiwan (Cheng Ting-Fang/Nikkei Asia)"
+ },
  "a260830p2": {
   "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169?st=nLQELH&reflink=desktopwebshare_permalink",
   "date": "2026-08-30",
