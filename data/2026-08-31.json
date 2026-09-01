@@ -215,6 +215,30 @@
   "techmeme_url": "https://www.techmeme.com/260831/p41",
   "title": "Florida says it is revoking permits for Flock cameras and similar license-plate readers on state roads and no longer intends to issue such permits (Ryan Gillespie/Orlando Sentinel)"
  },
+ "a260831p42": {
+  "article_url": "https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1?st=Nm2zbn&reflink=article_copyURL_share",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p42",
+  "summary": "Nvidia will supply chips to Texas data center and hold the lease, another example of the company using its financial might to boost a customer",
+  "techmeme_url": "https://www.techmeme.com/260831/p42",
+  "title": "Sources: Anthropic has signed a $35B cloud deal with Nvidia-backed Lambda; Nvidia will hold the lease on and supply chips to a Texas data center built by Hut 8 (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a260831p43": {
+  "article_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p43",
+  "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems.",
+  "techmeme_url": "https://www.techmeme.com/260831/p43",
+  "title": "Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking (Anthropic)"
+ },
+ "a260831p44": {
+  "article_url": "https://www.upstartsmedia.com/p/the-good-bad-ugly-of-24-hour-ai-news",
+  "date": "2026-08-31",
+  "permalink_id": "a260831p44",
+  "summary": "Inside the good, the bad, and the ugly of a 24-hour live AI broadcast experiment by video startup Mirage.",
+  "techmeme_url": "https://www.techmeme.com/260831/p44",
+  "title": "AI startup Mirage streamed a 24-hour \"live\" AI news show on X on August 11, which cost ~$50K in tokens, featuring realistic avatars that struggled to converse (Alex Konrad/Upstarts Media)"
+ },
  "a260831p5": {
   "article_url": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933",
   "date": "2026-08-31",
