@@ -167,6 +167,46 @@
   "techmeme_url": "https://www.techmeme.com/260901/p3",
   "title": "Study: ~33% of UK adults say they used illegal streaming services in the past three months, costing the sports, TV, and film industries ~£1.4B in annual revenue (Daniel Thomas/Financial Times)"
  },
+ "a260901p35": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/anthropic-says-new-fable-5-1-ai-model-is-cheaper-better-at-coding",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p35",
+  "summary": "Anthropic PBC is releasing a new version of its powerful Fable artificial intelligence model that it says is better at coding and science tasks …",
+  "techmeme_url": "https://www.techmeme.com/260901/p35",
+  "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Rachel Metz/Bloomberg)"
+ },
+ "a260901p36": {
+  "article_url": "https://www.cnbc.com/2026/09/01/anthropic-data-retention.html",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p36",
+  "summary": "Anthropic on Tuesday announced it will walk back a controversial data retention policy after “a lot of feedback” from its business customers …",
+  "techmeme_url": "https://www.techmeme.com/260901/p36",
+  "title": "Anthropic launches Enterprise Frontier Safeguards to let businesses control how their data is reviewed, stored, and managed, after pushback from customers (Ashley Capoot/CNBC)"
+ },
+ "a260901p37": {
+  "article_url": "https://www.axios.com/2026/09/01/aslan-agentic-ai-national-security-funding",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p37",
+  "summary": "Aslan, a startup building AI agents that act as operatives in national security missions, is publicly launching today after raising $20.8 million …",
+  "techmeme_url": "https://www.techmeme.com/260901/p37",
+  "title": "Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M (Sam Sabin/Axios)"
+ },
+ "a260901p38": {
+  "article_url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p38",
+  "summary": "It's only the first day of September 2026, but the month and fall season are already off to the races in AI land …",
+  "techmeme_url": "https://www.techmeme.com/260901/p38",
+  "title": "Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues (Carl Franzen/VentureBeat)"
+ },
+ "a260901p39": {
+  "article_url": "https://www.worldlabs.ai/blog/atlas",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p39",
+  "summary": "World models generate, reconstruct, and simulate any possible world. They understand how worlds appear, behave …",
+  "techmeme_url": "https://www.techmeme.com/260901/p39",
+  "title": "Fei-Fei Li's World Labs unveils Atlas, a multimodal world model that generates image/video frames with pixel-perfect camera control and reconstructs them in 3D (World Labs)"
+ },
  "a260901p4": {
   "article_url": "https://www.theinformation.com/",
   "date": "2026-09-01",
@@ -174,6 +214,86 @@
   "summary": "Chinese AI firm Z.ai's revenue in the first half jumped nearly fivefold from a year earlier to 954 million yuan …",
   "techmeme_url": "https://www.techmeme.com/260901/p4",
   "title": "Hong Kong-listed Z.ai reports H1 2026 revenue up 5x YoY to ~$142M, with \"open platform and API revenue\" up 28x to ~$122M, and net loss down 12% YoY to ~$308M (Juro Osawa/The Information)"
+ },
+ "a260901p40": {
+  "article_url": "https://www.theinformation.com/articles/wafer-inference-provider-uses-non-nvidia-chips-lands-acquisition-offers-200-million-plus-valuation",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p40",
+  "summary": "Developers and chip designers are increasingly upbeat about the benefits of using AI to supercharge the process of designing and optimizing AI chips …",
+  "techmeme_url": "https://www.techmeme.com/260901/p40",
+  "title": "Wafer, which makes AI agents that optimize open-source models for a business's workload, raised a $40M Series A, a source says at a $200M+ valuation (Stephanie Palazzolo/The Information)"
+ },
+ "a260901p41": {
+  "article_url": "https://research.meta.ai/blog/introducing-muse-voice-transcribe",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p41",
+  "summary": "Experience Muse Voice Transcribe in real time … We're excited to introduce Muse Voice Transcribe, the first real …",
+  "techmeme_url": "https://www.techmeme.com/260901/p41",
+  "title": "Meta launches Muse Voice Transcribe, MSL's first real-time audio perception model, with streaming automatic speech recognition, trained with 70+ languages (Meta AI Research)"
+ },
+ "a260901p42": {
+  "article_url": "http://www.forbes.com/sites/annatong/2026/09/01/afterquery-becomes-ycs-fastest-unicorn-at-32-billion/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p42",
+  "summary": "Twenty three year-old Spencer Mateega pivoted his YC startup into the fastest unicorn in the accelerator's history, fueling …",
+  "techmeme_url": "https://www.techmeme.com/260901/p42",
+  "title": "Sources: AfterQuery, which sells coding and finance training data to AI labs, has hit a valuation of $3.2B, up from $300M in April, and is profitable (Anna Tong/Forbes)"
+ },
+ "a260901p43": {
+  "article_url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p43",
+  "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+  "techmeme_url": "https://www.techmeme.com/260901/p43",
+  "title": "OpenAI says it plans to publicly release a version of Astra \"soon\" but will make its advanced cyber capabilities available only to select partners (Wired)"
+ },
+ "a260901p44": {
+  "article_url": "https://www.axios.com/2026/09/01/openai-astras-cyber-critical",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p44",
+  "summary": "OpenAI said Tuesday that it plans to release its latest model — Astra — soon, but its most advanced cybersecurity features …",
+  "techmeme_url": "https://www.techmeme.com/260901/p44",
+  "title": "OpenAI says Astra is its first model to reach its \"Critical\" cyber threshold and warns safeguards may mistakenly flag legitimate activity as cyber misuse (Ina Fried/Axios)"
+ },
+ "a260901p45": {
+  "article_url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p45",
+  "summary": "Dell Technologies shares moved 9% higher in extended trading on Tuesday after the computer maker reported results and a forecast that easily cleared Wall Street expectations.",
+  "techmeme_url": "https://www.techmeme.com/260901/p45",
+  "title": "Dell reports Q2 revenue up 58% YoY to $46.97B, vs. $44.92B est., and forecasts $192B in FY 2027 revenue, vs. $172.67B est.; DELL jumps 9%+ after hours (Jordan Novet/CNBC)"
+ },
+ "a260901p46": {
+  "article_url": "https://www.businessinsider.com/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p46",
+  "summary": "Meta is migrating to Slack for internal communications, a memo from AI chief Alexandr Wang says.",
+  "techmeme_url": "https://www.techmeme.com/260901/p46",
+  "title": "Memo: Alexandr Wang says Meta is switching from Google Chat to Slack for internal communications as Slack is the \"strongest platform available today for agents\" (Business Insider)"
+ },
+ "a260901p47": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/apple-maps-renames-lake-ontario-lake-america-after-trump-order?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODI5NDU2MywiZXhwIjoxNzg4ODk5MzYzLCJhcnRpY2xlSWQiOiJUS1A1QjhLSVAzSUswMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.QuyC3i17_sq9MQOGc3etCuMclgEz2ZWvZ2Dg-JTfAj0",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p47",
+  "summary": "Apple Inc. renamed Lake Ontario “Lake America” on its maps service, following a similar move by Alphabet Inc.'s Google, in the wake of an order from US President Donald Trump.",
+  "techmeme_url": "https://www.techmeme.com/260901/p47",
+  "title": "Apple updates Apple Maps to show Lake America for US users, Lake Ontario for Canadian users, and both for the rest of the world, following Trump's EO (Mark Gurman/Bloomberg)"
+ },
+ "a260901p48": {
+  "article_url": "https://www.pcworld.com/article/3224834/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p48",
+  "summary": "Aside from being more powerful than their predecessors, Claude Fable 5.1 and Mythos 5.1 will add invisible watermarks all their text and file outputs.",
+  "techmeme_url": "https://www.techmeme.com/260901/p48",
+  "title": "Claude Fable 5.1 and Mythos 5.1 are Anthropic's first models to watermark text outputs; a detection API is available to eligible groups as required under EU law (Ben Patterson/PCWorld)"
+ },
+ "a260901p49": {
+  "article_url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p49",
+  "summary": "Palo Alto Networks surpassed fiscal fourth-quarter estimates as mounting artificial intelligence risks boost demand for its cybersecurity tools.",
+  "techmeme_url": "https://www.techmeme.com/260901/p49",
+  "title": "Palo Alto Networks reports Q4 revenue up 34% YoY to $3.41B, vs. $3.35B est., and acquires Console, which provides AI-powered IT service management (Samantha Subin/CNBC)"
  },
  "a260901p5": {
   "article_url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
