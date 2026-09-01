@@ -31,6 +31,46 @@
   "techmeme_url": "https://www.techmeme.com/260901/p12",
   "title": "A look back at Tim Cook's 15-year tenure: Apple silicon, wearables, a $1T market cap, privacy, Apple Vision Pro, Apple Car, AI, App Store battles, and Trump (Emma Roth/The Verge)"
  },
+ "a260901p15": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/roku-launches-its-first-oled-tvs-with-prices-starting-at-999",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p15",
+  "summary": "Roku Inc. introduced its first self-branded smart TVs with organic light emitting diode, or OLED, display technology …",
+  "techmeme_url": "https://www.techmeme.com/260901/p15",
+  "title": "Roku unveils its first self-branded OLED smart TVs starting at $999, in 55\" and 65\" 120Hz models, and $1,299 for a 144Hz model, sold exclusively via Amazon (Chris Welch/Bloomberg)"
+ },
+ "a260901p16": {
+  "article_url": "https://www.theverge.com/news/987247/mozilla-firefox-ad-blocker-ios-launch",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p16",
+  "summary": "Mozilla is using Apple's WebKit Content Blocker technology and the EasyList filter to block ads in Firefox.",
+  "techmeme_url": "https://www.techmeme.com/260901/p16",
+  "title": "Mozilla launches built-in ad blocking for Firefox on iOS, using Apple's WebKit Content Blocker and the EasyList filter to block third-party ads and trackers (Tom Warren/The Verge)"
+ },
+ "a260901p17": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/saudi-video-game-giant-savvy-ceo-brian-ward-is-stepping-down?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODI2NzQ1MSwiZXhwIjoxNzg4ODcyMjUxLCJhcnRpY2xlSWQiOiJUS05DSklUOTZPU0kwMCIsImJjb25uZWN0SWQiOiJGRUIzODlCNUI2ODI0RTY0QjY5MENEODE1RTBDREZGRCJ9.y225ht8jDlTbFQN7glMJ1PY4kfglpkZsnfo3vBz4dd4",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p17",
+  "summary": "Savvy Games Group Chief Executive Officer Brian Ward, who oversaw the Saudi Arabian government's $38 billion investment in the video-game industry …",
+  "techmeme_url": "https://www.techmeme.com/260901/p17",
+  "title": "Memo: Savvy Games Group CEO Brian Ward, who oversaw the Saudi Arabian government's $38B investment in the video game industry since 2021, is stepping down (Cecilia D'Anastasio/Bloomberg)"
+ },
+ "a260901p18": {
+  "article_url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p18",
+  "summary": "Unacademy, once one of India's most valuable edtech startups, has been acquired by rival upGrad at a valuation of just over $200 million …",
+  "techmeme_url": "https://www.techmeme.com/260901/p18",
+  "title": "Indian edtech startup upGrad closes its acquisition of rival Unacademy in an all-stock deal valuing Unacademy at ~$206M, down from its peak $3.5B valuation (Jagmeet Singh/TechCrunch)"
+ },
+ "a260901p19": {
+  "article_url": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p19",
+  "summary": "Alphabet's Waymo is expanding its commercial service, and Amazon's Zoox said it plans to test in more U.S. cities, as the nascent robotaxi market gains momentum.",
+  "techmeme_url": "https://www.techmeme.com/260901/p19",
+  "title": "Waymo starts offering driverless rides to customers in San Diego, Tampa, Florida, and Denver; Amazon's Zoox says it will start testing in Houston and San Diego (Lora Kolodny/CNBC)"
+ },
  "a260901p2": {
   "article_url": "https://www.reuters.com/legal/litigation/openai-says-apple-has-only-itself-blame-trade-secret-fight-2026-09-01/",
   "date": "2026-09-01",
@@ -38,6 +78,86 @@
   "summary": "OpenAI denied Apple's allegations of trade secret theft on Monday, saying the iPhone maker failed to show …",
   "techmeme_url": "https://www.techmeme.com/260901/p2",
   "title": "Filing: OpenAI denies Apple's allegations of trade secret theft, saying \"this dispute is a mess of Apple's own making, and it is trying to blame everyone else\" (Deepa Seetharaman/Reuters)"
+ },
+ "a260901p20": {
+  "article_url": "https://www.thedeepview.com/articles/can-ai-crack-interstellar-travel",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p20",
+  "summary": "AI is best known for transforming coding. Now, one startup is making the case for physics.",
+  "techmeme_url": "https://www.techmeme.com/260901/p20",
+  "title": "PSI, which aims to use AI \"to industrialize the discovery of new physics\" including cracking interstellar travel, emerges from stealth with a $58M seed (Sabrina Ortiz/The Deep View)"
+ },
+ "a260901p21": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/sonos-debuts-449-ace-ultra-headphones-699-beam-ultra-soundbar-chatgpt-tie-in?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODI3MzkwNiwiZXhwIjoxNzg4ODc4NzA2LCJhcnRpY2xlSWQiOiJUS09XUVBWVFREMEEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.rCH_iYEMZYXKm5tiFOPgVSJNpynIGH0Do2sRMMwTz0U",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p21",
+  "summary": "As the company opens its platform to AI assistants, Chief Executive Officer Tom Conrad wants to reposition Sonos as something bigger than a speaker brand.",
+  "techmeme_url": "https://www.techmeme.com/260901/p21",
+  "title": "Sonos opens its platform to third-party AI assistants, upgrades Sonos 27voice assistant with an in-house LLM, and plans to let users create their own AI agents (Chris Welch/Bloomberg)"
+ },
+ "a260901p22": {
+  "article_url": "https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p22",
+  "summary": "And local processing could keep costs down too. — Back in February, debuted Perplexity Computer. Like Claude Cowork …",
+  "techmeme_url": "https://www.techmeme.com/260901/p22",
+  "title": "Perplexity launches Hybrid Compute, which splits workloads between frontier cloud models like Opus 5 and local LLMs, for all users of its Mac app (Igor Bonifacic/Engadget)"
+ },
+ "a260901p23": {
+  "article_url": "https://www.reuters.com/legal/transactional/gopro-be-acquired-by-starman-optical-285-million-deal-2026-09-01/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p23",
+  "summary": "Action camera maker GoPro (GPRO.O) said on Tuesday it is being acquired by Starman Optical in an all-cash deal valued at $285 million.",
+  "techmeme_url": "https://www.techmeme.com/260901/p23",
+  "title": "Starman Optical agrees to acquire GoPro in an all-cash deal valued at $285M, a premium of 29.5% to GPRO's last close; GoPro hit a market cap of $4B in 2014 (Prathik Jayaprakash/Reuters)"
+ },
+ "a260901p24": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p24",
+  "summary": "Private equity firm Epiris has agreed to buy Gamma Communications Plc for about £1 billion ($1.4 billion) …",
+  "techmeme_url": "https://www.techmeme.com/260901/p24",
+  "title": "Private equity firm Epiris agrees to acquire European enterprise comms provider Gamma Communications for ~£1B, a 53% premium to Gamma's share price on April 7 (Shona Ghosh/Bloomberg)"
+ },
+ "a260901p25": {
+  "article_url": "https://www.calcalistech.com/ctechnews/article/h1vdhnvoge",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p25",
+  "summary": "The Israeli startup is taking aim at the cost and complexity of observability by putting autonomous agents directly inside production environments.",
+  "techmeme_url": "https://www.techmeme.com/260901/p25",
+  "title": "DataAgent, which is developing AI agents that autonomously fix failures inside companies' own cloud infrastructure, emerges from stealth with a $10M pre-seed (CTech)"
+ },
+ "a260901p26": {
+  "article_url": "https://www.wsj.com/finance/banking/these-banks-are-banding-together-to-launch-a-stablecoin-6de07eff?st=K8gDPu&reflink=desktopwebshare_permalink",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p26",
+  "summary": "Twenty-one firms, including several megabanks, plan to establish a company that would help guard against competition from digital assets",
+  "techmeme_url": "https://www.techmeme.com/260901/p26",
+  "title": "A consortium of 21 banks, including Bank of America, Citigroup, and Goldman Sachs, says it will establish a company and launch its stablecoin venture in H1 2027 (Gina Heeb/Wall Street Journal)"
+ },
+ "a260901p27": {
+  "article_url": "https://www.calcalistech.com/ctechnews/article/r13apdnugg",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p27",
+  "summary": "The Israeli startup emerged from stealth with research showing thousands of AI add-ons rely on untrusted sources …",
+  "techmeme_url": "https://www.techmeme.com/260901/p27",
+  "title": "Air Security, which builds a security service for extensions and other tools installed on AI agents, emerges from stealth with $50M led by Sequoia and Greenoaks (Meir Orbach/CTech)"
+ },
+ "a260901p28": {
+  "article_url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p28",
+  "summary": "This new image generation and editing app is bringing graphic design to Google Workspace.﻿",
+  "techmeme_url": "https://www.techmeme.com/260901/p28",
+  "title": "Google launches Google Pics, a creative design suite powered by Gemini and Nano Banana to compete with Canva and Adobe Express, available as a Workspace app (Jess Weatherbed/The Verge)"
+ },
+ "a260901p29": {
+  "article_url": "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p29",
+  "summary": "SB Energy, the artificial intelligence power infrastructure company backed by Softbank, OpenAI and Nvidia …",
+  "techmeme_url": "https://www.techmeme.com/260901/p29",
+  "title": "AI power infrastructure company SB Energy, which is backed by SoftBank, OpenAI, and Nvidia, files for an IPO, and says it is \"substantially dependent\" on OpenAI (CJ Haddad/CNBC)"
  },
  "a260901p3": {
   "article_url": "https://www.ft.com/content/40ea5643-865a-4443-b591-3ecd0458078b",
