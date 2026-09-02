@@ -39,6 +39,22 @@
   "techmeme_url": "https://www.techmeme.com/260902/p13",
   "title": "Acer unveils the Swift Blade 14, an ultralight laptop weighing 1.76lbs with Intel Wildcat Lake processors, and the Swift Air 16, set to launch in December (Antonio G. Di Benedetto/The Verge)"
  },
+ "a260902p18": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p18",
+  "summary": "Valencia, Spain-based startup iPronics said Tuesday that it has raised $125 million in venture capital with participation from Nvidia …",
+  "techmeme_url": "https://www.techmeme.com/260902/p18",
+  "title": "Valencia-based iPronics raised $125M co-led by Maverick Silicon and Light Street, with participation from Nvidia, to develop optical circuit switch tech (Stephen Nellis/Reuters)"
+ },
+ "a260902p19": {
+  "article_url": "https://www.axios.com/2026/09/02/aitan-israel-stealth-raise-robotics-dell",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p19",
+  "summary": "“Warfare has totally transformed over the past few years,” co-founder Daniel Almog told Axios.",
+  "techmeme_url": "https://www.techmeme.com/260902/p19",
+  "title": "New Jersey-based Aitan, which offers \"robotic sovereignty as a service\" and \"edge AI weapon systems\", emerges from stealth with $41M led by Deep33 and Dell (Colin Demarest/Axios)"
+ },
  "a260902p2": {
   "article_url": "https://www.ft.com/content/22bfa989-7477-434a-aa53-6fbfe6cd0335",
   "date": "2026-09-02",
@@ -47,6 +63,86 @@
   "techmeme_url": "https://www.techmeme.com/260902/p2",
   "title": "Frontier AI labs are stepping up biological risk testing, which is harder than cybersecurity testing, where capabilities can be tested in digital environments (Financial Times)"
  },
+ "a260902p20": {
+  "article_url": "https://www.wsj.com/us-news/law/openai-lawsuits-mount-over-canadian-school-shooting-ca24c762?st=JmNUeS&reflink=desktopwebshare_permalink",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p20",
+  "summary": "New lawsuits add to list of cases in which the chatbot maker faces questions about the safety of its products",
+  "techmeme_url": "https://www.techmeme.com/260902/p20",
+  "title": "OpenAI is facing a new round of lawsuits from witnesses and victims of the February mass shooting in a Canadian town; the suspect spent days talking to ChatGPT (Georgia Wells/Wall Street Journal)"
+ },
+ "a260902p21": {
+  "article_url": "https://www.wsj.com/pro/venture-capital/ai-startup-wonderful-hits-5-billion-valuation-plans-1-000-strong-team-3d18bebe",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p21",
+  "summary": "Founded just last year, the startup already has 650 employees and is expanding its forward-deployed engineering teams around the world",
+  "techmeme_url": "https://www.techmeme.com/260902/p21",
+  "title": "Wonderful, which helps enterprises deploy AI, raised a $550M Series C led by Insight at a $5B valuation; investors also paid $170M for shares from employees (Yuliya Chernova/Wall Street Journal)"
+ },
+ "a260902p22": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/02/conveo-consumer-insights-dst",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p22",
+  "summary": "Conveo, which helps big brands understand market trends, raised a $50 million Series A led by DST Global, Conveo CEO Dieter De Mesmaeker tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260902/p22",
+  "title": "Conveo, which uses AI to conduct customer interviews in 15 languages and analyzes transcripts for market insights, raised a $50M Series A led by DST Global (Chris Metinko/Axios)"
+ },
+ "a260902p23": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p23",
+  "summary": "Alphabet Inc.'s Google doesn't have to sell off its advertising exchange and instead must make its ad tech tools work with those operated by rivals …",
+  "techmeme_url": "https://www.techmeme.com/260902/p23",
+  "title": "A US federal judge rules that Google does not have to sell off its ad exchange and instead must make its ad tech tools work with those operated by rivals (Bloomberg)"
+ },
+ "a260902p24": {
+  "article_url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p24",
+  "summary": "Customers can now use Adobe's apps like Firefly, Adobe Express, Photoshop, Premiere, Acrobat, InDesign, Illustrator, Stock, Lightroom …",
+  "techmeme_url": "https://www.techmeme.com/260902/p24",
+  "title": "Adobe launches Adobe for Slack, making 70+ creative and productivity tools, including Firefly, Photoshop, and Express, available via Slackbot prompts (Ivan Mehta/TechCrunch)"
+ },
+ "a260902p25": {
+  "article_url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p25",
+  "summary": "The Trump administration has filed a brief supporting OpenAI in its dispute with the New York Times (NYT.N) and several other newspapers …",
+  "techmeme_url": "https://www.techmeme.com/260902/p25",
+  "title": "The Trump administration files a brief supporting OpenAI in its dispute with NYT, saying training LLMs on copyrighted works generally constitutes fair use (Blake Brittain/Reuters)"
+ },
+ "a260902p26": {
+  "article_url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p26",
+  "summary": "When AI security startup HiddenLayer raised its $50 million Series A three years ago, one of the big questions in the space was whether …",
+  "techmeme_url": "https://www.techmeme.com/260902/p26",
+  "title": "Austin-based HiddenLayer, which makes security tools to protect AI models, agents, and workflows, raised a $100M Series B led by Delta-v Capital (Ram Iyer/TechCrunch)"
+ },
+ "a260902p27": {
+  "article_url": "https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p27",
+  "summary": "After the last model release three weeks ago, Google today is rolling out Gemini 3.8 Flash. This marks the third Flash update in three months.",
+  "techmeme_url": "https://www.techmeme.com/260902/p27",
+  "title": "Google launches Gemini 3.8 Flash, three weeks after 3.7 Flash launch, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31 (Abner Li/9to5Google)"
+ },
+ "a260902p28": {
+  "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p28",
+  "summary": "Our newest Gemini models deliver next-generation intelligence for agentic workflows and cybersecurity.",
+  "techmeme_url": "https://www.techmeme.com/260902/p28",
+  "title": "Google launches Gemini 3.8 Flash Cyber for partners in its new Fairwind Program, and says Gemini 3.8 Flash beats Opus 5 and GPT-5.6 Sol on some benchmarks (Google)"
+ },
+ "a260902p29": {
+  "article_url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p29",
+  "summary": "﻿One of YouTube's biggest creators has a new deal to promote Gemini and Google Health.",
+  "techmeme_url": "https://www.techmeme.com/260902/p29",
+  "title": "MrBeast, whose YouTube channel recently hit 500M subs, will feature Gemini, Google Health, and the Fitbit Air in his videos as part of a multi-year Google deal (Stevie Bonifield/The Verge)"
+ },
  "a260902p3": {
   "article_url": "https://newsletter.semianalysis.com/p/koreas-trillion-dollar-sovereign",
   "date": "2026-09-02",
@@ -54,6 +150,30 @@
   "summary": "Korea hosts a Squid Games, National AI Tournament, the best non-Chinese open source model gets eliminated, why Nvidia needs open source, implications for Hynix and Samsung",
   "techmeme_url": "https://www.techmeme.com/260902/p3",
   "title": "A look at South Korea's sovereign AI efforts, including its planned $919B AI infrastructure investment and Nvidia's expanded ties with Samsung and SK Hynix (SemiAnalysis)"
+ },
+ "a260902p30": {
+  "article_url": "https://www.tectonicdefense.com/the-army-awards-palantir-and-anduril-192m-for-eight-titan-mobile-ground-stations/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p30",
+  "summary": "Watch out, world. The US Army's kill chain is going mobile. — On Tuesday, the Army awarded two contracts worth a combined $192M …",
+  "techmeme_url": "https://www.techmeme.com/260902/p30",
+  "title": "The US Army awards $192M in contracts to Palantir and Anduril to produce eight TITAN AI-powered mobile ground stations, to be delivered over the next 18 months (Barratt Dewey/Tectonic Defense)"
+ },
+ "a260902p31": {
+  "article_url": "https://www.wsj.com/pro/private-equity/blackstone-backs-cybersecurity-startup-huskeys-to-fight-unwanted-ai-traffic-410c5c6a?st=RxHExB&reflink=desktopwebshare_permalink",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p31",
+  "summary": "The company, valued at more than $100 million, uses agentic AI to block threats — Blackstone is placing an early bet on Huskeys …",
+  "techmeme_url": "https://www.techmeme.com/260902/p31",
+  "title": "Huskeys, which uses agentic AI to help companies block AI-driven attacks, raised a $27M Series A led by Blackstone Innovations Investments at a $100M+ valuation (Maria Armental/Wall Street Journal)"
+ },
+ "a260902p32": {
+  "article_url": "https://www.axios.com/2026/09/02/lutnick-anthropic-trump",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p32",
+  "summary": "“They've done what we asked. … - “Really excited for our conversation …",
+  "techmeme_url": "https://www.techmeme.com/260902/p32",
+  "title": "Commerce Secretary Howard Lutnick says \"we trust Anthropic\" as they are \"back on the right side\" with the administration and that \"they've done what we asked\" (Maria Curi/Axios)"
  },
  "a260902p4": {
   "article_url": "https://www.hyperdimensional.co/p/on-the-loose",
