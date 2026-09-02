@@ -303,6 +303,86 @@
   "techmeme_url": "https://www.techmeme.com/260901/p5",
   "title": "Microsoft says it is testing a fix to an outage affecting Exchange Online and Outlook, lasting for 17+ hours from around 11:30AM ET on Monday (Sarah Perez/TechCrunch)"
  },
+ "a260901p50": {
+  "article_url": "https://www.reuters.com/legal/litigation/us-urges-hands-off-approach-ai-regulation-g20-tech-meeting-2026-09-01/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p50",
+  "summary": "The U.S. pressed G20 members on Tuesday to take a hands-off approach to AI regulation and avoid creating new rules …",
+  "techmeme_url": "https://www.techmeme.com/260901/p50",
+  "title": "The US urged G20 members to avoid writing entirely new AI regulations, and instead focus on writing rules for \"novel\" situations that involve the tech (Reuters)"
+ },
+ "a260901p51": {
+  "article_url": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052?st=aeqCY9&reflink=desktopwebshare_permalink",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p51",
+  "summary": "Internal tests of Gemini 3.8 Flash show progress in an area where the company has lagged behind Anthropic and OpenAI.",
+  "techmeme_url": "https://www.techmeme.com/260901/p51",
+  "title": "Sources: Google plans to release Gemini 3.8 Flash as soon as Wednesday; Gemini 4 has done well on pre-training evals but still needs to complete post-training (Erin Woo/Wall Street Journal)"
+ },
+ "a260901p52": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/apple-sets-pay-targets-at-58-million-for-ternus-47-million-for-cook?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODI5Njc0OSwiZXhwIjoxNzg4OTAxNTQ5LCJhcnRpY2xlSWQiOiJUS1BENFhUOTZPU0kwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.ClaPY0Y9ZGmn9eW2k7K8JSSgmRDQFruIwAKzzAUmJTA",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p52",
+  "summary": "Apple Inc. said that new Chief Executive Officer John Ternus will get a compensation package worth about $58 million in fiscal 2027 …",
+  "techmeme_url": "https://www.techmeme.com/260901/p52",
+  "title": "Filing: Apple says John Ternus will get a compensation package worth ~$58M in FY 2027, while Tim Cook's role as executive chairman will pay ~$47M (Mark Gurman/Bloomberg)"
+ },
+ "a260901p53": {
+  "article_url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p53",
+  "summary": "Let's be frank: Some of Google's recent Android feature Drops have been duds, offering little more than an expansion of Gemini summaries and chat functions.",
+  "techmeme_url": "https://www.techmeme.com/260901/p53",
+  "title": "Google rolls out its September Android Drop, with remembered items in Find Hub, Guided vision in Gemini Live, Motion Assist to reduce motion sickness, and more (Ryan Whitwam/Ars Technica)"
+ },
+ "a260901p54": {
+  "article_url": "https://www.barrons.com/articles/mongodb-earnings-stock-price-1cf2087e?st=DajxNo&reflink=desktopwebshare_permalink",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p54",
+  "summary": "McCormick's Rebound Is Starting to Look Seasoned — Sea Limited Is an E-Commerce Winner. This Chart Screams It. — 0&",
+  "techmeme_url": "https://www.techmeme.com/260901/p54",
+  "title": "MongoDB reports Q2 revenue up 30% YoY to $771.8M, vs. $735M est., Atlas revenue up ~29% YoY, below major hedge funds' expectations; MDB drops 12%+ after hours (Mariapaula Gonzalez/Barron's Online)"
+ },
+ "a260901p55": {
+  "article_url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p55",
+  "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.",
+  "techmeme_url": "https://www.techmeme.com/260901/p55",
+  "title": "Fermi Explorer Mission plans to launch a spacecraft to Alpha Centauri, the Sun's nearest star system, by 2029, using a trajectory discovered by PSI's AI system (Michelle Kim/MIT Technology Review)"
+ },
+ "a260901p56": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p56",
+  "summary": "SB Energy Inc., a data center firm backed by SoftBank Group Corp., filed for a US initial public offering to fund …",
+  "techmeme_url": "https://www.techmeme.com/260901/p56",
+  "title": "IPO filing: SB Energy says it has 8.8GW of data center capacity contracted or under construction across Texas and Ohio and a $430B data center segment backlog (Monique Mulima/Bloomberg)"
+ },
+ "a260901p57": {
+  "article_url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p57",
+  "summary": "JioHotstar, the streaming platform controlled by Indian conglomerate Reliance Industries, is taking its brand outside India …",
+  "techmeme_url": "https://www.techmeme.com/260901/p57",
+  "title": "India's JioHotstar launches internationally without live sports, replacing Hotstar in the UK, Canada, and Singapore; the company says it has 500M+ MAUs in India (TechCrunch)"
+ },
+ "a260901p58": {
+  "article_url": "https://thenewstack.io/anthropic-fable-5-1-launch/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p58",
+  "summary": "On Tuesday, Anthropic launched the latest versions of its flagship Fable and Mythos models. Anthropic promises that the updated models …",
+  "techmeme_url": "https://www.techmeme.com/260901/p58",
+  "title": "Anthropic prices Fable 5.1 at $10/1M input tokens and $50/1M output tokens, unchanged from Fable 5, and cuts cache read pricing by 75% to $0.25/1M tokens (Frederic Lardinois/The New Stack)"
+ },
+ "a260901p59": {
+  "article_url": "https://9to5mac.com/2026/09/01/anthropic-upgrades-claude-with-new-fable-5-1-model-details-here/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p59",
+  "summary": "In June, Anthropic first released Fable 5, its Mythos-class AI model for Claude. Three months later, Anthropic is enhancing Claude with its new Fable 5.1 model upgrade.",
+  "techmeme_url": "https://www.techmeme.com/260901/p59",
+  "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Zac Hall/9to5Mac)"
+ },
  "a260901p6": {
   "article_url": "https://9to5google.com/2026/08/31/google-tv-streamer-increase/",
   "date": "2026-09-01",
@@ -310,6 +390,46 @@
   "summary": "Google has quietly raised the price of the Google TV Streamer to $149.99.",
   "techmeme_url": "https://www.techmeme.com/260901/p6",
   "title": "Google raises the price of its Google TV Streamer by $50 to $150 in the US, as well as for \"select\" Nest cameras and doorbells, citing \"rising component costs\" (Abner Li/9to5Google)"
+ },
+ "a260901p60": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p60",
+  "summary": "Artificial intelligence coding startup Cognition AI Inc. is set to close a new round of funding that would vault its valuation to about $47 billion, according to people familiar with the efforts.",
+  "techmeme_url": "https://www.techmeme.com/260901/p60",
+  "title": "Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest (Bloomberg)"
+ },
+ "a260901p61": {
+  "article_url": "https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p61",
+  "summary": "OpenAI says its forthcoming AI model Astra marks a step up in capabilities such as coding and operating applications on a computer.",
+  "techmeme_url": "https://www.techmeme.com/260901/p61",
+  "title": "Source: OpenAI's Astra model uses \"recurrent depth\", a technique that improves cost and performance but obscures the AI's reasoning, making it harder to monitor (The Information)"
+ },
+ "a260901p62": {
+  "article_url": "https://www.wsj.com/tech/can-evan-spiegel-sell-the-world-on-2-195-smart-glasses-3fb9b8ca?st=SC3Kva&reflink=desktopwebshare_permalink",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p62",
+  "summary": "As company struggles with profitability, Snap CEO is doubling down on a hardware play that has made some investors wary",
+  "techmeme_url": "https://www.techmeme.com/260901/p62",
+  "title": "A look at Snap's bet on Specs AR glasses; sources: Evan Spiegel wore them for an interview against internal advice, planned outside funding for Specs never came (Wall Street Journal)"
+ },
+ "a260901p63": {
+  "article_url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html?unlocked_article_code=1.-FA.RCrg.ZNhpsOhLzuvj&smid=bs-share",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p63",
+  "summary": "A new policy to be announced by the Department of Education bars younger students from using A.I., but stops short of a moratorium.",
+  "techmeme_url": "https://www.techmeme.com/260901/p63",
+  "title": "NYC's Department of Education adopts a policy barring public school students from using AI until high school, banning companion chatbots in all grades, and more (Matthew Haag/New York Times)"
+ },
+ "a260901p64": {
+  "article_url": "https://siliconangle.com/2026/09/01/scifin-launches-with-44m-to-help-revenue-teams-close-the-context-gap/",
+  "date": "2026-09-01",
+  "permalink_id": "a260901p64",
+  "summary": "SciFin Tech Inc., a company that helps revenue teams converge context across disconnected systems to understand business needs, launched today with $44 million in seed funding.",
+  "techmeme_url": "https://www.techmeme.com/260901/p64",
+  "title": "SciFin, which helps revenue teams converge fragmented information to understand business needs, raised a $44M seed co-led by Altimeter and Madrona (Kyt Dotson/SiliconANGLE)"
  },
  "a260901p7": {
   "article_url": "https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html?unlocked_article_code=1.9VA.ZahU.hfCU_sYRVjFU&smid=url-share",
