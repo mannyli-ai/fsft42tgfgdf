@@ -1,0 +1,106 @@
+{
+ "a260902p1": {
+  "article_url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p1",
+  "summary": "A deep dive into the current state of humanoid robotics. — Today's Robot Week article is sponsored by 80,000 Hours …",
+  "techmeme_url": "https://www.techmeme.com/260902/p1",
+  "title": "A look at the current state of humanoid robotics and challenges like generalization and completing long tasks, which may take years or even decades to overcome (Kai Williams/Understanding AI)"
+ },
+ "a260902p10": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-02/lyte-closes-165-million-round-bringing-ai-startup-s-valuation-to-1-6-billion",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p10",
+  "summary": "Lyte, a fast-growing robotics and artificial intelligence startup from top members of Apple Inc.'s Face ID team …",
+  "techmeme_url": "https://www.techmeme.com/260902/p10",
+  "title": "Robotics and AI startup Lyte, founded by ex-Face ID engineers, raised $165M led by Maverick Silicon at a $1.6B valuation, taking its total funding to $272M (Samantha Kelly/Bloomberg)"
+ },
+ "a260902p11": {
+  "article_url": "https://www.engadget.com/2249298/acer-predator-atlas-7-gaming-handheld/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p11",
+  "summary": "It puts the Predator Atlas 8's features in a smaller form factor. — Acer has unveiled the Predator Atlas 7 as part of its announcements …",
+  "techmeme_url": "https://www.techmeme.com/260902/p11",
+  "title": "Acer unveils the Predator Atlas 7, a 7\" handheld with an Intel Arc G3 Extreme CPU, shipping in November, and the Project DualPlay Mini, an 8\" concept device (Mariella Moon/Engadget)"
+ },
+ "a260902p12": {
+  "article_url": "https://www.cnet.com/tech/computing/acer-recommits-to-repairability-with-new-vero-16-laptop/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p12",
+  "summary": "The company also unveils the sleekest Swift yet and a Swift Air update at IFA 2026. — Acer is a brand closely associated …",
+  "techmeme_url": "https://www.techmeme.com/260902/p12",
+  "title": "Acer unveils its fourth-generation Vero 16 with modular elements like removable bottom covers and hinges, user-replaceable batteries and SSDs, and more (Tyler Graham/CNET)"
+ },
+ "a260902p13": {
+  "article_url": "https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p13",
+  "summary": "﻿The half-inch thin laptop is joined by a new, much larger Swift Air 16 — both with Intel Wildcat Lake.",
+  "techmeme_url": "https://www.techmeme.com/260902/p13",
+  "title": "Acer unveils the Swift Blade 14, an ultralight laptop weighing 1.76lbs with Intel Wildcat Lake processors, and the Swift Air 16, set to launch in December (Antonio G. Di Benedetto/The Verge)"
+ },
+ "a260902p2": {
+  "article_url": "https://www.ft.com/content/22bfa989-7477-434a-aa53-6fbfe6cd0335",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p2",
+  "summary": "Executives and biosecurity experts are concerned that future models could help users create novel viruses or bioweapons.",
+  "techmeme_url": "https://www.techmeme.com/260902/p2",
+  "title": "Frontier AI labs are stepping up biological risk testing, which is harder than cybersecurity testing, where capabilities can be tested in digital environments (Financial Times)"
+ },
+ "a260902p3": {
+  "article_url": "https://newsletter.semianalysis.com/p/koreas-trillion-dollar-sovereign",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p3",
+  "summary": "Korea hosts a Squid Games, National AI Tournament, the best non-Chinese open source model gets eliminated, why Nvidia needs open source, implications for Hynix and Samsung",
+  "techmeme_url": "https://www.techmeme.com/260902/p3",
+  "title": "A look at South Korea's sovereign AI efforts, including its planned $919B AI infrastructure investment and Nvidia's expanded ties with Samsung and SK Hynix (SemiAnalysis)"
+ },
+ "a260902p4": {
+  "article_url": "https://www.hyperdimensional.co/p/on-the-loose",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p4",
+  "summary": "The Coming of Userless Agents — The OpenAI-Hugging Face Incident is an early example of an AI system that has “gone rogue.”",
+  "techmeme_url": "https://www.techmeme.com/260902/p4",
+  "title": "The OpenAI-Hugging Face incident is an early example of \"rogue AI\", and may presage truly \"self-sovereign\" agents and swarms of agents that have no \"owner\" (Dean W. Ball/Hyperdimensional)"
+ },
+ "a260902p5": {
+  "article_url": "https://www.dwarkesh.com/p/ajeya-cotra",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p5",
+  "summary": "“This might be the clearest warning shot we ever get.” — Ajeya Cotra is a researcher at METR, where she works on threat modeling …",
+  "techmeme_url": "https://www.techmeme.com/260902/p5",
+  "title": "Q&A with METR researcher Ajeya Cotra on investigating the OpenAI-Hugging Face incident, AI agents involved in the hack deciding not to notify humans, and more (Dwarkesh Patel/Dwarkesh Podcast)"
+ },
+ "a260902p6": {
+  "article_url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p6",
+  "summary": "OpenAI said today that it is integrating ChatGPT Health with Epic's electronic health record (EHR) system, which holds data …",
+  "techmeme_url": "https://www.techmeme.com/260902/p6",
+  "title": "OpenAI launches a ChatGPT Health integration with Epic's EHR system and a new Healthcare Public Data plug-in that can fetch info from sources including PubMed (Ivan Mehta/TechCrunch)"
+ },
+ "a260902p7": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-09-01/japan-s-ai-and-chip-gamble-faces-reality-check-in-kioxia-s-rural-hub",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p7",
+  "summary": "Japan is betting $640 billion on AI and chips. But this struggling city shows the limits of that investment.",
+  "techmeme_url": "https://www.techmeme.com/260902/p7",
+  "title": "A look at Kioxia's expansion in Japan's Kitakami, which helped stall the city's demographic decline and is a test of Japan's $640B AI and chips investment plan (Bloomberg)"
+ },
+ "a260902p8": {
+  "article_url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p8",
+  "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada.",
+  "techmeme_url": "https://www.techmeme.com/260902/p8",
+  "title": "The FBI is investigating a new ID theft service called Nexus, which claims to have digital scans of 153M+ drivers licenses from people in the US and Canada (Brian Krebs/Krebs on Security)"
+ },
+ "a260902p9": {
+  "article_url": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p9",
+  "summary": "﻿The Dell 14S promises an aluminum build, Intel Wildcat Lake chips, and lots of battery life — for a price we don't know exactly yet.",
+  "techmeme_url": "https://www.techmeme.com/260902/p9",
+  "title": "Dell unveils the student-focused Dell 14S, with Intel Wildcat Lake chips and starting with 8GB of RAM and 256GB of storage, in a bid to rival the MacBook Neo (Antonio G. Di Benedetto/The Verge)"
+ }
+}
