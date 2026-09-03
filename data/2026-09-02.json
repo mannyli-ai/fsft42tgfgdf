@@ -255,6 +255,70 @@
   "techmeme_url": "https://www.techmeme.com/260902/p41",
   "title": "HPE reports Q3 revenue up 34% YoY to $12.2B, vs. $11.9B est., forecasts FY 2026 and FY 2027 sales growth above est., signs a $3.5B server deal with a cloud firm (Dina Bass/Bloomberg)"
  },
+ "a260902p42": {
+  "article_url": "https://x.com/artificialanlys/status/2095247787277553929",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p42",
+  "summary": "Meta has released Muse Spark 1.3, their fourth Muse Spark model release in five months. Muse Spark 1.3 (max), which is in limited preview for Meta's partners, scores 62 on the Artificial Analysis Intelligence Index, behind only Claude Fable 5.1 and Claude Opus 5. The variant available now, Muse Spa...",
+  "techmeme_url": "https://www.techmeme.com/260902/p42",
+  "title": "Muse Spark 1.3 with max reasoning, in limited preview for partners, scores 62 on the Artificial Analysis Intelligence Index, behind only Fable 5.1 and Opus 5 (@artificialanlys)"
+ },
+ "a260902p43": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-02/thoma-bravo-s-proofpoint-is-said-in-talks-to-acquire-varonis",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p43",
+  "summary": "Thoma Bravo-backed Proofpoint Inc. is in talks to acquire cybersecurity company Varonis Systems Inc., according to people familiar with the matter.",
+  "techmeme_url": "https://www.techmeme.com/260902/p43",
+  "title": "Sources: Thoma Bravo-backed Proofpoint is in talks to acquire cybersecurity company Varonis; Varonis rose 10.4% on Wednesday, giving it a market value of ~$5.4B (Ryan Gould/Bloomberg)"
+ },
+ "a260902p44": {
+  "article_url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p44",
+  "summary": "Palo Alto Networks paid $500 million in cash and stock to acquire Console, a two-year-old startup that uses AI agents to automate routine …",
+  "techmeme_url": "https://www.techmeme.com/260902/p44",
+  "title": "Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale (Marina Temkin/TechCrunch)"
+ },
+ "a260902p45": {
+  "article_url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p45",
+  "summary": "The cars have no lidar and no geofence, but still will have human safety drivers for the initial launch.",
+  "techmeme_url": "https://www.techmeme.com/260902/p45",
+  "title": "Uber launches London's first commercial robotaxi service; the vehicles use Wayve's autonomous driving tech and will initially have human safety drivers (Andrew J. Hawkins/The Verge)"
+ },
+ "a260902p46": {
+  "article_url": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p46",
+  "summary": "Microsoft will start disclosing quarterly revenue for its Azure cloud business for the first time, providing investors …",
+  "techmeme_url": "https://www.techmeme.com/260902/p46",
+  "title": "Microsoft will start disclosing Azure quarterly revenue as part of a shift in its reporting structure, under which Azure revenue grew 42% YoY to $29.42B in Q4 (Jordan Novet/CNBC)"
+ },
+ "a260902p47": {
+  "article_url": "https://www.wsj.com/tech/ai/microsoft-to-change-reporting-structure-to-reflect-effects-of-ai-59dce66d",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p47",
+  "summary": "Microsoft is changing its reporting structure from three segments to two—Agents and Infra, and Devices and Consumer",
+  "techmeme_url": "https://www.techmeme.com/260902/p47",
+  "title": "Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox (Stephen Nakrosis/Wall Street Journal)"
+ },
+ "a260902p48": {
+  "article_url": "https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImdOTzNBbXNGVFoiLCJwIjoiL2NzL2ZlYXR1cmVzLzk3NTU5Ny9sb3Vkb3VuLWNvdW50eS12aXJnaW5pYS1kYXRhLWNlbnRlci1iYWNrbGFzaCIsImV4cCI6MTc4ODc4MjY4NiwiaWF0IjoxNzg4MzUwNjg3fQ.fluxVpED1fJ-DEk8WWOP3EJ5LdE4FtugNovvbbdW1j0",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p48",
+  "summary": "Massive AI infrastructure is being built out across the US. But if you want to know what the data center occupation looks like …",
+  "techmeme_url": "https://www.techmeme.com/260902/p48",
+  "title": "A look at Loudoun County, Virginia, dubbed \"Data Center Alley\", which hosts ~250 data centers and offers a glimpse into data centers' impact on communities (Lauren Feiner/The Verge)"
+ },
+ "a260902p49": {
+  "article_url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p49",
+  "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch …",
+  "techmeme_url": "https://www.techmeme.com/260902/p49",
+  "title": "Sources: Meta adjusts employee review language around \"AI-driven impact\" and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch (Wired)"
+ },
  "a260902p5": {
   "article_url": "https://www.dwarkesh.com/p/ajeya-cotra",
   "date": "2026-09-02",
@@ -262,6 +326,30 @@
   "summary": "“This might be the clearest warning shot we ever get.” — Ajeya Cotra is a researcher at METR, where she works on threat modeling …",
   "techmeme_url": "https://www.techmeme.com/260902/p5",
   "title": "Q&A with METR researcher Ajeya Cotra on investigating the OpenAI-Hugging Face incident, AI agents involved in the hack deciding not to notify humans, and more (Dwarkesh Patel/Dwarkesh Podcast)"
+ },
+ "a260902p50": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p50",
+  "summary": "Moonshot AI, whose Kimi K3 open-source model has become a global hit, has filed confidentially an application for a Hong Kong initial public offering …",
+  "techmeme_url": "https://www.techmeme.com/260902/p50",
+  "title": "China-based Moonshot filed confidentially for a Hong Kong IPO; source: the company is in talks to raise a pre-IPO funding round at a $50B valuation (Juro Osawa/The Information)"
+ },
+ "a260902p51": {
+  "article_url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p51",
+  "summary": "South Korea's semiconductor exports have been an absolute boon for Asia's fourth-largest economy, sending overall numbers to a record.",
+  "techmeme_url": "https://www.techmeme.com/260902/p51",
+  "title": "South Korean semiconductor exports surged 209% YoY to a record $46.65B in August, accounting for 47.5% of the country's goods exports, according to officials (Lim Hui Jie/CNBC)"
+ },
+ "a260902p52": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/bytedance-gets-30-billion-loan-asia-s-second-largest-this-year",
+  "date": "2026-09-02",
+  "permalink_id": "a260902p52",
+  "summary": "ByteDance Ltd., the developer of TikTok, has secured a $29.6 billion loan, according to people familiar with the matter …",
+  "techmeme_url": "https://www.techmeme.com/260902/p52",
+  "title": "Sources: ByteDance has secured a $29.6B loan in Asia's second-largest USD-denominated borrowing this year, behind SoftBank's $40B bridge loan signed in March (Bloomberg)"
  },
  "a260902p6": {
   "article_url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
