@@ -151,6 +151,14 @@
   "techmeme_url": "https://www.techmeme.com/260903/p26",
   "title": "Nvidia says the RTX Spark N1X launches in October in two configurations: a 20-core CPU with a 6,144-core Blackwell GPU and an 18-core CPU with a 5,120-core GPU (Andrew E. Freedman/Tom's Hardware)"
  },
+ "a260903p29": {
+  "article_url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p29",
+  "summary": "Ultrahuman, an Indian startup best known for making smart rings, has raised $70 million in a new funding round that includes backing …",
+  "techmeme_url": "https://www.techmeme.com/260903/p29",
+  "title": "India-based smart ring maker Ultrahuman raised $70M, including $5M in debt, a source says at a $365M valuation, and is working with Qualcomm on a new ring (Jagmeet Singh/TechCrunch)"
+ },
  "a260903p3": {
   "article_url": "https://www.unicef.org/press-releases/1-5-children-across-21-countries-have-experienced-tech-facilitated-sexual",
   "date": "2026-09-03",
@@ -159,6 +167,86 @@
   "techmeme_url": "https://www.techmeme.com/260903/p3",
   "title": "A survey of 21,000 internet-using children aged 12 to 17 across 21 countries finds almost one in five experienced tech-facilitated sexual exploitation and abuse (UNICEF)"
  },
+ "a260903p30": {
+  "article_url": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p30",
+  "summary": "Microsoft is trying once again to tempt people without an Xbox into its ecosystem. … Microsoft says it will let anyone access Xbox Cloud Gaming …",
+  "techmeme_url": "https://www.techmeme.com/260903/p30",
+  "title": "Microsoft will open Xbox Cloud Gaming to non-Game Pass users via a pay-as-you-go model; Ultimate subs will be limited to 15 hours per month of cloud gaming (Tom Warren/The Verge)"
+ },
+ "a260903p31": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/saudi-arabia-s-humain-unveils-ai-model-based-on-china-s-minimax",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p31",
+  "summary": "Saudi Arabia's artificial intelligence company Humain has built a national AI platform based on an open model from Chinese lab MiniMax Group Inc. …",
+  "techmeme_url": "https://www.techmeme.com/260903/p31",
+  "title": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)"
+ },
+ "a260903p32": {
+  "article_url": "https://www.theinformation.com/articles/thinking-machines-lab-talks-raise-billions-roughly-40-billion-valuation",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p32",
+  "summary": "Thinking Machines Lab, the AI developer led by ex-OpenAI chief technology officer Mira Murati, is in talks to raise at least $1 billion …",
+  "techmeme_url": "https://www.techmeme.com/260903/p32",
+  "title": "Sources: Mira Murati's Thinking Machines Lab is in talks to raise $1B+ at a $40B+ pre-money valuation, lower than the $50B+ valuation it sought last year (The Information)"
+ },
+ "a260903p33": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p33",
+  "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a “generational leap in capability” …",
+  "techmeme_url": "https://www.techmeme.com/260903/p33",
+  "title": "OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says it is a \"generational leap\" and \"we are now in the AGI era\" (Hayden Field/The Verge)"
+ },
+ "a260903p34": {
+  "article_url": "https://www.thedeepview.com/articles/openai-s-astra-leans-into-agentic-tasks-and-safety",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p34",
+  "summary": "OpenAI's now infamous model that was part of the Hugging Face breach is about to be loose in the world, but with new safeguards.",
+  "techmeme_url": "https://www.techmeme.com/260903/p34",
+  "title": "OpenAI prices GPT-6 Astra at $10/1M input tokens and $50/1M output tokens, matching Anthropic's pricing for Claude Fable 5.1 (The Deep View)"
+ },
+ "a260903p35": {
+  "article_url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p35",
+  "summary": "OpenAI leaders think the company's next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+  "techmeme_url": "https://www.techmeme.com/260903/p35",
+  "title": "OpenAI calls GPT-6 Astra the \"world's best computer use model\"; in tests, it booked DMV appointments and searched job listings faster than the average person (Maxwell Zeff/Wired)"
+ },
+ "a260903p36": {
+  "article_url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p36",
+  "summary": "OpenAI on Thursday released GPT-6 Astra, which president Greg Brockman called a “generational leap” and said could eventually be seen as the arrival of artificial general intelligence, or AGI.",
+  "techmeme_url": "https://www.techmeme.com/260903/p36",
+  "title": "OpenAI says Astra was built on its largest-ever training run, using more than 100,000 GPUs at its Stargate site in Texas (Ina Fried/Axios)"
+ },
+ "a260903p37": {
+  "article_url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p37",
+  "summary": "Then it priced the thing at 10 cents per hour of audio. — That figure deserves a pause. … Thursday's early-bird price cuts that by roughly 72%.",
+  "techmeme_url": "https://www.techmeme.com/260903/p37",
+  "title": "Microsoft AI debuts MAI-Transcribe-2, a speech recognition model that it says beats Gemini 3.5 Transcribe and GPT-Transcribe, at $0.10/audio hour through 2026 (Michael Nuñez/VentureBeat)"
+ },
+ "a260903p38": {
+  "article_url": "https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p38",
+  "summary": "Meta CEO Mark Zuckerberg expressed concerns about plans for a national AI regulator in a previously unreported phone call …",
+  "techmeme_url": "https://www.techmeme.com/260903/p38",
+  "title": "A White House official says Zuckerberg opposed a US AI regulator in a call with Trump last month; another source says he didn't ask Trump to change his stance (Politico)"
+ },
+ "a260903p39": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/pentagon-says-its-anthropic-ban-is-on-despite-lutnick-remarks",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p39",
+  "summary": "US Commerce Secretary Howard Lutnick said Anthropic PBC has resolved its long-running issues with the Trump administration but a top Pentagon official begs to differ.",
+  "techmeme_url": "https://www.techmeme.com/260903/p39",
+  "title": "DOD's Emil Michael says Anthropic is still a designated supply chain risk, a day after Howard Lutnick said it resolved its issues with the Trump administration (Maggie Eastland/Bloomberg)"
+ },
  "a260903p4": {
   "article_url": "https://www.ft.com/content/84171f91-5f39-4878-bbc5-e4e6262c4321",
   "date": "2026-09-03",
@@ -166,6 +254,38 @@
   "summary": "Ride-hailing app admits its effort to back workers may appear ‘ironic’ after years of clashes with drivers.",
   "techmeme_url": "https://www.techmeme.com/260903/p4",
   "title": "Uber is aligning with drivers' unions in a bid to slow the rollout of robotaxis across the US, as it faces a technological disruption to its core business (Rafe Rosner-Uddin/Financial Times)"
+ },
+ "a260903p40": {
+  "article_url": "https://arcprize.org/blog/astra",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p40",
+  "summary": "Summary — GPT-6 Astra scores 62.7% for $26K on ARC-AGI-3 Semi-Private with our Standard harness, and 99.9% for $19K with a Provider Adapter harness.",
+  "techmeme_url": "https://www.techmeme.com/260903/p40",
+  "title": "GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% (Greg Kamradt/ARC Prize)"
+ },
+ "a260903p41": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p41",
+  "summary": "Crusoe, a data center upstart with contracts to supply AI computing power to the likes of Meta Platforms Inc. and Oracle Corp. …",
+  "techmeme_url": "https://www.techmeme.com/260903/p41",
+  "title": "Sources: Crusoe signed a ~$13B, five-year deal with Jane Street to provide GPUs and other infrastructure for AI training and inference via its cloud platform (Bloomberg)"
+ },
+ "a260903p42": {
+  "article_url": "https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p42",
+  "summary": "The $1 billion will come in the form of expanded subsidized access to models, training, technical support and partnerships for participating organizations.",
+  "techmeme_url": "https://www.techmeme.com/260903/p42",
+  "title": "OpenAI commits $1B in subsidized model access, training, support, and partnerships to a new initiative aimed at protecting essential services around the world (Sam Sabin/Axios)"
+ },
+ "a260903p43": {
+  "article_url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p43",
+  "summary": "Adobe on Thursday named Anil Chakravarthy as its next CEO, succeeding Shantanu Narayen, who announced he would step down earlier this year.",
+  "techmeme_url": "https://www.techmeme.com/260903/p43",
+  "title": "Adobe names Customer Experience Orchestration president Anil Chakravarthy as CEO, effective December 1, replacing Shantanu Narayen, who becomes executive chair (Annie Palmer/CNBC)"
  },
  "a260903p5": {
   "article_url": "https://restofworld.org/2026/taiwan-china-chip-investigations/",
