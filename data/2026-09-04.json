@@ -15,6 +15,78 @@
   "techmeme_url": "https://www.techmeme.com/260904/p10",
   "title": "Letters: US military branches disabled ad trackers on government-issued devices amid reports of location data being used to target US forces in the Middle East (Raphael Satter/Reuters)"
  },
+ "a260904p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p11",
+  "summary": "Moonshot AI is considering raising up to $5 billion in its planned Hong Kong initial public offering as soon as this year, people familiar with the matter said …",
+  "techmeme_url": "https://www.techmeme.com/260904/p11",
+  "title": "Sources: Beijing-based Moonshot is considering raising $3B to $5B in its planned Hong Kong IPO that could occur as soon as in 2026 (Bloomberg)"
+ },
+ "a260904p12": {
+  "article_url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p12",
+  "summary": "The first Project Zenith devices ship with AMD's Ryzen AI Halo chips. … Microsoft is giving its developer-optimized Windows experience a name: Project Zenith.",
+  "techmeme_url": "https://www.techmeme.com/260904/p12",
+  "title": "Microsoft unveils Project Zenith, a \"distraction-free Windows experience\" for developers to run 30B+ parameter models locally on devices with 64GB+ of memory (Tom Warren/The Verge)"
+ },
+ "a260904p13": {
+  "article_url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p13",
+  "summary": "The United States' top automotive safety regulator has opened an investigation into Tesla decision to launch its new Cybercab on public roads with no steering wheel or pedals.",
+  "techmeme_url": "https://www.techmeme.com/260904/p13",
+  "title": "The NHTSA opens a probe into Tesla's decision to launch its new Cybercab on public roads in Austin with no steering wheel or pedals (Sean O'Kane/TechCrunch)"
+ },
+ "a260904p14": {
+  "article_url": "https://www.ft.com/content/0e9d714b-f367-4dd7-8ef4-6d4b2c08b79c",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p14",
+  "summary": "Brussels' effort to reduce US technology dependence could create greater risks elsewhere, defence officials and contractors say",
+  "techmeme_url": "https://www.techmeme.com/260904/p14",
+  "title": "Some European defense officials are pushing back on efforts to cut US tech reliance, warning it could leave Europe with inferior systems and greater cyber risks (Financial Times)"
+ },
+ "a260904p15": {
+  "article_url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p15",
+  "summary": "Fable 5.1 in Claude Code leads the Index with a score of 70. … Various effort levels of the model occupy the Pareto frontier of token efficiency.",
+  "techmeme_url": "https://www.techmeme.com/260904/p15",
+  "title": "Artificial Analysis Coding Agent Index: GPT-6 Astra scored 67, roughly equal to Claude Opus 5, Fable 5, and Muse Spark 1.3, but trailing leader Fable 5.1's 70 (Artificial Analysis)"
+ },
+ "a260904p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-04/what-to-expect-at-sept-9-apple-event-foldable-iphone-iphone-18-pro-watch?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODUyODY3MiwiZXhwIjoxNzg5MTMzNDcyLCJhcnRpY2xlSWQiOiJUS1VDNFlOM04wQUUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FcaFtdv4uwkRzS9XTNpZAW_xehoawqChWiTKXZwO5cI",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p16",
+  "summary": "From the foldable iPhone to a touch-screen MacBook, here's what to expect on Sept. 9 and beyond.",
+  "techmeme_url": "https://www.techmeme.com/260904/p16",
+  "title": "What to expect from Apple's September 9 \"Surprise and Shine\" event: a foldable iPhone, an iPhone 18 Pro and Pro Max, Apple Watches with ceramic cases, and more (Mark Gurman/Bloomberg)"
+ },
+ "a260904p17": {
+  "article_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html?unlocked_article_code=1.-lA.hbw8.4sMxBQlKEu2a&smid=nytcore-ios-share",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p17",
+  "summary": "A nonprofit's study of how OpenAI's A.I. agents were able to break into Hugging Face's infrastructure wasn't allowed to look at the incident's full scope.",
+  "techmeme_url": "https://www.techmeme.com/260904/p17",
+  "title": "How OpenAI limited METR's probe into the Hugging Face incident, dictating terms and restricting its scope to the single week when agents attacked Hugging Face (Dylan Freedman/New York Times)"
+ },
+ "a260904p18": {
+  "article_url": "https://spyglass.org/agi-2026/",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p18",
+  "summary": "With ‘GPT-6 Astra’, AGI is here! Congrats, everyone! — It's a question as old as time. Or at least as old as Terminator 2. Is AGI here?",
+  "techmeme_url": "https://www.techmeme.com/260904/p18",
+  "title": "By declaring that GPT-6 Astra has ushered in the AGI era, OpenAI is being flippant and cementing the term's status as nothing more than marketing (M.G. Siegler/Spyglass)"
+ },
+ "a260904p19": {
+  "article_url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p19",
+  "summary": "Krafton, the South Korean gaming company behind titles including PUBG and Battlegrounds Mobile India (BGMI) …",
+  "techmeme_url": "https://www.techmeme.com/260904/p19",
+  "title": "PUBG developer Krafton plans to invest $250M in India over three to four years, for a total investment of $500M+ since 2021, as it expands into AI and robotics (Jagmeet Singh/TechCrunch)"
+ },
  "a260904p2": {
   "article_url": "https://www.cnbc.com/2026/09/03/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo-clment-delangue-speak-with-cnbcs-becky-quick-on-squawk-box-today.html",
   "date": "2026-09-04",
@@ -22,6 +94,22 @@
   "summary": "Following is the unofficial transcript of a CNBC exclusive interview with Nvidia Founder & CEO Jensen Huang …",
   "techmeme_url": "https://www.techmeme.com/260904/p2",
   "title": "Q&A with Jensen Huang and Clément Delangue on the Nvidia-Hugging Face deal, scaling open-source models, the rumored $1B talent retention plan, and more (CNBC)"
+ },
+ "a260904p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p20",
+  "summary": "Executives at Abu Dhabi-based artificial intelligence firm G42 have held exploratory talks over potentially selling a majority stake …",
+  "techmeme_url": "https://www.techmeme.com/260904/p20",
+  "title": "Sources: Abu Dhabi-based AI company G42 is exploring selling a majority stake to American companies to maintain access to advanced AI chips beyond April 2027 (Bloomberg)"
+ },
+ "a260904p21": {
+  "article_url": "https://somethingbig.ai/astra-review",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p21",
+  "summary": "Everyday work, ambitious experiments, and the Manager Loop. … For nearly a year, OpenAI models were my unquestioned default …",
+  "techmeme_url": "https://www.techmeme.com/260904/p21",
+  "title": "Review: GPT-6 Astra can adeptly use tools like Unreal Engine to build complex environments, such as a civilization with Unreal's autonomous MetaHuman characters (Matt Shumer/Something Big Is Happening)"
  },
  "a260904p3": {
   "article_url": "https://asia.nikkei.com/business/electronics/early-foldable-iphone-production-limited-to-a-few-hundred-per-day-sources",
