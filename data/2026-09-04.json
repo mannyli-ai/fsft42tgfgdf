@@ -111,6 +111,62 @@
   "techmeme_url": "https://www.techmeme.com/260904/p21",
   "title": "Review: GPT-6 Astra can adeptly use tools like Unreal Engine to build complex environments, such as a civilization with Unreal's autonomous MetaHuman characters (Matt Shumer/Something Big Is Happening)"
  },
+ "a260904p22": {
+  "article_url": "https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p22",
+  "summary": "Today, I'm talking with Tom Conrad, the CEO of Sonos. Tom and I have known each other for a long time — he was the chief technology officer …",
+  "techmeme_url": "https://www.techmeme.com/260904/p22",
+  "title": "An interview with Sonos CEO Tom Conrad on the Sonos 27 platform, AI assistants, its Google relationship, speakers as a home computer mesh network, and more (Nilay Patel/The Verge)"
+ },
+ "a260904p23": {
+  "article_url": "https://www.ft.com/content/7347b9fc-ba63-48fb-b06d-b9fe5e9b046a",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p23",
+  "summary": "Tim Cook's successor is a product engineer who has spent 25 years at the company and belongs to the generation mentored by Steve Jobs",
+  "techmeme_url": "https://www.techmeme.com/260904/p23",
+  "title": "A profile of John Ternus, the first product engineer to lead Apple; sources: Cook considered how to execute the perfect succession since his early days as CEO (Michael Acton/Financial Times)"
+ },
+ "a260904p24": {
+  "article_url": "https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p24",
+  "summary": "OpenAI is hailing its new model as “the world's most intelligent and aligned”, but the details reveal an awareness of being evaluated …",
+  "techmeme_url": "https://www.techmeme.com/260904/p24",
+  "title": "OpenAI says it can't read all of Astra's reasoning and admits covert sandbagging would likely go uncaught, yet still calls it the world's most aligned model (Celia Ford/Transformer)"
+ },
+ "a260904p25": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p25",
+  "summary": "OpenAI denies lawyers discouraged disclosing a scheming swarm on a German language wiki. … A swarm of rogue AI agents from OpenAI reportedly commandeered …",
+  "techmeme_url": "https://www.techmeme.com/260904/p25",
+  "title": "Report: OpenAI learned of the DseWiki German website incident weeks ago but kept it under wraps as it grappled with the Hugging Face fallout (Robert Hart/The Verge)"
+ },
+ "a260904p26": {
+  "article_url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p26",
+  "summary": "Update: A day later, GPT-6 Astra is rolling out to Pro customers on the $100/month or $200/month plan. This follows other new model releases before Plus customers on the $20/month plan gain access.",
+  "techmeme_url": "https://www.techmeme.com/260904/p26",
+  "title": "OpenAI rolls out GPT-6 Astra to Pro, Enterprise, and Business Premium users in ChatGPT Work and Codex and in the API (Zac Hall/9to5Mac)"
+ },
+ "a260904p27": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-04/ai-cloud-firm-nscale-seeking-3-5-billion-in-pre-ipo-financing",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p27",
+  "summary": "Nscale, a cloud computing firm focused on artificial intelligence, is in talks with potential investors to raise as much as $3.5 billion …",
+  "techmeme_url": "https://www.techmeme.com/260904/p27",
+  "title": "Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO (Bloomberg)"
+ },
+ "a260904p28": {
+  "article_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p28",
+  "summary": "We are sharing the first complete computer-checked proof of Fermat's Last Theorem. Claude worked largely autonomously over 11 days …",
+  "techmeme_url": "https://www.techmeme.com/260904/p28",
+  "title": "Anthropic says Claude worked \"largely autonomously\" over 11 days to formalize the proof of Fermat's Last Theorem in the Lean programming language (Anthropic)"
+ },
  "a260904p3": {
   "article_url": "https://asia.nikkei.com/business/electronics/early-foldable-iphone-production-limited-to-a-few-hundred-per-day-sources",
   "date": "2026-09-04",
