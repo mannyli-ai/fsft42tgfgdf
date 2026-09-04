@@ -287,6 +287,54 @@
   "techmeme_url": "https://www.techmeme.com/260903/p43",
   "title": "Adobe names Customer Experience Orchestration president Anil Chakravarthy as CEO, effective December 1, replacing Shantanu Narayen, who becomes executive chair (Annie Palmer/CNBC)"
  },
+ "a260903p44": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/smart-ring-maker-oura-files-for-us-ipo-as-revenue-surges",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p44",
+  "summary": "Health and fitness ring-maker Oura Inc. filed for an initial public offering, showing soaring revenue as well as increasing losses.",
+  "techmeme_url": "https://www.techmeme.com/260903/p44",
+  "title": "Oura files for a US IPO, reporting a $924.3M net loss on $1.21B in revenue for the nine months ended June 30, vs. a $182.8M net loss on $697.6M a year earlier (Subrat Patnaik/Bloomberg)"
+ },
+ "a260903p45": {
+  "article_url": "https://www.axios.com/pro/all-deals/2026/09/03/paypal-pause-venture-portfolio-sale",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p45",
+  "summary": "PayPal has paused plans to sell its venture capital portfolio for around $900 million to $1 billion, Axios Pro has learned from multiple sources.",
+  "techmeme_url": "https://www.techmeme.com/260903/p45",
+  "title": "Sources: PayPal has paused plans to sell its VC portfolio for $900M-$1B after bids came in lower than hoped, months after deciding to wind down PayPal Ventures (Axios)"
+ },
+ "a260903p46": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p46",
+  "summary": "Crusoe, a cloud-computing provider and data center developer doing business with OpenAI, Microsoft Corp. and Meta Platforms Inc. …",
+  "techmeme_url": "https://www.techmeme.com/260903/p46",
+  "title": "Sources: Crusoe raised $3B+ at a ~$30B post-money valuation; Atreides Management and Valor Equity Partners co-led the round, with Mubadala Capital participating (Bloomberg)"
+ },
+ "a260903p47": {
+  "article_url": "https://www.upstartsmedia.com/p/scoop-town-fundraise-vc-reshuffle",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p47",
+  "summary": "Exclusive details on Town's new $90M fundraise at a $1B valuation, and the eleventh-hour cap table reshuffling behind it, per Upstarts sources.",
+  "techmeme_url": "https://www.techmeme.com/260903/p47",
+  "title": "Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest (Alex Konrad/Upstarts Media)"
+ },
+ "a260903p48": {
+  "article_url": "https://fortune.com/2026/09/03/ai-visionary-ray-kurzweil-is-joining-a-silicon-valley-startup-developing-a-brain-computer-system-that-involves-snorting-nano-particles/",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p48",
+  "summary": "Ray Kurzweil, the pioneering AI scientist, Google researcher, and “AI visionary,” is joining a Silicon Valley startup developing …",
+  "techmeme_url": "https://www.techmeme.com/260903/p48",
+  "title": "AI scientist and Google researcher Ray Kurzweil joins BCI startup Subsense, which develops non-surgical BCI tech involving inhaled nanoparticles, as an advisor (Alexei Oreskovic/Fortune)"
+ },
+ "a260903p49": {
+  "article_url": "https://www.reuters.com/business/autos-transportation/teslas-cybercab-event-set-thursday-with-few-details-2026-09-03/",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p49",
+  "summary": "Tesla (TSLA.O) said on Thursday it was offering rides in “limited areas of Austin, Texas” in its two-seater Cybercab …",
+  "techmeme_url": "https://www.techmeme.com/260903/p49",
+  "title": "Tesla says Cybercab rides are available in limited areas of Austin; the two-seater has no steering wheel or pedals, and 45 Cybercabs are registered in Texas (Reuters)"
+ },
  "a260903p5": {
   "article_url": "https://restofworld.org/2026/taiwan-china-chip-investigations/",
   "date": "2026-09-03",
@@ -294,6 +342,38 @@
   "summary": "Previously unpublished government data reveals the scale of Taiwan's crackdown on Chinese companies accused of hiding their ties …",
   "techmeme_url": "https://www.techmeme.com/260903/p5",
   "title": "Taiwan investigated 166 cases in six years involving companies allegedly hiding China ties while pursuing chip talent and tech, alongside 67 trade-secret probes (Kinling Lo/Rest of World)"
+ },
+ "a260903p50": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/ai-s-environmental-impact-per-task-balloons-with-more-complexity?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODQ1Mzk2MywiZXhwIjoxNzg5MDU4NzYzLCJhcnRpY2xlSWQiOiJUS1NCV1pSMjRVOFMwMCIsImJjb25uZWN0SWQiOiJGRjMyOTZDMzVFNEI0QTRBQjFFRTVDQzEzQ0YzMUNDQiJ9.8ShIwgSwrkJWvsN5gaj4nXw_Jy9W3gDmfbKFK1Tb6kk",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p50",
+  "summary": "Benchmarker Vals AI finds that multi-stage tasks can require models to use exponentially more energy or water than simple queries do.",
+  "techmeme_url": "https://www.techmeme.com/260903/p50",
+  "title": "Vals analysis: open-weight models performing multi-stage tasks, like building a web app, can have an environmental impact 10K times greater than simple queries (Bloomberg)"
+ },
+ "a260903p51": {
+  "article_url": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p51",
+  "summary": "More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communication Workers of America.",
+  "techmeme_url": "https://www.techmeme.com/260903/p51",
+  "title": "Wikimedia Foundation staffers vote 158-14 to join the CWA, which will represent 200+ US employees across engineering, finance, and communications (Paresh Dave/Wired)"
+ },
+ "a260903p52": {
+  "article_url": "https://www.geekwire.com/2026/startup-takes-on-ai-hallucinations-with-25m-and-an-hq-rooted-in-a-small-town-south-of-seattle/",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p52",
+  "summary": "Chronicling the Seattle and Pacific Northwest startup scene. — Resect AI, an artificial intelligence startup led by a team …",
+  "techmeme_url": "https://www.techmeme.com/260903/p52",
+  "title": "Resect AI, which is developing open-source tech to catch AI hallucinations before they happen, emerges from stealth with $25M from private equity investors (Kurt Schlosser/GeekWire)"
+ },
+ "a260903p53": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round",
+  "date": "2026-09-03",
+  "permalink_id": "a260903p53",
+  "summary": "The company, which helps divide AI tasks among different chips, raised $300 million in its latest round",
+  "techmeme_url": "https://www.techmeme.com/260903/p53",
+  "title": "Gimlet Labs, which helps customers divide AI tasks across multiple chip types, raised $300M led by a16z at a $3B valuation, six months after an $80M Series A (Dina Bass/Bloomberg)"
  },
  "a260903p6": {
   "article_url": "https://www.ft.com/content/c0c8ae73-27fd-4828-aa48-72cdae6613ff",
