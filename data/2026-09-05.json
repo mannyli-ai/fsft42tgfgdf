@@ -6,5 +6,53 @@
   "summary": "The downround, which marks a nearly 70% correction from Slice's earlier valuation, comes after funding talks with Accel …",
   "techmeme_url": "https://www.techmeme.com/260905/p1",
   "title": "Sources: India-based Slice, which has transitioned from a credit card-led fintech to a small finance bank, raised $100M at a ~$450M valuation, down from ~$1.4B (Moneycontrol)"
+ },
+ "a260905p2": {
+  "article_url": "https://www.mobihealthnews.com/news/scancom-secures-220m-us-medical-imaging-expansion",
+  "date": "2026-09-05",
+  "permalink_id": "a260905p2",
+  "summary": "The financing includes a $90 million Series C equity round and $130 million in debt facilities.",
+  "techmeme_url": "https://www.techmeme.com/260905/p2",
+  "title": "Scan.com, which uses AI to match patient referrals with imaging centers by availability, price, and specialty, raised a $220M Series C, including $90M in equity (Eve Bender/MobiHealthNews)"
+ },
+ "a260905p3": {
+  "article_url": "https://therecord.media/scam-compounds-coordination-us-uk-memorandum",
+  "date": "2026-09-05",
+  "permalink_id": "a260905p3",
+  "summary": "The United States and United Kingdom will work together on an initiative to shut down scam centers stealing billions of dollars through investment and romance fraud schemes.",
+  "techmeme_url": "https://www.techmeme.com/260905/p3",
+  "title": "The US and UK sign an MOU to investigate and share info on organized crime syndicates behind online scam centers, many of which are based in Southeast Asia (Jonathan Greig/The Record)"
+ },
+ "a260905p4": {
+  "article_url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+  "date": "2026-09-05",
+  "permalink_id": "a260905p4",
+  "summary": "A clever technique used to hide malicious prompts in attacks on AI agents has been adopted by spammers to evade filters …",
+  "techmeme_url": "https://www.techmeme.com/260905/p4",
+  "title": "Microsoft says email spammers are adopting ASCII smuggling, an AI prompt injection tactic used to hide malicious instructions, to evade email platform filters (Dan Goodin/Ars Technica)"
+ },
+ "a260905p5": {
+  "article_url": "https://www.wsj.com/tech/betaworks-scores-with-hugging-face-deal-f359e3ec",
+  "date": "2026-09-05",
+  "permalink_id": "a260905p5",
+  "summary": "John Borthwick's venture firm wrote the first check Hugging Face ever received, and now owns a stake that could be worth $650 million.",
+  "techmeme_url": "https://www.techmeme.com/260905/p5",
+  "title": "Source: Betaworks has a 5.5% stake in Hugging Face, worth ~$650M at its $11.9B acquisition price for stockholders; A.Capital says it could bag $1.5B on the sale (Yuliya Chernova/Wall Street Journal)"
+ },
+ "a260905p6": {
+  "article_url": "https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU2NDY4OSwiZXhwIjoxNzg5MTY5NDg5LCJhcnRpY2xlSWQiOiJUS1RQV0tLSVVQUzgwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.nLBC-9yf4-nPwNS-uFqtGKEZT4W6X3MXMOQKHqeF4Ws",
+  "date": "2026-09-05",
+  "permalink_id": "a260905p6",
+  "summary": "Chinese AI companies are rapidly closing the gap with US rivals, even after years of restrictions on their access to advanced chips.",
+  "techmeme_url": "https://www.techmeme.com/260905/p6",
+  "title": "Q&A with Kai-Fu Lee on China's open-model advantage, AI's impact on jobs, US export restrictions on chips, Chinese AI's role in developing countries, and more (Mishal Husain/Bloomberg)"
+ },
+ "a260905p7": {
+  "article_url": "https://x.com/openai/status/2096133504417616165",
+  "date": "2026-09-05",
+  "permalink_id": "a260905p7",
+  "summary": "How we think about the “wiki incident,” where our agents wrote to several internet sites: it's past time for us …",
+  "techmeme_url": "https://www.techmeme.com/260905/p7",
+  "title": "In response to the \"wiki incident\", OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment (@openai)"
  }
 }
