@@ -167,6 +167,14 @@
   "techmeme_url": "https://www.techmeme.com/260904/p28",
   "title": "Anthropic says Claude worked \"largely autonomously\" over 11 days to formalize the proof of Fermat's Last Theorem in the Lean programming language (Anthropic)"
  },
+ "a260904p29": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-04/ai-startup-micro1-seeks-to-topple-google-s-bid-for-spirit-data",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p29",
+  "summary": "An artificial intelligence startup is attempting to wrest away a vast trove of Spirit Aviation Holdings Inc.'s business records from Google LLC.",
+  "techmeme_url": "https://www.techmeme.com/260904/p29",
+  "title": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)"
+ },
  "a260904p3": {
   "article_url": "https://asia.nikkei.com/business/electronics/early-foldable-iphone-production-limited-to-a-few-hundred-per-day-sources",
   "date": "2026-09-04",
@@ -174,6 +182,62 @@
   "summary": "TAIPEI — Initial production of Apple's long-awaited foldable iPhone is currently limited to only a “few hundred” units a day …",
   "techmeme_url": "https://www.techmeme.com/260904/p3",
   "title": "Sources: initial foldable iPhone production is limited to only a \"few hundred\" units a day due to Apple's strict quality standards as it ramps up output (Nikkei Asia)"
+ },
+ "a260904p30": {
+  "article_url": "https://www.politico.com/news/2026/09/04/california-investigation-openai-hugging-face-hack-01065800",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p30",
+  "summary": "SAN FRANCISCO — California Attorney General Rob Bonta is investigating OpenAI over the recent hack its programs carried out on their own …",
+  "techmeme_url": "https://www.techmeme.com/260904/p30",
+  "title": "California AG Rob Bonta is investigating OpenAI over the Hugging Face hack in July, after more than a dozen states joined Alabama in its investigation (Chase DiFeliciantonio/Politico)"
+ },
+ "a260904p31": {
+  "article_url": "https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p31",
+  "summary": "Anthropic is expected to begin marketing its initial public offering in mid-October at the earliest and complete the listing days …",
+  "techmeme_url": "https://www.techmeme.com/260904/p31",
+  "title": "Sources: Anthropic is expected to make its IPO prospectus public late September and complete the listing days before the US midterm elections in November (Echo Wang/Reuters)"
+ },
+ "a260904p32": {
+  "article_url": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p32",
+  "summary": "The U.S. and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources briefed …",
+  "techmeme_url": "https://www.techmeme.com/260904/p32",
+  "title": "Sources: the US and China will discuss AI safety risks during talks planned for mid-September, with Treasury Secretary Scott Bessent leading the US side (Laurie Chen/Reuters)"
+ },
+ "a260904p33": {
+  "article_url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIySDNvM1hCa3AiLCJwIjoiL2dhbWVzLzk4OTk3OC9udmlkaWEtZGxzcy01LXJ0eC00MCIsImV4cCI6MTc4ODkyMTgwNCwiaWF0IjoxNzg4NDg5ODA0fQ.BN2FxrfXqE6iVeRYRH9YrV8MINvQ9T7aIhzVr7o_WGE",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p33",
+  "summary": "Nvidia won't confirm that previously announced DLSS 5 games will still ship with the tech. … But unofficially, modders have already ported a leaked version …",
+  "techmeme_url": "https://www.techmeme.com/260904/p33",
+  "title": "Nvidia says it plans to bring DLSS 5 to older RTX 40-series GPUs \"once RTX 50 Series performance is more fully tuned\" (Sean Hollister/The Verge)"
+ },
+ "a260904p34": {
+  "article_url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IldwdFJmaGQ3OWciLCJwIjoiL3BvbGljeS85OTAyNjcvbWljcm9zb2Z0LW9wZW5haS1uZXcteW9yay10aW1lcy1hdXRob3JzLWxhd3N1aXQiLCJleHAiOjE3ODg5OTg5OTksImlhdCI6MTc4ODU2Njk5OX0.0W2E2SvJtcqIzc31d3Qg-xB0MnXWx7udT_Ny8bYC-QU",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p34",
+  "summary": "Fewer than 1 percent of more than 8 million chat logs regurgitated at least 16 words. … Microsoft's Copilot rarely reproduces …",
+  "techmeme_url": "https://www.techmeme.com/260904/p34",
+  "title": "Microsoft court filings: an expert hired by publishers found that only ~60K of 8.2M Copilot chat logs contained at least 16 words in common with news content (Lauren Feiner/The Verge)"
+ },
+ "a260904p35": {
+  "article_url": "https://www.wsj.com/world/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-b6c7cb6e?st=WcCKED",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p35",
+  "summary": "Negotiators offered access to advanced AI hardware to help secure a preliminary agreement ending decades of conflict",
+  "techmeme_url": "https://www.techmeme.com/260904/p35",
+  "title": "Sources: US negotiators used the promise of access to Nvidia's chips for an Armenian data center to broker a preliminary Armenia-Azerbaijan peace deal last year (Robbie Whelan/Wall Street Journal)"
+ },
+ "a260904p36": {
+  "article_url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+  "date": "2026-09-04",
+  "permalink_id": "a260904p36",
+  "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities.",
+  "techmeme_url": "https://www.techmeme.com/260904/p36",
+  "title": "Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome's sandboxed renderer process (Bill Toulas/BleepingComputer)"
  },
  "a260904p4": {
   "article_url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
