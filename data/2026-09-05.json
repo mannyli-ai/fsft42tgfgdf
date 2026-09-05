@@ -7,6 +7,22 @@
   "techmeme_url": "https://www.techmeme.com/260905/p1",
   "title": "Sources: India-based Slice, which has transitioned from a credit card-led fintech to a small finance bank, raised $100M at a ~$450M valuation, down from ~$1.4B (Moneycontrol)"
  },
+ "a260905p10": {
+  "article_url": "https://www.reuters.com/world/berlin-launches-crisis-response-after-hackers-publish-stolen-data-2026-09-05/",
+  "date": "2026-09-05",
+  "permalink_id": "a260905p10",
+  "summary": "Berlin's state government said on Saturday it was reviewing with the highest intensity a trove of stolen data published by a ransomware group …",
+  "techmeme_url": "https://www.techmeme.com/260905/p10",
+  "title": "Berlin is reviewing Rhysida's 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans (Miranda Murray/Reuters)"
+ },
+ "a260905p11": {
+  "article_url": "https://www.wsj.com/finance/the-next-big-opportunity-in-data-centers-insuring-them-f133f3cb",
+  "date": "2026-09-05",
+  "permalink_id": "a260905p11",
+  "summary": "AI hyperscale data centers are exposed to a dizzying array of potential threats during construction and operation",
+  "techmeme_url": "https://www.techmeme.com/260905/p11",
+  "title": "Swiss Re: global premiums for insuring data centers will likely reach $20B-$30B/year by 2030; ~40% of US data-center capacity is located in tornado-prone areas (Jean Eaglesham/Wall Street Journal)"
+ },
  "a260905p2": {
   "article_url": "https://www.mobihealthnews.com/news/scancom-secures-220m-us-medical-imaging-expansion",
   "date": "2026-09-05",
@@ -62,5 +78,13 @@
   "summary": "Five unexpected ways computing power is entering everyday life in the country. — Artificial intelligence tokens …",
   "techmeme_url": "https://www.techmeme.com/260905/p8",
   "title": "Businesses in China are experimenting with ways to package and market AI tokens to ordinary consumers, including as credit card rewards and telecom plan bundles (Kinling Lo/Rest of World)"
+ },
+ "a260905p9": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+  "date": "2026-09-05",
+  "permalink_id": "a260905p9",
+  "summary": "The internet fights over anthropomorphism around the Hugging Face hack. … Depending on who you ask, developer platform Hugging Face …",
+  "techmeme_url": "https://www.techmeme.com/260905/p9",
+  "title": "Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack (Robert Hart/The Verge)"
  }
 }
