@@ -38,5 +38,29 @@
   "summary": "Also: The latest on Apple's big Sept. 9 event. — The early signs out of Cupertino are that Tim Cook will still loom large at Apple.",
   "techmeme_url": "https://www.techmeme.com/260906/p5",
   "title": "Tim Cook's pay package indicates he will remain very active at Apple; sources: Apple's plans to squeeze more App Store profits prompted Phil Schiller to leave (Mark Gurman/Bloomberg)"
+ },
+ "a260906p6": {
+  "article_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+  "date": "2026-09-06",
+  "permalink_id": "a260906p6",
+  "summary": "For AGI to benefit all of humanity, we believe it must be democratically governed.",
+  "techmeme_url": "https://www.techmeme.com/260906/p6",
+  "title": "OpenAI says it hit its \"automated research intern\" goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens (OpenAI)"
+ },
+ "a260906p7": {
+  "article_url": "https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months",
+  "date": "2026-09-06",
+  "permalink_id": "a260906p7",
+  "summary": "Anthropic in the last year has scrambled to line up cloud computing deals with SpaceX, Google and others to meet the skyrocketing demand …",
+  "techmeme_url": "https://www.techmeme.com/260906/p7",
+  "title": "Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade (Valida Pau/The Information)"
+ },
+ "a260906p8": {
+  "article_url": "https://openai.com/index/an-alien-mind/",
+  "date": "2026-09-06",
+  "permalink_id": "a260906p8",
+  "summary": "Author: Jakub Pachocki, Chief Scientist at OpenAI — In mid-2023, within the “RLSlow” research project …",
+  "techmeme_url": "https://www.techmeme.com/260906/p8",
+  "title": "OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace (OpenAI)"
  }
 }
