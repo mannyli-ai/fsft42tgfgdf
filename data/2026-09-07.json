@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/260907/p1",
   "title": "Blockstream's Liquid Network halts new transactions after \"purported white-hat hackers\" withdrew ~4,000 of the 4,200 bitcoin held in its federation wallet (Omkar Godbole/CoinDesk)"
  },
+ "a260907p10": {
+  "article_url": "https://www.businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9",
+  "date": "2026-09-07",
+  "permalink_id": "a260907p10",
+  "summary": "Inside Anthropic, an unorthodox group can take a lot of credit for the AI company's meteoric rise. — The company's Labs team …",
+  "techmeme_url": "https://www.techmeme.com/260907/p10",
+  "title": "A look at Anthropic's Labs team, a ~20-person group led by cofounder Ben Mann that acts as an internal startup incubator for developing flagship products (Stephen Council/Business Insider)"
+ },
+ "a260907p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
+  "date": "2026-09-07",
+  "permalink_id": "a260907p11",
+  "summary": "ByteDance Ltd. is readying an AI model geared for real-time spatial video generation, taking on Meta Platforms Inc. and Alphabet Inc …",
+  "techmeme_url": "https://www.techmeme.com/260907/p11",
+  "title": "Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)"
+ },
+ "a260907p12": {
+  "article_url": "https://pressgazette.co.uk/news/us-issues-censorship-warning-over-uk-plan-to-boost-public-service-news-on-social-media/",
+  "date": "2026-09-07",
+  "permalink_id": "a260907p12",
+  "summary": "News Media Association warns forcing prominence for ‘trustworthy’ news could end up harming sector.",
+  "techmeme_url": "https://www.techmeme.com/260907/p12",
+  "title": "The US raises censorship concerns over the UK's proposals to force tech platforms to put \"trustworthy\" news providers at the top of social and video feeds (Charlotte Tobitt/Press Gazette)"
+ },
+ "a260907p13": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-09-07",
+  "permalink_id": "a260907p13",
+  "summary": "UForce, a London-based drone startup, is in discussions to raise new financing at a valuation of about $5 billion, according to people familiar with the matter.",
+  "techmeme_url": "https://www.techmeme.com/260907/p13",
+  "title": "Sources: London-based UForce, which makes unmanned vehicles for air, land, and sea, is seeking about $500M led by Valor Equity at a ~$5B valuation (Bloomberg)"
+ },
+ "a260907p14": {
+  "article_url": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
+  "date": "2026-09-07",
+  "permalink_id": "a260907p14",
+  "summary": "Matt Clifford forced to stand down amid disquiet from senior MPs over his new full-time job at AI company",
+  "techmeme_url": "https://www.techmeme.com/260907/p14",
+  "title": "Matt Clifford steps down as the chair of the UK government's science and tech research unit after joining Anthropic, following conflict of interest concerns (The Guardian)"
+ },
+ "a260907p15": {
+  "article_url": "https://www.ft.com/content/356cf253-7711-4a89-8139-5b0152824975",
+  "date": "2026-09-07",
+  "permalink_id": "a260907p15",
+  "summary": "Prosecutors in Belgium cite ‘indications’ suspect took role at tech company in China months after joining now-defunct semiconductor maker Belgan",
+  "techmeme_url": "https://www.techmeme.com/260907/p15",
+  "title": "Belgian prosecutors say they arrested a Belgian-Chinese man in May on suspicion of stealing secrets from bankrupt gallium nitride semiconductor maker Belgan (Andy Bounds/Financial Times)"
+ },
+ "a260907p16": {
+  "article_url": "https://importai.substack.com/",
+  "date": "2026-09-07",
+  "permalink_id": "a260907p16",
+  "summary": "Plus, a machine hermeneutics story — Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers.",
+  "techmeme_url": "https://www.techmeme.com/260907/p16",
+  "title": "Google DeepMind published a paper on how 100 agents tasked with solving math problems learned to cheat and how some agents tried to counter the cheaters (Jack Clark/Import AI)"
+ },
+ "a260907p17": {
+  "article_url": "https://taekim.substack.com/p/gpt-6-astra-and-the-fourth-exponential",
+  "date": "2026-09-07",
+  "permalink_id": "a260907p17",
+  "summary": "AI computer tool use is a big deal. — A reminder that I'm on vacation this week, but the flood of impressions people …",
+  "techmeme_url": "https://www.techmeme.com/260907/p17",
+  "title": "Astra working with Blender via computer use feels like magic, showing computer use could be the fourth demand wave after chatbots, reasoning, and agentic coding (Tae Kim/Key Context)"
+ },
+ "a260907p18": {
+  "article_url": "https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673",
+  "date": "2026-09-07",
+  "permalink_id": "a260907p18",
+  "summary": "The attacker who withdrew roughly 4,000 BTC from a Liquid Federation wallet has returned 3,400 BTC after Blockstream said its bridge nodes had been patched.",
+  "techmeme_url": "https://www.techmeme.com/260907/p18",
+  "title": "The attacker who withdrew ~4,000 BTC from Blockstream's Liquid Network federation wallet returns 3,400 BTC after Blockstream said its bridge nodes were patched (The Block)"
+ },
+ "a260907p19": {
+  "article_url": "https://www.wsj.com/finance/currencies/hunter-biden-and-his-laptop-enter-the-cryptosphere-with-new-meme-coin-4d46fc9c?st=rBFEhm&reflink=desktopwebshare_permalink",
+  "date": "2026-09-07",
+  "permalink_id": "a260907p19",
+  "summary": "The personal computer that launched a thousand memes will debut this week as a digital token",
+  "techmeme_url": "https://www.techmeme.com/260907/p19",
+  "title": "Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP (Vicky Ge Huang/Wall Street Journal)"
+ },
  "a260907p2": {
   "article_url": "https://thezvi.substack.com/p/openai-and-the-wiki-incident",
   "date": "2026-09-07",
