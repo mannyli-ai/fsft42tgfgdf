@@ -7,6 +7,30 @@
   "techmeme_url": "https://www.techmeme.com/260906/p1",
   "title": "OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch (Emily Forlini/Fortune)"
  },
+ "a260906p10": {
+  "article_url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html?unlocked_article_code=1._FA.u0Bg.kF4sF70YLv-f&smid=nytcore-ios-share",
+  "date": "2026-09-06",
+  "permalink_id": "a260906p10",
+  "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company's subsidiary kept shipping Nvidia's best chips …",
+  "techmeme_url": "https://www.techmeme.com/260906/p10",
+  "title": "How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners (New York Times)"
+ },
+ "a260906p11": {
+  "article_url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f?st=CnE73f&reflink=desktopwebshare_permalink",
+  "date": "2026-09-06",
+  "permalink_id": "a260906p11",
+  "summary": "Americans are vibe-coding trading algorithms and handing over their stock portfolios to AI agents. Welcome to the world of the robot retail investor.",
+  "techmeme_url": "https://www.techmeme.com/260906/p11",
+  "title": "How everyday US investors are vibe-coding algorithms to automate trading strategies by connecting their stock portfolios to AI agents built with Claude or Codex (Hannah Erin Lang/Wall Street Journal)"
+ },
+ "a260906p12": {
+  "article_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-and-china-eye-trump-xi-talks-on-ai-guardrails-despite-tech-rift",
+  "date": "2026-09-06",
+  "permalink_id": "a260906p12",
+  "summary": "NEW YORK/PALO ALTO, California — The U.S. is poised to raise artificial intelligence safety concerns with China during …",
+  "techmeme_url": "https://www.techmeme.com/260906/p12",
+  "title": "Sources: at the September 24 US-China talks, the US is expected to discuss preventing AI-directed cyberattacks, and China will likely revisit US export controls (Nikkei Asia)"
+ },
  "a260906p2": {
   "article_url": "https://www.ft.com/content/8a708224-3a37-4d23-9f5c-158a73216018",
   "date": "2026-09-06",
@@ -62,5 +86,13 @@
   "summary": "Author: Jakub Pachocki, Chief Scientist at OpenAI — In mid-2023, within the “RLSlow” research project …",
   "techmeme_url": "https://www.techmeme.com/260906/p8",
   "title": "OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace (OpenAI)"
+ },
+ "a260906p9": {
+  "article_url": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8",
+  "date": "2026-09-06",
+  "permalink_id": "a260906p9",
+  "summary": "Graduates and interns hoping to join Swiss bank must show they can use the technology to improve outcomes and efficiency",
+  "techmeme_url": "https://www.techmeme.com/260906/p9",
+  "title": "Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy (Simon Foy/Financial Times)"
  }
 }
