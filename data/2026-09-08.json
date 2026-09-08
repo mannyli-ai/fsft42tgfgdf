@@ -15,6 +15,62 @@
   "techmeme_url": "https://www.techmeme.com/260908/p10",
   "title": "NYC-based Blee, which makes marketing compliance software for financial services companies, raised a $20M Series A led by Fin Capital and SMBC and a $7M seed (Ryan Lawler/Axios)"
  },
+ "a260908p13": {
+  "article_url": "https://www.abc.net.au/news/2026-09-08/labour-s-social-media-algorithm-choice-duty-of-care-bill/107130100",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p13",
+  "summary": "In short: — The federal government's proposed digital duty of care could let Australians opt in or out of algorithmically recommended social media content.",
+  "techmeme_url": "https://www.techmeme.com/260908/p13",
+  "title": "Australia proposes a \"My Feed, My Way\" initiative requiring social platforms to send users a notification asking them to opt in or out of algorithmic content (Clare Armstrong/ABC)"
+ },
+ "a260908p14": {
+  "article_url": "https://www.nytimes.com/2026/09/08/science/jacob-tsimerman-math-ai-safety.html?unlocked_article_code=1._lA.fyIA.4SWeUMzEQZAp&smid=url-share",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p14",
+  "summary": "Jacob Tsimerman, a recent recipient of the Fields Medal, believes that higher mathematics can help curb the dangers of runaway artificial intelligence.",
+  "techmeme_url": "https://www.techmeme.com/260908/p14",
+  "title": "Fields medalist Jacob Tsimerman, set to join OpenAI later in September, launches the Mathematical AI Safety Institute to apply higher math to AI safety problems (Siobhan Roberts/New York Times)"
+ },
+ "a260908p15": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/apple-s-2-000-plus-foldable-iphone-was-a-decade-in-the-making?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODg3NjUyMCwiZXhwIjoxNzg5NDgxMzIwLCJhcnRpY2xlSWQiOiJUS1VVRzFUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.xzfROkjp6hFcCIKDJQcLXlSsnXCo811CL1MaDs6DB-4",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p15",
+  "summary": "Around 2020, Apple Inc. Chief Executive Officer Tim Cook returned from a trip to Asia unusually energized about a new product category: foldable phones.",
+  "techmeme_url": "https://www.techmeme.com/260908/p15",
+  "title": "A look at Apple's path to a foldable phone, the iPhone's biggest design change yet; sources: the memory shortage led Apple to blow past its $1,999 price target (Mark Gurman/Bloomberg)"
+ },
+ "a260908p16": {
+  "article_url": "https://www.wsj.com/finance/currencies/robinhood-strikes-deal-with-crypto-com-in-latest-prediction-markets-push-901a32aa?st=98Z3Xk&reflink=desktopwebshare_permalink",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p16",
+  "summary": "The brokerage will add yes-or-no contracts from Crypto.com prediction business and take stake in digital-currency exchange",
+  "techmeme_url": "https://www.techmeme.com/260908/p16",
+  "title": "Robinhood adds Crypto.com's yes-or-no contracts to its platform and takes minority stakes in Crypto.com and prediction market company OG, spun out of Crypto.com (Wall Street Journal)"
+ },
+ "a260908p17": {
+  "article_url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p17",
+  "summary": "Qualcomm shares rose 4% on Tuesday after the company announced a data center infrastructure partnership with Amazon Web Services …",
+  "techmeme_url": "https://www.techmeme.com/260908/p17",
+  "title": "Qualcomm signs a deal with Amazon to provide \"multiple generations of customized silicon\" to help build AWS' AI infrastructure for inference; QCOM jumps ~5% (Ari Levy/CNBC)"
+ },
+ "a260908p18": {
+  "article_url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p18",
+  "summary": "Early last month, Meta deleted around 50 ads posted on Facebook, Instagram, and Threads that directly included child …",
+  "techmeme_url": "https://www.techmeme.com/260908/p18",
+  "title": "Researchers say Meta ran 350+ ads with CSAM in 2026 so far; some featured morphed images of real children, and many linked to \"nudification\" apps from China (Matt Burgess/Wired)"
+ },
+ "a260908p19": {
+  "article_url": "https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p19",
+  "summary": "The new group will be made up of 1,000 forward-deployed engineers — Google Cloud and Accenture are the latest companies to bet …",
+  "techmeme_url": "https://www.techmeme.com/260908/p19",
+  "title": "Google Cloud and Accenture form the Accenture Gemini Enterprise Business Group to train up to 1,000 Accenture forward deployed engineers for Gemini Enterprise (Isabelle Bousquette/Wall Street Journal)"
+ },
  "a260908p2": {
   "article_url": "https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3",
   "date": "2026-09-08",
@@ -22,6 +78,70 @@
   "summary": "Tech giant plays ‘project management’ role to build components needed for DUV machines and avoid export controls",
   "techmeme_url": "https://www.techmeme.com/260908/p2",
   "title": "Sources: Huawei is investing in Chinese lithography companies and helping them secure deals with leading fabs like SMIC to reduce reliance on foreign suppliers (Financial Times)"
+ },
+ "a260908p20": {
+  "article_url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p20",
+  "summary": "Silicon Valley is known for embracing the ethos of “move fast and break things.” Poseidon Aerospace's co-founder and CEO David Zagaynov just wants to move things fast.",
+  "techmeme_url": "https://www.techmeme.com/260908/p20",
+  "title": "Poseidon Aerospace, which plans the first test flight of its pilotless cargo plane by year-end, raised a $60M Series A led by TQ Ventures, after an $11M seed (Sean O'Kane/TechCrunch)"
+ },
+ "a260908p21": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-runway-hits-200-million-in-annual-recurring-revenue",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p21",
+  "summary": "Runway AI Inc.'s annual recurring revenue hit $200 million in September, underscoring growing demand from companies using …",
+  "techmeme_url": "https://www.techmeme.com/260908/p21",
+  "title": "Runway co-CEO Anastasis Germanidis says the startup's annual recurring revenue hit $200M in September; source: it expects ARR to cross $350M by the end of 2026 (Rachel Metz/Bloomberg)"
+ },
+ "a260908p22": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p22",
+  "summary": "Celero Communications, a maker of networking chips, has raised $275 million in a funding round that values the startup at more than $3 billion …",
+  "techmeme_url": "https://www.techmeme.com/260908/p22",
+  "title": "Celero, which is developing a chip to enable long-distance connections between AI data centers, raised $275M at a $3B+ valuation (Dina Bass/Bloomberg)"
+ },
+ "a260908p23": {
+  "article_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p23",
+  "summary": "AlphaGenome Atlas is the most comprehensive catalogue of how genetic mutations affect molecular biology. — VP Science, Google DeepMind & Chief Scientist, Google Cloud",
+  "techmeme_url": "https://www.techmeme.com/260908/p23",
+  "title": "Google DeepMind releases AlphaGenome Atlas, a 1PB dataset of predicted molecular effects for all ~9B possible single-letter DNA changes in the human genome (Google)"
+ },
+ "a260908p24": {
+  "article_url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p24",
+  "summary": "Stablecoin issuer Circle agreed to pay $400 million in stock for Singapore-based cross-border payments company Tazapay …",
+  "techmeme_url": "https://www.techmeme.com/260908/p24",
+  "title": "Circle agrees to acquire Singapore-based cross-border B2B payments company Tazapay for $400M, in one of its largest publicly disclosed acquisitions to date (Francisco Rodrigues/CoinDesk)"
+ },
+ "a260908p25": {
+  "article_url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p25",
+  "summary": "Last October, Google said it would bring an Iowa nuclear power plant back from the dead. Now, the facility's owner, NextEra Energy …",
+  "techmeme_url": "https://www.techmeme.com/260908/p25",
+  "title": "NextEra Energy, which partnered with Google to revive an Iowa nuclear power plant, gets a $1.9B loan from the Department of Energy to finance the refurbishment (Tim De Chant/TechCrunch)"
+ },
+ "a260908p26": {
+  "article_url": "https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p26",
+  "summary": "A mathematician compared the feat to the history-making chess competition in which IBM's Deep Blue computer beat Garry Kasparov in 1997",
+  "techmeme_url": "https://www.techmeme.com/260908/p26",
+  "title": "Mathematician Tristan Buckmaster alleges OpenAI learned of his work with Anthropic's Levent Alpöge on Navier-Stokes and used an internal model to solve it (Joseph Howlett/Scientific American)"
+ },
+ "a260908p27": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/uk-to-force-apple-google-to-block-nude-images-on-kids-devices",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p27",
+  "summary": "The UK government will require technology companies such as Apple Inc. and Google to stop children from taking …",
+  "techmeme_url": "https://www.techmeme.com/260908/p27",
+  "title": "UK seeks to force Apple and Google to block children from taking, viewing, or sharing nude images on their devices, and praises Apple's age-based restrictions (Jacob Reid/Bloomberg)"
  },
  "a260908p3": {
   "article_url": "https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p",
