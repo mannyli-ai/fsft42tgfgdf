@@ -143,6 +143,22 @@
   "techmeme_url": "https://www.techmeme.com/260908/p27",
   "title": "UK seeks to force Apple and Google to block children from taking, viewing, or sharing nude images on their devices, and praises Apple's age-based restrictions (Jacob Reid/Bloomberg)"
  },
+ "a260908p28": {
+  "article_url": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p28",
+  "summary": "OpenAI says its AI has solved the Navier-Stokes Millennium Prize problem, a potentially historic breakthrough shadowed …",
+  "techmeme_url": "https://www.techmeme.com/260908/p28",
+  "title": "OpenAI says an internal model \"significantly more capable than GPT-6 Astra\" solved the Navier-Stokes problem using 10K concurrent agents working for 88 hours (Madison Mills/Axios)"
+ },
+ "a260908p29": {
+  "article_url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p29",
+  "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+  "techmeme_url": "https://www.techmeme.com/260908/p29",
+  "title": "OpenAI denies that its researchers or models saw Buckmaster and Alpöge's prompts and says it spent millions in compute after rumors of Anthropic making progress (Wired)"
+ },
  "a260908p3": {
   "article_url": "https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p",
   "date": "2026-09-08",
@@ -151,6 +167,86 @@
   "techmeme_url": "https://www.techmeme.com/260908/p3",
   "title": "Arm debuts Neoverse CSS N4, its next-gen semi-custom chip design platform, and says it supports 8 to 128 Neoverse N4 cores at up to 3.8 GHz on TSMC's N3P node (Jake Roach/Tom's Hardware)"
  },
+ "a260908p30": {
+  "article_url": "https://kotaku.com/white-house-removes-awful-tetris-clone-from-website-after-the-tetris-company-posted-it-takes-copyright-infringement-very-seriously-2000732129",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p30",
+  "summary": "It seems the Trump administration doesn't want to tempt a lawsuit from The Tetris Company",
+  "techmeme_url": "https://www.techmeme.com/260908/p30",
+  "title": "The White House has quietly removed Build The Wall, a Tetris clone on its arcade.gov website, after Tetris said it takes \"copyright infringement very seriously\" (Zack Zwiezen/Kotaku)"
+ },
+ "a260908p31": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p31",
+  "summary": "Artificial intelligence coding startup Cognition AI Inc. has raised $2 billion in a new round of funding that vaulted its valuation to $48 billion.",
+  "techmeme_url": "https://www.techmeme.com/260908/p31",
+  "title": "AI coding startup Cognition raised $2B at a $48B valuation, up from $26B in May, and says its run-rate revenue grew from $492M in May to ~$900M (Samantha Oltman/Bloomberg)"
+ },
+ "a260908p32": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/ramp-in-talks-for-new-funding-at-60-billion-valuation",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p32",
+  "summary": "Ramp is in early talks with investors for a new round of funding at a roughly $60 billion valuation, according to people familiar with the efforts …",
+  "techmeme_url": "https://www.techmeme.com/260908/p32",
+  "title": "Sources: Ramp is in early talks to raise ~$1B at a ~$60B valuation, up from $750M at a $44B valuation in June; founded in 2019, Ramp has raised $3B to date (Bloomberg)"
+ },
+ "a260908p33": {
+  "article_url": "https://x.com/sebastienbubeck",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p33",
+  "summary": "I would like to clarify a few things: 1) The screenshot is my reaching out to Levent to coordinate our releases. I hope it's clear from the message that we came in with the best possible intentions. 2) I never ever asked for Levent to be removed from authorship of his own work (as indicated by my...",
+  "techmeme_url": "https://www.techmeme.com/260908/p33",
+  "title": "OpenAI's Sébastien Bubeck says he reached out to Levent Alpöge to coordinate their releases and denies asking to remove Alpöge from authorship of his own work (Sebastien Bubeck/@sebastienbubeck)"
+ },
+ "a260908p34": {
+  "article_url": "https://www.axios.com/2026/09/08/exclusive-hands-on-with-chatgpts-new-image-editor",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p34",
+  "summary": "OpenAI is launching ChatGPT Images 2.5 on Tuesday, the company shared first with Axios. … - The new model can generate images up to 50 percent faster, OpenAI says.",
+  "techmeme_url": "https://www.techmeme.com/260908/p34",
+  "title": "OpenAI launches ChatGPT Images 2.5, which it says cuts image generation latency by up to 50% vs. Images 2.0, and adds a Sketch feature for drawing in ChatGPT (Ina Fried/Axios)"
+ },
+ "a260908p35": {
+  "article_url": "https://openai.com/index/navier-stokes-solution/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p35",
+  "summary": "Read the paper Link to Lean formalized proof — We're sharing a solution to the Navier-Stokes existence …",
+  "techmeme_url": "https://www.techmeme.com/260908/p35",
+  "title": "OpenAI says, while unlikely, it \"cannot rule out that de-identified data derived\" from Buckmaster's and Alpöge's use of its products helped improve its models (OpenAI)"
+ },
+ "a260908p36": {
+  "article_url": "https://www.axios.com/2026/09/08/meta-debuts-muse-personal-ai-agent",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p36",
+  "summary": "Meta on Tuesday announced Muse, a personal AI agent built on the latest generation of models developed under chief AI officer Alexandr Wang.",
+  "techmeme_url": "https://www.techmeme.com/260908/p36",
+  "title": "Meta launches Muse, a personal AI agent that runs on a dedicated VM in Meta's cloud, initially available in the US, with support coming soon for its AI glasses (Ina Fried/Axios)"
+ },
+ "a260908p37": {
+  "article_url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p37",
+  "summary": "Less than two weeks after Meta agreed to a massive $18 billion multistate settlement in a lawsuit over social media's consumer harms …",
+  "techmeme_url": "https://www.techmeme.com/260908/p37",
+  "title": "Meta says Muse users can connect their apps to send emails, book travel, turn recipe Reels into grocery lists, make purchases thanks to Link by Stripe, and more (Sarah Perez/TechCrunch)"
+ },
+ "a260908p38": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/meta-announces-muse-ai-agent-for-personal-tasks-and-organization",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p38",
+  "summary": "Meta Platforms Inc. unveiled a new artificial intelligence agent designed to carry out tasks on a user's behalf …",
+  "techmeme_url": "https://www.techmeme.com/260908/p38",
+  "title": "Meta's personal AI agent Muse is powered by Muse Spark 1.3 and is free for up to 100M tokens per week; users can get more compute via $20 and $100 monthly tiers (Riley Griffin/Bloomberg)"
+ },
+ "a260908p39": {
+  "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/08/heres-a-32-million-bet-that-robots-dont-need-a-billion-dollars-of-real-world-data/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p39",
+  "summary": "Figure AI pulled the wraps off Index last week. It's a billion-dollar bet on real-world data for robot AI training …",
+  "techmeme_url": "https://www.techmeme.com/260908/p39",
+  "title": "Antioch, which creates high-fidelity simulations to reduce the need for hardware validation in physical AI training, raised a $32M Series A led by Greylock (John Koetsier/Forbes)"
+ },
  "a260908p4": {
   "article_url": "https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html?unlocked_article_code=1._lA.DVDP.hQVCjYsFFYaN&smid=nytcore-android-share",
   "date": "2026-09-08",
@@ -158,6 +254,14 @@
   "summary": "Mistral is trying to keep pace with American and Chinese rivals while offering customers a European alternative for artificial intelligence.",
   "techmeme_url": "https://www.techmeme.com/260908/p4",
   "title": "Mistral raised a €3B Series D led by Samsung at a €21B valuation, up from €11.7B a year ago, as it expands into data centers beyond developing AI models (Adam Satariano/New York Times)"
+ },
+ "a260908p40": {
+  "article_url": "https://www.axios.com/2026/09/08/anthropic-breaks-tech-group-chips",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p40",
+  "summary": "Anthropic is severing ties with the Information Technology Industry Council, an industry advocacy group, over legislation …",
+  "techmeme_url": "https://www.techmeme.com/260908/p40",
+  "title": "Source: Anthropic is severing ties with the Information Technology Industry Council after the tech industry trade group opposed three export control measures (Maria Curi/Axios)"
  },
  "a260908p5": {
   "article_url": "https://www.reuters.com/business/energy/tech-companies-look-argentinas-windswept-patagonia-build-massive-data-centers-2026-09-07/",
