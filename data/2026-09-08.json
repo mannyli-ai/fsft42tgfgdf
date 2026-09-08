@@ -7,6 +7,14 @@
   "techmeme_url": "https://www.techmeme.com/260908/p1",
   "title": "Analysis of LG smart TVs shows its ad software tracks nearby devices, security flaws can allow hackers to eavesdrop via a built-in microphone, and more (Gamers Nexus on YouTube)"
  },
+ "a260908p10": {
+  "article_url": "https://www.axios.com/pro/fintech-deals/2026/09/08/blee-27r-million-compliance-software",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p10",
+  "summary": "Blee, a marketing compliance software startup, raised $27 million in seed and Series A financing, founder and CEO Guy Shahar tells Axios exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260908/p10",
+  "title": "NYC-based Blee, which makes marketing compliance software for financial services companies, raised a $20M Series A led by Fin Capital and SMBC and a $7M seed (Ryan Lawler/Axios)"
+ },
  "a260908p2": {
   "article_url": "https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3",
   "date": "2026-09-08",
@@ -14,5 +22,61 @@
   "summary": "Tech giant plays ‘project management’ role to build components needed for DUV machines and avoid export controls",
   "techmeme_url": "https://www.techmeme.com/260908/p2",
   "title": "Sources: Huawei is investing in Chinese lithography companies and helping them secure deals with leading fabs like SMIC to reduce reliance on foreign suppliers (Financial Times)"
+ },
+ "a260908p3": {
+  "article_url": "https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p3",
+  "summary": "Putting a little pep in Neoverse N-series' step. … Arm is bringing its next-gen Neoverse CSS N4 platforms to the cloud …",
+  "techmeme_url": "https://www.techmeme.com/260908/p3",
+  "title": "Arm debuts Neoverse CSS N4, its next-gen semi-custom chip design platform, and says it supports 8 to 128 Neoverse N4 cores at up to 3.8 GHz on TSMC's N3P node (Jake Roach/Tom's Hardware)"
+ },
+ "a260908p4": {
+  "article_url": "https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html?unlocked_article_code=1._lA.DVDP.hQVCjYsFFYaN&smid=nytcore-android-share",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p4",
+  "summary": "Mistral is trying to keep pace with American and Chinese rivals while offering customers a European alternative for artificial intelligence.",
+  "techmeme_url": "https://www.techmeme.com/260908/p4",
+  "title": "Mistral raised a €3B Series D led by Samsung at a €21B valuation, up from €11.7B a year ago, as it expands into data centers beyond developing AI models (Adam Satariano/New York Times)"
+ },
+ "a260908p5": {
+  "article_url": "https://www.reuters.com/business/energy/tech-companies-look-argentinas-windswept-patagonia-build-massive-data-centers-2026-09-07/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p5",
+  "summary": "Argentina's rugged Patagonia is drawing increasing interest from investors searching for sites for mega data centers who are enticed …",
+  "techmeme_url": "https://www.techmeme.com/260908/p5",
+  "title": "Argentina's Patagonia region is drawing interest from hyperscalers and data center developers due to its cold climate, expanses of land, and renewable energy (Leila Miller/Reuters)"
+ },
+ "a260908p6": {
+  "article_url": "https://www.scmp.com/tech/big-tech/article/3366740/deepseek-embarks-unprecedented-hiring-spree-it-overhauls-backend-systems",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p6",
+  "summary": "The company cited a rapid surge in user demand for AI and increased complexity of its computing systems",
+  "techmeme_url": "https://www.techmeme.com/260908/p6",
+  "title": "DeepSeek says it is seeking ~150 senior engineers in an \"unprecedented\" hiring spree to overhaul its backend systems, strained by high user demand and AI agents (Minxiao Chang/South China Morning Post)"
+ },
+ "a260908p7": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p7",
+  "summary": "ASML Holding NV has won commitments from top chipmakers to use its latest semiconductor production gear, while embarking …",
+  "techmeme_url": "https://www.techmeme.com/260908/p7",
+  "title": "Samsung and TSMC commit to using ASML's High NA EUV machines by 2028 and 2030, joining Intel, with all four agreeing to shift from 6-inch to 12-inch photomasks (Bloomberg)"
+ },
+ "a260908p8": {
+  "article_url": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html?unlocked_article_code=1._lA.Krp-.CpJAS216xN4U&smid=bs-share",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p8",
+  "summary": "The attack, discovered by A.I. researchers, could have compromised hundreds of millions of devices within hours, experts said.",
+  "techmeme_url": "https://www.techmeme.com/260908/p8",
+  "title": "Researchers say they used AI to build a zero-click worm that can hack WeChat accounts and spread across iOS and Android; Tencent says it fixed the vulnerability (Dustin Volz/New York Times)"
+ },
+ "a260908p9": {
+  "article_url": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p9",
+  "summary": "China plans to deploy artificial intelligence computing clusters containing 100,000 accelerator cards and sharply expand …",
+  "techmeme_url": "https://www.techmeme.com/260908/p9",
+  "title": "China says its AI compute capacity rose 177% YoY to 2,185 eflops by the end of June, and targets 9,800 eflops by 2030 via ~$532B in IT infrastructure spend (Howard Liu/South China Morning Post)"
  }
 }
