@@ -135,6 +135,14 @@
   "techmeme_url": "https://www.techmeme.com/260909/p25",
   "title": "Florida AG sues Netflix, alleging it misleads parents about how it collects data on minors and harms children with features that lead to binge watching (Kimberly Leonard/Politico)"
  },
+ "a260909p29": {
+  "article_url": "https://www.macrumors.com/2026/09/09/apple-unveils-a20-pro-as-first-2nm-smartphone-chip/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p29",
+  "summary": "Apple today revealed the A20 Pro chip in the iPhone 18 Pro and iPhone 18 Pro Max, built on a brand new architecture using 2nm process technology.",
+  "techmeme_url": "https://www.techmeme.com/260909/p29",
+  "title": "Apple unveils the 2nm A20 Pro, featuring a 6-core CPU with two \"desktop class\" super cores, a 7-core GPU up to 40% faster, and 32 Neural Engine cores in total (Hartley Charlton/MacRumors)"
+ },
  "a260909p3": {
   "article_url": "https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut",
   "date": "2026-09-09",
@@ -143,6 +151,86 @@
   "techmeme_url": "https://www.techmeme.com/260909/p3",
   "title": "Sources: China Securities Regulatory Commission is informally tightening IPO approvals for humanoid startups after a volatile debut by industry leader Unitree (The Information)"
  },
+ "a260909p30": {
+  "article_url": "https://9to5mac.com/2026/09/09/iphone-18-pro-can-authenticate-that-your-photo-wasnt-edited-with-ai/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p30",
+  "summary": "Apple is introducing a new Reference Image feature as part of the new iPhone 18 Pro, which digitally authenticates that the image …",
+  "techmeme_url": "https://www.techmeme.com/260909/p30",
+  "title": "Apple adds a Reference Image feature to the iPhone 18 Pro, which digitally authenticates that photos taken with its camera haven't later been altered by AI (Benjamin Mayo/9to5Mac)"
+ },
+ "a260909p31": {
+  "article_url": "https://www.engadget.com/2253951/apples-iphone-18-pro-has-an-a20-pro-chip-and-smaller-dynamic-island/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p31",
+  "summary": "And it now comes in burgundy. — While all eyes are on Apple's first foldable, the company hasn't forgotten …",
+  "techmeme_url": "https://www.techmeme.com/260909/p31",
+  "title": "iPhone 18 Pro comes with a smaller Dynamic Island; 18 Pro starts at $1,199 and the 18 Pro Max starts at $1,299, both costing $100 more than the 17 Pro lineup (Devindra Hardawar/Engadget)"
+ },
+ "a260909p32": {
+  "article_url": "https://9to5mac.com/2026/09/09/apple-unveils-airpods-5-with-upgraded-noise-cancellation-more/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p32",
+  "summary": "Today during its iPhone 18 Pro event, Apple announced the next generation AirPods 5 with improved active noise cancellation. Here are the details.",
+  "techmeme_url": "https://www.techmeme.com/260909/p32",
+  "title": "Apple announces two AirPods 5 models with ANC that removes up to 50% more noise than AirPods 4, for $129 or $149 with a wireless charging case (Ryan Christoffel/9to5Mac)"
+ },
+ "a260909p33": {
+  "article_url": "https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p33",
+  "summary": "Apple Watch Series 12 and Apple Watch Ultra 4 are official. Apple has announced its two new Apple Watch models as part of its product event today.",
+  "techmeme_url": "https://www.techmeme.com/260909/p33",
+  "title": "Apple unveils the Apple Watch Series 12 and Ultra 4, with a new S11 chip, upgraded health tracking, an Audio Intelligence feature, a readiness feature, and more (Zac Hall/9to5Mac)"
+ },
+ "a260909p34": {
+  "article_url": "https://petapixel.com/2026/09/09/iphone-18-pro-has-apples-fastest-lens-yet-thanks-to-variable-aperture/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p34",
+  "summary": "Apple has unveiled the iPhone 18 Pro and iPhone 18 Pro Max, its latest flagship slab smartphones.",
+  "techmeme_url": "https://www.techmeme.com/260909/p34",
+  "title": "iPhone 18 Pro has a faster 48MP Fusion Main camera with variable aperture that lets in ~50% more light in low-light, along with enhanced camera app controls (Jeremy Gray/PetaPixel)"
+ },
+ "a260909p35": {
+  "article_url": "https://9to5mac.com/2026/09/09/apple-unveils-foldable-iphone-duo/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p35",
+  "summary": "Apple has officially unveiled the highly anticipated foldable iPhone, and it's called iPhone Duo. Here's everything you need to know.",
+  "techmeme_url": "https://www.techmeme.com/260909/p35",
+  "title": "Apple announces its first foldable, the iPhone Duo, with a 5.4-inch outer display, a 7.6-inch inner display, A20 Pro with a new display engine, and Touch ID (Chance Miller/9to5Mac)"
+ },
+ "a260909p36": {
+  "article_url": "https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p36",
+  "summary": "Seven years after foldable phones arrived, Apple thinks the tech is ready for an iPhone.",
+  "techmeme_url": "https://www.techmeme.com/260909/p36",
+  "title": "The iPhone Duo starts at $1,999 for 256GB, with a 2TB model costing $3,199, in star white and night sky colors; preorders start Oct. 16, and sales begin Oct. 23 (Dominic Preston/The Verge)"
+ },
+ "a260909p37": {
+  "article_url": "https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p37",
+  "summary": "﻿We've tried the first ever foldable iPhone at Apple's launch event. … The first foldable iPhone is finally here …",
+  "techmeme_url": "https://www.techmeme.com/260909/p37",
+  "title": "Hands-on with the iPhone Duo: the folding mechanism is smooth, the crease is almost impossible to find with a finger, and the inner screen has a matte finish (The Verge)"
+ },
+ "a260909p38": {
+  "article_url": "https://www.engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p38",
+  "summary": "It's almost time for Siri AI. — The next version of iOS will arrive on Monday, September 14, Apple announced today at its fall iPhone event.",
+  "techmeme_url": "https://www.techmeme.com/260909/p38",
+  "title": "Apple says iOS 27, iPadOS 27, watchOS 27, and macOS 27 Golden Gate, all with Siri AI, will be released on September 14 (Igor Bonifacic/Engadget)"
+ },
+ "a260909p39": {
+  "article_url": "https://www.theverge.com/tech/989294/iphone-ultra-fold-multitasking-ios",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p39",
+  "summary": "iPhone Duo is also the first iPhone to support Apple Pencil. … Obviously, part of the appeal of a foldable phone is all that additional screen real estate.",
+  "techmeme_url": "https://www.techmeme.com/260909/p39",
+  "title": "iPhone Duo supports Apple Pencil and comes with iOS redesigned for multitasking on different screen sizes/orientations, with auto-adjusting controls and apps (Terrence O'Brien/The Verge)"
+ },
  "a260909p4": {
   "article_url": "https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870",
   "date": "2026-09-09",
@@ -150,6 +238,38 @@
   "summary": "Decision to exclude Aisi has prompted fears inside British government of protectionist shift among tech groups.",
   "techmeme_url": "https://www.techmeme.com/260909/p4",
   "title": "Sources: Anthropic declined to submit Mythos 5.1 to the UK AISI for pre-release testing, prompting UK fears that US AI labs are aligning with US protectionism (Financial Times)"
+ },
+ "a260909p40": {
+  "article_url": "https://www.businessinsider.com/salesforce-acquire-ai-startup-listen-labs-2026-9",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p40",
+  "summary": "Salesforce has been in talks to acquire AI startup Listen Labs for around $2 billion. — Listen Labs, which was last valued …",
+  "techmeme_url": "https://www.techmeme.com/260909/p40",
+  "title": "Sources: Salesforce has been in talks to buy Listen Labs, an AI-powered customer research platform for $2B; Listen Labs was valued at $500M earlier this year (Business Insider)"
+ },
+ "a260909p41": {
+  "article_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p41",
+  "summary": "We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+  "techmeme_url": "https://www.techmeme.com/260909/p41",
+  "title": "Anthropic details four incidents where Claude gained unauthorized access to third-party systems, including a new Opus 4.6 case; METR will investigate them (Anthropic)"
+ },
+ "a260909p42": {
+  "article_url": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p42",
+  "summary": "The price increase impacts the iPhone 16, the full iPhone 17 lineup, as well as the iPhone Air.",
+  "techmeme_url": "https://www.techmeme.com/260909/p42",
+  "title": "Apple raises iPhone prices by $100 on all of the older models it is offering, including the iPhone 16, the iPhone 17 lineup, as well as the iPhone Air (Cameron Faulkner/The Verge)"
+ },
+ "a260909p43": {
+  "article_url": "https://analyticsindiamag.com/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p43",
+  "summary": "Tailwind Labs, the company behind the Tailwind CSS web-development framework, is joining Shopify, with the team moving under …",
+  "techmeme_url": "https://www.techmeme.com/260909/p43",
+  "title": "Tailwind Labs, the company behind Tailwind CSS, is joining Shopify; in January, it laid off three of four engineers, citing AI's impact on documentation traffic (Supreeth Koundinya/AIM)"
  },
  "a260909p5": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland",
