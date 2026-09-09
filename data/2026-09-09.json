@@ -7,6 +7,78 @@
   "techmeme_url": "https://www.techmeme.com/260909/p1",
   "title": "Anthropic's Alignment Science lead says there is a \">10%\" chance AI could kill all humans within the next decade and worries about recursive self-improvement (Evan Hubinger/@evanhub)"
  },
+ "a260909p11": {
+  "article_url": "https://www.axios.com/pro/fintech-deals/2026/09/09/savvy-wealth-100m-series-c-halo-fund",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p11",
+  "summary": "Savvy Wealth, which provides tech and back-office infrastructure for independent financial advisors, raised $100 million in Series C funding …",
+  "techmeme_url": "https://www.techmeme.com/260909/p11",
+  "title": "Savvy Wealth, which provides RIA software for independent financial advisors, raised a $100M Series C led by Halo Fund, taking its total funding to $200M+ (Ryan Lawler/Axios)"
+ },
+ "a260909p12": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/openai-says-working-with-samsung-next-generation-chips-deepening-cooperation-2026-09-09/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p12",
+  "summary": "OpenAI is deepening cooperation with Samsung Electronics (005930.KS) as the ChatGPT maker develops its own chips, expanding ties …",
+  "techmeme_url": "https://www.techmeme.com/260909/p12",
+  "title": "OpenAI says it is working with Samsung on its next-gen chips, and Samsung is one of the \"largest-scale deployments of ChatGPT globally\" (Heekyong Yang/Reuters)"
+ },
+ "a260909p13": {
+  "article_url": "https://www.nytimes.com/2026/09/09/business/dealbook/clay-ai-fundraising.html",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p13",
+  "summary": "The round was led by Wellington Management, a firm known for investing in start-ups on the path toward potential initial public offerings.",
+  "techmeme_url": "https://www.techmeme.com/260909/p13",
+  "title": "AI sales and marketing startup Clay raised $115M led by Wellington Management at a $7.1B valuation, up from $3.1B when it raised $100M in August 2025 (Michael J. de la Merced/New York Times)"
+ },
+ "a260909p14": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/09/context-platform-euno-enterprise",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p14",
+  "summary": "Euno, an enterprise AI context platform, raised a $23 million Series A led by N47, Euno CEO Sarah Levy tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260909/p14",
+  "title": "Euno, whose platform reconstructs data flow, meaning, health, and more across data environments to give agents context, raised a $23M Series A led by N47 (Chris Metinko/Axios)"
+ },
+ "a260909p15": {
+  "article_url": "https://www.reuters.com/technology/analog-devices-buy-alif-semiconductor-135-billion-2026-09-09/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p15",
+  "summary": "Analog Devices (ADI.O) will acquire privately held Alif Semiconductor for $1.35 billion in cash, the companies said on Wednesday …",
+  "techmeme_url": "https://www.techmeme.com/260909/p15",
+  "title": "Analog Devices agrees to buy privately held Alif Semiconductor, which makes low-power AI processors, for $1.35B in cash, with contingent payments up to $200M (Anhata Rooprai/Reuters)"
+ },
+ "a260909p16": {
+  "article_url": "https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p16",
+  "summary": "Authorities have quietly relaxed controls on foreign currency to encourage traders to repatriate much-needed funds",
+  "techmeme_url": "https://www.techmeme.com/260909/p16",
+  "title": "Sources: Iran's central bank has quietly relaxed foreign currency controls and encouraged traders to repatriate funds via cryptocurrencies to bypass sanctions (Najmeh Bozorgmehr/Financial Times)"
+ },
+ "a260909p17": {
+  "article_url": "https://fortune.com/2026/09/09/exclusive-latitude-stripe-uber-alums-35-million-stablecoins-local-payments/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p17",
+  "summary": "Stablecoins have made it exceptionally easy to move money across borders instantaneously. The problem that remains for users …",
+  "techmeme_url": "https://www.techmeme.com/260909/p17",
+  "title": "Latitude, a Texas-based payments infrastructure company founded by Stripe, Uber, Coinbase and Meta alumni, raised a $35M Series A led by Oak HC/FT (Camila Grigera Naón/Fortune)"
+ },
+ "a260909p18": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-09/dell-seeks-to-raise-4-billion-from-bond-sale-to-refinance-debt",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p18",
+  "summary": "Dell Technologies Inc. is seeking to raise about $4 billion from an investment-grade bond sale, joining a wave of issuers seeking …",
+  "techmeme_url": "https://www.techmeme.com/260909/p18",
+  "title": "Sources: Dell seeks to raise ~$4B via an investment-grade bond sale to refinance outstanding notes due in 2026, amid the AI-driven demand for servers (Bloomberg)"
+ },
+ "a260909p19": {
+  "article_url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p19",
+  "summary": "As AI agents gain access to the same sensitive corporate data and systems as human workers while operating at machine speed, enterprises are prone to new security risks.",
+  "techmeme_url": "https://www.techmeme.com/260909/p19",
+  "title": "Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation (Jagmeet Singh/TechCrunch)"
+ },
  "a260909p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-event-details-2-000-iphone-duo-apple-watch-series-12-recording-feature?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODkyNjc3OSwiZXhwIjoxNzg5NTMxNTc5LCJhcnRpY2xlSWQiOiJUTDJBRTFLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.aPv2WOdayT-dHgMEwgSmlY6vJOZzEflGX_csJZNWbXI",
   "date": "2026-09-09",
@@ -14,6 +86,54 @@
   "summary": "Apple Inc. is set to debut a roughly $2,000 foldable iPhone Duo on Wednesday as part of a wide-ranging product event, which kicks off at 10 a.m. local time from Cupertino, California.",
   "techmeme_url": "https://www.techmeme.com/260909/p2",
   "title": "Sources: Apple's first foldable will be called iPhone Duo, with prices starting at $2,000 for 256GB of storage and sales starting as early as October (Mark Gurman/Bloomberg)"
+ },
+ "a260909p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-09/burnham-opposes-uk-data-center-moratorium-citing-local-benefits",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p20",
+  "summary": "Prime minister Andy Burnham declined to support a moratorium on building data centers, as the UK seeks to benefit …",
+  "techmeme_url": "https://www.techmeme.com/260909/p20",
+  "title": "UK PM Andy Burnham declines to support a data center moratorium, saying it is \"important\" local communities see the benefits of building data centers (Jacob Reid/Bloomberg)"
+ },
+ "a260909p21": {
+  "article_url": "https://www.politico.com/news/2026/09/09/aft-union-microsoft-ai-deal-01068544",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p21",
+  "summary": "NEW YORK — The American Federation of Teachers and Microsoft have reached an agreement establishing privacy and safety protections …",
+  "techmeme_url": "https://www.techmeme.com/260909/p21",
+  "title": "The American Federation of Teachers and Microsoft agree on AI privacy standards for schools, with legal protections that hold Microsoft liable for breaches (Madina Touré/Politico)"
+ },
+ "a260909p22": {
+  "article_url": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p22",
+  "summary": "Will artificial intelligence light a fire under the U.S. economy in the coming years? That's been a big question in the field of economics, and now Anthropic …",
+  "techmeme_url": "https://www.techmeme.com/260909/p22",
+  "title": "Anthropic releases an interactive tool that lets users explore how AI might affect US economic growth, jobs, wages, and more by 2030 (Scott Horsley/NPR)"
+ },
+ "a260909p23": {
+  "article_url": "https://www.upstartsmedia.com/p/ai-sales-startup-lightfield-raises-47m",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p23",
+  "summary": "CEO Keith Peiris took Lightfield from a painful pivot to 5,000 business customers, 400% net dollar retention, and a Series A led by a16z.",
+  "techmeme_url": "https://www.techmeme.com/260909/p23",
+  "title": "AI CRM software startup Lightfield raised a $47M Series A led by a16z; formerly Tome, it had raised $80M across earlier Series A and B rounds (Alex Konrad/Upstarts Media)"
+ },
+ "a260909p24": {
+  "article_url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p24",
+  "summary": "AI agents unleashed by OpenAI used more than 10 previously undisclosed websites for unsanctioned communications earlier this year …",
+  "techmeme_url": "https://www.techmeme.com/260909/p24",
+  "title": "Researchers: OpenAI's agents used 10+ previously undisclosed sites for unsanctioned communications earlier in 2026; the behavior was closer to spam than hacking (Reuters)"
+ },
+ "a260909p25": {
+  "article_url": "https://www.politico.com/news/2026/09/09/florida-netflix-uthmeier-streaming-investigation-surveillance-01068660",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p25",
+  "summary": "MIAMI — Florida officials on Wednesday sued streaming giant Netflix, alleging it misleads parents about how it collects data on minors …",
+  "techmeme_url": "https://www.techmeme.com/260909/p25",
+  "title": "Florida AG sues Netflix, alleging it misleads parents about how it collects data on minors and harms children with features that lead to binge watching (Kimberly Leonard/Politico)"
  },
  "a260909p3": {
   "article_url": "https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut",
