@@ -263,6 +263,78 @@
   "techmeme_url": "https://www.techmeme.com/260908/p40",
   "title": "Source: Anthropic is severing ties with the Information Technology Industry Council after the tech industry trade group opposed three export control measures (Maria Curi/Axios)"
  },
+ "a260908p41": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/chime-to-become-bank-by-buying-partner-stride-for-590-million",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p41",
+  "summary": "Chime Financial Inc. struck a deal to buy Stride Bank for $590 million in cash, snapping up its longtime partner as the fintech streamlines its operations.",
+  "techmeme_url": "https://www.techmeme.com/260908/p41",
+  "title": "Chime agrees to acquire longtime banking partner Stride Bank for $590M; Stride will become Chime Bank, a wholly owned subsidiary; CHYM jumps 8.5%+ after hours (Paige Smith/Bloomberg)"
+ },
+ "a260908p42": {
+  "article_url": "https://www.wsj.com/finance/banking/block-applies-to-establish-builders-bank-trust-3c6c9556?st=E7uHEo&reflink=desktopwebshare_permalink",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p42",
+  "summary": "The financial technology company is seeking to establish a federally regulated, uninsured national trust bank — Block wants to build a bank.",
+  "techmeme_url": "https://www.techmeme.com/260908/p42",
+  "title": "Block says it has submitted an application to US regulators to establish a federally regulated, uninsured national trust bank called Builders Bank & Trust (Elias Schisgall/Wall Street Journal)"
+ },
+ "a260908p43": {
+  "article_url": "https://www.rte.ie/news/ireland/2026/0908/1590789-coimisiun-na-mean-x-investigation/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p43",
+  "summary": "The media regulator Coimisiún na Meán has opened an investigation into Elon Musk's social media platform X amid concerns …",
+  "techmeme_url": "https://www.techmeme.com/260908/p43",
+  "title": "Ireland's media watchdog investigates X over concerns about age assurance measures and parental controls, the first formal probe under the Online Safety Code (Brian O'Donovan/RTÉ)"
+ },
+ "a260908p44": {
+  "article_url": "https://sources.news/p/mark-zuckerberg-meta-muse-ai-podcast-interview",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p44",
+  "summary": "Meta's CEO joins me for an in-depth conversation on episode two of the Sources podcast. — When Mark Zuckerberg laid out his …",
+  "techmeme_url": "https://www.techmeme.com/260908/p44",
+  "title": "Q&A with Mark Zuckerberg on Muse, the data center backlash, Meta's recent youth-safety settlement, privacy concerns about Meta's smart glasses, and more (Alex Heath/Sources)"
+ },
+ "a260908p45": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJUcVVhYnBzNm8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk5MDMxMy9hbnRocm9waWMtY2xhc3MtYWN0aW9uLWxhd3N1aXQtcHJpY2luZy1zdWJzY3JpcHRpb24tcGxhbnMiLCJleHAiOjE3ODkzMzg2MTQsImlhdCI6MTc4ODkwNjYxNH0.dVyfUa4E3PrNiSev77RXZgABmIiF7eNU0KlFJhCjsYY",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p45",
+  "summary": "Anthropic says power users are key to its business — it's prioritized them even when it means cutting off other popular applications, like OpenClaw.",
+  "techmeme_url": "https://www.techmeme.com/260908/p45",
+  "title": "In an expanded class action lawsuit, a group of Claude subscribers says Anthropic deceptively advertised the limits of its Max subscription tier (Hayden Field/The Verge)"
+ },
+ "a260908p46": {
+  "article_url": "https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p46",
+  "summary": "The U.S. government on Tuesday accused Chinese artificial intelligence companies of maliciously copying technology …",
+  "techmeme_url": "https://www.techmeme.com/260908/p46",
+  "title": "The NSA, CISA, and FBI issue a joint advisory warning that Chinese AI companies, including DeepSeek, are conducting \"industrial-scale\" distillation campaigns (Reuters)"
+ },
+ "a260908p47": {
+  "article_url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628?st=axTZSz&reflink=desktopwebshare_permalink",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p47",
+  "summary": "Concerns are rising inside AI labs that competition is pushing tech companies to race toward self-improving models that risk spiraling out of human control",
+  "techmeme_url": "https://www.techmeme.com/260908/p47",
+  "title": "Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control (Amrith Ramkumar/Wall Street Journal)"
+ },
+ "a260908p48": {
+  "article_url": "https://www.theinformation.com/articles/gimlets-three-tranche-deal-reveals-ai-funding-frenzy",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p48",
+  "summary": "Gimlet Labs said late last week it had raised $300 million at a valuation of about $3 billion, in a round led by new investor Andreessen Horowitz.",
+  "techmeme_url": "https://www.techmeme.com/260908/p48",
+  "title": "Source: Gimlet Labs raised its $300M round after telling investors OpenAI may spend $100M+ annually on its services; OpenAI says it's not a paying customer yet (The Information)"
+ },
+ "a260908p49": {
+  "article_url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p49",
+  "summary": "Breaking down 6 years of pretraining progress into data vs model improvements — How much of the rapid progress in AI that we've seen over the last few years 1 …",
+  "techmeme_url": "https://www.techmeme.com/260908/p49",
+  "title": "Analysis: from 2019 to 2025, gains in pretraining compute efficiency came mostly from data improvements rather than model improvements (Dwarkesh Podcast)"
+ },
  "a260908p5": {
   "article_url": "https://www.reuters.com/business/energy/tech-companies-look-argentinas-windswept-patagonia-build-massive-data-centers-2026-09-07/",
   "date": "2026-09-08",
@@ -270,6 +342,22 @@
   "summary": "Argentina's rugged Patagonia is drawing increasing interest from investors searching for sites for mega data centers who are enticed …",
   "techmeme_url": "https://www.techmeme.com/260908/p5",
   "title": "Argentina's Patagonia region is drawing interest from hyperscalers and data center developers due to its cold climate, expanses of land, and renewable energy (Leila Miller/Reuters)"
+ },
+ "a260908p50": {
+  "article_url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p50",
+  "summary": "Microsoft's patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold.",
+  "techmeme_url": "https://www.techmeme.com/260908/p50",
+  "title": "Microsoft's September 2026 Patch Tuesday fixes a record ~972 vulnerabilities, bringing its total flaws patched in 2026 to 2,760, more than double from 2025 (Dan Goodin/Ars Technica)"
+ },
+ "a260908p51": {
+  "article_url": "https://www.wsj.com/politics/policy/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-4879c4f9?st=Lemw6y&reflink=desktopwebshare_permalink",
+  "date": "2026-09-08",
+  "permalink_id": "a260908p51",
+  "summary": "Amazon, Meta and Google risk losing decadeslong exemptions due to a backlash against their facilities",
+  "techmeme_url": "https://www.techmeme.com/260908/p51",
+  "title": "Over 10 US states have rolled back tech giants' tax breaks, which top $1B/year in some states, as many others propose similar bills amid a data center backlash (Wall Street Journal)"
  },
  "a260908p6": {
   "article_url": "https://www.scmp.com/tech/big-tech/article/3366740/deepseek-embarks-unprecedented-hiring-spree-it-overhauls-backend-systems",
