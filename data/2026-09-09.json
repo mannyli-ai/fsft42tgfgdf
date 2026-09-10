@@ -271,6 +271,38 @@
   "techmeme_url": "https://www.techmeme.com/260909/p43",
   "title": "Tailwind Labs, the company behind Tailwind CSS, is joining Shopify; in January, it laid off three of four engineers, citing AI's impact on documentation traffic (Supreeth Koundinya/AIM)"
  },
+ "a260909p46": {
+  "article_url": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p46",
+  "summary": "Mullenweg, co-founder of Wordpress, wrote in a company-wide Slack channel on Wednesday that board members “conspired” …",
+  "techmeme_url": "https://www.techmeme.com/260909/p46",
+  "title": "Slack messages: Automattic CEO Matt Mullenweg says he has been put on paid leave after CFO Mark Davies \"conspired\" with board members and was voted interim CEO (Samantha Cole/404 Media)"
+ },
+ "a260909p47": {
+  "article_url": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p47",
+  "summary": "Consensys Software Inc. will split into two independently operated companies, separating its consumer-facing MetaMask business …",
+  "techmeme_url": "https://www.techmeme.com/260909/p47",
+  "title": "Consensys plans to split into two companies: MetaMask, with Joe Lubin as CEO, and a new Consensys focused on Ethereum and institutional infrastructure (Jason Shubnell/The Block)"
+ },
+ "a260909p48": {
+  "article_url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p48",
+  "summary": "Alongside the new Apple Watch Series 12 and Ultra 4, Apple on Wednesday introduced a redesigned Apple Health app …",
+  "techmeme_url": "https://www.techmeme.com/260909/p48",
+  "title": "Apple unveils a new Health app with Apple Intelligence, featuring an Insights tab, \"readiness\" and Health Age metrics, and more, rolling out later in 2026 (Sarah Perez/TechCrunch)"
+ },
+ "a260909p49": {
+  "article_url": "https://www.theinformation.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p49",
+  "summary": "Hollywood mogul Jeffrey Katzenberg is teaming up with the former head of OpenAI's Sora app to launch a new AI startup that would train …",
+  "techmeme_url": "https://www.techmeme.com/260909/p49",
+  "title": "Sources: Jeffrey Katzenberg, ex-OpenAI Sora head Bill Peebles, and ex-Dropbox CFO Sujay Jaswa plan to launch a startup to train AI video models for filmmakers (The Information)"
+ },
  "a260909p5": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland",
   "date": "2026-09-09",
@@ -278,6 +310,78 @@
   "summary": "Alphabet Inc.'s Google is spending €13 billion ($15.1 billion) on artificial intelligence infrastructure in Finland …",
   "techmeme_url": "https://www.techmeme.com/260909/p5",
   "title": "Google plans to invest €13B+ in Finland over two years, its biggest investment in Europe to date, to build three new data centers and expand an existing one (Bloomberg)"
+ },
+ "a260909p50": {
+  "article_url": "https://www.macrumors.com/2026/09/09/applecare-one-family-plan/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p50",
+  "summary": "Apple today announced AppleCare One Family, a new option for U.S. customers that extends AppleCare coverage to every eligible device across …",
+  "techmeme_url": "https://www.techmeme.com/260909/p50",
+  "title": "Apple unveils AppleCare One Family, extending AppleCare coverage to every eligible device in an Apple Family Sharing group of up to 6 people for $49.99/month (Hartley Charlton/MacRumors)"
+ },
+ "a260909p51": {
+  "article_url": "https://www.politico.com/news/2026/09/09/newsom-signs-ai-safety-bills-backed-by-anthropic-openai-01069928",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p51",
+  "summary": "SAN FRANCISCO — California Gov. Gavin Newsom on Wednesday signed two bills regulating how outside groups evaluate AI programs for safety after warnings …",
+  "techmeme_url": "https://www.techmeme.com/260909/p51",
+  "title": "California Gov. Gavin Newsom signs into law two bills, backed by Anthropic and OpenAI, regulating how outside groups evaluate AI for safety (Christine Mui/Politico)"
+ },
+ "a260909p52": {
+  "article_url": "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p52",
+  "summary": "Anthropic researcher Jacob Coxon quit his job due to concerns about the safety of AI two months before his equity would have vested, he told Axios.",
+  "techmeme_url": "https://www.techmeme.com/260909/p52",
+  "title": "AI researcher Jacob Coxon says he quit Anthropic after four months, two months before his equity would have vested; he still has equity in prior employer OpenAI (Madison Mills/Axios)"
+ },
+ "a260909p53": {
+  "article_url": "https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p53",
+  "summary": "The Justice Department is examining whether the tech giant sought to sidestep antitrust scrutiny.",
+  "techmeme_url": "https://www.techmeme.com/260909/p53",
+  "title": "Sources: DOJ is investigating whether Nvidia tried to skirt antitrust scrutiny of its 2025 Groq deal, described by Groq as a \"nonexclusive licensing agreement\" (New York Times)"
+ },
+ "a260909p54": {
+  "article_url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p54",
+  "summary": "Massachusetts became the latest state to force data centers to bring their own power, but this time there's a twist.",
+  "techmeme_url": "https://www.techmeme.com/260909/p54",
+  "title": "Massachusetts Gov. Maura Healey signs an EO requiring data centers above 25MW of peak demand to bring their own power and meet 100% of demand with clean energy (Tim De Chant/TechCrunch)"
+ },
+ "a260909p55": {
+  "article_url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p55",
+  "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+  "techmeme_url": "https://www.techmeme.com/260909/p55",
+  "title": "Kepler Computing, which claims its 3D stacking and new material can increase HBM and SRAM density without relying on EUV, emerges from stealth with $468M (Lauren Goode/Wired)"
+ },
+ "a260909p56": {
+  "article_url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p56",
+  "summary": "Paul Christiano, an influential AI researcher focused on keeping AI systems aligned with human interests and under human control …",
+  "techmeme_url": "https://www.techmeme.com/260909/p56",
+  "title": "Paul Christiano, an AI researcher and advisor at CAISI, is joining the OpenAI Foundation board of directors and its Safety and Security Committee (Tim Fernholz/TechCrunch)"
+ },
+ "a260909p57": {
+  "article_url": "https://apnews.com/article/facebook-meta-new-mexico-privacy-lawsuit-fe250dc752777abd4f95f49111a2008a",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p57",
+  "summary": "Attorneys representing the state of New Mexico told jurors that targeted political ads, attempting to lower Democratic turnout during …",
+  "techmeme_url": "https://www.techmeme.com/260909/p57",
+  "title": "New Mexico, the only US state taking the Cambridge Analytica case to trial, accused Meta of failing to protect Facebook user data in its opening statements (Mikella Schuettler/Associated Press)"
+ },
+ "a260909p58": {
+  "article_url": "https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html",
+  "date": "2026-09-09",
+  "permalink_id": "a260909p58",
+  "summary": "Amazon said Kevin Mandia, the founder and former CEO of cybersecurity company Mandiant, is joining its board of directors.",
+  "techmeme_url": "https://www.techmeme.com/260909/p58",
+  "title": "Amazon names Mandiant founder Kevin Mandia to its board of directors, noting his extensive experience \"combating cyber threats\" in public and private sectors (Annie Palmer/CNBC)"
  },
  "a260909p6": {
   "article_url": "https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911",
