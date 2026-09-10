@@ -63,6 +63,30 @@
   "techmeme_url": "https://www.techmeme.com/260910/p16",
   "title": "Sources: Nasdaq is investing $100M in Kraken parent Payward, valuing the cryptocurrency exchange at $21B; Kraken will distribute Nasdaq's tokenized stocks (Katherine Doherty/Bloomberg)"
  },
+ "a260910p17": {
+  "article_url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p17",
+  "summary": "Fintech company Ant International announced Thursday it has signed on Visa and Mastercard to collaborate on a new standard for payments …",
+  "techmeme_url": "https://www.techmeme.com/260910/p17",
+  "title": "Ant International, Visa, and Mastercard plan a new standard for payments made via AI agents, citing McKinsey's projection of $3T to $5T in commerce by 2030 (Evelyn Cheng/CNBC)"
+ },
+ "a260910p18": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/bending-spoons-agrees-to-buy-workspace-miro-for-1-36-billion",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p18",
+  "summary": "Bending Spoons SpA agreed to acquire workplace-collaboration platform Miro in an all-cash transaction valuing the business at $1.36 billion …",
+  "techmeme_url": "https://www.techmeme.com/260910/p18",
+  "title": "Bending Spoons agrees to acquire Miro in an all-cash transaction valuing the workplace-collaboration platform at $1.36B, implying an equity value of ~$1.79B (Sonia Sirletti/Bloomberg)"
+ },
+ "a260910p19": {
+  "article_url": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p19",
+  "summary": "Defense tech startup Mach Industries has raised a fresh $600 million in capital in a Series C extension round that has doubled its valuation …",
+  "techmeme_url": "https://www.techmeme.com/260910/p19",
+  "title": "Mach Industries, which makes unmanned military vehicles and weapons, raised $600M in an extension to its $300M Series C, doubling its valuation to $3.7B (Julie Bort/TechCrunch)"
+ },
  "a260910p2": {
   "article_url": "https://x.com/paulfchristiano",
   "date": "2026-09-10",
@@ -70,6 +94,62 @@
   "summary": "I am excited to be joining the OpenAI nonprofit board, serving on the Safety and Security Committee to support safety oversight.",
   "techmeme_url": "https://www.techmeme.com/260910/p2",
   "title": "OpenAI Foundation board member Paul Christiano says the AI industry is currently not on track to reduce the acute loss-of-control risk to an \"acceptable\" level (Paul Christiano/@paulfchristiano)"
+ },
+ "a260910p20": {
+  "article_url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p20",
+  "summary": "Conversational ads inventory will be available as a managed service via Amazon DSP, but OpenAI will handle placement through its own systems.",
+  "techmeme_url": "https://www.techmeme.com/260910/p20",
+  "title": "Amazon partners with OpenAI to let Amazon DSP users run ads in ChatGPT in a pilot program limited to the US; in August, OpenAI said ChatGPT Ads hit $1B in ARR (Peter Adams/Marketing Dive)"
+ },
+ "a260910p21": {
+  "article_url": "https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p21",
+  "summary": "NEA, Atreides and Jim Clark are among investors putting $875 million into firm making chips designed for fast running of AI models",
+  "techmeme_url": "https://www.techmeme.com/260910/p21",
+  "title": "Positron, which is designing AI inference processor Asimov featuring a \"memory-first architecture\" and up to 2.3TB of memory, raised $875M at a $5B valuation (Robbie Whelan/Wall Street Journal)"
+ },
+ "a260910p22": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-investor-leads-funding-for-off-grid-ai-power-startup",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p22",
+  "summary": "A startup that builds off-grid power systems for data centers said it raised $120 million in a Series A funding round led by Spark Capital, an investor in artificial-intelligence developer Anthropic PBC.",
+  "techmeme_url": "https://www.techmeme.com/260910/p22",
+  "title": "TAR, which builds off-grid power systems for data centers, raised a $120M Series A led by Spark Capital at a ~$1B valuation (Mark Chediak/Bloomberg)"
+ },
+ "a260910p23": {
+  "article_url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p23",
+  "summary": "In 2024, Maven Robotics was brand new, and they had nothing—\"a cartoon of a robot and a team of people,\" CEO and co-founder Hamza Derbas told TechCrunch.",
+  "techmeme_url": "https://www.techmeme.com/260910/p23",
+  "title": "Maven Robotics, whose wheeled robots travel up to 10 mph and lift up to 30kg using two arms, emerges from stealth after raising $100M (Tim Fernholz/TechCrunch)"
+ },
+ "a260910p24": {
+  "article_url": "https://www.theinformation.com/articles/spacex-overhauls-data-center-build-potentially-slowing-expansion",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p24",
+  "summary": "Elon Musk is famous for his “move fast” management philosophy, which he demonstrated most starkly when he built new data centers …",
+  "techmeme_url": "https://www.techmeme.com/260910/p24",
+  "title": "Sources: SpaceX shifts its data center strategy to redesign existing facilities and prioritize power and cooling redundancy, potentially slowing new build-outs (Grace Kay/The Information)"
+ },
+ "a260910p25": {
+  "article_url": "https://www.nytimes.com/2026/09/10/science/tristan-buckmaster-openai-math-navier-stokes.html?unlocked_article_code=1.AFE.TK7P.Y7WvGPkfHaSk&smid=bs-share",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p25",
+  "summary": "Tristan Buckmaster was on the path toward an important proof when one of the A.I. giants used its staggering resources to get there first.",
+  "techmeme_url": "https://www.techmeme.com/260910/p25",
+  "title": "Interview with mathematician Tristan Buckmaster on being drawn into the OpenAI-Anthropic fight; OpenAI says it made progress on another Millennium Prize problem (Kenneth Chang/New York Times)"
+ },
+ "a260910p26": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/saudis-weigh-merging-ea-with-savvy-to-create-global-gaming-giant",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p26",
+  "summary": "Saudi Arabia's wealth fund is considering combining Electronic Arts Inc. with Savvy Games, people familiar with the matter said …",
+  "techmeme_url": "https://www.techmeme.com/260910/p26",
+  "title": "Sources: PIF is considering combining EA with Savvy Games to better coordinate its gaming assets, but not before Savvy closes its $6B Moonton acquisition (Bloomberg)"
  },
  "a260910p3": {
   "article_url": "https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/",
