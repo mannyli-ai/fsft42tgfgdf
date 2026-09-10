@@ -7,6 +7,62 @@
   "techmeme_url": "https://www.techmeme.com/260910/p1",
   "title": "Sources: Alibaba is set to lead a $300M round in AI model testing startup UniPat AI at a $2.5B valuation; UniPat founder Li Kuan worked at Alibaba's Tongyi Lab (Bloomberg)"
  },
+ "a260910p10": {
+  "article_url": "https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p10",
+  "summary": "The following post represents the personal views of the author(s) and does not reflect or represent the positions of their employers.",
+  "techmeme_url": "https://www.techmeme.com/260910/p10",
+  "title": "A look at why the oft-discussed predictions that AI will deliver double-digit GDP growth in advanced economies are extremely unlikely over the next 10-15 years (Ghosts of Electricity)"
+ },
+ "a260910p11": {
+  "article_url": "https://www.axios.com/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p11",
+  "summary": "A Republican-led Senate subcommittee that oversees disaster management is investigating OpenAI's handling of the Hugging Face breach in July, Axios has learned.",
+  "techmeme_url": "https://www.techmeme.com/260910/p11",
+  "title": "Letter: the Senate disaster management subcommittee, led by Sen. Josh Hawley, is probing OpenAI's handling of the Hugging Face breach, calling it \"reckless\" (Axios)"
+ },
+ "a260910p12": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/chinas-deepseek-launches-v41-flash-model-2026-09-10/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p12",
+  "summary": "Chinese artificial intelligence startup DeepSeek on Thursday launched DeepSeek-V4.1-Flash, which the company said is the smallest model …",
+  "techmeme_url": "https://www.techmeme.com/260910/p12",
+  "title": "DeepSeek debuts DeepSeek-V4.1-Flash, its smallest model built on a new Causal Encoder-Decoder architecture, with 552B backbone parameters and 1M-token context (Reuters)"
+ },
+ "a260910p13": {
+  "article_url": "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p13",
+  "summary": "Moonshot's exploration of dual listings may stem in part from the weaker performance of AI stocks in Hong Kong, the sources said",
+  "techmeme_url": "https://www.techmeme.com/260910/p13",
+  "title": "Sources: Moonshot AI is exploring dual Hong Kong and Shanghai listings for greater capital and exposure, amid the weaker performance of AI stocks in Hong Kong (Coco Feng/South China Morning Post)"
+ },
+ "a260910p14": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-gives-eu-access-to-mythos-months-after-model-s-release",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p14",
+  "summary": "Anthropic PBC has handed the European Union's cybersecurity agency access to its powerful Mythos artificial intelligence model …",
+  "techmeme_url": "https://www.techmeme.com/260910/p14",
+  "title": "Anthropic gives EU cybersecurity agency ENISA testing access to Mythos 5 after months of talks that began in late May; ENISA still lacks access to Mythos 5.1 (Gian Volpicelli/Bloomberg)"
+ },
+ "a260910p15": {
+  "article_url": "https://tech.eu/2026/09/10/arlequin-ai-lands-eur28m-to-scale-topological-neural-network-technology/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p15",
+  "summary": "Arlequin AI has secured Series A funding to develop its topological neural network architecture and expand the deployment of AI tools …",
+  "techmeme_url": "https://www.techmeme.com/260910/p15",
+  "title": "Paris-based Arlequin AI, which is developing proprietary models based on topological neural networks, raised a €28M Series A co-led by redalpine and OTB (Tamara Djurickovic/Tech.eu)"
+ },
+ "a260910p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/nasdaq-invests-in-kraken-parent-payward-at-21-billion-valuation",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p16",
+  "summary": "Nasdaq Inc. is investing $100 million in Payward, the parent of cryptocurrency exchange Kraken, as the firm continues to build …",
+  "techmeme_url": "https://www.techmeme.com/260910/p16",
+  "title": "Sources: Nasdaq is investing $100M in Kraken parent Payward, valuing the cryptocurrency exchange at $21B; Kraken will distribute Nasdaq's tokenized stocks (Katherine Doherty/Bloomberg)"
+ },
  "a260910p2": {
   "article_url": "https://x.com/paulfchristiano",
   "date": "2026-09-10",
@@ -14,5 +70,61 @@
   "summary": "I am excited to be joining the OpenAI nonprofit board, serving on the Safety and Security Committee to support safety oversight.",
   "techmeme_url": "https://www.techmeme.com/260910/p2",
   "title": "OpenAI Foundation board member Paul Christiano says the AI industry is currently not on track to reduce the acute loss-of-control risk to an \"acceptable\" level (Paul Christiano/@paulfchristiano)"
+ },
+ "a260910p3": {
+  "article_url": "https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p3",
+  "summary": "Mistral has forged unrivaled ties with the French presidency. Now, Emmanuel Macron is departing. — in Paris",
+  "techmeme_url": "https://www.techmeme.com/260910/p3",
+  "title": "Sources including French public officials detail how Mistral's rise over the past three years owes much to the privileged relationship it built with Macron (Océane Herrero/Politico)"
+ },
+ "a260910p4": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p4",
+  "summary": "Chinese AI chipmakers including Huawei Technologies [RIC:RIC:HWT.UL] and Cambricon (688256.SS) have sharply raised prices …",
+  "techmeme_url": "https://www.techmeme.com/260910/p4",
+  "title": "Sources: Chinese AI chipmakers Huawei, Cambricon, MetaX, and Iluvatar CoreX have raised prices for current and next-gen chips by 20%-50% due to rising HBM costs (Reuters)"
+ },
+ "a260910p5": {
+  "article_url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p5",
+  "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment …",
+  "techmeme_url": "https://www.techmeme.com/260910/p5",
+  "title": "Q&A with AI researcher Jacob Coxon, who quit Anthropic, on the need for industry-wide, international coordination to limit recursive self-improvement, and more (Maxwell Zeff/Wired)"
+ },
+ "a260910p6": {
+  "article_url": "https://restofworld.org/2026/china-expert-ai-trainers/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p6",
+  "summary": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work …",
+  "techmeme_url": "https://www.techmeme.com/260910/p6",
+  "title": "Chinese tech giants are hiring skilled professionals as specialized AI trainers to build high-quality datasets, mirroring efforts by US platforms like Mercor (Viola Zhou/Rest of World)"
+ },
+ "a260910p7": {
+  "article_url": "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html?unlocked_article_code=1._1A.UmXG.fSHCvuBodiUj&smid=url-share",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p7",
+  "summary": "The Amazon-owned driverless car company is a distant second to Waymo. Its pitch to riders? Wine pop-ups, festival sponsorships and a car built to be filmed.",
+  "techmeme_url": "https://www.techmeme.com/260910/p7",
+  "title": "How Amazon's Zoox, which has ~100 AVs in its fleet, is utilizing social media influencers, community events, and ad campaigns to compete with Waymo in SF (Emmy Martin/New York Times)"
+ },
+ "a260910p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/grab-is-said-in-talks-to-buy-softbank-backed-fintech-firm-atome",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p8",
+  "summary": "Grab Holdings Ltd., the biggest ride-hailing and food-delivery firm in Southeast Asia, is in talks to buy a majority stake in Singapore-based buy …",
+  "techmeme_url": "https://www.techmeme.com/260910/p8",
+  "title": "Sources: Grab is in talks to buy a majority stake in Advance Intelligence Group's Singapore-based BNPL platform Atome Financial at a $2B+ valuation (Bloomberg)"
+ },
+ "a260910p9": {
+  "article_url": "https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?accessToken=zwAAAaCJ35XTkc8MRAE0aG9LVdOrNSr-Tmo_kQ.MEQCIER3H-O6mWRcAmNO3_yTDCjVmPf-Ca6Shrf6XTNkM3BQAiAUjNiTniaSHEjRydTLImC95ZyADy7FI3TYJz1a1lHjAQ&sharetype=gift&token=c46878b0-1d41-4b3c-9645-6e6e80bff9fd",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p9",
+  "summary": "Tech investors are rediscovering the kind of long-shot sci-fi bets that helped build Silicon Valley.",
+  "techmeme_url": "https://www.techmeme.com/260910/p9",
+  "title": "The AI boom is fueling a resurgence in VC bets in \"moonshot\" sectors such as BCI; Dealroom says non-AI deeptech funding has topped $150B since the start of 2024 (Tim Bradshaw/Financial Times)"
  }
 }
