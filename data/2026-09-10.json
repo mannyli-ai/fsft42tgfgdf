@@ -231,6 +231,38 @@
   "techmeme_url": "https://www.techmeme.com/260910/p35",
   "title": "Oracle reports Q1 revenue up 30% YoY to $19.35B, vs. $19.14B est., cloud infrastructure revenue up 121% to $7.4B, vs. $7.09B est.; ORCL jumps 6%+ after hours (Jordan Novet/CNBC)"
  },
+ "a260910p36": {
+  "article_url": "https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p36",
+  "summary": "IN SUMMARY Gov. Gavin Newsom signed a set of bills intended to protect children online. Keeping up with your California representatives felt impossible before.",
+  "techmeme_url": "https://www.techmeme.com/260910/p36",
+  "title": "California Gov. Gavin Newsom signs bills restricting \"addictive\" social media features for under-16s and limiting minors' interactions with chatbots (Colin Lecher/CalMatters)"
+ },
+ "a260910p37": {
+  "article_url": "https://www.reuters.com/business/adobe-beats-third-quarter-revenue-estimates-2026-09-10/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p37",
+  "summary": "Adobe (ADBE.O) beat Wall Street estimates for third-quarter revenue on Thursday, as demand for its AI-integrated products and tools continued to grow.",
+  "techmeme_url": "https://www.techmeme.com/260910/p37",
+  "title": "Adobe reports Q3 revenue up 13% YoY to $6.76B, vs. $6.7B est., AI-first annual recurring revenue up 150% YoY, and forecasts Q4 revenue slightly below estimates (Anzar Mehraj/Reuters)"
+ },
+ "a260910p38": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p38",
+  "summary": "Shortages forced the company to turn away some AI and cloud business. Now it's planning for 38 gigawatts of data center capacity to meet demand.",
+  "techmeme_url": "https://www.techmeme.com/260910/p38",
+  "title": "Sources: Microsoft plans to expand its data center capacity from 12GW today to 38GW+ by 2032, with about a third of the 38GW centered on AI-specific chips (Bloomberg)"
+ },
+ "a260910p39": {
+  "article_url": "https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0?st=99j32E&reflink=desktopwebshare_permalink",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p39",
+  "summary": "Fluidstack, an AI infrastructure company, is being advised on the loan by the bank started by Palmer Luckey, an early supporter of Donald Trump",
+  "techmeme_url": "https://www.techmeme.com/260910/p39",
+  "title": "Sources: the Pentagon is in talks to lend roughly $5B to neocloud Fluidstack; Fluidstack is being advised on its loan application by Palmer Luckey's Erebor Bank (Wall Street Journal)"
+ },
  "a260910p4": {
   "article_url": "https://www.reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10/",
   "date": "2026-09-10",
@@ -238,6 +270,78 @@
   "summary": "Chinese AI chipmakers including Huawei Technologies [RIC:RIC:HWT.UL] and Cambricon (688256.SS) have sharply raised prices …",
   "techmeme_url": "https://www.techmeme.com/260910/p4",
   "title": "Sources: Chinese AI chipmakers Huawei, Cambricon, MetaX, and Iluvatar CoreX have raised prices for current and next-gen chips by 20%-50% due to rising HBM costs (Reuters)"
+ },
+ "a260910p40": {
+  "article_url": "https://www.axios.com/pro/all-deals/2026/09/10/due-diligence-ai-xapien-56-million",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p40",
+  "summary": "Xapien, an AI background check and due diligence company, raised $56 million in Series B funding led by Spectrum Equity, CEO Chris Green tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260910/p40",
+  "title": "London-based Xapien, which uses AI for background checks and due diligence, raised a $56M Series B led by Spectrum Equity (Lucinda Shen/Axios)"
+ },
+ "a260910p41": {
+  "article_url": "https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p41",
+  "summary": "The year-old startup behind Instinct, a personal AI assistant that's caught fire with Silicon Valley insiders, is seeking more computing power …",
+  "techmeme_url": "https://www.techmeme.com/260910/p41",
+  "title": "Source: AI assistant Instinct is looking to raise $1B in new funding after recently raising $250M, as it seeks more computing power amid capacity constraints (The Information)"
+ },
+ "a260910p42": {
+  "article_url": "https://www.bloomberg.com/opinion/articles/2026-09-10/ai-is-killing-the-app-economy-and-building-its-successor",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p42",
+  "summary": "Artificial intelligence has made it easier than ever to build an app. New releases on Apple Inc.'s App Store surged by about 80% earlier …",
+  "techmeme_url": "https://www.techmeme.com/260910/p42",
+  "title": "Only 4% of the startups in YC's 2026 spring batch had a native mobile app as their main product, down from 15% in 2013, as startups focus on AI and agents (Parmy Olson/Bloomberg)"
+ },
+ "a260910p43": {
+  "article_url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p43",
+  "summary": "Substantive coordination on safety between AI labs may risk running afoul of antitrust law, the people say …",
+  "techmeme_url": "https://www.techmeme.com/260910/p43",
+  "title": "Sources: OpenAI asked members of Congress for guidance on whether orchestrating an industry-wide slowdown in AI development would be legal under antitrust law (Maxwell Zeff/Wired)"
+ },
+ "a260910p44": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p44",
+  "summary": "OpenAI is considering slowing down the development of cutting-edge artificial intelligence, and the ChatGPT maker's Chief Executive …",
+  "techmeme_url": "https://www.techmeme.com/260910/p44",
+  "title": "Sources: Sam Altman told OpenAI employees that the company is considering slowing cutting-edge AI development, and he hopes other AI companies will do the same (Bloomberg)"
+ },
+ "a260910p45": {
+  "article_url": "https://www.wsj.com/business/earnings/adobe-hits-1-billion-monthly-active-users-raises-full-year-outlook-b4e45b83",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p45",
+  "summary": "The software company's profit and revenue rose in the third quarter — Adobe lifted its full-year guidance and said it hit …",
+  "techmeme_url": "https://www.techmeme.com/260910/p45",
+  "title": "Adobe says it hit 1B MAUs, with freemium MAUs surpassing 100M in Q3, up 70%+ YoY, as it increasingly focuses on expanding its freemium AI offerings (Elias Schisgall/Wall Street Journal)"
+ },
+ "a260910p46": {
+  "article_url": "https://www.tomsguide.com/phones/iphones/interview-apple-ceo-john-ternus-on-his-defining-moment-for-the-iphone-duo",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p46",
+  "summary": "'I was like, yes, that's it...this is what I want' — Apple's first foldable phone is finally coming in the iPhone Duo …",
+  "techmeme_url": "https://www.techmeme.com/260910/p46",
+  "title": "An interview with Apple CEO John Ternus and Greg Joswiak on making the iPhone Duo, minimizing the crease, uninspiring Android foldables, the price, and more (Mark Spoonauer/Tom's Guide)"
+ },
+ "a260910p47": {
+  "article_url": "https://www.wsj.com/finance/kalshi-looks-to-expand-a-rapidly-growing-universe-of-risky-trading-a7670fde",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p47",
+  "summary": "Platform known for prediction markets has seen perpetual futures surge in popularity — A risky type of trade that has exploded …",
+  "techmeme_url": "https://www.techmeme.com/260910/p47",
+  "title": "Sources: Kalshi plans to seek US regulatory approval to start offering single-stock perpetual futures; Coinbase filed similar regulatory paperwork last week (Wall Street Journal)"
+ },
+ "a260910p48": {
+  "article_url": "https://www.click2houston.com/news/local/2026/09/10/judge-finds-tiktok-liable-for-lying-about-safety-standards-in-texas-lawsuit/",
+  "date": "2026-09-10",
+  "permalink_id": "a260910p48",
+  "summary": "State will now proceed to trial to determine relief and penalties — AUSTIN, Texas - A U.S. District Judge has found TikTok liable …",
+  "techmeme_url": "https://www.techmeme.com/260910/p48",
+  "title": "A US judge finds TikTok liable for lying about its safety standards and exposing minors to inappropriate content, in a 2025 lawsuit filed by Texas AG Ken Paxton (Christian Terry/Click2Houston.com)"
  },
  "a260910p5": {
   "article_url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
