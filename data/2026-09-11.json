@@ -31,6 +31,62 @@
   "techmeme_url": "https://www.techmeme.com/260911/p12",
   "title": "Source and draft press release: the Trump admin will lend $100M to Africell, Africa's only US-owned telecom company, aiming to counter Huawei's Africa expansion (Alexandra Alper/Reuters)"
  },
+ "a260911p13": {
+  "article_url": "https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p13",
+  "summary": "The latest math problem OpenAI is trying to solve is a bunch of angry mathematicians.",
+  "techmeme_url": "https://www.techmeme.com/260911/p13",
+  "title": "OpenAI says it's no longer sponsoring Caltech's math hackathon, where participants use AI to solve research problems, following criticism of \"slop mathematics\" (Truman Dickerson/Business Insider)"
+ },
+ "a260911p14": {
+  "article_url": "https://www.wsj.com/tech/ai/openais-fidji-simo-to-join-board-of-cloud-provider-nscale-ahead-of-ipo-3b452424",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p14",
+  "summary": "Nscale board member Sheryl Sandberg recruited Simo, a former top OpenAI executive who departed following a medical leave",
+  "techmeme_url": "https://www.techmeme.com/260911/p14",
+  "title": "Former OpenAI executive Fidji Simo joins the board of directors at AI infrastructure startup Nscale; Simo will continue as a part-time adviser to OpenAI (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a260911p15": {
+  "article_url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p15",
+  "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022.",
+  "techmeme_url": "https://www.techmeme.com/260911/p15",
+  "title": "A US court sentences Ukrainian Oleksii Lytvynenko to four years in prison for conspiracy to commit wire fraud in connection with the Conti ransomware attacks (Sergiu Gatlan/BleepingComputer)"
+ },
+ "a260911p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p16",
+  "summary": "Anthropic PBC uncovered a group in northern Yemen — where Iran-backed Houthi militants operate — using its Claude AI model …",
+  "techmeme_url": "https://www.techmeme.com/260911/p16",
+  "title": "Threat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to develop guidance software for missiles (Bloomberg)"
+ },
+ "a260911p17": {
+  "article_url": "https://www.politico.com/news/magazine/2026/09/10/marc-andreessen-trump-biden-ai-opinion-01045516",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p17",
+  "summary": "Since the election of Donald Trump, venture capitalist Marc Andreessen has told one podcast after another of a May 2024 lunch …",
+  "techmeme_url": "https://www.techmeme.com/260911/p17",
+  "title": "Ex-Biden officials deny Marc Andreessen's claims that they discussed secret plans to ban AI startups at a May 2024 White House meeting, pushing him toward Trump (Politico)"
+ },
+ "a260911p18": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p18",
+  "summary": "OpenAI is ending a pilot program that allowed government agencies to use its models for only $1 per year and moving …",
+  "techmeme_url": "https://www.techmeme.com/260911/p18",
+  "title": "GSA says OpenAI is replacing its $1-per-year pilot for US agencies with a usage-based deal providing a 50% discount from October 1, with access to GPT-6 Astra (Maggie Eastland/Bloomberg)"
+ },
+ "a260911p19": {
+  "article_url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p19",
+  "summary": "The change comes after a viral video showed Meta AI prompting a user to identify the child in one of her videos. … Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed …",
+  "techmeme_url": "https://www.techmeme.com/260911/p19",
+  "title": "Meta says it's changing AI suggestions after posing invasive personal questions (Emma Roth/The Verge)"
+ },
  "a260911p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-11/trump-rejects-warnings-that-ai-may-lead-to-human-extinction",
   "date": "2026-09-11",
@@ -38,6 +94,30 @@
   "summary": "President Donald Trump brushed aside warnings from artificial intelligence researchers that the technology is becoming …",
   "techmeme_url": "https://www.techmeme.com/260911/p2",
   "title": "President Trump rejects warnings of AI-driven human extinction, saying the US leads China by a year and will be \"in a very bad position\" if it doesn't win in AI (Jeff Mason/Bloomberg)"
+ },
+ "a260911p20": {
+  "article_url": "https://futurism.com/artificial-intelligence/mother-horrified-meta-ai-family",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p20",
+  "summary": "“It just kept going and going, and that pit in my stomach just kept getting bigger and deeper.”",
+  "techmeme_url": "https://www.techmeme.com/260911/p20",
+  "title": "Meta says it is making changes to prompts suggested by Meta AI after a viral video showed it posing invasive personal questions about a woman's young daughters (Maggie Harrison Dupré/Futurism)"
+ },
+ "a260911p21": {
+  "article_url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p21",
+  "summary": "At its annual Roblox Developer Conference (RDC), the company behind the popular gaming platform announced several new features …",
+  "techmeme_url": "https://www.techmeme.com/260911/p21",
+  "title": "Roblox announces new features, including game-creation tools, ability to make games available as standalone apps across platforms, and Roblox Wallet and Card (Ivan Mehta/TechCrunch)"
+ },
+ "a260911p22": {
+  "article_url": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p22",
+  "summary": "Frank Shaw has been supporting Microsoft's communications for nearly 30 years. … Frank Shaw is leaving Microsoft after 17 years as chief communications officer.",
+  "techmeme_url": "https://www.techmeme.com/260911/p22",
+  "title": "Internal note: Frank Shaw is leaving Microsoft after 17 years as chief communications officer, saying it is \"time for me to move on and try new things\" (Tom Warren/The Verge)"
  },
  "a260911p3": {
   "article_url": "https://www.reuters.com/business/retail-consumer/indias-serious-fraud-office-recommends-detailed-probe-into-xiaomis-business-2026-09-09/",
