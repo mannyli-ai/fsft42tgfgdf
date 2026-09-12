@@ -167,6 +167,14 @@
   "techmeme_url": "https://www.techmeme.com/260911/p28",
   "title": "LinkedIn profiles show Google appears to have completed its talent deal, reportedly for $1.5B+, with AI coding startup Mechanize (Business Insider)"
  },
+ "a260911p29": {
+  "article_url": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p29",
+  "summary": "The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war …",
+  "techmeme_url": "https://www.techmeme.com/260911/p29",
+  "title": "FOIA docs: the CFTC launched at least three previously unreported investigations into Polymarket trading, including about Google's 2025 Year in Search Ranking (Kate Knibbs/Wired)"
+ },
  "a260911p3": {
   "article_url": "https://www.reuters.com/business/retail-consumer/indias-serious-fraud-office-recommends-detailed-probe-into-xiaomis-business-2026-09-09/",
   "date": "2026-09-11",
@@ -174,6 +182,62 @@
   "summary": "India's Serious Fraud Office has recommended Xiaomi be investigated for alleged irregularities in its business model and compliance …",
   "techmeme_url": "https://www.techmeme.com/260911/p3",
   "title": "Official doc: India's Serious Fraud Office urges the government to probe Xiaomi over alleged business model irregularities and foreign investment law violations (Aditya Kalra/Reuters)"
+ },
+ "a260911p30": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-11/citrini-founder-who-shook-markets-sells-firm-plans-new-fund",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p30",
+  "summary": "James van Geelen, the founder of independent investment-research shop Citrini Research, has sold the firm to semiconductor and AI researcher SemiAnalysis.",
+  "techmeme_url": "https://www.techmeme.com/260911/p30",
+  "title": "Citrini Research founder James van Geelen has sold the firm to SemiAnalysis for an undisclosed sum; sources: van Geelen plans to launch a new fund (Bloomberg)"
+ },
+ "a260911p31": {
+  "article_url": "https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p31",
+  "summary": "U.S. Senate negotiators are debating legislation that would put responsibility on tech companies to design safe AI products …",
+  "techmeme_url": "https://www.techmeme.com/260911/p31",
+  "title": "Sources: US Senate negotiators are debating a bill to impose a \"duty of care\" for AI companies and let the government block the release of models deemed unsafe (Courtney Rozen/Reuters)"
+ },
+ "a260911p32": {
+  "article_url": "https://www.wsj.com/tech/ai/cyberattack-by-rogue-ai-swarm-stokes-fears-of-out-of-control-agents-473a0352?st=geQgvD&reflink=desktopwebshare_permalink",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p32",
+  "summary": "The incident, which wasn't previously linked to OpenAI, happened two months before July's Hugging Face hack",
+  "techmeme_url": "https://www.techmeme.com/260911/p32",
+  "title": "Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)"
+ },
+ "a260911p33": {
+  "article_url": "https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p33",
+  "summary": "Jeff Dean, who resigned as chief scientist from Google last month, is raising again for his new AI startup, Discovery Loop …",
+  "techmeme_url": "https://www.techmeme.com/260911/p33",
+  "title": "Sources: Jeff Dean is raising funds again for Discovery Loop, seeking a valuation of ~$50B; Discovery Loop was raising $1B at a ~$10B valuation a few weeks ago (Ben Bergman/Business Insider)"
+ },
+ "a260911p34": {
+  "article_url": "https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p34",
+  "summary": "Anthropic is in talks to bring Nvidia (NVDA.O) as an anchor investor into what could be the largest IPO in history, two people familiar with the matter told Reuters.",
+  "techmeme_url": "https://www.techmeme.com/260911/p34",
+  "title": "Sources: Anthropic is in talks to bring on Nvidia as an anchor investor in its IPO, seeking up to $100B at a ~$2T valuation; Nvidia may invest up to $10B (Reuters)"
+ },
+ "a260911p35": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTE1NDQ5NCwiZXhwIjoxNzg5NzU5Mjk0LCJhcnRpY2xlSWQiOiJUTDRBMFJLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.qZQz2riYl4bRh-FpnvBbnSf5mcXDqWbO5s5Q9JoUYD0",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p35",
+  "summary": "Apple Inc.'s new always-listening artificial intelligence features for the Apple Watch Series 12 and Ultra 4 could put eavesdropping laws to the test, according to legal experts.",
+  "techmeme_url": "https://www.techmeme.com/260911/p35",
+  "title": "Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections (Natalie Lung/Bloomberg)"
+ },
+ "a260911p36": {
+  "article_url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+  "date": "2026-09-11",
+  "permalink_id": "a260911p36",
+  "summary": "Amazon is going to make it easier to shop when you're watching TV. The retail giant on Thursday announced a series of new features …",
+  "techmeme_url": "https://www.techmeme.com/260911/p36",
+  "title": "Amazon adds a Shop tab to Prime Video's X-Ray feature for related products while watching shows, and Shop the Scene powered by Amazon Lens in the Shopping app (Sarah Perez/TechCrunch)"
  },
  "a260911p5": {
   "article_url": "https://www.nytimes.com/2026/09/10/business/media/ai-chatbots-election-misinformation.html?unlocked_article_code=1.AFE.ya1P.DrVmiCYOicde&smid=nytcore-ios-share",
