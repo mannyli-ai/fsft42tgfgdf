@@ -7,6 +7,14 @@
   "techmeme_url": "https://www.techmeme.com/260912/p1",
   "title": "NYC-based Luminary, which develops AI-powered workflow tools for estate planning and wealth transfer management, raised a $22M Series A led by Ten Coves Capital (Davis Janowski/Wealth Management)"
  },
+ "a260912p10": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china",
+  "date": "2026-09-12",
+  "permalink_id": "a260912p10",
+  "summary": "In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.",
+  "techmeme_url": "https://www.techmeme.com/260912/p10",
+  "title": "Trump is taking a hands-off approach to AI regulation to preserve the US lead over China, ahead of a summit with Xi Jinping, where AI safety is a top issue (Bloomberg)"
+ },
  "a260912p2": {
   "article_url": "https://www.axios.com/pro/health-tech-deals/2026/09/09/epsilon-health-20m-radiology",
   "date": "2026-09-12",
@@ -30,5 +38,45 @@
   "summary": "Seoul broadens its espionage legislation for the first time in more than seven decades — South Korea is arming itself …",
   "techmeme_url": "https://www.techmeme.com/260912/p4",
   "title": "South Korea's espionage laws, broadened for the first time in over seven decades, take effect on Sept. 13 as foreign spies increasingly target its chip sector (Daniel Tudor/Financial Times)"
+ },
+ "a260912p5": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-11/tech-s-nouveau-riche-suffer-sudden-wealth-syndrome-as-ai-pay-explodes?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTExMzc4NywiZXhwIjoxNzg5NzE4NTg3LCJhcnRpY2xlSWQiOiJUTDZWSTJLSVVQVDQwMCIsImJjb25uZWN0SWQiOiIyODY1ODVGNEFCMTA0QTIzQThGNDFCODUxN0M1RjI0MCJ9.0uH5NRub4abWP4A_Ij2zbsUbT8xJ9FUaqAFTZuoGQYI",
+  "date": "2026-09-12",
+  "permalink_id": "a260912p5",
+  "summary": "A growing post-exit ecosystem is helping founders deal with the unexpected difficulties of becoming extremely wealthy.",
+  "techmeme_url": "https://www.techmeme.com/260912/p5",
+  "title": "As the AI wave creates tech fortunes at breakneck speed, a look at the growing ecosystem helping founders navigate the challenges of becoming extremely wealthy (Tiffany Ap/Bloomberg)"
+ },
+ "a260912p6": {
+  "article_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+  "date": "2026-09-12",
+  "permalink_id": "a260912p6",
+  "summary": "I have worked on AI for the last twelve years because I believe it could dramatically raise the quality of human life.",
+  "techmeme_url": "https://www.techmeme.com/260912/p6",
+  "title": "Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments (Dario Amodei)"
+ },
+ "a260912p7": {
+  "article_url": "https://x.com/darioamodei",
+  "date": "2026-09-12",
+  "permalink_id": "a260912p7",
+  "summary": "We Must Pace the Frontier: I've written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We'll provide third-party evaluators with permanent, employee-level access to our systems, so that the...",
+  "techmeme_url": "https://www.techmeme.com/260912/p7",
+  "title": "Amodei says Anthropic is \"unilaterally committing\" to giving third-party evaluators permanent, employee-like access to verify its adherence to safety measures (Dario Amodei/@darioamodei)"
+ },
+ "a260912p8": {
+  "article_url": "http://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+  "date": "2026-09-12",
+  "permalink_id": "a260912p8",
+  "summary": "The race to develop artificial intelligence is in dire need of a slowdown, Anthropic's chief executive said in an essay posted early Saturday.",
+  "techmeme_url": "https://www.techmeme.com/260912/p8",
+  "title": "Amodei warns that an OpenAI/Hugging Face-like agent swarm, which \"acted as a fanatically devoted collective\", could take over the internet in 6-12 months (Auzinea Bacon/CNN)"
+ },
+ "a260912p9": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+  "date": "2026-09-12",
+  "permalink_id": "a260912p9",
+  "summary": "Anthropic PBC Chief Executive Officer Dario Amodei said that the artificial intelligence industry must slow the pace of development …",
+  "techmeme_url": "https://www.techmeme.com/260912/p9",
+  "title": "Amodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify (Kevin Whitelaw/Bloomberg)"
  }
 }
