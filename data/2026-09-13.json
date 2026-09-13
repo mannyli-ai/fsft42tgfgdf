@@ -7,6 +7,22 @@
   "techmeme_url": "https://www.techmeme.com/260913/p1",
   "title": "Apple says its C2 modem is used in iPhone Duo and iPhone 18 Pro worldwide, and in overseas iPhone 18 Pro Max models; US iPhone 18 Pro Max uses a Qualcomm modem (Joe Rossignol/MacRumors)"
  },
+ "a260913p10": {
+  "article_url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+  "date": "2026-09-13",
+  "permalink_id": "a260913p10",
+  "summary": "Anthropic CEO Dario Amodei said Sunday that the “toughest dilemma” about his proposal to slow the advancement of artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/260913/p10",
+  "title": "Dario Amodei says the \"toughest dilemma\" about his proposal to \"pace the frontier\" is what happens if China does not do the same (Ashley Capoot/CNBC)"
+ },
+ "a260913p11": {
+  "article_url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+  "date": "2026-09-13",
+  "permalink_id": "a260913p11",
+  "summary": "China will take the lead to help foster artificial-intelligence collaboration and development among developing countries …",
+  "techmeme_url": "https://www.techmeme.com/260913/p11",
+  "title": "Xi Jinping calls for a \"consensus-based global AI governance framework\" and says China will pioneer the establishment of a BRICS AI open-source community (Joanna Ossinger/CNBC)"
+ },
  "a260913p2": {
   "article_url": "https://dallasinnovates.com/dallas-perry-weather-raises-110m-to-automate-severe-weather-safety-decisions/",
   "date": "2026-09-13",
@@ -54,5 +70,21 @@
   "summary": "House Speaker Mike Johnson (R-La.) said Sunday that Congress won't lead the charge on regulating AI safety.",
   "techmeme_url": "https://www.techmeme.com/260913/p7",
   "title": "Speaker Johnson says Congress won't lead the charge on regulating AI safety and AI companies should take responsibility to ensure the safety of their products (Donica Phifer/Axios)"
+ },
+ "a260913p8": {
+  "article_url": "https://www.businessinsider.com/",
+  "date": "2026-09-13",
+  "permalink_id": "a260913p8",
+  "summary": "Anthropic has chosen Nasdaq for its upcoming IPO, following SpaceX's recent listing on the exchange — Nasdaq's tech IPO success continues, challenging NYSE's historical dominance in large listings.",
+  "techmeme_url": "https://www.techmeme.com/260913/p8",
+  "title": "Source: Anthropic has selected the Nasdaq for its potential IPO (Katie Roof/Business Insider)"
+ },
+ "a260913p9": {
+  "article_url": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed",
+  "date": "2026-09-13",
+  "permalink_id": "a260913p9",
+  "summary": "President denounces demands for regulation as existential fears over technology move to the centre of US politics",
+  "techmeme_url": "https://www.techmeme.com/260913/p9",
+  "title": "President Trump dismisses calls for an AI slowdown, saying \"you have a lot of negative forces that are bringing it up that shouldn't be bringing it up\" (Myles McCormick/Financial Times)"
  }
 }
