@@ -55,6 +55,54 @@
   "techmeme_url": "https://www.techmeme.com/260914/p2",
   "title": "AI-connected Asian stocks fell sharply following US tech leaders' call for pacing AI development, with SoftBank, Kioxia, SK Hynix, Minimax, and Z.ai down 5%+ (Reuters)"
  },
+ "a260914p24": {
+  "article_url": "https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p24",
+  "summary": "As paranoia rises over whether Anthropic or OpenAI could learn from their customers' intellectual property …",
+  "techmeme_url": "https://www.techmeme.com/260914/p24",
+  "title": "Nvidia and Booz Allen Hamilton limit Fable use as Anthropic doesn't guarantee zero data retention; source: Palantir hasn't made Fable available via its software (The Information)"
+ },
+ "a260914p25": {
+  "article_url": "https://tech.eu/2026/09/14/swedish-healthtech-tandem-health-scores-100m-series-b-led-by-eus-eur5bn-tech-startup-fund/",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p25",
+  "summary": "The funding will be used for European expansion, driving up its customer base, and expanding to “an AI-native clinic operating system”.",
+  "techmeme_url": "https://www.techmeme.com/260914/p25",
+  "title": "Stockholm-based Tandem Health, which makes an AI copilot that generates medical notes during consultations, raised a $100M Series B led by Scaleup Europe Fund (John Reynolds/Tech.eu)"
+ },
+ "a260914p26": {
+  "article_url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p26",
+  "summary": "Humans are reading ChatGPT users' prompts to improve OpenAI's models, and those chats can include sensitive, personal information …",
+  "techmeme_url": "https://www.techmeme.com/260914/p26",
+  "title": "Internal OpenAI docs detail contractors evaluating anonymized prompts and chats to improve the models; model training is turned on by default for consumer plans (Joseph Cox/404 Media)"
+ },
+ "a260914p27": {
+  "article_url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p27",
+  "summary": "watchOS 27, iPadOS 27, and visionOS 27 also debut today. … Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates.",
+  "techmeme_url": "https://www.techmeme.com/260914/p27",
+  "title": "Apple rolls out iOS 27, watchOS 27, iPadOS 27, visionOS 27, and macOS 27 Golden Gate, all with Siri AI (Tom Warren/The Verge)"
+ },
+ "a260914p28": {
+  "article_url": "https://www.theverge.com/tech/994267/steam-frame-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjVxUTRYR3pEbkMiLCJwIjoiL3RlY2gvOTk0MjY3L3N0ZWFtLWZyYW1lLXJldmlldyIsImV4cCI6MTc4OTgzNzg0NywiaWF0IjoxNzg5NDA1ODQ4fQ.AvNzVQPpuoQDf5HH3Y2PRC8AD6H66aZ7Pnu26NWxfr0",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p28",
+  "summary": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC.",
+  "techmeme_url": "https://www.techmeme.com/260914/p28",
+  "title": "Steam Frame review: comfortable to wear, supports multiple ways to play games, but it doesn't feel like a finished product and has an up to 2-hour battery life (Sean Hollister/The Verge)"
+ },
+ "a260914p29": {
+  "article_url": "https://www.theshortcut.com/p/steam-frame-price-pre-order-and-release-date-revealed-and-you-can-reserve-yours-now",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p29",
+  "summary": "💰 The Steam Frame starts at $1,059 for the 256GB model — 📈 The 1TB version climbs to $1,299",
+  "techmeme_url": "https://www.techmeme.com/260914/p29",
+  "title": "Valve says the Steam Frame is priced at $1,059 for the 256GB model and $1,299 for the 1TB version; both come with a copy of Half-Life: Alyx but no power supply (Adam Vjestica/The Shortcut)"
+ },
  "a260914p3": {
   "article_url": "https://ct.com/news/us-republicans-send-final-clarity-act-offer-to-democrats",
   "date": "2026-09-14",
@@ -62,6 +110,78 @@
   "summary": "The 635-page revised proposal includes Trump-backed ethics provisions and comes just two days before a key procedural vote.",
   "techmeme_url": "https://www.techmeme.com/260914/p3",
   "title": "The US Senate digital assets subcommittee releases a revised \"final offer\" of the Clarity Act with Trump-backed ethics provisions, ahead of a September 15 vote (Felix Ng/Cointelegraph News)"
+ },
+ "a260914p30": {
+  "article_url": "https://sixcolors.com/post/2026/09/ios-27-review-little-things-mean-a-lot/",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p30",
+  "summary": "By now you've probably heard the promise of iOS 27: it's a Snow Leopard-like year where Apple spent a lot of time not on big marquee features …",
+  "techmeme_url": "https://www.techmeme.com/260914/p30",
+  "title": "iOS 27 review: a marked improvement over iOS 26 in design, performance, and more; Siri AI is very impressive, but it sometimes misunderstands or hallucinates (Dan Moren/Six Colors)"
+ },
+ "a260914p31": {
+  "article_url": "https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p31",
+  "summary": "The GeForce RTX 5090 is undeniably one of the best graphics cards money can buy. Banking on the fact that many already use it for AI …",
+  "techmeme_url": "https://www.techmeme.com/260914/p31",
+  "title": "Nvidia announces the RTX Pro 5500 Blackwell Workstation Edition, offering comparable specs to the RTX 5090 but with 84GB of GDDR7 memory, vs. RTX 5090's 32GB (Zhiye Liu/Tom's Hardware)"
+ },
+ "a260914p32": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-14/house-speaker-risks-trump-ire-on-any-ai-guardrail-legislation",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p32",
+  "summary": "House Speaker Mike Johnson is at odds with President Donald Trump over regulating artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/260914/p32",
+  "title": "House Speaker Johnson says there's \"potentially\" a role for Congress in creating AI guardrail legislation and that he plans to hold a meeting with AI executives (Erik Wasson/Bloomberg)"
+ },
+ "a260914p33": {
+  "article_url": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370?st=nyLKnX",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p33",
+  "summary": "Glass Imaging, valued above $300 million in deal, was founded by former Apple employees — OpenAI quietly bought …",
+  "techmeme_url": "https://www.techmeme.com/260914/p33",
+  "title": "Sources: OpenAI bought Glass Imaging, which is developing AI-powered smartphone camera tech, in a deal valuing it at $300M+; it was valued at ~$100M last year (Wall Street Journal)"
+ },
+ "a260914p34": {
+  "article_url": "https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p34",
+  "summary": "AI lab Anthropic on Monday launched a set of tools for financial advisers, connecting its Claude chatbot to investment analytics …",
+  "techmeme_url": "https://www.techmeme.com/260914/p34",
+  "title": "Anthropic debuts Claude for Financial Advisors, with connectors to investment analytics and wealth-management tools from BlackRock, Addepar, Schwab, and others (Harshita Mary Varghese/Reuters)"
+ },
+ "a260914p35": {
+  "article_url": "https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p35",
+  "summary": "Altman, Elon Musk and Anthropic chief Dario Amodei all urged an artificial intelligence slowdown over the weekend.",
+  "techmeme_url": "https://www.techmeme.com/260914/p35",
+  "title": "Sources: Trump met privately with Sam Altman backstage at the GOP midterm convention, where they discussed AI and its growing power, at Altman's request (MS NOW)"
+ },
+ "a260914p36": {
+  "article_url": "https://www.businessinsider.com/former-apple-researchers-raise-50-million-to-build-foundational-model-2026-9",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p36",
+  "summary": "A startup that's trying to make AI models better conversationalists with more emotional intelligence has just raised $50 million.",
+  "techmeme_url": "https://www.techmeme.com/260914/p36",
+  "title": "Nuance Labs, which builds low-latency AI avatars that can have face-to-face conversations, raised a $50M Series A led by Lightspeed, with Nvidia participating (Shubhangi Goel/Business Insider)"
+ },
+ "a260914p37": {
+  "article_url": "https://www.theinformation.com/articles/defense-startup-shield-ai-talks-valuation-least-20-billion",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p37",
+  "summary": "Shield AI, a startup building drones and AI-powered software for the military, is in talks to raise new funds at a valuation of at least $20 billion …",
+  "techmeme_url": "https://www.techmeme.com/260914/p37",
+  "title": "Source: defense tech startup Shield AI is in talks to raise new funds at a valuation of at least $20B; Shield raised $2B at a valuation of $12.7B in March (The Information)"
+ },
+ "a260914p38": {
+  "article_url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p38",
+  "summary": "Cornelis, a company creating networking technology to help AI chips communicate more effectively, announced Monday that it has raised $205 million …",
+  "techmeme_url": "https://www.techmeme.com/260914/p38",
+  "title": "Cornelis, spun off from Intel in 2020 to build networking tech that helps AI chips communicate more effectively, raised $205M led by IAG Capital (Dominic-Madori Davis/TechCrunch)"
  },
  "a260914p4": {
   "article_url": "https://www.bloomberg.com/",
