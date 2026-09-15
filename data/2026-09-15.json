@@ -199,6 +199,14 @@
   "techmeme_url": "https://www.techmeme.com/260915/p38",
   "title": "UMG sues DistroKid, alleging it distributes AI-generated music masquerading as artist-backed releases and knowingly \"proliferates\" copyright-infringing tracks (Tim Ingham/Music Business Worldwide)"
  },
+ "a260915p39": {
+  "article_url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p39",
+  "summary": "Thatch, a platform that lowers healthcare costs for employers while expanding plan choices for workers, has raised $108 million …",
+  "techmeme_url": "https://www.techmeme.com/260915/p39",
+  "title": "Thatch, a healthcare plan marketplace where employers set a fixed budget that employees can use for individual plans, raised a $108M Series C at a $1B valuation (Marina Temkin/TechCrunch)"
+ },
  "a260915p4": {
   "article_url": "https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device",
   "date": "2026-09-15",
@@ -206,6 +214,70 @@
   "summary": "Robot Models, Silicon & DRAM Efficiency, Jetson Thor vs. B300 TCO, Deployments, The Network Wall — Ivan Chiam, Gianluca, Zane Fong, and 3 others",
   "techmeme_url": "https://www.techmeme.com/260915/p4",
   "title": "A deep dive into on-device vs. data center inference for robots, including a primer on robot models, deployments, supply chains, the \"network wall\", and more (SemiAnalysis)"
+ },
+ "a260915p40": {
+  "article_url": "https://www.theinformation.com/articles/developers-find-ways-use-claude-code-without-anthropic-models",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p40",
+  "summary": "Boris Cherney, the head of Anthropic's coding tool Claude Code, last month found himself in the middle of an online spat …",
+  "techmeme_url": "https://www.techmeme.com/260915/p40",
+  "title": "Some developers are using the Claude Code harness to access cheaper non-Anthropic models, such as OpenAI's GPT-5.6 Sol, via proxies and services like OpenRouter (Alix Coutures/The Information)"
+ },
+ "a260915p41": {
+  "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p41",
+  "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet.",
+  "techmeme_url": "https://www.techmeme.com/260915/p41",
+  "title": "Google launches Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, its \"most advanced live dialogue models yet\", to more effectively enable voice agents (Google)"
+ },
+ "a260915p42": {
+  "article_url": "https://fortune.com/2026/09/15/caddi-manufacturing-startup-valuation-funding-round-series-d-exclusive/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p42",
+  "summary": "CADDi, a startup that sells AI software to help manufacturers organize and use their engineering and production data …",
+  "techmeme_url": "https://www.techmeme.com/260915/p42",
+  "title": "CADDi, which sells AI tools to help manufacturers organize engineering and production data, raised a $114M Series D at a $1.2B valuation, up from $470M in 2025 (Jeremy Kahn/Fortune)"
+ },
+ "a260915p43": {
+  "article_url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p43",
+  "summary": "The Senate on Tuesday voted to block the Clarity Act from advancing, dealing a major blow to the crypto industry's push for a comprehensive market structure framework.",
+  "techmeme_url": "https://www.techmeme.com/260915/p43",
+  "title": "The Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry's push for a comprehensive market structure framework (CNBC)"
+ },
+ "a260915p44": {
+  "article_url": "https://www.wsj.com/finance/currencies/crypto-exchange-that-was-hub-for-illicit-iran-cash-closes-suddenly-80afba35",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p44",
+  "summary": "CoinEx says it is ceasing operations less than three months after a Wall Street Journal article spotlighted its use in Iran",
+  "techmeme_url": "https://www.techmeme.com/260915/p44",
+  "title": "Crypto exchange CoinEx says it is closing, citing a lengthy downturn and rising compliance costs; a report said it moved $3B+ for Iran-linked wallets since 2019 (Dylan Tokar/Wall Street Journal)"
+ },
+ "a260915p45": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-says-ai-industry-doesn-t-need-any-new-laws",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p45",
+  "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang dismissed the need for new artificial intelligence security regulations on Tuesday …",
+  "techmeme_url": "https://www.techmeme.com/260915/p45",
+  "title": "During a Salesforce event, Jensen Huang says the AI industry doesn't need any new laws or regulations and market forces will help companies safely innovate (Brody Ford/Bloomberg)"
+ },
+ "a260915p46": {
+  "article_url": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html?unlocked_article_code=1.BVE.mt9g.fW2MONpQsanG&smid=nytcore-android-share",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p46",
+  "summary": "At an event in Washington, partisanship took a back seat as elected officials, religious leaders, parents and artists called for reining in artificial intelligence.",
+  "techmeme_url": "https://www.techmeme.com/260915/p46",
+  "title": "At the Future of Life Institute's Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs (New York Times)"
+ },
+ "a260915p47": {
+  "article_url": "https://www.businessinsider.com/pulley-shuts-down-carta-helps-transition-customers-2026-9",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p47",
+  "summary": "Pulley, a software that startups rely on to track their funding, is shutting down after seven years.",
+  "techmeme_url": "https://www.techmeme.com/260915/p47",
+  "title": "Pulley, which offers cap table management software, says it will cease operations after December 8; it had raised $50M+ from investors, including Founders Fund (Melia Robinson/Business Insider)"
  },
  "a260915p5": {
   "article_url": "https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9",
