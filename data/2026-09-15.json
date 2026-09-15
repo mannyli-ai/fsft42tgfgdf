@@ -71,6 +71,62 @@
   "techmeme_url": "https://www.techmeme.com/260915/p2",
   "title": "Sources: Tokyo-based memory maker Kioxia is considering raising $10B+ through a 2027 US ADR listing as it seeks liquidity after billions in share buybacks (Bloomberg)"
  },
+ "a260915p23": {
+  "article_url": "https://siliconangle.com/2026/09/15/salesforce-debuts-koa-a-specialized-model-built-to-reason-over-crm-data/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p23",
+  "summary": "Salesforce Inc. said today at its annual user conference Dreamforce that it has partnered with Nvidia Corp. to train and release Koa …",
+  "techmeme_url": "https://www.techmeme.com/260915/p23",
+  "title": "At Dreamforce, Salesforce announces Koa, a specialized CRM reasoning model built on Nvidia's Nemotron architecture, designed to power AI agents in Agentforce (Mike Wheatley/SiliconANGLE)"
+ },
+ "a260915p24": {
+  "article_url": "https://www.wsj.com/finance/currencies/doj-says-binance-customers-used-crypto-exchange-to-funnel-iran-oil-money-d546b0a9?st=kr8LpY&reflink=desktopwebshare_permalink",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p24",
+  "summary": "Prosecutors said around $1.5 billion was sent back to Iran through a series of interrelated digital wallets",
+  "techmeme_url": "https://www.techmeme.com/260915/p24",
+  "title": "The US DOJ says several companies used Binance to relay payments of around $1.5B for black-market Iranian oil from Chinese buyers; Binance says it took action (Wall Street Journal)"
+ },
+ "a260915p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/meta-touts-the-cost-saving-benefits-of-latest-in-house-ai-chips",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p25",
+  "summary": "New processor will be running in data centers next year, with another model to follow by end of 2027",
+  "techmeme_url": "https://www.techmeme.com/260915/p25",
+  "title": "Meta says it plans to deploy MTIA 450, its third-generation custom AI chip, in data centers in H1 2027, followed by a broad rollout of MTIA 500 by end of 2027 (Dina Bass/Bloomberg)"
+ },
+ "a260915p26": {
+  "article_url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p26",
+  "summary": "A day after Anthropic researcher Jacob Coxon quit his job over concerns that AI could kill us all by the end of the decade …",
+  "techmeme_url": "https://www.techmeme.com/260915/p26",
+  "title": "Artificial Intelligence Underwriting Company, which offers audits and safety certifications for AI agents, raised a $40M Series A, bringing total raised to $55M (Julie Bort/TechCrunch)"
+ },
+ "a260915p27": {
+  "article_url": "https://news.bloomberglaw.com/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p27",
+  "summary": "OpenAI is working on steps to address artificial intelligence safety issues with its top competitors Anthropic PBC and Google DeepMind …",
+  "techmeme_url": "https://www.techmeme.com/260915/p27",
+  "title": "OpenAI says it has been working with Anthropic and Google for several weeks on AI safety, and it does not need an antitrust waiver to coordinate on safety (Maggie Eastland/Bloomberg Law)"
+ },
+ "a260915p28": {
+  "article_url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p28",
+  "summary": "India has finally put a price on larger transactions on its ubiquitous digital payments network, ending years of free processing …",
+  "techmeme_url": "https://www.techmeme.com/260915/p28",
+  "title": "India's UPI, which has been free for merchants, will impose a 0.4% merchant fee on certain payments above ₹2,000, or $21, from October 15 in a major shift (Jagmeet Singh/TechCrunch)"
+ },
+ "a260915p29": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p29",
+  "summary": "General Motors Co. is integrating Apple Inc.'s CarPlay in its latest infotainment system, three years after upsetting some consumers …",
+  "techmeme_url": "https://www.techmeme.com/260915/p29",
+  "title": "GM plans to add Apple CarPlay and Android Auto to its latest infotainment system, three years after upsetting some consumers by removing them from its EVs (David Welch/Bloomberg)"
+ },
  "a260915p3": {
   "article_url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
   "date": "2026-09-15",
@@ -78,6 +134,70 @@
   "summary": "Samsung has backed a Dutch AI chipmaker in a $231 million funding round, amid a boom in investment in alternatives to Nvidia's graphic processing units.",
   "techmeme_url": "https://www.techmeme.com/260915/p3",
   "title": "Netherlands-based inference chip startup Euclyd raised a €200M+ Series A co-led by Samsung, Somerset Capital, Scaleup Europe Fund, and Innovation Industries (Kai Nicol-Schwarz/CNBC)"
+ },
+ "a260915p30": {
+  "article_url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p30",
+  "summary": "﻿Meta One bundles start at $7.99 per month with perks like 48-hour Instagram stories and a bold follow button.",
+  "techmeme_url": "https://www.techmeme.com/260915/p30",
+  "title": "Meta rolls out its Meta One subscription bundle globally, with expanded Meta AI capabilities powered by Muse, and $7.99/month and $19.99/month individual plans (Stevie Bonifield/The Verge)"
+ },
+ "a260915p31": {
+  "article_url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p31",
+  "summary": "Elon Musk called for the top artificial intelligence companies to work together and test each other's models …",
+  "techmeme_url": "https://www.techmeme.com/260915/p31",
+  "title": "Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)"
+ },
+ "a260915p32": {
+  "article_url": "https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3?st=bKp1un&reflink=desktopwebshare_permalink",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p32",
+  "summary": "Amazon data centers are still offline months after being hit, testing the region's multibillion-dollar ambitions",
+  "techmeme_url": "https://www.techmeme.com/260915/p32",
+  "title": "AWS facilities in Abu Dhabi and Bahrain remain mostly offline more than six months after being damaged by Iranian drones, complicating the region's AI ambitions (Wall Street Journal)"
+ },
+ "a260915p34": {
+  "article_url": "https://www.semafor.com/article/09/15/2026/commerce-dept-ordered-kalshi-to-take-down-ai-compute-futures-product",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p34",
+  "summary": "THE SCOOP — The US Commerce Department last month ordered Kalshi to take down one of its products tracking the price of AI compute …",
+  "techmeme_url": "https://www.techmeme.com/260915/p34",
+  "title": "Sources: the US Commerce Department last month ordered Kalshi to take down an AI compute futures product, citing national security concerns; Kalshi complied (Semafor)"
+ },
+ "a260915p35": {
+  "article_url": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p35",
+  "summary": "The delivery platform DoorDash is investing in and partnering with Marc Lore-owned food tech company Wonder in deals worth …",
+  "techmeme_url": "https://www.techmeme.com/260915/p35",
+  "title": "DoorDash agrees to acquire Wonder's Grubhub Campus Dining business, formerly Tapingo, for $300M, and will add $125M to Wonder's $650M Series D announced in July (Amanda Silberling/TechCrunch)"
+ },
+ "a260915p36": {
+  "article_url": "https://www.theinformation.com/articles/erebor-banks-sweet-stablecoin-deal-backfired",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p36",
+  "summary": "When Palmer Luckey's Erebor Bank launched earlier this year, it made an attractive pitch to lure new crypto customers: It would convert their stablecoins to cash for free.",
+  "techmeme_url": "https://www.techmeme.com/260915/p36",
+  "title": "Sources: Palmer Luckey-backed Erebor Bank ended its free stablecoin-to-cash redemption offer after trading firms like Wintermute exploited it for arbitrage (The Information)"
+ },
+ "a260915p37": {
+  "article_url": "https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697?st=9rBDpw&reflink=desktopwebshare_permalink",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p37",
+  "summary": "Khosla Ventures, Blackstone and Marc Benioff are among the investors putting $200 million into the startup",
+  "techmeme_url": "https://www.techmeme.com/260915/p37",
+  "title": "Factory, whose AI coding agents, called Droids, switch between models depending on a task's complexity, raised $200M at a $5B valuation, up from $1.5B in April (Angel Au-Yeung/Wall Street Journal)"
+ },
+ "a260915p38": {
+  "article_url": "https://www.musicbusinessworldwide.com/universal-music-group-sues-distrokid-ai-generated-slop/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p38",
+  "summary": "Universal Music Group is suing the world's biggest music distributor by volume, DistroKid.",
+  "techmeme_url": "https://www.techmeme.com/260915/p38",
+  "title": "UMG sues DistroKid, alleging it distributes AI-generated music masquerading as artist-backed releases and knowingly \"proliferates\" copyright-infringing tracks (Tim Ingham/Music Business Worldwide)"
  },
  "a260915p4": {
   "article_url": "https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device",
