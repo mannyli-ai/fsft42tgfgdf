@@ -183,6 +183,14 @@
   "techmeme_url": "https://www.techmeme.com/260914/p38",
   "title": "Cornelis, spun off from Intel in 2020 to build networking tech that helps AI chips communicate more effectively, raised $205M led by IAG Capital (Dominic-Madori Davis/TechCrunch)"
  },
+ "a260914p39": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/14/agentic-job-jack-jill",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p39",
+  "summary": "Jack & Jill, a London-based agentic job-finding platform, raised a $40 million Series A led by Air Street Capital, CEO Matt Wilson tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260914/p39",
+  "title": "London-based Jack & Jill, which offers Jack, an AI agent for job seekers, and Jill, an agent for companies, raised a $40M Series A, after raising $20M in 2025 (Chris Metinko/Axios)"
+ },
  "a260914p4": {
   "article_url": "https://www.bloomberg.com/",
   "date": "2026-09-14",
@@ -190,6 +198,54 @@
   "summary": "AI computing networks maker Ligent Technologies Inc. is seeking to raise as much as HK$5.7 billion ($727 million) …",
   "techmeme_url": "https://www.techmeme.com/260914/p4",
   "title": "Filing: San Jose-based Chinese optical module maker Ligent seeks ~$727M in a Hong Kong IPO, after its rival Zhongji Innolight's $6.8B Hong Kong debut in July (Sangmi Cha/Bloomberg)"
+ },
+ "a260914p40": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-14/upcoming-apple-products-what-to-expect-in-late-2026-and-early-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTQxOTY2MywiZXhwIjoxNzkwMDI0NDYzLCJhcnRpY2xlSWQiOiJUTDg0SUdWVFRDWlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.hPgPAbpsHyrSUPNeJ0O-tUdvdetvp7Ou2gPOBbmgqK0&leadSource=article-gifting",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p40",
+  "summary": "Apple Inc. just launched some major new products, including the iPhone Duo, the iPhone 18 Pro line, AirPods 5 earbuds and fresh smartwatches.",
+  "techmeme_url": "https://www.techmeme.com/260914/p40",
+  "title": "Apple's H1 2027 plans reportedly include an iPhone 18e, A20 iPhone 18, A20 Pro iPhone Air 2, OLED iPad Air, A19 Pro MacBook Neo, and M6 MacBook Air (Mark Gurman/Bloomberg)"
+ },
+ "a260914p41": {
+  "article_url": "https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p41",
+  "summary": "Jensen Sandbagging Performance Again, 2x more Annual Profit Per GigaWatt, The More you Buy, The More you Earn, AgentX, InferenceX, Extreme Co-Design",
+  "techmeme_url": "https://www.techmeme.com/260914/p41",
+  "title": "Vera Rubin NVL72 inference tests show up to 7x better token throughput per MW vs. Blackwell on a 1.6T DeepSeek model, above Huang's 3x claim for 1T-3T LLMs (Bryan Shan/SemiAnalysis)"
+ },
+ "a260914p42": {
+  "article_url": "http://www.djnewswires.com/",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p42",
+  "summary": "The software sector outperformed the chip sector to a historic degree in the face of escalating AI fears",
+  "techmeme_url": "https://www.techmeme.com/260914/p42",
+  "title": "Cybersecurity stocks were the top performers in the S&P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9% (Britney Nguyen/MarketWatch)"
+ },
+ "a260914p43": {
+  "article_url": "https://www.bloomberg.com/opinion/newsletters/2026-09-14/ai-labs-want-someone-to-stop-them",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p43",
+  "summary": "AI and antitrust, lockups and indexes, annuities, Montessori and sudden wealth syndrome. — P(doom)",
+  "techmeme_url": "https://www.techmeme.com/260914/p43",
+  "title": "Thoughts on AI labs' safety concerns: a coordinated slowdown may look like an antitrust conspiracy to limit output that would preserve frontier model margins (Matt Levine/Bloomberg)"
+ },
+ "a260914p44": {
+  "article_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p44",
+  "summary": "Making sense of iLands, the company whose AI agents emailed me half a dozen times in two days offering to do my research.",
+  "techmeme_url": "https://www.techmeme.com/260914/p44",
+  "title": "A look at iLands, a company that's like Fiverr for agents, which email annoying and unsolicited pitches to people, usually for services costing ~$25 (Ernie Smith/Tedium)"
+ },
+ "a260914p45": {
+  "article_url": "https://x.com/dkokotajlo",
+  "date": "2026-09-14",
+  "permalink_id": "a260914p45",
+  "summary": "Dan Selsam is a current OpenAI capabilities researcher. (since 2022) He was my boss for a while. He doesn't have a twitter account but has made this public statement of his views on AI risk and sent it to me to share: Dan Selsam's Personal Statement on AI Risk: I have been working on AI for over ...",
+  "techmeme_url": "https://www.techmeme.com/260914/p45",
+  "title": "OpenAI researcher: top models are becoming so situationally aware humans \"are losing the ability to evaluate them\" while humans rely more on AI to lead research (Daniel Kokotajlo/@dkokotajlo)"
  },
  "a260914p5": {
   "article_url": "https://www.theinformation.com/articles/amazon-microsoft-taking-communities-side-utilities",
