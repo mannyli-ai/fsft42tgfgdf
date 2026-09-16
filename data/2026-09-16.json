@@ -1,0 +1,122 @@
+{
+ "a260916p10": {
+  "article_url": "https://www.ft.com/content/410db291-f133-4d72-b883-b2d5a32abbf8",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p10",
+  "summary": "Ursula von der Leyen describes AI as ‘second tipping point of our time’ after climate change",
+  "techmeme_url": "https://www.techmeme.com/260916/p10",
+  "title": "EU Commission President Ursula von der Leyen calls AI \"the second tipping point of our times\", alongside climate change, and says its risks must be \"addressed\" (Financial Times)"
+ },
+ "a260916p11": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/anthropic-signs-first-australia-data-centre-agreement-2026-09-16/",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p11",
+  "summary": "AI giant Anthropic signed its first data centre lease agreement in Australia, two people familiar with the deal said …",
+  "techmeme_url": "https://www.techmeme.com/260916/p11",
+  "title": "Sources: Anthropic has signed its first Australian data center lease for a planned 2.16GW campus located ~150 miles from Brisbane, set to come online in 2027 (Byron Kaye/Reuters)"
+ },
+ "a260916p12": {
+  "article_url": "https://www.wsj.com/tech/ai/mistral-aims-to-grow-ai-consumer-base-through-mozilla-partnership-10038e0d?st=hp4xec&reflink=desktopwebshare_permalink",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p12",
+  "summary": "Firefox Smart Window will soon be powered by Mistral in the U.S., Canada and France, with the U.K. and Germany expected to follow later this year",
+  "techmeme_url": "https://www.techmeme.com/260916/p12",
+  "title": "Mistral partners with Mozilla to power Firefox's AI browsing assistant, Smart Window, in the US, Canada, and France, with UK and Germany rollouts later in 2026 (Mauro Orru/Wall Street Journal)"
+ },
+ "a260916p13": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p13",
+  "summary": "Even as Donald Trump blasts Anthropic PBC's Dario Amodei over his call to hit the brakes on AI development, the two agree on the need to prevent China from catching the US.",
+  "techmeme_url": "https://www.techmeme.com/260916/p13",
+  "title": "The Trump administration faces strategic constraints in slowing China's AI progress, including avoiding rare earth restrictions, ahead of US-China talks on AI (Nectar Gan/Bloomberg)"
+ },
+ "a260916p14": {
+  "article_url": "https://www.nytimes.com/2026/09/15/us/politics/ai-polls-midterms.html?unlocked_article_code=1.BVE.fhM9.BLmkdM3kKG84&smid=bs-share",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p14",
+  "summary": "As fears grow about the threat of artificial intelligence, neither party has claimed an advantage on the technology, a New York Times/Siena poll found.",
+  "techmeme_url": "https://www.techmeme.com/260916/p14",
+  "title": "Survey: 42% of US voters trust the GOP and 40% trust Democrats to handle AI, 61% oppose new data center construction, and <1% say AI is their top midterm issue (New York Times)"
+ },
+ "a260916p15": {
+  "article_url": "https://www.reuters.com/legal/litigation/openais-rogue-agents-probed-hugging-face-weaknesses-two-months-before-major-hack-2026-09-16/",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p15",
+  "summary": "Rogue AI agents from OpenAI hijacked Hugging Face user accounts and probed the site itself for vulnerabilities as early as May …",
+  "techmeme_url": "https://www.techmeme.com/260916/p15",
+  "title": "Researchers: rogue OpenAI agents compromised two Hugging Face accounts as early as May 13 to probe the site's servers, nearly two months before the July breach (Reuters)"
+ },
+ "a260916p16": {
+  "article_url": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p16",
+  "summary": "A middle ground between the cybersecurity and AI safety communities — This essay is over 13,000 words long and represents …",
+  "techmeme_url": "https://www.techmeme.com/260916/p16",
+  "title": "An in-depth look at loss-of-control incidents at OpenAI and Anthropic, the polarized reactions between the AI safety and cybersecurity communities, and more (AI as Normal Technology)"
+ },
+ "a260916p17": {
+  "article_url": "https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846?st=gfuSd9&reflink=desktopwebshare_permalink",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p17",
+  "summary": "Internal company materials show AI being used to make stolen foreign government data digestible for police, targeting Russia, Pakistan and others",
+  "techmeme_url": "https://www.techmeme.com/260916/p17",
+  "title": "Internal documents: Chinese hacker-for-hire company ZRON is selling stolen foreign intelligence and using AI systems to make the data more accessible for police (Wall Street Journal)"
+ },
+ "a260916p18": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/bytedance-tiktok-billionaire-zhang-yiming-overtakes-gautam-adani-asia-richest-person",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p18",
+  "summary": "ByteDance's Zhang Yiming has become Asia's richest person for the first time, marking a comeback for the TikTok developer …",
+  "techmeme_url": "https://www.techmeme.com/260916/p18",
+  "title": "ByteDance founder Zhang Yiming overtakes India's Gautam Adani to become Asia's richest person for the first time, passing $105B, up 8x from $13B in March 2019 (Bloomberg)"
+ },
+ "a260916p4": {
+  "article_url": "https://scottaaronson.blog/?p=10062",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p4",
+  "summary": "Twenty years ago, when the idea of AI taking over the world in our lifetimes still struck most of us as the unconstrained fantasy …",
+  "techmeme_url": "https://www.techmeme.com/260916/p4",
+  "title": "A theoretical computer scientist says he has heard rumors that AI labs are sitting on major solutions after a hostile response to the Navier-Stokes proof (Scott Aaronson/Shtetl-Optimized)"
+ },
+ "a260916p5": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p5",
+  "summary": "South Korea's SK Hynix (000660.KS) is in talks with Intel (INTC.O) about a deal that would see it manufacture memory chips on U.S. soil …",
+  "techmeme_url": "https://www.techmeme.com/260916/p5",
+  "title": "Sources: SK Hynix is in talks with Intel to manufacture memory chips in the US, but potential opposition from Seoul could be a major hurdle for the deal (Reuters)"
+ },
+ "a260916p6": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/chipmaker-sk-hynix-agrees-to-higher-cash-payout-to-ease-tensions",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p6",
+  "summary": "SK Hynix Inc. has struck an agreement with its union to pay out half of all profit-sharing bonuses in cash, resolving a dispute …",
+  "techmeme_url": "https://www.techmeme.com/260916/p6",
+  "title": "SK Hynix strikes an agreement with its union to pay out half of all profit-sharing bonuses in cash, replacing a previously proposed 40-60 cash-stock split (Yoolim Lee/Bloomberg)"
+ },
+ "a260916p7": {
+  "article_url": "https://www.reuters.com/legal/transactional/bytedance-completes-290-million-fundraising-ai-drug-unit-after-its-spin-off-2026-09-16/",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p7",
+  "summary": "Chinese social media and internet company ByteDance has completed a $290 million fundraising for its AI drugmaking unit after spinning …",
+  "techmeme_url": "https://www.techmeme.com/260916/p7",
+  "title": "Sources: Shanghai-based Anew Labs, a ByteDance spinoff using AI for drug discovery, raised $290M from HSG, IDG Capital, and others at a $1.5B valuation (Kane Wu/Reuters)"
+ },
+ "a260916p8": {
+  "article_url": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html?unlocked_article_code=1.BlE.SzOw.Gt4xJ8P-97HP&smid=url-share",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p8",
+  "summary": "A math teacher's viral post prompted a debate over the language, which some see as an optional skill — and a symbol of Western dominance.",
+  "techmeme_url": "https://www.techmeme.com/260916/p8",
+  "title": "A viral social media post from a Chinese math teacher sparks debate over making English optional in schools across China especially as AI translation improves (New York Times)"
+ },
+ "a260916p9": {
+  "article_url": "https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p9",
+  "summary": "A proposed law would bar children under 13 from using social media across the 27-nation bloc. — The European Union outlined plans …",
+  "techmeme_url": "https://www.techmeme.com/260916/p9",
+  "title": "European Commission President Ursula von der Leyen unveils the EU Kids Act during her SOTU address, proposing a blanket ban on social media for kids under 13 (New York Times)"
+ }
+}
