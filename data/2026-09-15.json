@@ -279,6 +279,22 @@
   "techmeme_url": "https://www.techmeme.com/260915/p47",
   "title": "Pulley, which offers cap table management software, says it will cease operations after December 8; it had raised $50M+ from investors, including Founders Fund (Melia Robinson/Business Insider)"
  },
+ "a260915p48": {
+  "article_url": "https://x.com/openrouter/status/2099898254905549220",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p48",
+  "summary": "OpenRouter users spent more on OpenAI models than on Anthropic models last week. This hasn't happened for more than 2.5 years",
+  "techmeme_url": "https://www.techmeme.com/260915/p48",
+  "title": "OpenRouter users spent more on OpenAI's models than on Anthropic's in the week of September 7, the first time that happened since the week of February 26, 2024 (@openrouter)"
+ },
+ "a260915p49": {
+  "article_url": "https://fedscoop.com/treasury-scott-bessent-ai-labs-liability-exemptions/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p49",
+  "summary": "The secretary told House Financial Services Committee lawmakers that the “best way to guarantee safety” is for AI creators to be held …",
+  "techmeme_url": "https://www.techmeme.com/260915/p49",
+  "title": "At a US House hearing, Treasury Secretary Scott Bessent said AI labs should get no liability exemptions and called for more open-source models built in the US (Matt Bracken/FedScoop)"
+ },
  "a260915p5": {
   "article_url": "https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9",
   "date": "2026-09-15",
@@ -287,6 +303,86 @@
   "techmeme_url": "https://www.techmeme.com/260915/p5",
   "title": "Google gives all of its engineers Claude Opus 5 access via Antigravity, and says \"Gemini remains our primary and foundational model for internal development\" (Hugh Langley/Business Insider)"
  },
+ "a260915p50": {
+  "article_url": "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p50",
+  "summary": "Sam Altman's start-up could capitalise on demand for its technology after new model launches — OpenAI has held early conversations …",
+  "techmeme_url": "https://www.techmeme.com/260915/p50",
+  "title": "Sources: OpenAI has held early conversations with investors about raising another private funding round at a $1.2T valuation before its planned IPO (Financial Times)"
+ },
+ "a260915p51": {
+  "article_url": "https://www.forbes.com/sites/the-prompt/2026/09/15/this-200-million-startup-wants-to-fix-ais-overconfidence-problem/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p51",
+  "summary": "Former OpenAI researcher Diogo Almeida says most intelligence is going to live inside software. But to automate any real work, it has to be correct.",
+  "techmeme_url": "https://www.techmeme.com/260915/p51",
+  "title": "TypeSafe AI, which is developing a model that outputs numerical responses with probability estimates to help businesses assess reliability, raised a $40M seed (Rashi Shrivastava/Forbes)"
+ },
+ "a260915p52": {
+  "article_url": "https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p52",
+  "summary": "Meta Platforms plans to release a camera-free pair of smart glasses this fall, according to people familiar with the matter …",
+  "techmeme_url": "https://www.techmeme.com/260915/p52",
+  "title": "Sources: Meta plans to release a camera-free pair of smart glasses this fall; the new model has six mics to let users speak with Meta's AI chatbot and Muse (Jyoti Mann/The Information)"
+ },
+ "a260915p53": {
+  "article_url": "https://x.com/finkd",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p53",
+  "summary": "Last month I wrote about how we can build a positive and safe future for everyone: https://meta.com/... Every lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens. The reality is: - Peo...",
+  "techmeme_url": "https://www.techmeme.com/260915/p53",
+  "title": "Mark Zuckerberg says AI labs have the responsibility and incentive to train models safely and that any lab that doesn't focus on alignment will fall behind (Mark Zuckerberg/@finkd)"
+ },
+ "a260915p54": {
+  "article_url": "https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html?unlocked_article_code=1.BVE.iOGp.xysboJ9Ytg6-&smid=url-share",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p54",
+  "summary": "Look, I don't know if you are following every article, every tweet, every blog post from the A.I. labs right now, but we are in a frightening place.",
+  "techmeme_url": "https://www.techmeme.com/260915/p54",
+  "title": "Q&A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more (New York Times)"
+ },
+ "a260915p55": {
+  "article_url": "https://www.nytimes.com/2026/09/15/us/politics/congress-ai-regulation-bills.html?unlocked_article_code=1.BVE.Xlz7.PxshnLkDQ8sv&smid=bs-share",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p55",
+  "summary": "For years, Democrats and Republicans have proposed bills to address the greatest threats posed by artificial intelligence.",
+  "techmeme_url": "https://www.techmeme.com/260915/p55",
+  "title": "Democrats and Republicans proposed many bills to address major AI threats over the past two years, but they remain stymied by partisan disputes and lobbying (New York Times)"
+ },
+ "a260915p56": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/meta-s-zuckerberg-favors-evaluators-over-slowdown-for-ai-safety",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p56",
+  "summary": "Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg said artificial intelligence labs should rely …",
+  "techmeme_url": "https://www.techmeme.com/260915/p56",
+  "title": "Zuckerberg says \"Meta delayed shipping Muse for several months to focus on safety and security\" and didn't call on other AI labs to do the same before acting (Tom Giles/Bloomberg)"
+ },
+ "a260915p57": {
+  "article_url": "https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p57",
+  "summary": "300+ moratoriums mapped, 20GW sits inside a restricted local boundary, 1,525MW actually slips, 2.3GW nationwide including New York",
+  "techmeme_url": "https://www.techmeme.com/260915/p57",
+  "title": "Analysis: only ~2.3 GW of planned data center capacity is delayed by direct project-level policies like local moratoriums and New York's data center EO (SemiAnalysis)"
+ },
+ "a260915p58": {
+  "article_url": "https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p58",
+  "summary": "The startup behind personal AI assistant Instinct is in talks to raise $1 billion at a valuation of about $10 billion, a person with knowledge of the deal said.",
+  "techmeme_url": "https://www.techmeme.com/260915/p58",
+  "title": "Source: AI assistant Instinct seeks to raise $1B at a $10B valuation, up from $2.25B less than a month ago; Sequoia and Benchmark are in talks to lead the round (Valida Pau/The Information)"
+ },
+ "a260915p59": {
+  "article_url": "https://www.nbcnews.com/tech/security/cybersecurity-experts-say-ai-giants-shutting-safety-plans-rcna597704",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p59",
+  "summary": "Cybersecurity experts told NBC News that they were concerned that fundamental issues of cybersecurity weren't being addressed.",
+  "techmeme_url": "https://www.techmeme.com/260915/p59",
+  "title": "Cybersecurity experts claim that AI leaders' apocalyptic hacking predictions are technically incoherent and reflect an unfamiliarity with the subject (Kevin Collier/NBC News)"
+ },
  "a260915p6": {
   "article_url": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.6RVR.cSzQJON-bJf4&smid=url-share",
   "date": "2026-09-15",
@@ -294,6 +390,14 @@
   "summary": "Mr. Trump called Jensen Huang, Nvidia's chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
   "techmeme_url": "https://www.techmeme.com/260915/p6",
   "title": "Jensen Huang took a surprise call from President Trump onstage at the All-In Summit on Monday in LA, where the two dismissed fears of an AI takeover (New York Times)"
+ },
+ "a260915p60": {
+  "article_url": "https://www.404media.co/a-digital-fly-brain-has-taken-over-the-internet/",
+  "date": "2026-09-15",
+  "permalink_id": "a260915p60",
+  "summary": "How to make a fly play Doom, Minecraft, Beat Saber, parallel park, trade bitcoin, cut doner kebab, and more.",
+  "techmeme_url": "https://www.techmeme.com/260915/p60",
+  "title": "Google researchers help develop the first complete digital map of an adult male fruit fly's brain, which modders programmed to play Doom, trade BTC, and more (Becky Ferreira/404 Media)"
  },
  "a260915p7": {
   "article_url": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
