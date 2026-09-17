@@ -111,6 +111,70 @@
   "techmeme_url": "https://www.techmeme.com/260917/p21",
   "title": "Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with US slowdown calls (Eleanor Olcott/Financial Times)"
  },
+ "a260917p22": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-17/doordash-uber-expand-costco-delivery-partnership-in-the-us",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p22",
+  "summary": "DoorDash Inc. and Uber Technologies Inc. are expanding their delivery partnership with Costco Wholesale Corp. …",
+  "techmeme_url": "https://www.techmeme.com/260917/p22",
+  "title": "DoorDash says Costco members can order same-day delivery from every US Costco warehouse, after Uber expanded its delivery partnership from 17 to 47 US states (Bloomberg)"
+ },
+ "a260917p23": {
+  "article_url": "https://9to5mac.com/2026/09/17/apple-watch-series-12-and-ultra-4-review/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p23",
+  "summary": "The Apple Watch Series 12 and Apple Watch Ultra 4 are all about what's happening underneath. Headlined by a new Health Sensing System …",
+  "techmeme_url": "https://www.techmeme.com/260917/p23",
+  "title": "Apple Watch Series 12 and Ultra 4 review: new colors and materials, revamped Health Sensing System, an S11 chip, and future AI features, but few design changes (Chance Miller/9to5Mac)"
+ },
+ "a260917p24": {
+  "article_url": "https://www.nytimes.com/2026/09/16/opinion/us-china-ai-safety-talks.html?unlocked_article_code=1.B1E.dfvC.-rVr47imYGfv&smid=nytcore-ios-share",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p24",
+  "summary": "The United States is preparing for its artificial intelligence dialogue with China, and our officials are under tremendous pressure …",
+  "techmeme_url": "https://www.techmeme.com/260917/p24",
+  "title": "A former US State Department envoy says the US-China AI safety talks will not yield a breakthrough treaty as Beijing is prioritizing its strategic advantage (New York Times)"
+ },
+ "a260917p25": {
+  "article_url": "https://www.reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-tokenized-stock-trading-2026-09-17/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p25",
+  "summary": "The U.S. Securities and Exchange Commission on Thursday unveiled its long-awaited exemption that will allow companies …",
+  "techmeme_url": "https://www.techmeme.com/260917/p25",
+  "title": "The US SEC unveils a five-year \"Innovation Exemption\" to free platforms that facilitate blockchain and tokenized stock trading from many stock exchange rules (Hannah Lang/Reuters)"
+ },
+ "a260917p26": {
+  "article_url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p26",
+  "summary": "Comp AI, a cybersecurity and compliance startup, announced that it has raised a $34 million Series A round. The round was led by Roo Capital and Grand Ventures.",
+  "techmeme_url": "https://www.techmeme.com/260917/p26",
+  "title": "Comp AI, which uses AI agents to draft security policies, collect audit evidence, conduct continuous compliance monitoring, and more, raised a $34M Series A (Dominic-Madori Davis/TechCrunch)"
+ },
+ "a260917p27": {
+  "article_url": "https://www.ft.com/content/cf9b5143-0ab7-4c14-a5e4-baa8d78bb3cd",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p27",
+  "summary": "Rollout would be most ambitious plan yet for autonomous ride-hailing on the continent — Lucid is partnering with ride-hailing platform Bolt …",
+  "techmeme_url": "https://www.techmeme.com/260917/p27",
+  "title": "Lucid and Bolt sign an initial agreement to deploy a fleet of 25K+ robotaxis in Europe built on Lucid's affordable EV platform, set to launch as soon as 2028 (Financial Times)"
+ },
+ "a260917p28": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p28",
+  "summary": "Huang Says AI Firms Should Be ‘More Rigorous in Testing’ — Video Player is loading. — Unmute — Current Time 0:00 Loaded: 32.44% Playback Rate",
+  "techmeme_url": "https://www.techmeme.com/260917/p28",
+  "title": "King Charles hosts tech leaders, such as Jensen Huang, Demis Hassabis, and OpenAI CFO Sarah Friar, in Scotland to discuss AI risks; Huang calls for safety tests (Bloomberg)"
+ },
+ "a260917p29": {
+  "article_url": "https://www.theinformation.com/articles/openai-close-solving-another-millennium-prize-math-problem",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p29",
+  "summary": "Remember when OpenAI landed in hot water earlier this month after mathematicians accused the company of trying to steal their thunder for solving an ultra-difficult math problem?",
+  "techmeme_url": "https://www.techmeme.com/260917/p29",
+  "title": "Source: OpenAI staff expect the Hodge Conjecture, a Millennium Prize Problem, to be solved relatively soon, after solving the Navier-Stokes equations (Stephanie Palazzolo/The Information)"
+ },
  "a260917p3": {
   "article_url": "https://www.ft.com/content/0b83cb60-0d07-49a7-a46a-654077a75b39",
   "date": "2026-09-17",
@@ -118,6 +182,38 @@
   "summary": "Researchers leaving Big Tech group's London lab close to raising $700mn for new start-up Emulate",
   "techmeme_url": "https://www.techmeme.com/260917/p3",
   "title": "Sources: Emulate, a month-old UK AI startup founded by former Google DeepMind researchers, is in advanced talks to raise as much as $700M at a $3.7B valuation (Financial Times)"
+ },
+ "a260917p30": {
+  "article_url": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p30",
+  "summary": "The U.K.'s Financial Conduct Authority (FCA) said Thursday that it conducted actions to crack down on three illegal peer …",
+  "techmeme_url": "https://www.techmeme.com/260917/p30",
+  "title": "The UK FCA, alongside tax authorities and police, raids three illegal peer-to-peer crypto businesses, signaling an end to \"light-touch\" crypto regulation (Olivier Acuna/CoinDesk)"
+ },
+ "a260917p31": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-17/white-house-weighs-us-incubator-for-cyber-research-startups",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p31",
+  "summary": "The Trump administration is weighing a plan to establish a government-led incubator aimed at investing in cybersecurity research …",
+  "techmeme_url": "https://www.techmeme.com/260917/p31",
+  "title": "Sources: the White House's Office of the National Cyber Director is drafting an EO to establish a government-led incubator aimed at cybersecurity research (Bloomberg)"
+ },
+ "a260917p32": {
+  "article_url": "https://www.reuters.com/world/china/nexperia-says-it-will-partner-with-tata-chip-production-packaging-india-2026-09-17/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p32",
+  "summary": "Dutch chipmaker Nexperia announced a far-reaching partnership with Tata Electronics on Thursday to manufacture and package computer chips in India …",
+  "techmeme_url": "https://www.techmeme.com/260917/p32",
+  "title": "Dutch chipmaker Nexperia announces a deal with Tata to manufacture and package chips in India, further sealing its split from Chinese parent Wingtech (Toby Sterling/Reuters)"
+ },
+ "a260917p33": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-17/spacex-discusses-buying-data-for-ai-models-from-failed-startups",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p33",
+  "summary": "Elon Musk's SpaceX has held internal discussions about buying customer and operational information from troubled or defunct startups …",
+  "techmeme_url": "https://www.techmeme.com/260917/p33",
+  "title": "Sources: SpaceX has discussed buying customer and operational information from troubled or defunct startups as a more affordable data source for AI training (Carmen Arroyo/Bloomberg)"
  },
  "a260917p4": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTU5OTc1MCwiZXhwIjoxNzkwMjA0NTUwLCJhcnRpY2xlSWQiOiJUTEg4VENUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.G6VlnipsOMOaDwmrVNt8gCYPGKiMde8AgB5MgldHFDM",
