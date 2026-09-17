@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/260917/p1",
   "title": "How AI startups like Inherent and Recursive Superintelligence are pursuing tools needed for AI systems to achieve recursive self-improvement (Cade Metz/New York Times)"
  },
+ "a260917p10": {
+  "article_url": "https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef?accessToken=zwAAAaFF76C6lM8LRcsBf2JBxdOMSBDEfy4a5s8feLaSQ4lJodO9SJAyUswoL89oZCnA2vNCpdObfH_wbrKR79OO2kEvyu1LMdO97rdvyfO6ggE.MEYCIQDk_nprY5ALiEYBTFI1-MWq-aMUgdqVq04zBBUmMP547QIhAO009JNLGixOg1Opoe8lFRxtiKD3Iu4MhkYbOBjKpHm9&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p10",
+  "summary": "Autonomous systems are being rapidly integrated on the battlefield, as models advance in ways even their creators cannot fully predict.",
+  "techmeme_url": "https://www.techmeme.com/260917/p10",
+  "title": "A look at the rapid integration of AI into warfare, as the greater speed and scale of AI-assisted target generation processes increase the risk of errors (Financial Times)"
+ },
+ "a260917p11": {
+  "article_url": "https://www.wsj.com/tech/ai/the-startup-that-built-openais-biggest-data-center-is-now-making-tiny-ones-71f36a4f?st=RwAtre&reflink=desktopwebshare_permalink",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p11",
+  "summary": "Crusoe raised $3.9 billion at a valuation of nearly $31 billion, as it bets on factory-built data centers",
+  "techmeme_url": "https://www.techmeme.com/260917/p11",
+  "title": "Data center developer Crusoe raised $3.9B co-led by Atreides, Valor, and Mubadala at a ~$30.9B post-money valuation, as it bets on factory-built data centers (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a260917p12": {
+  "article_url": "https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p12",
+  "summary": "Snap thinks its chunky, pricey smart glasses are the future of human computing, powered by a new AI app and features that do everything …",
+  "techmeme_url": "https://www.techmeme.com/260917/p12",
+  "title": "Snap is pitching its $2,195 Specs as an enterprise product, inking Salesforce, Amazon, and Nvidia deals to enable visual overlays, alongside consumer features (Boone Ashworth/Wired)"
+ },
+ "a260917p13": {
+  "article_url": "https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p13",
+  "summary": "An AI system that interferes with a nuclear command network or launches a military cyber operation could leave Washington or Beijing …",
+  "techmeme_url": "https://www.techmeme.com/260917/p13",
+  "title": "US and Chinese experts propose nuclear-style AI safeguards, including a dedicated AI military hotline, as part of a dialogue ahead of planned bilateral talks (Reuters)"
+ },
+ "a260917p14": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p14",
+  "summary": "AI beauty tools can measure your jawline, grade your “harmony” and prescribe treatments for improving your face. Does any of it work?",
+  "techmeme_url": "https://www.techmeme.com/260917/p14",
+  "title": "How beauty companies like Qoves are commercializing facial-analysis algorithms that evaluate geometric proportions, balding, and more to prescribe treatments (Alice Lassman/Bloomberg)"
+ },
+ "a260917p15": {
+  "article_url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p15",
+  "summary": "It's both a “Snow Leopard update” and a major leap for Apple Intelligence. — Apple Intelligence is back, baby!",
+  "techmeme_url": "https://www.techmeme.com/260917/p15",
+  "title": "macOS 27 Golden Gate review: addresses many Tahoe-era Liquid Glass issues and has useful new AI features, but no Intel support and uses a lot of storage space (Andrew Cunningham/Ars Technica)"
+ },
+ "a260917p16": {
+  "article_url": "https://www.wsj.com/tech/ai/jacob-coxon-quit-anthropic-ai-safety-3f4e877c?st=GYQipu&reflink=desktopwebshare_permalink",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p16",
+  "summary": "Long-simmering worries about the technology's potential dangers have exploded into global consciousness since Jacob Coxon's dire warning",
+  "techmeme_url": "https://www.techmeme.com/260917/p16",
+  "title": "A profile of Jacob Coxon, the British researcher who quit Anthropic after a series of security escalations and says the explosive response surprised him (Wall Street Journal)"
+ },
+ "a260917p17": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-17/modi-courts-investors-with-india-s-30-billion-chipmaking-bet",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p17",
+  "summary": "Prime Minister Narendra Modi launched a charm offensive for global investors at India's top chip-industry event …",
+  "techmeme_url": "https://www.techmeme.com/260917/p17",
+  "title": "At India's Semicon, Narendra Modi launches a charm offensive for global investors, drawing pledges from Applied Materials and Lam for billions in investment (Sankalp Phartiyal/Bloomberg)"
+ },
+ "a260917p18": {
+  "article_url": "https://www.pewresearch.org/short-reads/2026/09/16/democrats-are-now-more-worried-than-republicans-about-ai-and-its-impact-on-jobs/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p18",
+  "summary": "For the first time, Democrats are now more likely than Republicans to be concerned about the growing role of artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/260917/p18",
+  "title": "Survey: in a first, Democrats are more concerned than Republicans about AI's growing role in daily life, at 56% to 49%; 75% of Democrats worry about job losses (Pew Research Center)"
+ },
+ "a260917p19": {
+  "article_url": "https://www.wsj.com/world/europe/eu-could-require-age-verification-to-stop-under-15s-opening-social-media-accounts-dc45c70a?st=epc7RX&reflink=desktopwebshare_permalink",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p19",
+  "summary": "Proposal needs to be negotiated, adopted by EU lawmakers and member states before it can take effect",
+  "techmeme_url": "https://www.techmeme.com/260917/p19",
+  "title": "The EU details the Kids Act, which would require social networks to use age verification tools to stop under-15s from opening accounts, ban under-13s, and more (Edith Hancock/Wall Street Journal)"
+ },
  "a260917p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-17/manus-eyes-4-billion-value-in-first-round-since-meta-breakup",
   "date": "2026-09-17",
@@ -14,6 +94,22 @@
   "summary": "Chinese-founded AI startup Manus is set to double its valuation to $4 billion in its first fundraising since Beijing ordered it to split …",
   "techmeme_url": "https://www.techmeme.com/260917/p2",
   "title": "Sources: Manus is set to soon close a $500M funding round at a $4B valuation, signaling growing confidence after Beijing unwound its $2B buyout by Meta (Bloomberg)"
+ },
+ "a260917p20": {
+  "article_url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html?unlocked_article_code=1.B1E.qvQg.jAxZEUBJbRwC&smid=bs-share",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p20",
+  "summary": "Dario Amodei, Anthropic's chief executive, on Tuesday.Manuel Orbegozo for The New York Times",
+  "techmeme_url": "https://www.techmeme.com/260917/p20",
+  "title": "How Dario Amodei's essays on AI safety and ethics help explain some AI fears; his regulatory stance evolved from wariness in January to embracing safety reviews (David Streitfeld/New York Times)"
+ },
+ "a260917p21": {
+  "article_url": "https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p21",
+  "summary": "Chinese tech executive's comments contrast with Silicon Valley calls for slowdown amid rising concerns about technology's existential risks",
+  "techmeme_url": "https://www.techmeme.com/260917/p21",
+  "title": "Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with US slowdown calls (Eleanor Olcott/Financial Times)"
  },
  "a260917p3": {
   "article_url": "https://www.ft.com/content/0b83cb60-0d07-49a7-a46a-654077a75b39",
@@ -30,5 +126,29 @@
   "summary": "Apple Inc. Executive Chairman Tim Cook and OpenAI Chief Executive Officer Sam Altman are poised to attend a White House state dinner …",
   "techmeme_url": "https://www.techmeme.com/260917/p4",
   "title": "Sam Altman and Jensen Huang are among business leaders attending a White House state dinner for Xi Jinping next week; a source says Tim Cook will also attend (Bloomberg)"
+ },
+ "a260917p7": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p7",
+  "summary": "Huawei Technologies (HWT.UL) will launch two new artificial-intelligence semiconductors in 2027, rotating chairman David Wang said on Thursday …",
+  "techmeme_url": "https://www.techmeme.com/260917/p7",
+  "title": "Huawei plans to launch the Ascend 960DT AI chip in Q1 2027 and the 960PR in Q3 2027, and says its UnifiedBus tech is key to its next-generation large AI systems (Reuters)"
+ },
+ "a260917p8": {
+  "article_url": "https://www.ft.com/content/d7650673-23e9-4e41-81c9-d479c24705a0",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p8",
+  "summary": "Start-ups developing thought-controlled technology are drawing venture capital funding from Silicon Valley to Beijing.",
+  "techmeme_url": "https://www.techmeme.com/260917/p8",
+  "title": "PitchBook: companies developing brain-computer interfaces have already raised more than $1B in 2026, compared with $1.56B in the previous four years combined (Financial Times)"
+ },
+ "a260917p9": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImJvdEhoeWR6YnQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk5NTM0OC9haS1kYXRpbmctYXBwLXNjYW1zIiwiZXhwIjoxNzkwMDA2MjE0LCJpYXQiOjE3ODk1NzQyMTV9.VvkVyNT-Gf5EDPmlRVgQPA9rBYUyHNLuIn545bLGu7w",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p9",
+  "summary": "Security researcher Matthew “Zigula” Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer.",
+  "techmeme_url": "https://www.techmeme.com/260917/p9",
+  "title": "Anthropic and other researchers detail how thousands of people were catfished by dating scam apps using LLM-generated replies from Claude and other models (Yael Grauer/The Verge)"
  }
 }
