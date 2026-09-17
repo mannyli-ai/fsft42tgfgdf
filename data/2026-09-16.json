@@ -231,6 +231,38 @@
   "techmeme_url": "https://www.techmeme.com/260916/p44",
   "title": "X adds a \"Trade\" option to its Cashtag feature, letting US users complete trades at brokerages including Interactive Brokers, Gemini, Kraken, and Coinbase (Sarah Perez/TechCrunch)"
  },
+ "a260916p46": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p46",
+  "summary": "Zipline is in talks to raise around $1 billion in a funding round that would value the drone delivery and logistics startup at roughly $20 billion …",
+  "techmeme_url": "https://www.techmeme.com/260916/p46",
+  "title": "Sources: drone delivery startup Zipline is in talks to raise ~$1B at a ~$20B valuation, up from $7.6B in January, and Paradigm is in talks to lead the round (Bloomberg)"
+ },
+ "a260916p47": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/banks-line-up-22-billion-chip-loan-tied-to-blackstone-alphabet",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p47",
+  "summary": "A group of 10 banks is providing a $22 billion chip loan to support Blackstone Inc. and Alphabet Inc.'s new cloud venture Crux AI …",
+  "techmeme_url": "https://www.techmeme.com/260916/p47",
+  "title": "Sources: a group of 10 banks is giving a $22B loan to Blackstone and Alphabet's cloud venture Crux AI, which aims to provide compute for AI labs, to buy TPUs (Bloomberg)"
+ },
+ "a260916p48": {
+  "article_url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p48",
+  "summary": "OpenAI on Wednesday disclosed six new incidents in which its models concealed mistakes, sought unauthorized credentials …",
+  "techmeme_url": "https://www.techmeme.com/260916/p48",
+  "title": "OpenAI discloses six new misalignment incidents since October, including models concealing mistakes, and announces a framework for reporting model misalignment (Axios)"
+ },
+ "a260916p49": {
+  "article_url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p49",
+  "summary": "The House on Wednesday advanced a bill by a vote of 417-3 that aims to curb data center-related utility bill rate hikes …",
+  "techmeme_url": "https://www.techmeme.com/260916/p49",
+  "title": "The US House advances the Ratepayer Protection Act, aimed at preventing data center-related utility costs from being passed on to consumers, by a vote of 417-3 (Justin Papp/CNBC)"
+ },
  "a260916p5": {
   "article_url": "https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/",
   "date": "2026-09-16",
@@ -238,6 +270,62 @@
   "summary": "South Korea's SK Hynix (000660.KS) is in talks with Intel (INTC.O) about a deal that would see it manufacture memory chips on U.S. soil …",
   "techmeme_url": "https://www.techmeme.com/260916/p5",
   "title": "Sources: SK Hynix is in talks with Intel to manufacture memory chips in the US, but potential opposition from Seoul could be a major hurdle for the deal (Reuters)"
+ },
+ "a260916p50": {
+  "article_url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p50",
+  "summary": "Snap's ‘Specs Intelligence’ is an ‘anticipatory AI service’ available for iOS in preview on Wednesday.",
+  "techmeme_url": "https://www.techmeme.com/260916/p50",
+  "title": "Snap introduces Specs Intelligence, an AI assistant designed to work across iPhone, Mac, and Specs glasses, calling it an \"anticipatory AI service\" (Jay Peters/The Verge)"
+ },
+ "a260916p51": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&leadSource=article-gifting",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p51",
+  "summary": "The technically advanced Specs feature an integrated display and a convenient self-contained design.",
+  "techmeme_url": "https://www.techmeme.com/260916/p51",
+  "title": "Hands-on with Snap's Specs: more advanced than Meta's top-end glasses, fully untethered, mostly comfortable, navigation works well, but design has compromises (Bloomberg)"
+ },
+ "a260916p52": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/generac-shares-jump-on-8-billion-amazon-data-center-supply-pact",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p52",
+  "summary": "Generac Holdings Inc. agreed to supply up to $8 billion worth of generators for Amazon.com Inc.'s data centers and issued a warrant …",
+  "techmeme_url": "https://www.techmeme.com/260916/p52",
+  "title": "Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake (Michelle Ma/Bloomberg)"
+ },
+ "a260916p53": {
+  "article_url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p53",
+  "summary": "Amazon's announcement is the first indication that some data stored exclusively in Bahrain and the U.A.E could be gone forever",
+  "techmeme_url": "https://www.techmeme.com/260916/p53",
+  "title": "AWS says it can't restore some data stored exclusively in data centers across Bahrain and one UAE availability zone after Iranian drone strikes in the spring (Omar Abdel-Baqui/Wall Street Journal)"
+ },
+ "a260916p54": {
+  "article_url": "https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567?st=fVSiVP&reflink=desktopwebshare_permalink",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p54",
+  "summary": "Senior administration officials have gathered almost daily in recent months to map out potential guardrails",
+  "techmeme_url": "https://www.techmeme.com/260916/p54",
+  "title": "Sources: Mark Zuckerberg, Jensen Huang, and Elon Musk recently spoke with Trump and successfully stalled an AI regulatory plan proposed by Demis Hassabis (Wall Street Journal)"
+ },
+ "a260916p55": {
+  "article_url": "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html?unlocked_article_code=1.B1E.SsQr.T6FLVlhWlHp9&smid=url-share",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p55",
+  "summary": "The measures, which fall short of a breakup demanded by the government, effectively ensure that the tech titan's business will continue largely unscathed.",
+  "techmeme_url": "https://www.techmeme.com/260916/p55",
+  "title": "In an unsealed court ruling, a US judge orders Google to make ad tech tools interoperable with rivals, share ad auction data, and appoint an internal monitor (New York Times)"
+ },
+ "a260916p56": {
+  "article_url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+  "date": "2026-09-16",
+  "permalink_id": "a260916p56",
+  "summary": "Summary — We observed rare cases of a model writing jailbreak-like instructions into its own compaction summaries …",
+  "techmeme_url": "https://www.techmeme.com/260916/p56",
+  "title": "OpenAI discovered an unreleased Astra model adding an \"unrelated persona instruction\" during RL training, but did not observe any behavioral differences (OpenAI)"
  },
  "a260916p6": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/chipmaker-sk-hynix-agrees-to-higher-cash-payout-to-ease-tensions",
