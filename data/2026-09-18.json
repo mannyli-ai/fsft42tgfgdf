@@ -6,5 +6,101 @@
   "summary": "A bug-hunting independent security research team was able to access OpenAI's internal code system, exposing growing risks in automated cyber threats",
   "techmeme_url": "https://www.techmeme.com/260918/p1",
   "title": "Security researchers in an OpenAI bug bounty program hacked OpenAI, accessing its \"monorepo\" on GitHub, using a cybersecurity version of Opus 4.8 and Opus 5 (Robert McMillan/Wall Street Journal)"
+ },
+ "a260918p10": {
+  "article_url": "https://www.wsj.com/finance/currencies/christine-lagarde-helped-block-binances-foothold-in-europe-d905c86d",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p10",
+  "summary": "ECB leader personally intervened to keep crypto's biggest player, which pleaded guilty to financial-crime violations in U.S., from operating in EU",
+  "techmeme_url": "https://www.techmeme.com/260918/p10",
+  "title": "Sources: ECB President Christine Lagarde asked Greece to block Binance's MiCA license in June at the last minute, aiming to protect the bank's \"digital euro\" (Angus Berwick/Wall Street Journal)"
+ },
+ "a260918p11": {
+  "article_url": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p11",
+  "summary": "Iran has spent this year charging tankers between $1 million and $2 million to cross the Strait of Hormuz …",
+  "techmeme_url": "https://www.techmeme.com/260918/p11",
+  "title": "The US Treasury sanctions Iranian crypto exchange BitBank, saying it sent hundreds of millions to the IRGC and helped Iran operate a Strait of Hormuz toll booth (Shaurya Malwa/CoinDesk)"
+ },
+ "a260918p12": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-us-sources-say-2026-09-18/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p12",
+  "summary": "Chipmaker SK Hynix's (000660.KS) subsidiary Solidigm is considering building a NAND flash memory chip factory in the US …",
+  "techmeme_url": "https://www.techmeme.com/260918/p12",
+  "title": "Sources: SK Hynix subsidiary Solidigm weighs building a NAND flash memory factory in the US; SK Hynix is also in talks with Intel for a separate project in Ohio (Reuters)"
+ },
+ "a260918p13": {
+  "article_url": "https://www.koreaherald.com/article/10878747",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p13",
+  "summary": "Since 2018, I have covered South Korea's economic and financial landscape, with experience spanning the economy, banking, financial markets and securities industry.",
+  "techmeme_url": "https://www.techmeme.com/260918/p13",
+  "title": "SK Hynix launches SK Hynix Ventures in Silicon Valley, expanding its corporate investment scope into AI computing, data centers, and optical interconnect tech (Jie Ye-eun/The Korea Herald)"
+ },
+ "a260918p2": {
+  "article_url": "https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p2",
+  "summary": "Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates.",
+  "techmeme_url": "https://www.techmeme.com/260918/p2",
+  "title": "Meta launches a Mac app for Muse after releasing the AI agent on iOS, Android, and the web earlier this month, allowing it to manage files, pull from apps, more (Jay Peters/The Verge)"
+ },
+ "a260918p3": {
+  "article_url": "https://www.reuters.com/world/india/apple-pay-eyes-india-rollout-with-axis-bank-sources-say-2026-09-18/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p3",
+  "summary": "Apple (AAPL.O) is poised to launch Apple Pay in India next month with Axis Bank's (AXBK.NS) credit cards, three sources familiar with the matter said …",
+  "techmeme_url": "https://www.techmeme.com/260918/p3",
+  "title": "Sources: Apple plans to launch Apple Pay in India next month with Axis Bank's credit cards; Axis Bank is the fourth-largest credit card issuer in India (Reuters)"
+ },
+ "a260918p4": {
+  "article_url": "https://www.theblock.co/news/business/2026-09-17-world-launches-world-money-super-app-stablecoins-stripe-integration-boosted-rewards-415394",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p4",
+  "summary": "World is rolling out World Money, a financial “super app” spanning stablecoins, investing, yield, and global payments in more than 150 countries.",
+  "techmeme_url": "https://www.techmeme.com/260918/p4",
+  "title": "World rolls out World Money, a self-custodial financial \"super app\" in 150+ countries that combines stablecoin payments, trading, earning, and virtual accounts (Jason Shubnell/The Block)"
+ },
+ "a260918p5": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-17/cftc-to-expand-crypto-predictions-trading-via-online-platforms",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p5",
+  "summary": "The Commodity Futures Trading Commission moved to expand crypto and prediction market trading via online platforms …",
+  "techmeme_url": "https://www.techmeme.com/260918/p5",
+  "title": "The US CFTC exempts \"passive software\" providers from broker registration if they never hold user assets, expanding crypto and prediction market online trading (Lydia Beyoud/Bloomberg)"
+ },
+ "a260918p6": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/chinas-cxmt-eyes-flash-memory-push-amid-global-shortage-firm-take-samsung-ymtc-2026-09-18/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p6",
+  "summary": "Chinese chipmaker CXMT (688825.SS) is preparing to enter the booming flash memory chip market dominated by Samsung Electronics …",
+  "techmeme_url": "https://www.techmeme.com/260918/p6",
+  "title": "Sources: Chinese DRAM leader CXMT is preparing to expand into NAND flash memory, competing with Samsung, SK Hynix, and domestic rival YMTC amid memory shortages (Reuters)"
+ },
+ "a260918p7": {
+  "article_url": "https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p7",
+  "summary": "Paris prosecutors have opened a criminal probe into suspected sexual harassment involving smart glasses, while French data protection authorities …",
+  "techmeme_url": "https://www.techmeme.com/260918/p7",
+  "title": "Paris prosecutors open at least one criminal probe into suspected sexual harassment involving the use of smart glasses to film women in public without consent (Reuters)"
+ },
+ "a260918p8": {
+  "article_url": "https://www.ft.com/content/ee1b5a66-24f2-49b8-b26f-895644ebe3f1",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p8",
+  "summary": "Fintech's chief executive says US market offers greater liquidity and more institutional investors — Revolut founder Nik Storonsky …",
+  "techmeme_url": "https://www.techmeme.com/260918/p8",
+  "title": "Revolut CEO Nik Storonsky says the fintech is exploring a dual stock market listing in New York and London, after previously dismissing listing in the UK (Financial Times)"
+ },
+ "a260918p9": {
+  "article_url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p9",
+  "summary": "Anthropic has quietly set up a laboratory to do physical biology work as it pushes its artificial-intelligence ambitions into the world of drug science.",
+  "techmeme_url": "https://www.techmeme.com/260918/p9",
+  "title": "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)"
  }
 }
