@@ -79,6 +79,14 @@
   "techmeme_url": "https://www.techmeme.com/260918/p18",
   "title": "Disney hires former Character.AI CEO Karandeep Anand as its first CTO; about a year ago, Disney accused Character.AI of infringing its copyrights (Todd Spangler/Variety)"
  },
+ "a260918p19": {
+  "article_url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p19",
+  "summary": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies.",
+  "techmeme_url": "https://www.techmeme.com/260918/p19",
+  "title": "Google threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree (Andy Greenberg/Wired)"
+ },
  "a260918p2": {
   "article_url": "https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app",
   "date": "2026-09-18",
@@ -86,6 +94,70 @@
   "summary": "Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates.",
   "techmeme_url": "https://www.techmeme.com/260918/p2",
   "title": "Meta launches a Mac app for Muse after releasing the AI agent on iOS, Android, and the web earlier this month, allowing it to manage files, pull from apps, more (Jay Peters/The Verge)"
+ },
+ "a260918p20": {
+  "article_url": "https://variety.com/2026/music/news/sony-music-universal-music-sue-suno-label-backed-model-1236866921/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p20",
+  "summary": "Sony Music Entertainment and Universal Music Group aren't done with Suno in federal court. — The two labels filed a new …",
+  "techmeme_url": "https://www.techmeme.com/260918/p20",
+  "title": "Sony Music and UMG sue Suno, alleging that its new model trained in partnership with WMG and BMG infringes copyright because it is based on an infringing model (Corbin Bolies/Variety)"
+ },
+ "a260918p21": {
+  "article_url": "https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p21",
+  "summary": "Europe's leading AI company Mistral and others have accused US rivals of using safety concerns to entrench their dominance …",
+  "techmeme_url": "https://www.techmeme.com/260918/p21",
+  "title": "Mistral and other European AI startups accuse US rivals of using safety concerns to entrench their dominance, rejecting Anthropic's calls to pace the frontier (Reuters)"
+ },
+ "a260918p22": {
+  "article_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p22",
+  "summary": "The intelligence report, circulated across the US military this spring in the midst of the war with Iran …",
+  "techmeme_url": "https://www.techmeme.com/260918/p22",
+  "title": "Sources: the US \"almost started a war\" after an AI-assisted report hallucinated that a Chinese ship in the Middle East was carrying nuclear weapons components (CNN)"
+ },
+ "a260918p23": {
+  "article_url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p23",
+  "summary": "Gov. Abigail Spanberger (D) signed an executive order addressing data canters and AI risks. … Virginia Gov. Abigail Spanberger (D) …",
+  "techmeme_url": "https://www.techmeme.com/260918/p23",
+  "title": "Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)"
+ },
+ "a260918p24": {
+  "article_url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p24",
+  "summary": "Stablecoin payments firm dtcpay announced today the formal completion of its $25 million Series A funding round, securing a strategic investment from Japan's financial giant, the SBI Group.",
+  "techmeme_url": "https://www.techmeme.com/260918/p24",
+  "title": "Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A (CoinDesk)"
+ },
+ "a260918p25": {
+  "article_url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p25",
+  "summary": "Google is testing a new product designed to help families coordinate with the support of an AI agent.",
+  "techmeme_url": "https://www.techmeme.com/260918/p25",
+  "title": "Google is testing a new version of its AI agent CC, pivoting the tool from an individual productivity assistant into a collaborative household management agent (Sarah Perez/TechCrunch)"
+ },
+ "a260918p26": {
+  "article_url": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p26",
+  "summary": "Nscale, a cloud provider specializing in infrastructure for artificial intelligence models, has filed to go public …",
+  "techmeme_url": "https://www.techmeme.com/260918/p26",
+  "title": "London-based AI infrastructure startup Nscale files for a US IPO, reports H1 2026 revenue up 1,252% YoY to $140.6M, with a net loss of $1.02B, up from $368.9M (Jordan Novet/CNBC)"
+ },
+ "a260918p27": {
+  "article_url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html?unlocked_article_code=1.CFE.v6V8.8Y6korTW-xQ_&smid=url-share",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p27",
+  "summary": "The company is expected to generate $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls …",
+  "techmeme_url": "https://www.techmeme.com/260918/p27",
+  "title": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)"
  },
  "a260918p3": {
   "article_url": "https://www.reuters.com/world/india/apple-pay-eyes-india-rollout-with-axis-bank-sources-say-2026-09-18/",
