@@ -271,6 +271,54 @@
   "techmeme_url": "https://www.techmeme.com/260917/p4",
   "title": "Sam Altman and Jensen Huang are among business leaders attending a White House state dinner for Xi Jinping next week; a source says Tim Cook will also attend (Bloomberg)"
  },
+ "a260917p40": {
+  "article_url": "https://claude.com/blog/projects-redesigned",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p40",
+  "summary": "A new experience for Claude projects, now available in beta in Claude Code — https://claude.com/blog/projects- redesigned",
+  "techmeme_url": "https://www.techmeme.com/260917/p40",
+  "title": "Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code (Claude)"
+ },
+ "a260917p41": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-17/anthropic-says-claude-drives-26-of-its-research-and-development",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p41",
+  "summary": "More than a quarter of Anthropic PBC's research and development work for artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/260917/p41",
+  "title": "Anthropic says Claude \"leads\" 26% of its AI R&D work, up from 1% in March, and \"collaborates\" on 90%+, doing large chunks of work under close human direction (Shirin Ghaffary/Bloomberg)"
+ },
+ "a260917p42": {
+  "article_url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p42",
+  "summary": "The United Nations on Thursday announced that it is working with Google to make its vast collection of global statistics easier for AI systems to access and use.",
+  "techmeme_url": "https://www.techmeme.com/260917/p42",
+  "title": "The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries (Jagmeet Singh/TechCrunch)"
+ },
+ "a260917p43": {
+  "article_url": "https://www.dwarkesh.com/p/noam-brown",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p43",
+  "summary": "“We never want to be in a situation again where we underestimate the AI.” — New episode with Noam Brown.",
+  "techmeme_url": "https://www.techmeme.com/260917/p43",
+  "title": "An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more (Dwarkesh Patel/Dwarkesh Podcast)"
+ },
+ "a260917p44": {
+  "article_url": "https://www.politico.com/news/2026/09/18/court-shuts-down-openai-bid",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p44",
+  "summary": "A federal judge has denied OpenAI's request to force the disclosure of a settlement agreement between Apple and SpaceXAI …",
+  "techmeme_url": "https://www.techmeme.com/260917/p44",
+  "title": "A federal judge denies OpenAI's bid to see SpaceXAI's confidential settlement with Apple in an antitrust case, finding the materials irrelevant after a review (Hassan Ali Kanu/Politico)"
+ },
+ "a260917p45": {
+  "article_url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+  "date": "2026-09-17",
+  "permalink_id": "a260917p45",
+  "summary": "If AI lab PrismML isn't on your radar yet, it should be — not because it's raised gobs of money (it hasn't yet …",
+  "techmeme_url": "https://www.techmeme.com/260917/p45",
+  "title": "PrismML releases Bonsai 2 27B, which compresses Alibaba's Qwen3.8 27B to 5.9 GB, small enough for smartphones, while retaining 98.2% of Qwen's benchmark scores (Julie Bort/TechCrunch)"
+ },
  "a260917p7": {
   "article_url": "https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/",
   "date": "2026-09-17",

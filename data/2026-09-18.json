@@ -1,0 +1,10 @@
+{
+ "a260918p1": {
+  "article_url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p1",
+  "summary": "A bug-hunting independent security research team was able to access OpenAI's internal code system, exposing growing risks in automated cyber threats",
+  "techmeme_url": "https://www.techmeme.com/260918/p1",
+  "title": "Security researchers in an OpenAI bug bounty program hacked OpenAI, accessing its \"monorepo\" on GitHub, using a cybersecurity version of Opus 4.8 and Opus 5 (Robert McMillan/Wall Street Journal)"
+ }
+}
