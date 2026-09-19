@@ -159,6 +159,22 @@
   "techmeme_url": "https://www.techmeme.com/260918/p27",
   "title": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)"
  },
+ "a260918p28": {
+  "article_url": "https://www.anthropic.com/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p28",
+  "summary": "We're partnering with Accenture on independent evaluation of frontier AI. This is an important step toward the commitment …",
+  "techmeme_url": "https://www.techmeme.com/260918/p28",
+  "title": "Anthropic partners with Accenture to embed evaluators within Anthropic; they expect to invest $2B+ in building capacity in this area over the next five years (Anthropic)"
+ },
+ "a260918p29": {
+  "article_url": "https://www.wsj.com/pro/private-equity/ai-startup-angle-health-lands-600-million-for-2-7-billion-valuation-df77de76",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p29",
+  "summary": "Founded by two ex-Palantir engineers, the startup aims to bring AI-platform power to small-business healthcare benefits",
+  "techmeme_url": "https://www.techmeme.com/260918/p29",
+  "title": "Angle Health, which wants to use AI to expedite healthcare benefits for small businesses, raised $600M led by Vitruvian Partners at a $2.7B valuation (Maria Armental/Wall Street Journal)"
+ },
  "a260918p3": {
   "article_url": "https://www.reuters.com/world/india/apple-pay-eyes-india-rollout-with-axis-bank-sources-say-2026-09-18/",
   "date": "2026-09-18",
@@ -167,6 +183,86 @@
   "techmeme_url": "https://www.techmeme.com/260918/p3",
   "title": "Sources: Apple plans to launch Apple Pay in India next month with Axis Bank's credit cards; Axis Bank is the fourth-largest credit card issuer in India (Reuters)"
  },
+ "a260918p30": {
+  "article_url": "https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc?st=9H74nC&reflink=desktopwebshare_permalink",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p30",
+  "summary": "Investors had expected the Claude maker to debut in October; AI industry grappling with calls to slowdown pace of development",
+  "techmeme_url": "https://www.techmeme.com/260918/p30",
+  "title": "Sources: Anthropic plans to stage its IPO in November, later than many investors expected; the decision was made before ex-Anthropic researcher Jacob Coxon left (Wall Street Journal)"
+ },
+ "a260918p31": {
+  "article_url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2?st=ZQ2NY6&reflink=desktopwebshare_permalink",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p31",
+  "summary": "The episode resembled similar hacks by other AI models, but Google said it didn't consider it an instance of model misalignment",
+  "techmeme_url": "https://www.techmeme.com/260918/p31",
+  "title": "Gemini hacked three companies in May during a test by Irregular; Google says the model stopped after determining it had accessed real companies' systems (Wall Street Journal)"
+ },
+ "a260918p32": {
+  "article_url": "https://www.nytimes.com/2026/09/18/business/uber-payment-woman-killed-freeway-california.html",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p32",
+  "summary": "Emily Normandin-Parker, 23, was struck and killed on a California freeway after an Uber driver ordered her and a friend out of his car in August 2023.",
+  "techmeme_url": "https://www.techmeme.com/260918/p32",
+  "title": "An arbitrator orders Uber to pay $40M to the parents of a woman fatally hit by a car after an Uber driver ordered her out of his car in 2023 (Christine Hauser/New York Times)"
+ },
+ "a260918p33": {
+  "article_url": "https://bloomberg.com/graphics/2026-iran-school-attack/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTc2NTUyNywiZXhwIjoxNzkwMzcwMzI3LCJhcnRpY2xlSWQiOiJUTEtWT01LR1pBSlgwMCIsImJjb25uZWN0SWQiOiJFQzUzMkU0NDM2OTc0ODRGOTJGOUY3MTdGQ0QzQUZBQiJ9.cevRBXkqlYKUN284O24VJs1DEdiK9NxSfe6mkcAyPEI",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p33",
+  "summary": "Pentagon investigators have discovered that flawed intelligence, outdated imagery and an overreliance on AI contributed …",
+  "techmeme_url": "https://www.techmeme.com/260918/p33",
+  "title": "US officials say overreliance on Palantir's Maven AI system was among the factors that contributed to a February missile strike in Iran that killed 123 children (Bloomberg)"
+ },
+ "a260918p34": {
+  "article_url": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?accessToken=zwAAAaC26G0Nkc9gEdBh7uNBk9Ozt47kFV9TjA.MEQCIH_NhYE7F9hUSDoVhMKWDXlRF3xgIMstpfyu8BV8VlnFAiACGmurmMmekLhQHY7niCRm6LhfPNxOctJGSelJuguE6A&sharetype=gift&token=f3b46a30-cbcd-4e56-840e-e33d4eaeb5a7",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p34",
+  "summary": "AI start-up has projected deeply negative cash flows as it invests in infrastructure and faces price pressures",
+  "techmeme_url": "https://www.techmeme.com/260918/p34",
+  "title": "Leaked presentation: OpenAI expects negative free cash flow of $278B from 2026 to 2030 and projects its revenue will grow from $36B this year to $350B in 2030 (Financial Times)"
+ },
+ "a260918p35": {
+  "article_url": "https://www.ft.com/content/bd441859-6c94-4874-894f-9362c1703127?accessToken=zwAAAaC2qpAgkdO9RBhZbJRIdNOJT5NiwXAxJw.MEQCIF2GTIvPrQR34CxTSrXFXdSTutroNevJwWZldjypgJhGAiBVh2FgXIfxQ4D1rsycWQoF21_k03vTrmHMfIOELh4uqA&sharetype=gift&token=214b5825-e6b7-4144-8700-e405b7354614&syn-25a6b1a6=1",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p35",
+  "summary": "Investors grow wary of permitting and construction delays as opposition mounts in New Mexico — About $18bn of loans tied …",
+  "techmeme_url": "https://www.techmeme.com/260918/p35",
+  "title": "Sources: ~$18B of debt tied to an Oracle New Mexico data center slid into stressed territory, as investors grow wary of construction delays amid local pushback (Financial Times)"
+ },
+ "a260918p36": {
+  "article_url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-top-app-store-charts-2026-9",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p36",
+  "summary": "Mark Zuckerberg's ambition to bring “personal superintelligence” to everyone may be taking shape, one download at a time.",
+  "techmeme_url": "https://www.techmeme.com/260918/p36",
+  "title": "Meta's personal AI agent Muse climbs to No. 1 among free apps on Apple's US App Store, ahead of ChatGPT; Muse launched on September 8 (Georgia Hennessy/Business Insider)"
+ },
+ "a260918p37": {
+  "article_url": "https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p37",
+  "summary": "Infillion is acquiring location data company Foursquare, founder and executive chairman Rob Emrich tells Axios exclusively. … Foursquare will continue operating …",
+  "techmeme_url": "https://www.techmeme.com/260918/p37",
+  "title": "Ad tech company Infillion says it is acquiring Foursquare, which will continue operating as an independent brand (Kerry Flynn/Axios)"
+ },
+ "a260918p38": {
+  "article_url": "https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p38",
+  "summary": "Anthropic is considering rolling out a new AI model to counter OpenAI's momentum since its launch of GPT-6 Astra …",
+  "techmeme_url": "https://www.techmeme.com/260918/p38",
+  "title": "Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown (Reuters)"
+ },
+ "a260918p39": {
+  "article_url": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p39",
+  "summary": "Devs cheer relief from compatibility headache — Anthropic on Friday surprised the developer community by supporting rival OpenAI's mechanism for passing marching orders to AI agents.",
+  "techmeme_url": "https://www.techmeme.com/260918/p39",
+  "title": "Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year (Thomas Claburn/The Register)"
+ },
  "a260918p4": {
   "article_url": "https://www.theblock.co/news/business/2026-09-17-world-launches-world-money-super-app-stablecoins-stripe-integration-boosted-rewards-415394",
   "date": "2026-09-18",
@@ -174,6 +270,22 @@
   "summary": "World is rolling out World Money, a financial “super app” spanning stablecoins, investing, yield, and global payments in more than 150 countries.",
   "techmeme_url": "https://www.techmeme.com/260918/p4",
   "title": "World rolls out World Money, a self-custodial financial \"super app\" in 150+ countries that combines stablecoin payments, trading, earning, and virtual accounts (Jason Shubnell/The Block)"
+ },
+ "a260918p40": {
+  "article_url": "https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p40",
+  "summary": "Subscriber base grows sevenfold in 18 months to nearly one million; former Niantic CFO Jeff Shouger and veteran gaming and technology executive Bing Gordon join team",
+  "techmeme_url": "https://www.techmeme.com/260918/p40",
+  "title": "Nex, which makes Nex Playground, raised a $150M Series E; Nex has sold 1M units of the motion-based gaming system targeted toward kids since its launch in 2023 (Sophie McEvoy/GamesIndustry.biz)"
+ },
+ "a260918p41": {
+  "article_url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+  "date": "2026-09-18",
+  "permalink_id": "a260918p41",
+  "summary": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
+  "techmeme_url": "https://www.techmeme.com/260918/p41",
+  "title": "Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock's ~1,500 employees may depart, as customers flee (Wired)"
  },
  "a260918p5": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-17/cftc-to-expand-crypto-predictions-trading-via-online-platforms",
