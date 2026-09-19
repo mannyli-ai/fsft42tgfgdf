@@ -7,6 +7,22 @@
   "techmeme_url": "https://www.techmeme.com/260919/p1",
   "title": "India requires caller ID and call-management apps to share users' spam reports with telcos; Truecaller calls it a \"one-way exchange\" that is \"anti-competitive\" (Jagmeet Singh/TechCrunch)"
  },
+ "a260919p10": {
+  "article_url": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html?unlocked_article_code=1.CVE.9v0l.IfNa4oho1eM4&smid=bs-share",
+  "date": "2026-09-19",
+  "permalink_id": "a260919p10",
+  "summary": "About a year into his job as a data analyst at DraftKings, Jayden Butts received a new assignment.",
+  "techmeme_url": "https://www.techmeme.com/260919/p10",
+  "title": "Former DraftKings employees detail how it uses ML to target likely losers with promotions, while efforts to flag problem gamblers were shelved or squashed (New York Times)"
+ },
+ "a260919p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
+  "date": "2026-09-19",
+  "permalink_id": "a260919p11",
+  "summary": "President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing fears safety.",
+  "techmeme_url": "https://www.techmeme.com/260919/p11",
+  "title": "Trump says he will appoint an AI czar and form an \"AI Force\", in a Truth Social post that rejects AI safety concerns as a \"hoax\" (María Paula Mijares Torres/Bloomberg)"
+ },
  "a260919p2": {
   "article_url": "https://tech.eu/2026/09/16/veridion-lands-20m-to-take-business-intelligence-beyond-static-data/",
   "date": "2026-09-19",
@@ -54,5 +70,21 @@
   "summary": "AI agent monitoring platform Raindrop raised a $35 million Series A round led by CRV, co-founders Zubin Koticha and Ben Hylak tell Axios Pro exclusively.",
   "techmeme_url": "https://www.techmeme.com/260919/p7",
   "title": "Raindrop, which develops tech for monitoring AI agents to catch failures such as hallucinations and tool misuse, raised a $35M Series A led by CRV (Chris Metinko/Axios)"
+ },
+ "a260919p8": {
+  "article_url": "https://www.axios.com/2026/09/19/justice-department-openai-new-york-times",
+  "date": "2026-09-19",
+  "permalink_id": "a260919p8",
+  "summary": "The Department of Justice's statement of interest supporting OpenAI and Microsoft in the New York Times' copyright infringement lawsuit …",
+  "techmeme_url": "https://www.techmeme.com/260919/p8",
+  "title": "Sources: the USPTO and US Copyright Office were surprised by the DOJ's brief supporting OpenAI and Microsoft in their dispute with the New York Times (Axios)"
+ },
+ "a260919p9": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+  "date": "2026-09-19",
+  "permalink_id": "a260919p9",
+  "summary": "Google says that breaking containment and targeting real companies doesn't constitute ‘misalignment.’",
+  "techmeme_url": "https://www.techmeme.com/260919/p9",
+  "title": "Google says it didn't consider Gemini's hacks worthy of disclosure because Gemini acted \"appropriately\" and stopped after determining it hacked real companies (Terrence O'Brien/The Verge)"
  }
 }
