@@ -38,5 +38,21 @@
   "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building.",
   "techmeme_url": "https://www.techmeme.com/260919/p5",
   "title": "A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight (Hayden Field/The Verge)"
+ },
+ "a260919p6": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says",
+  "date": "2026-09-19",
+  "permalink_id": "a260919p6",
+  "summary": "India's outsourcing industry is showing little sign of losing ground to artificial intelligence as the country moves …",
+  "techmeme_url": "https://www.techmeme.com/260919/p6",
+  "title": "ING: India's software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country's IT industry toward higher-value work (Anup Roy/Bloomberg)"
+ },
+ "a260919p7": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/16/raindrop-crv-lightspeed-datadog",
+  "date": "2026-09-19",
+  "permalink_id": "a260919p7",
+  "summary": "AI agent monitoring platform Raindrop raised a $35 million Series A round led by CRV, co-founders Zubin Koticha and Ben Hylak tell Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260919/p7",
+  "title": "Raindrop, which develops tech for monitoring AI agents to catch failures such as hallucinations and tool misuse, raised a $35M Series A led by CRV (Chris Metinko/Axios)"
  }
 }
