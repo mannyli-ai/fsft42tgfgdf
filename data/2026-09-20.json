@@ -46,5 +46,29 @@
   "summary": "Cynthia Montoya's daughter, Juliana, was 13 when she began talking to AI chatbots. It was 2023, and the technology was only beginning to enter widespread use.",
   "techmeme_url": "https://www.techmeme.com/260920/p6",
   "title": "US policy analysts, lawmakers, and others say several state-level AI chatbot safety bills included language that could provide loopholes for tech companies (Katie McQue/NPR)"
+ },
+ "a260920p7": {
+  "article_url": "https://www.ft.com/content/07acddb2-9a2f-4646-b7dd-2cb4ebe0257d?accessToken=zwAAAaC9FjYzkc8HrN2ymi9GRtO33Sy06-AlfQ.MEUCIFEFxFsEFOEm_KGXE40NhvZ_Kuh6iBZmHgWHaw9PcqVvAiEAu_PqkZvXpzVQbHprwh1YPjLRetwgMor7fdy1GDIOFzw&sharetype=gift&token=39883fb1-24b5-4e54-a4f3-c233c4157099",
+  "date": "2026-09-20",
+  "permalink_id": "a260920p7",
+  "summary": "The British tech leader on coding as the modern form of literacy, his scepticism of AI evangelists — and why ‘the p(doom) is probably Russia’",
+  "techmeme_url": "https://www.techmeme.com/260920/p7",
+  "title": "An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more (John Thornhill/Financial Times)"
+ },
+ "a260920p8": {
+  "article_url": "https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTkxMzEyOCwiZXhwIjoxNzkwNTE3OTI4LCJhcnRpY2xlSWQiOiJUTE8xSzFOM04wOTMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.bwDgdcsumu74i6R9UysnUwPKIWKcRVlLuyNpT_Z2_J0",
+  "date": "2026-09-20",
+  "permalink_id": "a260920p8",
+  "summary": "Also: What happened with the iPhone Duo Pencil and layoffs at Fitness+. — Apple's new “intelligent personal hub” strategy is about much more than the iPhone.",
+  "techmeme_url": "https://www.techmeme.com/260920/p8",
+  "title": "A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple's strategy for the home; sources: Apple started cutting Fitness+ staff (Mark Gurman/Bloomberg)"
+ },
+ "a260920p9": {
+  "article_url": "https://www.forbes.com/sites/josipamajic/2026/09/19/jev-cuts-ai-decision-costs-100x-and-vercel-cloudflare-rushed-to-add-it/",
+  "date": "2026-09-20",
+  "permalink_id": "a260920p9",
+  "summary": "Most of what an AI agent asks a frontier model to do is not writing. It is choosing. Which tool to call next, whether to retry, whether a command is safe to run.",
+  "techmeme_url": "https://www.techmeme.com/260920/p9",
+  "title": "Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)"
  }
 }
