@@ -127,6 +127,126 @@
   "techmeme_url": "https://www.techmeme.com/260921/p23",
   "title": "Crypto super PAC Fairshake plans to launch a $30M ad blitz against former Democratic Senator Sherrod Brown in the Ohio Senate race, after the Clarity Act failed (Theodore Schleifer/New York Times)"
  },
+ "a260921p37": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p37",
+  "summary": "Chinese startup Z.ai said on Monday it had disabled some features of its flagship AI coding assistant after some users reported …",
+  "techmeme_url": "https://www.techmeme.com/260921/p37",
+  "title": "Z.ai open sources its coding harness ZCode and disables certain features after users said ZCode was uploading codebases onto overseas servers without consent (Laurie Chen/Reuters)"
+ },
+ "a260921p38": {
+  "article_url": "https://www.axios.com/pro/health-tech-deals/2026/09/21/corridor-25m-bain-capital-ventures",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p38",
+  "summary": "Corridor, an AI-native health benefits broker, raised $16 million in seed funding led by Bain Capital Ventures, CEO Nikhil Aggarwal tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260921/p38",
+  "title": "NYC-based Corridor, which uses AI to offer health benefits for small businesses, raised a $16M seed led by Bain Capital Ventures, following a $9M pre-seed (Brock E.W. Turner/Axios)"
+ },
+ "a260921p39": {
+  "article_url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p39",
+  "summary": "For the past few days, I've been testing the (currently) top-of-the-line M5 Ultra Mac Studio with 256 GB of RAM.",
+  "techmeme_url": "https://www.techmeme.com/260921/p39",
+  "title": "Mac Studio (M5 Ultra) with 256 GB of RAM review: a dream machine to run local AI agents and a massive leap over M3 Ultra for prompt processing and generation (Federico Viticci/MacStories)"
+ },
+ "a260921p40": {
+  "article_url": "https://x.ai/news/grok-4-7",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p40",
+  "summary": "SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.",
+  "techmeme_url": "https://www.techmeme.com/260921/p40",
+  "title": "SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens (xAI)"
+ },
+ "a260921p41": {
+  "article_url": "https://www.reuters.com/business/environment/eu-require-data-centres-disclose-energy-water-efficiency-2026-09-21/",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p41",
+  "summary": "The European Commission proposed rules on Monday requiring data centres in Europe to disclose how efficiently they use energy and water …",
+  "techmeme_url": "https://www.techmeme.com/260921/p41",
+  "title": "The EU proposes rules requiring data centers with a capacity of 500+ kW to disclose their energy and water efficiency using an EU-designed labeling system (Kate Abnett/Reuters)"
+ },
+ "a260921p42": {
+  "article_url": "https://therecord.media/shinyhunters-clop-cyberattack-website",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p42",
+  "summary": "The ShinyHunters extortion group hijacked the dark web leak site of the prolific Cl0p ransomware gang, according to material posted on the site over the weekend.",
+  "techmeme_url": "https://www.techmeme.com/260921/p42",
+  "title": "ShinyHunters hijacked the dark web site of cybercrime gang Cl0p, set an eight-figure extortion demand, describing the amount as \"2.333%\" of Cl0p's net worth (Alexander Martin/The Record)"
+ },
+ "a260921p43": {
+  "article_url": "https://www.barrons.com/articles/intel-stock-price-arm-meta-muse-2a81cacf?st=DS1dmX&reflink=desktopwebshare_permalink",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p43",
+  "summary": "Advanced Micro Devices' market valuation surpasses $1 trillion for the first time in intraday trading.",
+  "techmeme_url": "https://www.techmeme.com/260921/p43",
+  "title": "Intel closes up 12%, AMD 10%, and Arm 17% on Monday amid investor optimism that Meta's Muse could boost CPU demand; AMD's market cap tops $1T for the first time (Adam Clark/Barron's Online)"
+ },
+ "a260921p44": {
+  "article_url": "https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p44",
+  "summary": "OpenAI on Monday released international AI safety standards as world leaders, namely the U.S. and China, weigh how to mitigate risk.",
+  "techmeme_url": "https://www.techmeme.com/260921/p44",
+  "title": "Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)"
+ },
+ "a260921p45": {
+  "article_url": "https://openai.com/index/building-standards-next-phase-ai/",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p45",
+  "summary": "Our mission is to ensure that artificial general intelligence benefits all of humanity.",
+  "techmeme_url": "https://www.techmeme.com/260921/p45",
+  "title": "OpenAI says automated research could improve alignment, but \"fully autonomous RSI is not happening today\" and shouldn't be pursued unless it can be done safely (OpenAI)"
+ },
+ "a260921p46": {
+  "article_url": "https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p46",
+  "summary": "OpenAI is rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses.",
+  "techmeme_url": "https://www.techmeme.com/260921/p46",
+  "title": "Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models (The Information)"
+ },
+ "a260921p47": {
+  "article_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p47",
+  "summary": "Loading... On August 28, we began training a new internal model. In addition to resolving the Navier-Stokes Millennium Prize problem, this model has now resolved …",
+  "techmeme_url": "https://www.techmeme.com/260921/p47",
+  "title": "OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)"
+ },
+ "a260921p48": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p48",
+  "summary": "Meta Platforms Inc.'s new artificial intelligence agent, Muse, has quickly risen to the top of mobile app charts …",
+  "techmeme_url": "https://www.techmeme.com/260921/p48",
+  "title": "Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+ (Bloomberg)"
+ },
+ "a260921p49": {
+  "article_url": "https://www.reuters.com/legal/litigation/california-governor-signs-broad-data-center-oversight-bill-package-2026-09-21/",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p49",
+  "summary": "California Governor Gavin Newsom on Monday signed seven bills aimed at regulating the fast-growing data center industry …",
+  "techmeme_url": "https://www.techmeme.com/260921/p49",
+  "title": "California Gov. Gavin Newsom signs seven bills aimed at regulating data centers, imposing new requirements on electricity costs, water use, and local oversight (Nichola Groom/Reuters)"
+ },
+ "a260921p50": {
+  "article_url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html?unlocked_article_code=1.C1E.5N5l.BVtYXR1eDBNX&smid=nytcore-ios-share",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p50",
+  "summary": "Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities.",
+  "techmeme_url": "https://www.techmeme.com/260921/p50",
+  "title": "Sources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+ (Maureen Farrell/New York Times)"
+ },
+ "a260921p51": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDAxMDkwMiwiZXhwIjoxNzkwNjE1NzAyLCJhcnRpY2xlSWQiOiJUTFEyMFpOM04wQTMwMCIsImJjb25uZWN0SWQiOiI5MDI3MkIwQzRFRjQ0MkUxOUZCQkFBRTdBODJGMjM3NSJ9.i7tIzBBJutWRddw95G5V52NMXfBwhYa2v52uZC8eJ-g",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p51",
+  "summary": "The $15.6 billion legal startup Harvey built its business around training AI models like OpenAI's GPT-4 to do specialized work for lawyers.",
+  "techmeme_url": "https://www.techmeme.com/260921/p51",
+  "title": "Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs (Bloomberg)"
+ },
  "a260921p9": {
   "article_url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
   "date": "2026-09-21",
