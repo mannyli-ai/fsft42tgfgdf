@@ -31,6 +31,62 @@
   "techmeme_url": "https://www.techmeme.com/260920/p12",
   "title": "Jensen Huang says AI leaders calling for regulation don't want new legislation, but to be \"relieved of the laws we do have\" because of \"ulterior reasons\" (Truman Dickerson/Business Insider)"
  },
+ "a260920p13": {
+  "article_url": "https://qwen.ai/blog?id=qwen-image-2.1",
+  "date": "2026-09-20",
+  "permalink_id": "a260920p13",
+  "summary": "· QwenTeam丨Translations:.体中文 — We are excited to open-source Qwen-Image-2.1 …",
+  "techmeme_url": "https://www.techmeme.com/260920/p13",
+  "title": "Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images (Qwen)"
+ },
+ "a260920p14": {
+  "article_url": "https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c",
+  "date": "2026-09-20",
+  "permalink_id": "a260920p14",
+  "summary": "A top-down tech revolution is harder to manage than a bottom-up one. — anxiety about ai in the United States appears to be getting worse.",
+  "techmeme_url": "https://www.techmeme.com/260920/p14",
+  "title": "China has made AI a national mission, but local workers' fear of displacement mirrors worries abroad, and potential for social unrest may force CCP to slow down (Michael Schuman/The Atlantic)"
+ },
+ "a260920p15": {
+  "article_url": "https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians",
+  "date": "2026-09-20",
+  "permalink_id": "a260920p15",
+  "summary": "Unit1 hopes to offer lower cost version of shows such as Abba Voyage, showcasing living and dead artists in any venue",
+  "techmeme_url": "https://www.techmeme.com/260920/p15",
+  "title": "UK-based Unit1, which develops \"hyper-realistic\" digital avatars of musicians to recreate classic concerts, raised nearly £15M from Balderton Capital and others (Alex Lawson/The Guardian)"
+ },
+ "a260920p16": {
+  "article_url": "https://www.axios.com/pro/biotech-deals/2026/09/15/mithrl-series-a-biopharma-ai",
+  "date": "2026-09-20",
+  "permalink_id": "a260920p16",
+  "summary": "Mithrl, an AI infrastructure company for biopharma, raised a $20 million Series A, CEO Vivek Adarsh tells Axios exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260920/p16",
+  "title": "Mithrl, which integrates its proprietary biomedical world model with the R&D systems of pharmaceutical companies, raised a $20M Series A led by Obvious Ventures (Natalie Breymeyer/Axios)"
+ },
+ "a260920p17": {
+  "article_url": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32",
+  "date": "2026-09-20",
+  "permalink_id": "a260920p17",
+  "summary": "Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart",
+  "techmeme_url": "https://www.techmeme.com/260920/p17",
+  "title": "Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)"
+ },
+ "a260920p18": {
+  "article_url": "https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?st=QK6QcH&reflink=desktopwebshare_permalink",
+  "date": "2026-09-20",
+  "permalink_id": "a260920p18",
+  "summary": "Fed up with the rat race, people are trying their luck by starting solo AI companies—but they face a brutal market",
+  "techmeme_url": "https://www.techmeme.com/260920/p18",
+  "title": "Aided by AI, young people in China launched 7M+ one-person startups in 2025 to escape a bleak job market, up ~42% from 2024, as they face fierce competition (Wall Street Journal)"
+ },
+ "a260920p19": {
+  "article_url": "https://www.axios.com/pro/fintech-deals/2026/09/17/adaptive-raises-30m-construction-accounting",
+  "date": "2026-09-20",
+  "permalink_id": "a260920p19",
+  "summary": "Adaptive, which sells accounting software to construction contractors, has raised $30 million in Series B funding, CEO Matt Calvano tells Axios Pro.",
+  "techmeme_url": "https://www.techmeme.com/260920/p19",
+  "title": "Adaptive, which sells accounting software to construction contractors, raised a $30M Series B led by Tidemark, bringing its total raised to $57M (Ryan Lawler/Axios)"
+ },
  "a260920p2": {
   "article_url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0?st=MJjszi&reflink=desktopwebshare_permalink",
   "date": "2026-09-20",
@@ -38,6 +94,14 @@
   "summary": "CEO Shayne Coplan brushed off concerns about scheme involving stolen debit cards; now the prediction market is bolstering executive ranks as it eyes IPO",
   "techmeme_url": "https://www.techmeme.com/260920/p2",
   "title": "Sources: Polymarket CEO Shayne Coplan dismissed concerns after fraudsters tried to launder $10M+ from stolen cards to clean accounts via its wagers in February (Wall Street Journal)"
+ },
+ "a260920p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-21/softbank-seeks-over-11-billion-in-junk-bond-deal-for-openai-bet",
+  "date": "2026-09-20",
+  "permalink_id": "a260920p20",
+  "summary": "SoftBank Group Corp. is seeking the equivalent of more than $11 billion in what would be one of the biggest junk bond deals ever …",
+  "techmeme_url": "https://www.techmeme.com/260920/p20",
+  "title": "Sources: SoftBank is looking to issue $10B and €1B in debt for its OpenAI investment, in what would be one of the biggest junk bond sales ever (Bloomberg)"
  },
  "a260920p3": {
   "article_url": "https://www.reuters.com/world/asia-pacific/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20/",
