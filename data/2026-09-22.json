@@ -7,6 +7,54 @@
   "techmeme_url": "https://www.techmeme.com/260922/p1",
   "title": "Tencent launches Hy Image 3.5 Preview, saying during internal testing the image model achieved results on par with ByteDance's Seedream 5.0 Pro (Bloomberg)"
  },
+ "a260922p10": {
+  "article_url": "https://www.axios.com/pro/health-tech-deals/2026/09/21/biolevate-34-million-series-a",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p10",
+  "summary": "Biolevate, a French pharma-focused SaaS startup, raised €30 million in Series A funding, CEO Joël Belafa tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260922/p10",
+  "title": "French pharma SaaS startup Biolevate raised a €30M Series A co-led by RAISE France and Orange Ventures, taking its total funding to €36M (Brock E.W. Turner/Axios)"
+ },
+ "a260922p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-22/ai-cloud-startup-verda-raises-189-million-in-funding-round",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p11",
+  "summary": "Cloud startup Verda has raised $189 million in fresh financing, underscoring continued investor appetite for the infrastructure powering the artificial intelligence boom.",
+  "techmeme_url": "https://www.techmeme.com/260922/p11",
+  "title": "Finnish neocloud startup Verda raised $189M led by Emergence at a $1B+ valuation and aims to raise up to $1.5B in equity and debt in 2026 and up to $10B in 2027 (Paula Doenecke/Bloomberg)"
+ },
+ "a260922p12": {
+  "article_url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p12",
+  "summary": "Top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout and stress over developing powerful AI",
+  "techmeme_url": "https://www.techmeme.com/260922/p12",
+  "title": "Sources: multiple staff at the UK's AISI have been signed off work with stress, as tight model release schedules and AI fears lead to low morale and burnout (Financial Times)"
+ },
+ "a260922p13": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-22/nvidia-chips-donald-trump-turn-armenia-into-ai-hotspot",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p13",
+  "summary": "During the Cold War, the Soviet Union's smallest republic was an electronics and tech center for the Communist superpower.",
+  "techmeme_url": "https://www.techmeme.com/260922/p13",
+  "title": "US startup Firebird is building a 300MW data center in Armenia, set to host 70K+ Nvidia chips by 2027; sources: Trump pledged Nvidia export approvals to Armenia (Mackenzie Hawkins/Bloomberg)"
+ },
+ "a260922p14": {
+  "article_url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p14",
+  "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
+  "techmeme_url": "https://www.techmeme.com/260922/p14",
+  "title": "The Austrian Academy of Science, Mistral, and Sail Reply plan to launch Apollo, an Ancient Greek LLM trained on ~600M historical Greek words, available for free (Joel Khalili/Wired)"
+ },
+ "a260922p15": {
+  "article_url": "https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p15",
+  "summary": "China's internet regulator is investigating DeepSeek and Moonshot AI after Anthropic alleged both companies had been routing sensitive user data …",
+  "techmeme_url": "https://www.techmeme.com/260922/p15",
+  "title": "Sources: the Cyberspace Administration of China is investigating DeepSeek and Moonshot over alleged data leaks to Anthropic via Claude and has questioned staff (The Information)"
+ },
  "a260922p2": {
   "article_url": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
   "date": "2026-09-22",
@@ -14,5 +62,61 @@
   "summary": "Apple has asked the court overseeing its lawsuit against OpenAI and other defendants to let its own experts review forensic images used …",
   "techmeme_url": "https://www.techmeme.com/260922/p2",
   "title": "Apple v. OpenAI: Apple asks the court to let its own experts review forensic images used in the case, and seeks documents tied to parts of OpenAI's hardware R&D (Marcus Mendes/9to5Mac)"
+ },
+ "a260922p3": {
+  "article_url": "https://www.nytimes.com/2026/09/21/us/politics/amazon-drone-delivery-texas.html?unlocked_article_code=1.C1E.QIHL.7qTJRR5Uj6n4&smid=bs-share",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p3",
+  "summary": "In Richardson, a fleet of drones has started to deliver goods quickly. But the noise is drowning out life for some residents: 'We can't live like this.'",
+  "techmeme_url": "https://www.techmeme.com/260922/p3",
+  "title": "Amazon, Walmart and other companies are using drones for fast deliveries in Richardson, Texas, but residents complain about noise and clumsy package drops (Juliet Macur/New York Times)"
+ },
+ "a260922p4": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/21/recruitment-platform-spott-balderton",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p4",
+  "summary": "Spott, a recruitment management platform, raised a $21 million Series A led by Balderton Capital, CEO Lander Degreve tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260922/p4",
+  "title": "Belgium-based AI recruitment startup Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, taking its total funding to $24M (Chris Metinko/Axios)"
+ },
+ "a260922p5": {
+  "article_url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p5",
+  "summary": "The Netherlands' ASML is possibly the biggest name in lithography, using its machines to etch patterns onto silicon wafers inside …",
+  "techmeme_url": "https://www.techmeme.com/260922/p5",
+  "title": "Dutch nanoimprint lithography startup Morphotonics raised €40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components (TechCrunch)"
+ },
+ "a260922p6": {
+  "article_url": "https://www.theatlantic.com/technology/2026/09/college-professors-ai-detectors-pangram/688727/?gift=NBdGSmKfDQzLc1B6N1F-gesKt22vfyUfDVIq3Mku0a8",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p6",
+  "summary": "Professors are tearing their hair out over AI detectors. — Timothy Paustian has tried everything to stop his students from writing essays with AI.",
+  "techmeme_url": "https://www.techmeme.com/260922/p6",
+  "title": "Some universities have barred using AI detectors due to student-instructor distrust over false positives; some educators have just cancelled writing assignments (Will Oremus/The Atlantic)"
+ },
+ "a260922p7": {
+  "article_url": "https://www.ft.com/content/ec52d0ab-3f68-476f-b308-b8e682d9c75b",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p7",
+  "summary": "US prediction markets platform is seeking to be regulated as a financial services firm rather than under a patchwork of gambling legislation",
+  "techmeme_url": "https://www.techmeme.com/260922/p7",
+  "title": "Sources: Polymarket is lobbying regulators in London, Brussels, and across the EU to be governed by financial services laws rather than local gambling rules (Financial Times)"
+ },
+ "a260922p8": {
+  "article_url": "https://www.forbes.com/sites/davidphelan/2026/09/22/apple-music-hall-revealed-1st-look-inside-apples-new-music-venue-at-london-hq/",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p8",
+  "summary": "This voice experience is generated by AI. Learn more. … Apple has just announced a new live music venue, built into its London headquarters at Battersea Power Station.",
+  "techmeme_url": "https://www.techmeme.com/260922/p8",
+  "title": "Apple unveils Apple Music Hall, a 600-person live music venue built in its London headquarters at Battersea Power Station with two recording and mixing studios (David Phelan/Forbes)"
+ },
+ "a260922p9": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-21/ligent-technologies-to-debut-after-727-million-in-hong-kong-ipo",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p9",
+  "summary": "Computing networks maker Ligent Technologies Inc.'s shares rose in their debut on the Hong Kong stock exchange on Tuesday …",
+  "techmeme_url": "https://www.techmeme.com/260922/p9",
+  "title": "Chinese optical transceiver maker Ligent jumps 19% in its Hong Kong debut, giving it a ~$4.6B market cap, after raising ~$727M, the latest Hong Kong AI IPO (Sangmi Cha/Bloomberg)"
  }
 }
