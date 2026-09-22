@@ -199,6 +199,86 @@
   "techmeme_url": "https://www.techmeme.com/260922/p4",
   "title": "Belgium-based AI recruitment startup Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, taking its total funding to $24M (Chris Metinko/Axios)"
  },
+ "a260922p40": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p40",
+  "summary": "OpenAI plans to let third-party groups vet its artificial intelligence models for safety risks in earlier phases of the development cycle …",
+  "techmeme_url": "https://www.techmeme.com/260922/p40",
+  "title": "OpenAI says it plans to let third-party groups conduct technical safety evaluations of its AI models during the training, evaluation, and deployment phases (Rachel Metz/Bloomberg)"
+ },
+ "a260922p41": {
+  "article_url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p41",
+  "summary": "Anthropic's newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
+  "techmeme_url": "https://www.techmeme.com/260922/p41",
+  "title": "Anthropic raises its five-hour usage limits by 20% on Pro, Max, and Team plans, and gives subscription users a rate limit reset (David Gewirtz/ZDNET)"
+ },
+ "a260922p42": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p42",
+  "summary": "Meta's new personal AI agent, Muse, had more than 500,000 people try it out roughly a week after launch, including more than 250,000 daily active users …",
+  "techmeme_url": "https://www.techmeme.com/260922/p42",
+  "title": "Internal data: Meta's Muse surpassed 500,000 total users, including 250,000 daily active users, with more than 2M prompts submitted in its first week (Jyoti Mann/The Information)"
+ },
+ "a260922p43": {
+  "article_url": "https://www.zdnet.com/innovation/openai-gpt-6-sol-luna-release/",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p43",
+  "summary": "GPT-6 Sol and Luna arrive less than three months after GPT-5.6, with OpenAI claiming major accuracy gains, dramatic cost reductions …",
+  "techmeme_url": "https://www.techmeme.com/260922/p43",
+  "title": "OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost (David Gewirtz/ZDNET)"
+ },
+ "a260922p44": {
+  "article_url": "https://www.thedeepview.com/articles/openai-s-cheaper-gpt-6-models-change-the-math",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p44",
+  "summary": "OpenAI is releasing a more budget-friendly version of its most powerful model. — On Tuesday, the company unveiled GPT-6 Sol and GPT-6 Luna …",
+  "techmeme_url": "https://www.techmeme.com/260922/p44",
+  "title": "GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6 (Nat Rubio-Licht/The Deep View)"
+ },
+ "a260922p45": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-22/ex-anthropic-staffers-ai-startup-in-talks-to-raise-at-5-billion-value",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p45",
+  "summary": "Mirendil, an artificial intelligence startup launched by former Anthropic PBC researchers, is in talks to raise a new round of funding …",
+  "techmeme_url": "https://www.techmeme.com/260922/p45",
+  "title": "Sources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation (Bloomberg)"
+ },
+ "a260922p46": {
+  "article_url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p46",
+  "summary": "President says US is 'leading over China by a lot and everyone else, and we're going to keep it that way'",
+  "techmeme_url": "https://www.techmeme.com/260922/p46",
+  "title": "In his UN General Assembly speech, Trump rejects a \"globalist scheme to control\" AI, saying the US is \"leading now over China by a lot and everyone else\" (Financial Times)"
+ },
+ "a260922p47": {
+  "article_url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p47",
+  "summary": "A sample of 5,000 alleged agents seen by 404 Media includes names, addresses, phone numbers, and details on FBI employees' spouses.",
+  "techmeme_url": "https://www.techmeme.com/260922/p47",
+  "title": "ShinyHunters claims it used an Oracle PeopleSoft zero-day to hack FBI-related services and steal employee and applicant data; it also defaced the FBI jobs site (Joseph Cox/404 Media)"
+ },
+ "a260922p48": {
+  "article_url": "https://www.theinformation.com/articles/entertainment-booking-startup-ande-raises-52-million-lightspeed-redpoint",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p48",
+  "summary": "Personal AI agents like Instinct and Muse have promised to take away the hassle of booking hard-to-get restaurant reservations, Broadway tickets and sporting events.",
+  "techmeme_url": "https://www.techmeme.com/260922/p48",
+  "title": "New York-based Ande, whose AI agents help businesses arrange corporate events for employees or customers, emerges from stealth with $52M in seed and Series A (Stephanie Palazzolo/The Information)"
+ },
+ "a260922p49": {
+  "article_url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p49",
+  "summary": "Early adopters of Meta's Muse have been speculating that the reason the AI works …",
+  "techmeme_url": "https://www.techmeme.com/260922/p49",
+  "title": "Nat Friedman says Meta built Muse \"from scratch\" but was \"heavily inspired\" by OpenClaw, as users compare the two, including calling Muse \"OpenClaw for normies\" (Sarah Perez/TechCrunch)"
+ },
  "a260922p5": {
   "article_url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
   "date": "2026-09-22",
@@ -206,6 +286,30 @@
   "summary": "The Netherlands' ASML is possibly the biggest name in lithography, using its machines to etch patterns onto silicon wafers inside …",
   "techmeme_url": "https://www.techmeme.com/260922/p5",
   "title": "Dutch nanoimprint lithography startup Morphotonics raised €40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components (TechCrunch)"
+ },
+ "a260922p50": {
+  "article_url": "https://www.nytimes.com/2026/09/22/us/san-francisco-lawsuit-truth-social-early-access.html?unlocked_article_code=1.DFE.wYXn.7BsJ9OpzKGtS&smid=nytcore-android-share",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p50",
+  "summary": "The city attorney argued that the service, available for up to $100,000 a month, could allow wealthy traders to manipulate the market …",
+  "techmeme_url": "https://www.techmeme.com/260922/p50",
+  "title": "San Francisco sues Trump Media & Technology, claiming its Truth API service violates California's Unfair Competition Law by creating an insider trading market (Heather Knight/New York Times)"
+ },
+ "a260922p51": {
+  "article_url": "https://www.techradar.com/phones/android/qualcomm-just-announced-the-snapdragon-8-elite-gen-6-and-8-elite-extreme-gen-6-for-next-gen-android-phones-heres-how-and-why-the-two-chipsets-differ-and-which-phones-could-be-supported",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p51",
+  "summary": "Extreme by name, extreme by nature — Qualcomm has announced not one, but two new flagship mobile chipsets at its annual Snapdragon Summit …",
+  "techmeme_url": "https://www.techmeme.com/260922/p51",
+  "title": "Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC's 2nm process, with two 5GHz prime cores and six 4GHz performance cores (Axel Metz/TechRadar)"
+ },
+ "a260922p52": {
+  "article_url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
+  "date": "2026-09-22",
+  "permalink_id": "a260922p52",
+  "summary": "Eight months after it was spun out of TikTok, the social media platform's U.S. unit, known as TikTok USDS Joint Venture …",
+  "techmeme_url": "https://www.techmeme.com/260922/p52",
+  "title": "TikTok US joins child safety initiative Lantern, which says members like Meta and X shared 2M+ signals of potentially violating behavior from 2023 through 2025 (Amanda Silberling/TechCrunch)"
  },
  "a260922p6": {
   "article_url": "https://www.theatlantic.com/technology/2026/09/college-professors-ai-detectors-pangram/688727/?gift=NBdGSmKfDQzLc1B6N1F-gesKt22vfyUfDVIq3Mku0a8",
