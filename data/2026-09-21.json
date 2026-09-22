@@ -247,6 +247,70 @@
   "techmeme_url": "https://www.techmeme.com/260921/p51",
   "title": "Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs (Bloomberg)"
  },
+ "a260921p52": {
+  "article_url": "https://mimo.xiaomi.com/mimo-v2-6",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p52",
+  "summary": "Frontier intelligence, all the modalities, built in public. Today, we are releasing and open-sourcing the MiMo-V2.6 series.",
+  "techmeme_url": "https://www.techmeme.com/260921/p52",
+  "title": "Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs \"on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks\" (Xiaomi)"
+ },
+ "a260921p53": {
+  "article_url": "https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p53",
+  "summary": "The lawsuit alleges AI company failed to notify law enforcement, calls out product safety gaps — British Columbia filed a lawsuit …",
+  "techmeme_url": "https://www.techmeme.com/260921/p53",
+  "title": "British Columbia sues OpenAI for alleged safety violations and negligence for failing to flag the Tumbler Ridge shooting suspect's ChatGPT activity to police (Georgia Wells/Wall Street Journal)"
+ },
+ "a260921p54": {
+  "article_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p54",
+  "summary": "Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is “built from the ground up for privacy and security.”",
+  "techmeme_url": "https://www.techmeme.com/260921/p54",
+  "title": "A researcher says a flaw in Meta's Muse Mac app lets any app or terminal command access users' Muse authentication tokens; Meta says it issued a hotfix (Dan Goodin/Ars Technica)"
+ },
+ "a260921p55": {
+  "article_url": "https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p55",
+  "summary": "Shopify plans to allow Meta's personal AI agent to complete purchases on behalf of users with the e-commerce platform's roster of stores",
+  "techmeme_url": "https://www.techmeme.com/260921/p55",
+  "title": "Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay (Kelly Cloonan/Wall Street Journal)"
+ },
+ "a260921p56": {
+  "article_url": "https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p56",
+  "summary": "That puts Xiaomi's new flagship ahead of proprietary models including xAI's Grok 4.6, currently at 44, and Google's Gemini 3.8 Flash …",
+  "techmeme_url": "https://www.techmeme.com/260921/p56",
+  "title": "MiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (max) on Artificial Analysis' Intelligence Index, making it the benchmark's top-scoring open-weight model (Carl Franzen/VentureBeat)"
+ },
+ "a260921p57": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p57",
+  "summary": "Xbox is planning to lay off hundreds of employees this week in its second major staff reduction this year, according to someone briefed on the plans.",
+  "techmeme_url": "https://www.techmeme.com/260921/p57",
+  "title": "Source: Xbox plans to lay off hundreds of employees this week in its second major staff cut in 2026, as it also plans to consolidate several of its game studios (Aaron Holmes/The Information)"
+ },
+ "a260921p58": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p58",
+  "summary": "Alibaba Group Holding Ltd. is rolling out what it calls China's most powerful AI chip, an accelerator to compete with Nvidia Corp …",
+  "techmeme_url": "https://www.techmeme.com/260921/p58",
+  "title": "Alibaba's T-Head unveils the Zhenwu V900 AI accelerator, which it says triples its predecessor's performance and can scale to clusters of up to 500,000 units (Bloomberg)"
+ },
+ "a260921p59": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/",
+  "date": "2026-09-21",
+  "permalink_id": "a260921p59",
+  "summary": "Alibaba Group (9988.HK) plans to train a new artificial intelligence model with 5 trillion to 10 trillion parameters …",
+  "techmeme_url": "https://www.techmeme.com/260921/p59",
+  "title": "Alibaba CEO Eddie Wu says the company plans to train a 5T- to 10T-parameter AI model, as it lays out a sweeping push across AI models, chips, and data centers (Reuters)"
+ },
  "a260921p9": {
   "article_url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
   "date": "2026-09-21",
