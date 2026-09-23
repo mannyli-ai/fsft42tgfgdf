@@ -63,6 +63,94 @@
   "techmeme_url": "https://www.techmeme.com/260923/p17",
   "title": "The UK CMA proposes rules requiring Google and Android OEMs to offer search choice screens on first use and via yearly prompts, new AI assistant rules, and more (Steve Dent/Engadget)"
  },
+ "a260923p19": {
+  "article_url": "https://www.bbc.com/news/articles/c90kly26d7pzo",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p19",
+  "summary": "The tech giant OpenAI will share its AI cyber defence system Daybreak for free with the Ukraine government to help …",
+  "techmeme_url": "https://www.techmeme.com/260923/p19",
+  "title": "OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure (Zoe Kleinman/BBC)"
+ },
+ "a260923p20": {
+  "article_url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p20",
+  "summary": "Ema, a startup that uses teams of AI agents to automate corporate processes across HR, IT, and finance, has raised $77 million …",
+  "techmeme_url": "https://www.techmeme.com/260923/p20",
+  "title": "Ema, which uses AI agents to automate corporate processes across HR, IT, and finance, raised a $77M Series B led by Creaegis, taking its total funding to $140M (Jagmeet Singh/TechCrunch)"
+ },
+ "a260923p21": {
+  "article_url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p21",
+  "summary": "AI's reputation is in hot water. Can influencers save it? — OpenAI has been ramping up its creator marketing efforts as AI safety concerns take center stage.",
+  "techmeme_url": "https://www.techmeme.com/260923/p21",
+  "title": "HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users (Business Insider)"
+ },
+ "a260923p22": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/bessemer-raises-5-75-billion-in-new-funds-expands-growth-efforts",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p22",
+  "summary": "Bessemer Venture Partners is set to announce $5.75 billion in fresh funding to support a broader shift towards more growth stage investments …",
+  "techmeme_url": "https://www.techmeme.com/260923/p22",
+  "title": "Bessemer raised $5.75B, allocating $4B to growth-stage funding, including young companies raising large rounds at high valuations, and $1.75B for early-stage (Natasha Mascarenhas/Bloomberg)"
+ },
+ "a260923p23": {
+  "article_url": "https://tech.eu/2026/09/23/anthropic-and-nvidia-back-basecamp-research-in-140m-series-c/",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p23",
+  "summary": "Basecamp says it will use the funding to train a new generation of its AI models. — A UK life sciences startup using AI …",
+  "techmeme_url": "https://www.techmeme.com/260923/p23",
+  "title": "London-based AI life sciences startup Basecamp Research raised a $140M Series C led by S32, with participation from Anthropic, taking its total funding to $225M (John Reynolds/Tech.eu)"
+ },
+ "a260923p24": {
+  "article_url": "https://variety.com/2026/music/news/sony-music-group-joins-ai-content-coalition-ariam-1236873137/",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p24",
+  "summary": "Sony Music Group has joined the Alliance for Responsible Innovation in the Arts & Media (ARIAM), becoming the first music company …",
+  "techmeme_url": "https://www.techmeme.com/260923/p24",
+  "title": "Sony Music becomes the first music company to join ARIAM, which advocates for responsible AI adoption in the creative industry and includes the NYT and Disney (Corbin Bolies/Variety)"
+ },
+ "a260923p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/startup-hubble-reaches-unicorn-status-for-space-based-bluetooth",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p25",
+  "summary": "Satellite startup Hubble Network raised $200 million in a new funding round, taking the company's valuation to $1.6 billion …",
+  "techmeme_url": "https://www.techmeme.com/260923/p25",
+  "title": "Seattle-based satellite startup Hubble, which is working to enable global Bluetooth connectivity, raised $200M at a $1.6B valuation, for $300M in total funding (Sana Pashankar/Bloomberg)"
+ },
+ "a260923p26": {
+  "article_url": "https://www.wsj.com/business/media/youtube-is-battling-netflix-over-top-talent-eebbf0cf?st=py6xAQ&reflink=desktopwebshare_permalink",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p26",
+  "summary": "Google-owned platform rolling out better tools for digital producers that could help it keep more of their content exclusively",
+  "techmeme_url": "https://www.techmeme.com/260923/p26",
+  "title": "YouTube rolls out tools for microdramas, an AI storytelling assistant for script analysis, video A/B-testing, and more, as it battles Netflix over top creators (Ben Fritz/Wall Street Journal)"
+ },
+ "a260923p27": {
+  "article_url": "https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p27",
+  "summary": "In YouTube's latest update, viewers can tweak what the algorithm shows on their front page and curate it to a specific vibe.",
+  "techmeme_url": "https://www.techmeme.com/260923/p27",
+  "title": "At its Made on YouTube event, YouTube unveils Custom Feeds, an LLM-powered feature that lets users generate and save tailored homepage video feeds, for US users (Reece Rogers/Wired)"
+ },
+ "a260923p28": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/youtube-beats-amazon-netflix-to-clinch-coachella-livestream-through-2030",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p28",
+  "summary": "New deal includes mini artist documentaries and more programming leading up to North America's largest music festival.",
+  "techmeme_url": "https://www.techmeme.com/260923/p28",
+  "title": "Coachella promoter Goldenvoice renews its livestreaming partnership with YouTube through 2030, choosing it over competing bids from Netflix and Amazon (Lucas Shaw/Bloomberg)"
+ },
+ "a260923p29": {
+  "article_url": "https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p29",
+  "summary": "Amazon announced new AI tools for its independent sellers Wednesday, led by a plugin that lets them run their Amazon businesses from Anthropic's Claude or Amazon's own Quick assistant.",
+  "techmeme_url": "https://www.techmeme.com/260923/p29",
+  "title": "At its Accelerate conference, Amazon says it is opening its seller tools to third-party AI agents, starting with Claude, in beta for US merchants (Todd Bishop/GeekWire)"
+ },
  "a260923p3": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/us-rebukes-australia-for-plan-to-target-social-media-algorithms",
   "date": "2026-09-23",
@@ -70,6 +158,38 @@
   "summary": "The US government criticized Australia's plan to clamp down on social media algorithms and harmful content online …",
   "techmeme_url": "https://www.techmeme.com/260923/p3",
   "title": "The US criticizes Australia's digital duty-of-care proposal, which has a provision that would require social media platforms to let users opt out of algorithms (Angus Whitley/Bloomberg)"
+ },
+ "a260923p30": {
+  "article_url": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&smid=url-share",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p30",
+  "summary": "This is an edited transcript of “The Ezra Klein Show.” You can listen to the episode wherever you get your podcasts.",
+  "techmeme_url": "https://www.techmeme.com/260923/p30",
+  "title": "Q&A with Jensen Huang on AI creating more jobs than it destroys, pushing back against AI doomerism, Chinese open models, the Hugging Face acquisition, and more (Ezra Klein/New York Times)"
+ },
+ "a260923p31": {
+  "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p31",
+  "summary": "Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS are our most expressive audio generation models yet.",
+  "techmeme_url": "https://www.techmeme.com/260923/p31",
+  "title": "Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its \"most expressive audio generation models yet\", with support for more than 100 languages (Google)"
+ },
+ "a260923p32": {
+  "article_url": "https://www.hollywoodreporter.com/business/business-news/disney-plus-hulu-price-increases-september-2026-1236708364/",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p32",
+  "summary": "Subscribing to a bundle is now almost exactly half the price of individual plans for each streamer.",
+  "techmeme_url": "https://www.techmeme.com/260923/p32",
+  "title": "Disney raises Disney+ and Hulu prices, the fourth price hike in as many years; the ad-free tiers will each cost $21.49/month, an increase of $2.50 (Rick Porter/The Hollywood Reporter)"
+ },
+ "a260923p33": {
+  "article_url": "https://www.wsj.com/tech/ai/anthropic-leaders-back-startup-developing-system-to-detect-biological-threats-88ef9f0a?st=S5V7SX&reflink=desktopwebshare_permalink",
+  "date": "2026-09-23",
+  "permalink_id": "a260923p33",
+  "summary": "Pilgrim has raised $25 million and has developed a 50-pound device that detects biological threats — Two Anthropic leaders are investing …",
+  "techmeme_url": "https://www.techmeme.com/260923/p33",
+  "title": "Pilgrim, whose device combines air sampling and genomic sequencing to detect biological threats, raised a $25M seed led by Buckley at a $150M valuation (Kate Clark/Wall Street Journal)"
  },
  "a260923p4": {
   "article_url": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1",
