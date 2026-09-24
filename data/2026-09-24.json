@@ -119,6 +119,62 @@
   "techmeme_url": "https://www.techmeme.com/260924/p22",
   "title": "Dallas-based enterprise browser security startup Island raised $400M led by Evolution Equity Partners at a $6.4B valuation and plans to grow its staff to 1,500 (Samantha Subin/CNBC)"
  },
+ "a260924p23": {
+  "article_url": "https://www.reuters.com/technology/qualcomm-apple-extend-licensing-agreement-chips-2026-09-24/",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p23",
+  "summary": "Qualcomm (QCOM.O) said on Thursday Apple (AAPL.O) has extended its patent-licensing agreement with the chip designer …",
+  "techmeme_url": "https://www.techmeme.com/260924/p23",
+  "title": "Qualcomm says it has extended its global licensing pact with Apple, starting in April 2027; the partnership has been shaped by an April 2019 settlement (Akash Sriram/Reuters)"
+ },
+ "a260924p24": {
+  "article_url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p24",
+  "summary": "Subsidies for fabs do not help. … As the world's only supplier of EUV lithography systems, ASML is Europe's largest company …",
+  "techmeme_url": "https://www.techmeme.com/260924/p24",
+  "title": "ASML's European revenue share dropped to 0% in Q1 and Q2 2026, down from 1% in 2025 and 5% in 2024; ASML is urging EU authorities to create demand for EU chips (Anton Shilov/Tom's Hardware)"
+ },
+ "a260924p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDI1NDA1MiwiZXhwIjoxNzkwODU4ODUyLCJhcnRpY2xlSWQiOiJUTFRPM0tUOU5KTTAwMCIsImJjb25uZWN0SWQiOiJJMkExVlk1MTBBU0dEUldRMzFNUVRXTlpJRlhHVjFMVyJ9.6CeiYEoIkOKhxCmx3OBDbfYxHdJogWcz9AxY5rIS1HU",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p25",
+  "summary": "Oracle Corp. is moving to shield itself from racking up expenses on a massive data center being built in New Mexico …",
+  "techmeme_url": "https://www.techmeme.com/260924/p25",
+  "title": "Sources: Oracle sent a force majeure notice to Blue Owl to delay payments on the 2.45GW Project Jupiter data center in New Mexico if it fails to launch in 2028 (Bloomberg)"
+ },
+ "a260924p26": {
+  "article_url": "https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p26",
+  "summary": "Google, OpenAI and Anthropic are pushing forward with a plan to create a new AI safety-focused standards body on their own …",
+  "techmeme_url": "https://www.techmeme.com/260924/p26",
+  "title": "Sources: Google, OpenAI, and Anthropic plan to launch an AI safety standards body without government oversight in late 2026 or 2027, and are considering CEOs (The Information)"
+ },
+ "a260924p27": {
+  "article_url": "https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322?st=BayjT8&reflink=desktopwebshare_permalink",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p27",
+  "summary": "Company, which uses robots for sorting and moving packages inside warehouses, is among world's top manufacturers of them",
+  "techmeme_url": "https://www.techmeme.com/260924/p27",
+  "title": "Amazon plans to invest $100M to build a robotics manufacturing facility in Indiana, set to open by 2028; its robots at 300+ facilities help with 75% of orders (Isabella Simonetti/Wall Street Journal)"
+ },
+ "a260924p28": {
+  "article_url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.HLvN.73gQISqr3LLn&smid=nytcore-ios-share",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p28",
+  "summary": "Technicians in a clean room at the Planet Labs office inspect the solar panels and wires of a Google-commissioned satellite …",
+  "techmeme_url": "https://www.techmeme.com/260924/p28",
+  "title": "Google plans to launch experimental satellite MVP on a SpaceX rocket on October 1, as part of Project Suncatcher; MVP has four TPUs and will operate for a year (New York Times)"
+ },
+ "a260924p29": {
+  "article_url": "https://www.transformernews.ai/p/openai-australia-hack-least-worrying-part",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p29",
+  "summary": "OpenAI didn't tell Australia about the hack for weeks — raising serious questions about how it handles rogue AI incidents",
+  "techmeme_url": "https://www.techmeme.com/260924/p29",
+  "title": "OpenAI discovered the Australian breach in August but didn't alert the government until September 10, when it sent an email to a generic disclosure address (Shakeel Hashim/Transformer)"
+ },
  "a260924p3": {
   "article_url": "https://transluce.org/agent-activity",
   "date": "2026-09-24",
@@ -126,6 +182,54 @@
   "summary": "Jack Cable*,2, Daniel Chiu*, Francisco Pernice*,3, Selena Zhang*,1, James Anthony1, Tetiana Bas4, Gary Shen4, Conrad Stosz1, Jacob Steinhardt1",
   "techmeme_url": "https://www.techmeme.com/260924/p3",
   "title": "AI agents, including those from OpenAI, attempted to hack UNM's digital library, Data USA, and the Australian Institute of Health and Welfare in May and June (Transluce)"
+ },
+ "a260924p30": {
+  "article_url": "https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p30",
+  "summary": "President Trump's allies are targeting Anthropic CEO Dario Amodei as the face of AI “doomerism” and a founding father …",
+  "techmeme_url": "https://www.techmeme.com/260924/p30",
+  "title": "Sources: a White House memo paints effective altruism as a fringe, dangerous cult that \"built the AI-doom pipeline\" and places Dario Amodei at its foundation (Axios)"
+ },
+ "a260924p31": {
+  "article_url": "https://www.ft.com/content/6cc7149f-a9f1-47f6-9faf-b98a28f9aedc",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p31",
+  "summary": "Talks between web domain provider and Gen Digital at early stage but could allow acquirer to broaden its business beyond cyber security",
+  "techmeme_url": "https://www.techmeme.com/260924/p31",
+  "title": "Sources: Gen Digital, created by the 2022 merger of NortonLifeLock and Avast, has made a takeover offer for GoDaddy, which has a market cap of $12.2B (Oliver Barnes/Financial Times)"
+ },
+ "a260924p32": {
+  "article_url": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p32",
+  "summary": "The leaders are expected to discuss trade war truce and AI risks before a state dinner with American business leaders",
+  "techmeme_url": "https://www.techmeme.com/260924/p32",
+  "title": "At a White House summit, Xi Jinping says the US and China share the \"capability and responsibility\" to manage AI for good and calls for healthy competition (Financial Times)"
+ },
+ "a260924p33": {
+  "article_url": "https://www.wsj.com/us-news/law/ny-sues-polymarket-in-escalating-crackdown-on-prediction-markets-80d1aba6?st=GqkH7s&reflink=desktopwebshare_permalink",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p33",
+  "summary": "The company and rival Kalshi are facing legal challenges from states around the country — New York, one of the largest markets …",
+  "techmeme_url": "https://www.techmeme.com/260924/p33",
+  "title": "New York AG Letitia James sues Polymarket US, alleging that the site is illegally running a gambling operation, as part of NY's crackdown on prediction markets (Kevin T. Dugan/Wall Street Journal)"
+ },
+ "a260924p34": {
+  "article_url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p34",
+  "summary": "With AI agents like Meta's Muse and Instinct now able to make calls on users' behalf, Google is now letting Gemini call businesses with a new feature called “Call for Me.”",
+  "techmeme_url": "https://www.techmeme.com/260924/p34",
+  "title": "Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US (Sarah Perez/TechCrunch)"
+ },
+ "a260924p35": {
+  "article_url": "https://www.geekwire.com/2026/amazon-will-let-sellers-manage-walmart-ebay-shopify-and-tiktok-sales-from-their-amazon-dashboards/",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p35",
+  "summary": "Amazon is introducing tools to let independent sellers manage their sales on four of its biggest rivals — eBay, Shopify, TikTok and …",
+  "techmeme_url": "https://www.techmeme.com/260924/p35",
+  "title": "Amazon rolls out multichannel tools in Seller Central, letting US sellers manage eBay, Shopify, TikTok and Walmart sales alongside their Amazon businesses (Todd Bishop/GeekWire)"
  },
  "a260924p4": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/schneider-electric-said-near-deal-for-smart-device-firm-shelly",
