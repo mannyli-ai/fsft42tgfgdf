@@ -231,6 +231,38 @@
   "techmeme_url": "https://www.techmeme.com/260924/p35",
   "title": "Amazon rolls out multichannel tools in Seller Central, letting US sellers manage eBay, Shopify, TikTok and Walmart sales alongside their Amazon businesses (Todd Bishop/GeekWire)"
  },
+ "a260924p36": {
+  "article_url": "https://www.politico.com/news/2026/09/24/white-house-asks-openai-and-anthropic-to-hold-new-models-from-uk-testers-until-u-s-review-01091769",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p36",
+  "summary": "The White House has asked OpenAI and Anthropic not to share their new artificial intelligence models with the U.K. government's testing agency until …",
+  "techmeme_url": "https://www.techmeme.com/260924/p36",
+  "title": "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)"
+ },
+ "a260924p37": {
+  "article_url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p37",
+  "summary": "The price tag is significantly higher than previously known. — Copy — The National Security Agency told lawmakers …",
+  "techmeme_url": "https://www.techmeme.com/260924/p37",
+  "title": "Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year (Jeff Stein/The Washington Sun)"
+ },
+ "a260924p38": {
+  "article_url": "https://aftermath.site/nintendo-switch-archbox-pirate-lawsuit/",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p38",
+  "summary": "The court entered a default judgement in favor of Nintendo — Nintendo of America was awarded $4.5 million in damages in its lawsuit …",
+  "techmeme_url": "https://www.techmeme.com/260924/p38",
+  "title": "In a default judgment, a US federal judge awards Nintendo of America $4.5M in damages in its lawsuit against a Reddit moderator who sold pirated Switch games (Nicole Carpenter/Aftermath)"
+ },
+ "a260924p39": {
+  "article_url": "https://www.nytimes.com/2026/09/24/business/media/letterboxd-sale-sony-a24-nyt.html?unlocked_article_code=1.DlE.p-P8.iqgKy3PC4zrE&smid=re-share",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p39",
+  "summary": "A24, Sony and The New York Times Company all registered their interest in acquiring the cinephile's paradise.",
+  "techmeme_url": "https://www.techmeme.com/260924/p39",
+  "title": "Sources: A24, Sony Pictures, and NYT have registered interest in acquiring Letterboxd, which has a user base of 30M and is expected to be valued at $300M+ (New York Times)"
+ },
  "a260924p4": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/schneider-electric-said-near-deal-for-smart-device-firm-shelly",
   "date": "2026-09-24",
@@ -238,6 +270,78 @@
   "summary": "Schneider Electric SE is nearing an agreement to acquire Shelly Group SE, a maker of smart devices for the home, according to people familiar with the matter.",
   "techmeme_url": "https://www.techmeme.com/260924/p4",
   "title": "Sources: Schneider Electric is nearing a deal to acquire Bulgaria-based smart home device maker Shelly Group at a €1.27B valuation, excluding debt (Bloomberg)"
+ },
+ "a260924p40": {
+  "article_url": "https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p40",
+  "summary": "Silicon Valley has a new AI startup to obsess over—and throw money at. We're hearing that TypeSafe AI …",
+  "techmeme_url": "https://www.techmeme.com/260924/p40",
+  "title": "Sources: Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation (The Information)"
+ },
+ "a260924p41": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/us-seeks-to-join-musk-in-court-fight-with-eu-over-x-fine",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p41",
+  "summary": "The US is seeking to join a legal challenge filed by Elon Musk to dismiss a €120 million ($136.5 million) …",
+  "techmeme_url": "https://www.techmeme.com/260924/p41",
+  "title": "The US files an application with the EU's General Court in support of X's effort to annul a 2025 €120M DSA fine, arguing the EU engaged in regulatory overreach (Bloomberg)"
+ },
+ "a260924p42": {
+  "article_url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p42",
+  "summary": "The next push for Meta's Horizon platform involves AI-generated video games. … Meta has a new plan to get people to make games for its Horizon social platform.",
+  "techmeme_url": "https://www.techmeme.com/260924/p42",
+  "title": "Meta unveils mobile app Horizon Create and web app Horizon Studio for building games with AI prompts; the games will run on Facebook, Instagram, and Horizon (Jay Peters/The Verge)"
+ },
+ "a260924p43": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/fed-unveils-more-stablecoin-plans-as-regulators-embrace-crypto",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p43",
+  "summary": "The Federal Reserve unveiled proposals for stablecoin issuers on Thursday, the latest step from regulators moving ahead with crypto rulemaking.",
+  "techmeme_url": "https://www.techmeme.com/260924/p43",
+  "title": "The Fed unveils stablecoin proposals, including requiring some issuers to fully back tokens with permissible reserve assets, such as short-term Treasury bills (Megan Howard/Bloomberg)"
+ },
+ "a260924p44": {
+  "article_url": "https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p44",
+  "summary": "OpenEvidence, an AI search engine for doctors, is the latest AI darling to raise back-to-back funding rounds.",
+  "techmeme_url": "https://www.techmeme.com/260924/p44",
+  "title": "Sources: OpenEvidence, an AI search engine for doctors, raised $250M at a $15B valuation, up from $12B in January; it could be open to selling itself (Katie Roof/Business Insider)"
+ },
+ "a260924p45": {
+  "article_url": "https://www.geekwire.com/2026/internal-memos-microsoft-shakes-up-communications-as-nadella-makes-a-push-to-build-in-public/",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p45",
+  "summary": "Microsoft is moving its communications function out of its marketing group and into the corporate, external and legal affairs organization led …",
+  "techmeme_url": "https://www.techmeme.com/260924/p45",
+  "title": "Email: Microsoft is moving its communications function out of its marketing group and into the corporate, external, and legal affairs org led by Brad Smith (Todd Bishop/GeekWire)"
+ },
+ "a260924p46": {
+  "article_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p46",
+  "summary": "Google's Live Avatar can lip-sync and show different facial expressions. … Google's new Gemini 3.8 Live update lets users …",
+  "techmeme_url": "https://www.techmeme.com/260924/p46",
+  "title": "Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers (Emma Roth/The Verge)"
+ },
+ "a260924p47": {
+  "article_url": "https://thehill.com/homenews/administration/6109283-xi-china-us-ai-responsibility-trump/",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p47",
+  "summary": "Chinese President Xi Jinping said Thursday the U.S. and China have an obligation to manage the development …",
+  "techmeme_url": "https://www.techmeme.com/260924/p47",
+  "title": "At a White House summit, Xi Jinping says the US and China have \"the capability and responsibility to develop and manage AI for good\" as \"leading nations\" in AI (Mallory Wilson/The Hill)"
+ },
+ "a260924p48": {
+  "article_url": "https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p48",
+  "summary": "Anthropic has signed an $11.6 billion cloud services agreement with Akamai Technologies (AKAM.O), as the AI lab seeks additional computing capacity …",
+  "techmeme_url": "https://www.techmeme.com/260924/p48",
+  "title": "Anthropic commits to spending $11.6B over seven years on Akamai cloud services and secures an option to take a stake of up to 5%; AKAM jumps 17%+ after hours (Harshita Mary Varghese/Reuters)"
  },
  "a260924p8": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/revolut-is-bringing-facial-recognition-checkout-to-uk-businesses",
