@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/260924/p1",
   "title": "Qualcomm announces the Snapdragon Sound Elite Gen 2 for audio wearables, with up to 2x greater on-device AI performance and up to 40% lower power consumption (Andrew Romero/9to5Google)"
  },
+ "a260924p10": {
+  "article_url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p10",
+  "summary": "Once Claude can measure something, it can make it faster. So we kept finding more things to measure. Raymond Wang, Sam Attard, and Issac G.",
+  "techmeme_url": "https://www.techmeme.com/260924/p10",
+  "title": "Anthropic says it made Claude.ai and the Claude desktop app's core UX ~3x faster in August using an internal model to ship improvements \"in a two-week sprint\" (Anthropic)"
+ },
+ "a260924p11": {
+  "article_url": "https://www.reuters.com/legal/transactional/australias-firmus-expects-77-million-first-half-loss-it-plans-5-billion-ipo-2026-09-24/",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p11",
+  "summary": "Australian data centre operator Firmus expects to lose $77 million in the current half, according to two people familiar …",
+  "techmeme_url": "https://www.techmeme.com/260924/p11",
+  "title": "Sources citing Firmus' IPO draft prospectus: the Australian data center operator expects to report a $77M loss after tax for H1 FY27 as it prepares to raise $5B (Christine Chen/Reuters)"
+ },
+ "a260924p12": {
+  "article_url": "https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-startup-finalizes-7-5-billion-fundraising",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p12",
+  "summary": "DeepSeek's annualized revenue run rate has hit $1 billion, more than double from less than $500 million a few months ago …",
+  "techmeme_url": "https://www.techmeme.com/260924/p12",
+  "title": "Sources: DeepSeek's annualized revenue run rate hits $1B, up from less than $500M a few months ago, as it aims to finalize a ~$7.5B fundraise by late October (The Information)"
+ },
+ "a260924p13": {
+  "article_url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd?st=hqeLCw&reflink=desktopwebshare_permalink",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p13",
+  "summary": "Data-center spending is greater than that for the canals, railroads and grid combined—creating jobs and wealth but also boosting inflation",
+  "techmeme_url": "https://www.techmeme.com/260924/p13",
+  "title": "Brookings projects US AI spending to total $10.3T between 2025 and 2032, averaging 3.6% of GDP per year, the largest single-industry build-out as a share of GDP (Wall Street Journal)"
+ },
+ "a260924p14": {
+  "article_url": "https://www.ft.com/content/1767ba03-05a2-4d69-83df-5aa0a6bf24e2",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p14",
+  "summary": "‘Teflon’ Niklas Östberg to guide German food delivery group through asset sales and a new future under its US rival",
+  "techmeme_url": "https://www.techmeme.com/260924/p14",
+  "title": "Delivery Hero co-founder and CEO Niklas Östberg reverses his decision to step down in 2027, as the company prepares for Uber's €13B takeover and an asset sale (Financial Times)"
+ },
+ "a260924p15": {
+  "article_url": "https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3?st=NSDYQu&reflink=desktopwebshare_permalink",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p15",
+  "summary": "An island meeting, texts between the leaders of Canada, France and Norway reveal an emerging alliance: 'We're in'",
+  "techmeme_url": "https://www.techmeme.com/260924/p15",
+  "title": "Mark Carney, Emmanuel Macron, and other Western leaders are pushing to establish a global supervisory regime and \"technology stability\" body to govern AI (Wall Street Journal)"
+ },
+ "a260924p16": {
+  "article_url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?unlocked_article_code=1.DlE.2yAf.hUUS5mCftkOD&smid=url-share",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p16",
+  "summary": "In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.",
+  "techmeme_url": "https://www.techmeme.com/260924/p16",
+  "title": "OpenAI says its AI agents \"took actions we did not intend\" when they tried to hack government and university websites, and it is working with the organizations (New York Times)"
+ },
+ "a260924p17": {
+  "article_url": "https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8?st=qyqV2p&reflink=desktopwebshare_permalink",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p17",
+  "summary": "New services allow employers to pinpoint who is being paid too much or too little — A lot of us worry artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/260924/p17",
+  "title": "Companies are increasingly using AI benchmarking services to aggregate public job listings and other payroll data to identify under- and over-paid employees (Callum Borchers/Wall Street Journal)"
+ },
+ "a260924p18": {
+  "article_url": "https://www.cnbc.com/2026/09/24/enterprise-ai-brahma-fundraise-dneg-dune.html",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p18",
+  "summary": "Brahma AI, an Indian start-up that makes artificial intelligence-generated audiovisual content for enterprise customers …",
+  "techmeme_url": "https://www.techmeme.com/260924/p18",
+  "title": "VFX company DNEG's AI unit Brahma, whose customers include Warner Bros. and the NBA, raised $150M led by Indian PE firm Multiples at a $2B post-money valuation (Priyanka Salve/CNBC)"
+ },
+ "a260924p19": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/tencent-offers-payment-app-for-visitors-to-china-to-rival-ant",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p19",
+  "summary": "Tencent Holdings Ltd. launched a standalone payment app for foreign visitors to China, stepping up competition against rival Ant Group Co.",
+  "techmeme_url": "https://www.techmeme.com/260924/p19",
+  "title": "Tencent launches TenPayGo, a payment app for foreign visitors to China that lets them pay tens of millions of merchants via Visa, Mastercard, and Apple Pay (Bloomberg)"
+ },
  "a260924p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/startups-modal-baseten-in-funding-talks-to-help-businesses-run-ai",
   "date": "2026-09-24",
@@ -14,6 +94,30 @@
   "summary": "Two startups that provide platforms to help businesses run artificial intelligence models are in funding talks to double their valuations …",
   "techmeme_url": "https://www.techmeme.com/260924/p2",
   "title": "Sources: Modal Labs is in funding talks at a ~$15B valuation, up from $4.65B in May; Baseten is in funding talks at a $26B valuation, up from $13B in June (Bloomberg)"
+ },
+ "a260924p20": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/amazon-bets-3-billion-indias-fast-delivery-boom-sources-say-2026-09-24/",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p20",
+  "summary": "US e-commerce retailer Amazon (AMZN.O) will invest $3 billion to expand its India quick commerce business by 2030, two sources said …",
+  "techmeme_url": "https://www.techmeme.com/260924/p20",
+  "title": "Sources: Amazon plans to invest $1B into its Indian quick commerce operations by the end of 2027, and another $2B by 2030, as it battles local rivals (Reuters)"
+ },
+ "a260924p21": {
+  "article_url": "https://www.wsj.com/politics/policy/tech-industry-calls-on-trump-administration-to-withdraw-new-h-1b-visa-fee-dcf918f8?st=sA44Gd&reflink=desktopwebshare_permalink",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p21",
+  "summary": "Clash over proposed DHS rule to charge $103,265 fee reignites spat over highly skilled immigration",
+  "techmeme_url": "https://www.techmeme.com/260924/p21",
+  "title": "Industry group TechNet files a comment with the US DHS urging the White House to withdraw its proposal to charge $103,265 for most new H-1B visa applications (Wall Street Journal)"
+ },
+ "a260924p22": {
+  "article_url": "https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p22",
+  "summary": "The scramble to secure businesses against swarms of rogue artificial intelligence agents is fueling demand for new security tools.",
+  "techmeme_url": "https://www.techmeme.com/260924/p22",
+  "title": "Dallas-based enterprise browser security startup Island raised $400M led by Evolution Equity Partners at a $6.4B valuation and plans to grow its staff to 1,500 (Samantha Subin/CNBC)"
  },
  "a260924p3": {
   "article_url": "https://transluce.org/agent-activity",
@@ -30,5 +134,21 @@
   "summary": "Schneider Electric SE is nearing an agreement to acquire Shelly Group SE, a maker of smart devices for the home, according to people familiar with the matter.",
   "techmeme_url": "https://www.techmeme.com/260924/p4",
   "title": "Sources: Schneider Electric is nearing a deal to acquire Bulgaria-based smart home device maker Shelly Group at a €1.27B valuation, excluding debt (Bloomberg)"
+ },
+ "a260924p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/revolut-is-bringing-facial-recognition-checkout-to-uk-businesses",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p8",
+  "summary": "Revolut Ltd. is piloting a new point-of-sale system in the UK that will let customers make in-store payments using their faces, as it pushes to bank more businesses.",
+  "techmeme_url": "https://www.techmeme.com/260924/p8",
+  "title": "Revolut is piloting a new POS system that uses facial recognition for payments at the UK coffee chain Kiss the Hippo, ahead of a full launch later in 2026 (Charlie Wells/Bloomberg)"
+ },
+ "a260924p9": {
+  "article_url": "https://asia.nikkei.com/business/tech/semiconductors/cxmt-smic-power-620-surge-in-profits-in-china-s-chip-industry",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p9",
+  "summary": "SHANGHAI — Earnings at Chinese chipmakers have grown more than 600% during the first half, buoyed by the artificial intelligence boom …",
+  "techmeme_url": "https://www.techmeme.com/260924/p9",
+  "title": "Analysis: total net profit at ~190 chipmakers listed in mainland China rose 620% YoY in H1 2026, driven by the AI boom and China's self-sufficiency campaign (Tomoko Wakasugi/Nikkei Asia)"
  }
 }
