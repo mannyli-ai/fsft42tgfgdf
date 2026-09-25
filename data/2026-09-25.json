@@ -23,6 +23,70 @@
   "techmeme_url": "https://www.techmeme.com/260925/p11",
   "title": "Sources: SK Hynix's US-based NAND and SSD subsidiary Solidigm is exploring an IPO as early as 2027 that could raise $15B and value the unit at up to $150B (Reuters)"
  },
+ "a260925p12": {
+  "article_url": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p12",
+  "summary": "President Donald Trump said Friday that Treasury Secretary Scott Bessent will not be tapped to be his artificial intelligence czar.",
+  "techmeme_url": "https://www.techmeme.com/260925/p12",
+  "title": "President Trump says Scott Bessent is not \"going to be Super Intelligence (SI) Czar\", because \"he doesn't want to\" and Trump wants to keep him at the Treasury (Dan Mangan/CNBC)"
+ },
+ "a260925p13": {
+  "article_url": "https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p13",
+  "summary": "A jury in Santa Fe, New Mexico, found on Friday that Meta Platforms (META.O) misled the state's residents, in a case stemming …",
+  "techmeme_url": "https://www.techmeme.com/260925/p13",
+  "title": "A jury finds Meta liable for misleading New Mexico residents about third-party data sharing, content moderation, and more in the Cambridge Analytica scandal (Diana Novak Jones/Reuters)"
+ },
+ "a260925p14": {
+  "article_url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p14",
+  "summary": "Nscale, a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday.",
+  "techmeme_url": "https://www.techmeme.com/260925/p14",
+  "title": "Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November (Marina Temkin/TechCrunch)"
+ },
+ "a260925p15": {
+  "article_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p15",
+  "summary": "In a new interview, Microsoft Surface CVP confirms that its new Surface PCs are no longer called Copilot+ PCs, but will still support all Copilot+ features.",
+  "techmeme_url": "https://www.techmeme.com/260925/p15",
+  "title": "Microsoft confirms that 2026 Surface PCs have dropped the Copilot+ PC branding, even though they meet all the requirements of Copilot+ devices (Zac Bowden/Windows Central)"
+ },
+ "a260925p16": {
+  "article_url": "https://www.uploadvr.com/meta-hologram-realistic-avatars-meta-vr-glasses-connect-2026/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p16",
+  "summary": "Meta finally set a concrete timeline to ship realistic avatars, called Holograms, its take on Apple Vision Pro's Personas.",
+  "techmeme_url": "https://www.techmeme.com/260925/p16",
+  "title": "A look at Holograms, Meta's take on Apple Vision Pro's Personas, launching with a shoulders-up version this fall for WhatsApp calls on Ray-Ban Display glasses (David Heaney/UploadVR)"
+ },
+ "a260925p17": {
+  "article_url": "https://www.reuters.com/business/finance/us-appeals-court-rules-against-kalshi-says-states-can-regulate-prediction-2026-09-25/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p17",
+  "summary": "A US appeals court on Friday ruled against the prediction markets operator Kalshi, saying states can regulate …",
+  "techmeme_url": "https://www.techmeme.com/260925/p17",
+  "title": "A US appeals court rules that Kalshi's sports contracts are not \"swaps\" subject only to CFTC regulation, allowing states to regulate them under gambling laws (Jonathan Stempel/Reuters)"
+ },
+ "a260925p18": {
+  "article_url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html?unlocked_article_code=1.D1E.TERU.qXYkI2fp0Pp9&smid=url-share",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p18",
+  "summary": "A new report by a Bay Area start-up called Parse adds details to an incident that has shocked the A.I. world and led to calls for closer government regulation.",
+  "techmeme_url": "https://www.techmeme.com/260925/p18",
+  "title": "Researchers add details to the Hugging Face incident, including OpenAI agents creating ~1M shortened URLs to encode information in an attempt to solve CAPTCHAs (New York Times)"
+ },
+ "a260925p19": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-25/smart-ring-maker-oura-s-ipo-is-about-four-times-oversubscribed",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p19",
+  "summary": "Health and fitness ring-maker Oura Inc.'s initial public offering raising as much as $2.2 billion has drawn about four times …",
+  "techmeme_url": "https://www.techmeme.com/260925/p19",
+  "title": "Sources: Oura IPO is roughly four times oversubscribed; Filing: Oura and the selling shareholders are offering 50M shares for $40 to $44 each to raise ~$2.2B (Bloomberg)"
+ },
  "a260925p2": {
   "article_url": "https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900",
   "date": "2026-09-25",
@@ -30,6 +94,22 @@
   "summary": "It is true that these numbers can hide some sleight of hand — It would be a brave or foolhardy investor who set out today to build a new Walmart, Uber or Amazon.",
   "techmeme_url": "https://www.techmeme.com/260925/p2",
   "title": "Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)"
+ },
+ "a260925p20": {
+  "article_url": "https://www.reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p20",
+  "summary": "Two months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand …",
+  "techmeme_url": "https://www.techmeme.com/260925/p20",
+  "title": "Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users (Reuters)"
+ },
+ "a260925p21": {
+  "article_url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p21",
+  "summary": "US Federal Trade Commission Chairman Andrew Ferguson said on Friday he would resist describing AI agents as autonomous actors that …",
+  "techmeme_url": "https://www.techmeme.com/260925/p21",
+  "title": "FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with \"wills and desires\", suggesting developers hold liability (Reuters)"
  },
  "a260925p3": {
   "article_url": "https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety",
