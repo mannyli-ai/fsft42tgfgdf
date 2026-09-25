@@ -7,6 +7,22 @@
   "techmeme_url": "https://www.techmeme.com/260925/p1",
   "title": "Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China's AI push (Reuters)"
  },
+ "a260925p10": {
+  "article_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p10",
+  "summary": "Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+  "techmeme_url": "https://www.techmeme.com/260925/p10",
+  "title": "A federal appeals court upholds DOD's Anthropic blacklisting, finding Claude's integration with DOD systems is \"a statutorily covered national-security risk\" (Ashley Capoot/CNBC)"
+ },
+ "a260925p11": {
+  "article_url": "https://www.reuters.com/world/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-up-150-billion-sources-2026-09-25/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p11",
+  "summary": "Chipmaker SK Hynix's (000660.KS) Solidigm is considering an initial public offering as early as next year that could value the US subsidiary …",
+  "techmeme_url": "https://www.techmeme.com/260925/p11",
+  "title": "Sources: SK Hynix's US-based NAND and SSD subsidiary Solidigm is exploring an IPO as early as 2027 that could raise $15B and value the unit at up to $150B (Reuters)"
+ },
  "a260925p2": {
   "article_url": "https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900",
   "date": "2026-09-25",
@@ -30,5 +46,45 @@
   "summary": "Oracle sent a force majeure notice to developer, has removed a key partner and faces local resistance in ‘Project Jupiter’",
   "techmeme_url": "https://www.techmeme.com/260925/p4",
   "title": "Project Jupiter, the New Mexico data center for which Oracle made major financial commitments, faces power and permitting hurdles, exposing Oracle's AI risks (Wall Street Journal)"
+ },
+ "a260925p5": {
+  "article_url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p5",
+  "summary": "The new Copilot merges AI chat, coding, and Autopilot agents.﻿ — After teasing its new Copilot “super app” …",
+  "techmeme_url": "https://www.techmeme.com/260925/p5",
+  "title": "Microsoft launches its Copilot \"super app\", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot (Tom Warren/The Verge)"
+ },
+ "a260925p6": {
+  "article_url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p6",
+  "summary": "Bill Gates will warn on this weekend's “Meet the Press” that he can see a future where AI wipes out humanity.",
+  "techmeme_url": "https://www.techmeme.com/260925/p6",
+  "title": "Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)"
+ },
+ "a260925p7": {
+  "article_url": "https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p7",
+  "summary": "Tesla has ramped up production of its Optimus humanoid robot roughly tenfold in recent months, but the company is still struggling …",
+  "techmeme_url": "https://www.techmeme.com/260925/p7",
+  "title": "Sources: Tesla ramped up Optimus production to several hundred units per week but faces hurdles with its hands, automation equipment, and supplier constraints (The Information)"
+ },
+ "a260925p8": {
+  "article_url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p8",
+  "summary": "When Sara Du was helping companies build MCP servers in 2025, people kept asking her how they could use AI agents from within Slack itself.",
+  "techmeme_url": "https://www.techmeme.com/260925/p8",
+  "title": "Ando, which is building a team messaging platform for both humans and AI agents, comes out of stealth with $20M in pre-seed and seed funding (Dominic-Madori Davis/TechCrunch)"
+ },
+ "a260925p9": {
+  "article_url": "https://thezvi.substack.com/p/on-ezra-kleins-podcast-with-jensen",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p9",
+  "summary": "Jensen Huang accidentally called for shutting down OpenAI and intentionally called for spending vastly more on safety.",
+  "techmeme_url": "https://www.techmeme.com/260925/p9",
+  "title": "Jensen Huang tells Ezra Klein that AI is just software whose existential risks are overstated, yet his standards would shut down OpenAI and 10x safety spending (Zvi Mowshowitz/Don't Worry About the Vase)"
  }
 }
