@@ -343,6 +343,70 @@
   "techmeme_url": "https://www.techmeme.com/260924/p48",
   "title": "Anthropic commits to spending $11.6B over seven years on Akamai cloud services and secures an option to take a stake of up to 5%; AKAM jumps 17%+ after hours (Harshita Mary Varghese/Reuters)"
  },
+ "a260924p49": {
+  "article_url": "https://www.wsj.com/business/jeff-bezos-blue-origin-is-fueled-with-30-billion-of-his-fortune-b7407e6e?st=cFbJLc&reflink=desktopwebshare_permalink",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p49",
+  "summary": "The space company wants to rapidly boost revenue in the coming years, betting its rockets will make it a powerful industry player",
+  "techmeme_url": "https://www.techmeme.com/260924/p49",
+  "title": "Documents: Jeff Bezos has invested $30B in Blue Origin since 2000, including $2B in its first outside funding round, which has raised $10B at a $140B valuation (Micah Maidenberg/Wall Street Journal)"
+ },
+ "a260924p50": {
+  "article_url": "https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p50",
+  "summary": "Anthropic is asking shareholders to approve a new corporate structure that would award CEO Dario Amodei and his six cofounders …",
+  "techmeme_url": "https://www.techmeme.com/260924/p50",
+  "title": "Sources: Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes (The Information)"
+ },
+ "a260924p51": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/bitget-says-351-million-affected-in-breach-halts-withdrawals",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p51",
+  "summary": "Crypto exchange Bitget said it detected unauthorized transfers from some of its hot- and warm-wallet infrastructure and activated emergency response protocols.",
+  "techmeme_url": "https://www.techmeme.com/260924/p51",
+  "title": "Bitget halts withdrawals after detecting unauthorized transfers from some hot and warm wallets, affecting ~$351.6M; CEO Gracy Chen says \"user funds are safe\" (Matthew Brockett/Bloomberg)"
+ },
+ "a260924p52": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p52",
+  "summary": "Databricks bought RowZero as it looks to build out its AI coworker platform Genie, co-founder Patrick Wendell tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260924/p52",
+  "title": "Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year (Chris Metinko/Axios)"
+ },
+ "a260924p53": {
+  "article_url": "https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.PFlH.ftkxDtVPfZyg&smid=nytcore-android-share",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p53",
+  "summary": "The use of artificial intelligence by hospitals and health insurers is escalating their longstanding feud over paying for medical care.",
+  "techmeme_url": "https://www.techmeme.com/260924/p53",
+  "title": "Report: insurers claim hospitals' AI use was responsible for ~$1B in extra expenses in 2024-25, as hospitals collect more patient data and submit larger claims (New York Times)"
+ },
+ "a260924p54": {
+  "article_url": "https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html?unlocked_article_code=1.DlE.5Ayg.3f3R9qmq3YiM&smid=bs-share",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p54",
+  "summary": "In response to a New York Times report on DraftKings, the state's gaming commission said it would evaluate how each company deployed the technology.",
+  "techmeme_url": "https://www.techmeme.com/260924/p54",
+  "title": "Massachusetts' gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation (New York Times)"
+ },
+ "a260924p55": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p55",
+  "summary": "Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways.",
+  "techmeme_url": "https://www.techmeme.com/260924/p55",
+  "title": "Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl (Robert Hart/The Verge)"
+ },
+ "a260924p56": {
+  "article_url": "https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation",
+  "date": "2026-09-24",
+  "permalink_id": "a260924p56",
+  "summary": "DensityAI, an AI chip startup founded just a year ago by former leaders of Tesla's Dojo supercomputer program, is in advanced talks …",
+  "techmeme_url": "https://www.techmeme.com/260924/p56",
+  "title": "Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation (The Information)"
+ },
  "a260924p8": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/revolut-is-bringing-facial-recognition-checkout-to-uk-businesses",
   "date": "2026-09-24",
