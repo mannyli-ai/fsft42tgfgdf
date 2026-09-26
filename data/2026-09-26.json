@@ -1,0 +1,26 @@
+{
+ "a260926p1": {
+  "article_url": "https://openai.com/",
+  "date": "2026-09-26",
+  "permalink_id": "a260926p1",
+  "summary": "Summary — An agent attempting to complete a search-based training task queried a public chatbot service through a gap …",
+  "techmeme_url": "https://www.techmeme.com/260926/p1",
+  "title": "OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)"
+ },
+ "a260926p2": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-26/deel-dealt-fresh-setbacks-in-rippling-case-over-alleged-spying",
+  "date": "2026-09-26",
+  "permalink_id": "a260926p2",
+  "summary": "Deel Inc. was hit with new setbacks in Rippling Inc.'s corporate espionage litigation against the HR startup.",
+  "techmeme_url": "https://www.techmeme.com/260926/p2",
+  "title": "A US federal judge dealt fresh setbacks to Deel in the Rippling case over alleged spying, including rejecting its bid to strike testimony from a central witness (Peter Blumberg/Bloomberg)"
+ },
+ "a260926p3": {
+  "article_url": "https://www.reuters.com/business/media-telecom/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-sway-policy-2026-09-25/",
+  "date": "2026-09-26",
+  "permalink_id": "a260926p3",
+  "summary": "Joe Lonsdale, an investor in Anthropic and the co-founder of technology company Palantir (PLTR.O), said on Friday that efforts …",
+  "techmeme_url": "https://www.techmeme.com/260926/p3",
+  "title": "Palantir and 8VC cofounder Joe Lonsdale, an investor in Anthropic, says AI companies are attempting to sway public policy by warning of existential AI risks (Joe Brock/Reuters)"
+ }
+}

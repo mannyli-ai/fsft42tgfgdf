@@ -111,6 +111,54 @@
   "techmeme_url": "https://www.techmeme.com/260925/p21",
   "title": "FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with \"wills and desires\", suggesting developers hold liability (Reuters)"
  },
+ "a260925p22": {
+  "article_url": "https://x.com/openai",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p22",
+  "summary": "We've shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn't have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l...",
+  "techmeme_url": "https://www.techmeme.com/260925/p22",
+  "title": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)"
+ },
+ "a260925p23": {
+  "article_url": "https://www.reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p23",
+  "summary": "TikTok and its Chinese parent company, ByteDance, have reached a settlement with Alabama over allegations they designed the platform …",
+  "techmeme_url": "https://www.techmeme.com/260925/p23",
+  "title": "TikTok reaches a settlement with Alabama over social media addiction claims; Alabama will receive at least $100M, and up to $300M if certain conditions are met (Gnaneshwar Rajan/Reuters)"
+ },
+ "a260925p24": {
+  "article_url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p24",
+  "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata …",
+  "techmeme_url": "https://www.techmeme.com/260925/p24",
+  "title": "Former US Army soldier Cameron Wagenius, who pleaded guilty in 2025 to hacking into telecom companies and to extortion, is sentenced to 70 months in prison (Brian Krebs/Krebs on Security)"
+ },
+ "a260925p25": {
+  "article_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html?unlocked_article_code=1.D1E.Du-Q.ZNLxjZe9REPr&smid=nytcore-android-share",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p25",
+  "summary": "The company did not learn until recently that its technology had meddled with websites for the Education Department …",
+  "techmeme_url": "https://www.techmeme.com/260925/p25",
+  "title": "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)"
+ },
+ "a260925p26": {
+  "article_url": "https://www.reuters.com/legal/litigation/us-lawmakers-aim-keep-chinas-datacenter-tech-out-sensitive-government-systems-2026-09-25/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p26",
+  "summary": "A bipartisan group of US lawmakers introduced legislation on Friday to bar the federal government from equipping sensitive government systems …",
+  "techmeme_url": "https://www.techmeme.com/260925/p26",
+  "title": "A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers (Alexandra Alper/Reuters)"
+ },
+ "a260925p27": {
+  "article_url": "https://www.reuters.com/legal/government/shinyhunters-hackers-expanded-attacks-oracles-peoplesoft-google-says-2026-09-26/",
+  "date": "2026-09-25",
+  "permalink_id": "a260925p27",
+  "summary": "Google's cybersecurity unit said on Friday that hacking group ShinyHunters has renewed “mass exploitation” …",
+  "techmeme_url": "https://www.techmeme.com/260925/p27",
+  "title": "Google says ShinyHunters has renewed \"mass exploitation\" of a flaw in Oracle's PeopleSoft; ShinyHunters has said it accessed FBI data using a flaw in PeopleSoft (Reuters)"
+ },
  "a260925p3": {
   "article_url": "https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety",
   "date": "2026-09-25",
