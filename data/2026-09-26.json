@@ -7,6 +7,30 @@
   "techmeme_url": "https://www.techmeme.com/260926/p1",
   "title": "OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)"
  },
+ "a260926p10": {
+  "article_url": "https://www.ft.com/content/e375ba2b-8033-426a-aa63-0f22dd06e689",
+  "date": "2026-09-26",
+  "permalink_id": "a260926p10",
+  "summary": "UK fintech is also in discussions with private equity about selling a significant stake in the business",
+  "techmeme_url": "https://www.techmeme.com/260926/p10",
+  "title": "Sources: Monzo is in talks to be acquired by Nubank parent Nu Holdings in a deal valuing it at £8B-£10B; Monzo also discussed selling a ~15% stake to PE firms (Laith Al-Khalaf/Financial Times)"
+ },
+ "a260926p11": {
+  "article_url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+  "date": "2026-09-26",
+  "permalink_id": "a260926p11",
+  "summary": "Automattic CEO Matt Mullenweg has rebuilt the company's board just weeks after its previous directors tried, and failed, to oust him.",
+  "techmeme_url": "https://www.techmeme.com/260926/p11",
+  "title": "Sources: Automattic CEO Matt Mullenweg announces a new board and new advisers; board members include two founders of IRL and the author of the Silo book series (Sarah Perez/TechCrunch)"
+ },
+ "a260926p12": {
+  "article_url": "https://www.hollywoodreporter.com/business/digital/elon-musk-documentary-trailer-rejected-tiktok-youtube-1236710259/",
+  "date": "2026-09-26",
+  "permalink_id": "a260926p12",
+  "summary": "YouTube, TikTok and Meta have all turned down the trailer for the Oct. 9 doc, citing “political” content. X won't even take Bleecker Street's calls.",
+  "techmeme_url": "https://www.techmeme.com/260926/p12",
+  "title": "Sources: YouTube, TikTok, and Meta's Instagram and Facebook decline to run paid ads for Alex Gibney's Musk documentary, citing \"political content\" (Steven Zeitchik/The Hollywood Reporter)"
+ },
  "a260926p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-26/deel-dealt-fresh-setbacks-in-rippling-case-over-alleged-spying",
   "date": "2026-09-26",
@@ -54,5 +78,21 @@
   "summary": "The dawn of a new computing era may finally be here. Now the race is on to find a path to profit.",
   "techmeme_url": "https://www.techmeme.com/260926/p7",
   "title": "PitchBook: VCs have invested $4B+ in quantum computing companies YTD, almost as much as in all of 2025, which nearly matched the previous four years combined (Financial Times)"
+ },
+ "a260926p8": {
+  "article_url": "https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd",
+  "date": "2026-09-26",
+  "permalink_id": "a260926p8",
+  "summary": "Largest US retailer issues open letter saying it will not use electronic shelf labels to change costs based on shopper identity",
+  "techmeme_url": "https://www.techmeme.com/260926/p8",
+  "title": "Walmart CEO John Furner says the company won't use its AI shopping assistant or electronic shelf labels to change product prices based on a shopper's identity (Gregory Meyer/Financial Times)"
+ },
+ "a260926p9": {
+  "article_url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+  "date": "2026-09-26",
+  "permalink_id": "a260926p9",
+  "summary": "The U.S. and China have agreed to set up a dialogue on artificial intelligence, with a communications channel …",
+  "techmeme_url": "https://www.techmeme.com/260926/p9",
+  "title": "The US and China create a \"Super Intelligence Dialogue\" on AI risks and a separate AI incident hotline, likened to a Cold War-era \"red telephone\" (Ben Berkowitz/Axios)"
  }
 }
