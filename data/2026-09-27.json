@@ -14,5 +14,29 @@
   "summary": "A startup called PicoJool that's backed by former Intel Corp. Chief Executive Pat Gelsinger says it's ready to help ease the strain …",
   "techmeme_url": "https://www.techmeme.com/260927/p2",
   "title": "PicoJool, which is developing AI data center interconnects based on vertical cavity surface emitting lasers, raised a $27.5M Series A led by Socratic Partners (Mike Wheatley/SiliconANGLE)"
+ },
+ "a260927p3": {
+  "article_url": "https://www.theblock.co/news/business/2026-09-24-hifi-raises-37-million-series-a-to-expand-tokenized-capital-markets-infrastructure-416242",
+  "date": "2026-09-27",
+  "permalink_id": "a260927p3",
+  "summary": "The funding follows HIFI's role in DTCC's July tokenized-asset trades and a September Visa partnership for stablecoin-funded payouts.",
+  "techmeme_url": "https://www.techmeme.com/260927/p3",
+  "title": "New York City-based HIFI, which provides API infrastructure for stablecoin payments and settlements, raised a $37M Series A led by Left Lane Capital (Brian Danga/The Block)"
+ },
+ "a260927p4": {
+  "article_url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?st=6WvYkF",
+  "date": "2026-09-27",
+  "permalink_id": "a260927p4",
+  "summary": "Effective altruism and its fears that AI could wipe out humanity have wielded big influence at Anthropic",
+  "techmeme_url": "https://www.techmeme.com/260927/p4",
+  "title": "How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry (Wall Street Journal)"
+ },
+ "a260927p5": {
+  "article_url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html?unlocked_article_code=1.EVE.h8tG.lRHxbBc3XBI8&smid=url-share",
+  "date": "2026-09-27",
+  "permalink_id": "a260927p5",
+  "summary": "In China, A.I. doomsday warnings can feel distinctly Western or like a ploy to stop Chinese A.I. companies from trying to overtake their U.S. rivals.",
+  "techmeme_url": "https://www.techmeme.com/260927/p5",
+  "title": "In China, recent warnings about existential AI risks are seen as distinctly Western or as a ploy to stop Chinese AI companies from overtaking their US rivals (Lily Kuo/New York Times)"
  }
 }
