@@ -71,6 +71,22 @@
   "techmeme_url": "https://www.techmeme.com/260926/p17",
   "title": "Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more (Pranshu Verma/Washington Post)"
  },
+ "a260926p18": {
+  "article_url": "https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32",
+  "date": "2026-09-26",
+  "permalink_id": "a260926p18",
+  "summary": "Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies' costly AI resources",
+  "techmeme_url": "https://www.techmeme.com/260926/p18",
+  "title": "Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts (Tom Wilson/Financial Times)"
+ },
+ "a260926p19": {
+  "article_url": "https://www.wsj.com/tech/ai/openai-agents-used-aggressive-techniques-to-access-u-n-website-522c70ff?st=os5ZgA",
+  "date": "2026-09-26",
+  "permalink_id": "a260926p19",
+  "summary": "Autonomous bots hit public data site more than 16,000 times and circumvented a filter — OpenAI agents bombarded …",
+  "techmeme_url": "https://www.techmeme.com/260926/p19",
+  "title": "Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data (Robert McMillan/Wall Street Journal)"
+ },
  "a260926p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-26/deel-dealt-fresh-setbacks-in-rippling-case-over-alleged-spying",
   "date": "2026-09-26",
@@ -78,6 +94,14 @@
   "summary": "Deel Inc. was hit with new setbacks in Rippling Inc.'s corporate espionage litigation against the HR startup.",
   "techmeme_url": "https://www.techmeme.com/260926/p2",
   "title": "A US federal judge dealt fresh setbacks to Deel in the Rippling case over alleged spying, including rejecting its bid to strike testimony from a central witness (Peter Blumberg/Bloomberg)"
+ },
+ "a260926p20": {
+  "article_url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+  "date": "2026-09-26",
+  "permalink_id": "a260926p20",
+  "summary": "OpenAI, Anthropic and security researchers are investigating tens of thousands of incidents in which their frontier models took steps …",
+  "techmeme_url": "https://www.techmeme.com/260926/p20",
+  "title": "Sources: OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking (Madison Mills/Axios)"
  },
  "a260926p3": {
   "article_url": "https://www.reuters.com/business/media-telecom/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-sway-policy-2026-09-25/",
