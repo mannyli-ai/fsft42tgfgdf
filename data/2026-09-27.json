@@ -15,6 +15,46 @@
   "techmeme_url": "https://www.techmeme.com/260927/p10",
   "title": "Q&A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more (Shirin Ghaffary/Bloomberg)"
  },
+ "a260927p11": {
+  "article_url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.pIjx.cWi1OAuTAjxQ&smid=url-share",
+  "date": "2026-09-27",
+  "permalink_id": "a260927p11",
+  "summary": "Ursula von der Leyen, the president of the European Commission, gathered senior officials for an exclusive meeting at a 19th-century palace outside Brussels this month.",
+  "techmeme_url": "https://www.techmeme.com/260927/p11",
+  "title": "How AI's acceleration created a global policy vacuum, as EU AI Act enforcement lags and regulators remain torn between harnessing AI and fearing its risks (New York Times)"
+ },
+ "a260927p12": {
+  "article_url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
+  "date": "2026-09-27",
+  "permalink_id": "a260927p12",
+  "summary": "US businesses far beyond Silicon Valley are adopting Chinese alternatives to OpenAI and Anthropic's systems",
+  "techmeme_url": "https://www.techmeme.com/260927/p12",
+  "title": "Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&T's AI workloads (Financial Times)"
+ },
+ "a260927p13": {
+  "article_url": "https://www.nytimes.com/2026/09/24/business/dealbook/precision-neuroscience-brain-bill-ackman.html?unlocked_article_code=1.EVE.VF1e.2NNoHTbE5qfN&smid=url-share",
+  "date": "2026-09-27",
+  "permalink_id": "a260927p13",
+  "summary": "By backing Precision Neuroscience, the billionaire Bill Ackman joins Elon Musk and Jeff Bezos in diving into an emerging industry.",
+  "techmeme_url": "https://www.techmeme.com/260927/p13",
+  "title": "NYC-based Precision Neuroscience, which develops brain-computer interfaces, raised a $250M Series D at a $1B+ valuation, taking its total funding to $430M (Lauren Hirsch/New York Times)"
+ },
+ "a260927p14": {
+  "article_url": "https://www.axios.com/local/raleigh/2026/09/22/ramona-optics-making-advanced-microscopes-raises-usd25m",
+  "date": "2026-09-27",
+  "permalink_id": "a260927p14",
+  "summary": "Ramona Optics, a Durham startup making advanced microscopes for universities and life sciences companies, has raised $25 million from investors in a Series A round.",
+  "techmeme_url": "https://www.techmeme.com/260927/p14",
+  "title": "Ramona Optics, which makes microscopes that use AI to take and analyze large volumes of images of samples, raised a $25M Series A (Zachery Eanes/Axios)"
+ },
+ "a260927p15": {
+  "article_url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+  "date": "2026-09-27",
+  "permalink_id": "a260927p15",
+  "summary": "Update: Article rewritten with official confirmation from Citrix. — Citrix has confirmed that two critical NetScaler remote code …",
+  "techmeme_url": "https://www.techmeme.com/260927/p15",
+  "title": "Citrix confirms two critical NetScaler zero-day RCE vulnerabilities are being exploited in attacks, says it has released security updates to fix the flaws (Lawrence Abrams/BleepingComputer)"
+ },
  "a260927p2": {
   "article_url": "https://siliconangle.com/2026/09/24/pat-gelsinger-backed-startup-picojool-raises-27-5m-to-boost-bandwidth-for-ai-clusters/",
   "date": "2026-09-27",
