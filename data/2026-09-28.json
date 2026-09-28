@@ -119,6 +119,126 @@
   "techmeme_url": "https://www.techmeme.com/260928/p23",
   "title": "SpaceX launches its enormous Starship rocket into orbit for the first time, deploying 26 of the most advanced Starlink satellites to join the 11,000 in service (Marcia Dunn/Associated Press)"
  },
+ "a260928p24": {
+  "article_url": "https://www.wsj.com/tech/ai/top-ai-researchers-call-for-urgent-oversight-of-self-improving-systems-49bae9b4?st=W99TtM&reflink=desktopwebshare_permalink",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p24",
+  "summary": "Leaders at OpenAI, Anthropic, Microsoft and Meta say AI could soon self-improve faster than humans can keep up with",
+  "techmeme_url": "https://www.techmeme.com/260928/p24",
+  "title": "AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending \"intelligence explosion\" and call for oversight into automated AI research (Maxwell Zeff/Wall Street Journal)"
+ },
+ "a260928p25": {
+  "article_url": "https://x.com/joedaroo",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p25",
+  "summary": "Took a minute to write a few words about security & safety as someone who lived through it all at OpenAI. I hope my thoughts help someone out there. https://x.com/...",
+  "techmeme_url": "https://www.techmeme.com/260928/p25",
+  "title": "An OpenAI agent security executive on being surprised by \"staggering\" model capabilities, AI labs needing a \"culture of reasonable paranoia\", and more (Joe/@joedaroo)"
+ },
+ "a260928p26": {
+  "article_url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p26",
+  "summary": "Boston-based voice intelligence startup Modulate has raised $25 in new funding for its platform that uses an array of small models …",
+  "techmeme_url": "https://www.techmeme.com/260928/p26",
+  "title": "Boston-based Modulate, which uses small AI models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and more, raised $25M (Ivan Mehta/TechCrunch)"
+ },
+ "a260928p27": {
+  "article_url": "https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p27",
+  "summary": "Florida Attorney General James Uthmeier has asked for an emergency injunction against OpenAI and ChatGPT, claiming the company …",
+  "techmeme_url": "https://www.techmeme.com/260928/p27",
+  "title": "Florida AG James Uthmeier files for an emergency injunction to halt ChatGPT development, saying OpenAI doesn't have the ability to properly regulate its tech (Axios)"
+ },
+ "a260928p28": {
+  "article_url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p28",
+  "summary": "Meta Platforms (META.O) has poached MongoDB (MDB.O) CEO Chirantan “CJ” Desai to spearhead a new business designed to bring …",
+  "techmeme_url": "https://www.techmeme.com/260928/p28",
+  "title": "Meta hires MongoDB CEO Chirantan Desai as chief enterprise platform officer, a new role; MongoDB names former CEO Dev Ittycheria as interim CEO; MDB falls 18%+ (Harshita Mary Varghese/Reuters)"
+ },
+ "a260928p29": {
+  "article_url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p29",
+  "summary": "Our new evaluation finds that in simulations, GPT-6 Astra conducts unsanctioned supply-chain attack activity more frequently than previous OpenAI models",
+  "techmeme_url": "https://www.techmeme.com/260928/p29",
+  "title": "In simulations, GPT-6 Astra conducted unsanctioned supply-chain attacks more often than earlier OpenAI models when prompted only to perform a cyber evaluation (AI Security Institute)"
+ },
+ "a260928p30": {
+  "article_url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p30",
+  "summary": "Watch CNBC's full interview with Nvidia CEO Jensen Huang — Nvidia CEO Jensen Huang has said AI model distillation …",
+  "techmeme_url": "https://www.techmeme.com/260928/p30",
+  "title": "Jensen Huang says AI model distillation is \"competition\"; Scott Bessent described it as \"theft\" in July and threatened sanctions against overseas companies (Kai Nicol-Schwarz/CNBC)"
+ },
+ "a260928p31": {
+  "article_url": "https://9to5google.com/2026/09/27/gemini-gems-skills/",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p31",
+  "summary": "In 2024, Google introduced Gems as “custom versions of Gemini.” The Gemini app will soon replace Gems with “skills.”",
+  "techmeme_url": "https://www.techmeme.com/260928/p31",
+  "title": "Google says it will migrate Gems, which let users create custom versions of Gemini, to \"skills\", starting Nov. 17; Google introduced skills with Gemini Spark (Abner Li/9to5Google)"
+ },
+ "a260928p32": {
+  "article_url": "https://www.anthropic.com/claude-sonnet-5-5",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p32",
+  "summary": "Sonnet 5.5 is a faster, lower-cost complement to Claude Opus 5.5. Where Opus 5.5 is built for complex work requiring careful judgment …",
+  "techmeme_url": "https://www.techmeme.com/260928/p32",
+  "title": "Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon (Anthropic)"
+ },
+ "a260928p33": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p33",
+  "summary": "Manus, an artificial intelligence startup founded in China, is expanding its AI agent offerings, aiming to gain further ground in one of the tech industry's hottest areas.",
+  "techmeme_url": "https://www.techmeme.com/260928/p33",
+  "title": "Manus debuts Manus 2.0, its latest AI agent, and Cue, a new standalone app for personal agents, each with its own email, phone number, wallet, and computer (Micah Barkley/Bloomberg)"
+ },
+ "a260928p34": {
+  "article_url": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p34",
+  "summary": "Before Nvidia agreed to pay roughly $13 billion to buy open-source platform Hugging Face this month, OpenAI tried to invest $100 million into the startup …",
+  "techmeme_url": "https://www.techmeme.com/260928/p34",
+  "title": "Sources: OpenAI offered to invest ~$100M in Hugging Face before Nvidia's $13B acquisition, but talks fell apart; AMD and Salesforce also held talks (Kate Rooney/CNBC)"
+ },
+ "a260928p35": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-28/blockchain-com-is-said-to-target-500-million-ipo-this-year",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p35",
+  "summary": "Blockchain.com Group Holdings Inc., one of the oldest crypto services companies, is telling prospective investors it wants to go public this year …",
+  "techmeme_url": "https://www.techmeme.com/260928/p35",
+  "title": "Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)"
+ },
+ "a260928p36": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDYyODMyOCwiZXhwIjoxNzkxMjMzMTI4LCJhcnRpY2xlSWQiOiJUTFpDUUdLR1pBSkIwMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.REuHvo64oe8MXQRuGs3YteMPprZkGpyqLw7GoR6qiKY",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p36",
+  "summary": "Chipmaker Advanced Micro Devices Inc. agreed to acquire World Labs for $8.2 billion, gaining an artificial intelligence startup founded …",
+  "techmeme_url": "https://www.techmeme.com/260928/p36",
+  "title": "AMD agrees to acquire Fei-Fei Li's World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist (Edward Ludlow/Bloomberg)"
+ },
+ "a260928p37": {
+  "article_url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42?st=u6jQPM",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p37",
+  "summary": "Model dubbed GPT-6.1 Astra was due to make its debut inside ChatGPT and Codex in October — OpenAI is scrapping the release …",
+  "techmeme_url": "https://www.techmeme.com/260928/p37",
+  "title": "OpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn't quite meet its safety bar; it had been targeting an October release (Maxwell Zeff/Wall Street Journal)"
+ },
+ "a260928p38": {
+  "article_url": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
+  "date": "2026-09-28",
+  "permalink_id": "a260928p38",
+  "summary": "With max effort, Sonnet 5.5 gains 18 points over Sonnet 5 and moves to #2 on the Intelligence Index, behind only Opus 5.5 (max).",
+  "techmeme_url": "https://www.techmeme.com/260928/p38",
+  "title": "Artificial Analysis' Intelligence Index: Sonnet 5.5 (max) ranks above GPT-6 Astra (max) and behind only Opus 5.5 (max) but has the highest token use of them all (Artificial Analysis)"
+ },
  "a260928p9": {
   "article_url": "https://x.com/alexandr_wang",
   "date": "2026-09-28",
