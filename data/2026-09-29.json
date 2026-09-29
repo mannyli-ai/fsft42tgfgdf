@@ -87,6 +87,38 @@
   "techmeme_url": "https://www.techmeme.com/260929/p2",
   "title": "Coinbase gets CFTC approval for Coinbase Clearing, completing its derivatives stack, letting it list, broker, and clear fully collateralized products in-house (Danny Park/The Block)"
  },
+ "a260929p36": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDcwMzYzNiwiZXhwIjoxNzkxMzA4NDM2LCJhcnRpY2xlSWQiOiJUTTRTTFpLSzNOWUEwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.7HTfC-MuSDvHseE_-WELh_56bNEsYQo0SCqnHZoE0BE",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p36",
+  "summary": "OpenAI aims to raise at least $30 billion from investors in a new round of funding, according to people familiar with the matter …",
+  "techmeme_url": "https://www.techmeme.com/260929/p36",
+  "title": "Sources: OpenAI aims to raise at least $30B at a pre-money valuation of around $1.4T, meant to be a bridge round to provide it with capital in place of an IPO (Bloomberg)"
+ },
+ "a260929p37": {
+  "article_url": "https://www.engadget.com/2272248/chatgpt-space-for-work/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p37",
+  "summary": "ChatGPT is coming to Slack and Microsoft Teams too. — OpenAI unveiled several work-related tools at its Dev Day event today, including a hub designed for collaboration.",
+  "techmeme_url": "https://www.techmeme.com/260929/p37",
+  "title": "OpenAI announces ChatGPT Space, a collaborative hub for shared pages and files, available on Pro, Business, and Enterprise plans; it replaces Library (Kris Holt/Engadget)"
+ },
+ "a260929p38": {
+  "article_url": "https://thenewstack.io/openai-decision-api-luna/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p38",
+  "summary": "With the sudden rise of TypeSafe's Jev, decision models have become incredibly popular, so it's not surprising that OpenAI is also announcing …",
+  "techmeme_url": "https://www.techmeme.com/260929/p38",
+  "title": "OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details (Frederic Lardinois/The New Stack)"
+ },
+ "a260929p39": {
+  "article_url": "https://thenewstack.io/sign-in-with-chatgpt/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p39",
+  "summary": "OpenAI has announced that it's making it easier for ChatGPT subscribers to use their allowance inside third-party AI and coding platforms such as Amp …",
+  "techmeme_url": "https://www.techmeme.com/260929/p39",
+  "title": "OpenAI says Plus and Pro subscribers can use their existing plan allowance with 16 launch partners, including Vercel and Devin, via Sign in with ChatGPT (Paul Sawers/The New Stack)"
+ },
  "a260929p4": {
   "article_url": "https://www.cnbc.com/2026/09/29/india-investment-billions-tech-ai-us-china.html",
   "date": "2026-09-29",
@@ -95,6 +127,86 @@
   "techmeme_url": "https://www.techmeme.com/260929/p4",
   "title": "India plans to invest up to $25B in its nascent deep tech industry, as it looks to catch up with the US and China, after investing $11.6B over the past decade (Priyanka Salve/CNBC)"
  },
+ "a260929p40": {
+  "article_url": "https://gamesbeat.com/general-intuition-raises-another-220m-at-6-2b-valuation-for-training-models-with-game-data/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p40",
+  "summary": "General Intuition has raised another $220 million at a $6.2 billion valuation as the company starts making models available for training AI.",
+  "techmeme_url": "https://www.techmeme.com/260929/p40",
+  "title": "General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $220M at a $6.2B valuation, for $650M+ in total funding (Dean Takahashi/GamesBeat)"
+ },
+ "a260929p41": {
+  "article_url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p41",
+  "summary": "OpenAI isn't only coming after productivity software with ChatGPT's new Pages, Slides and Space features — the AI lab is now targeting …",
+  "techmeme_url": "https://www.techmeme.com/260929/p41",
+  "title": "OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations (Sarah Perez/TechCrunch)"
+ },
+ "a260929p42": {
+  "article_url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p42",
+  "summary": "Key Points … Ask about this article... OpenAI is betting on cost efficiency over peak performance.",
+  "techmeme_url": "https://www.techmeme.com/260929/p42",
+  "title": "OpenAI prices GPT-6.1 Sol at $2/1M input and $10/1M output tokens, the same as GPT-6 Sol and Claude Sonnet 5.5, and says it performs well on safety tests (Maximilian Schreiner/The Decoder)"
+ },
+ "a260929p43": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/some-oura-ipo-investors-were-said-to-push-back-citing-valuation",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p43",
+  "summary": "Some investors approached about potentially buying shares in Oura Inc.'s now-delayed initial public offering decided not to go forward …",
+  "techmeme_url": "https://www.techmeme.com/260929/p43",
+  "title": "Sources: some potential Oura IPO investors decided to hold off, citing its ~$15B target valuation and poor post-listing performance of peers like Fitbit (Bloomberg)"
+ },
+ "a260929p44": {
+  "article_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&smid=bs-share",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p44",
+  "summary": "“To be clear,” Christopher Olah told me, “we don't know if A.I. models are conscious. I don't know. I'm genuinely uncertain.",
+  "techmeme_url": "https://www.techmeme.com/260929/p44",
+  "title": "Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude (Elizabeth Dias/New York Times)"
+ },
+ "a260929p45": {
+  "article_url": "https://www.baseten.co/blog/baseten-openai-partnership/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p45",
+  "summary": "Baseten is partnering with OpenAI to serve open models natively via Codex and the Responses API. — Authors — TL;DR",
+  "techmeme_url": "https://www.techmeme.com/260929/p45",
+  "title": "Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API (Dannie Herzberg/Baseten)"
+ },
+ "a260929p46": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-set-to-host-nvidia-anthropic-ceos-to-discuss-ai-risks",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p46",
+  "summary": "President Donald Trump shot down the idea of new federal regulations on artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/260929/p46",
+  "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)"
+ },
+ "a260929p47": {
+  "article_url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p47",
+  "summary": "President Donald Trump on Tuesday said he signed a “morally binding” AI document with tech leaders following …",
+  "techmeme_url": "https://www.techmeme.com/260929/p47",
+  "title": "Trump says he signed a \"morally binding\" AI doc with AI leaders; Mike Johnson calls it a statement of principles that are \"voluntary on behalf of the industry\" (Samantha Subin/CNBC)"
+ },
+ "a260929p48": {
+  "article_url": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p48",
+  "summary": "President Trump said Tuesday that top AI executives agreed to voluntary standards aimed at increasing industry oversight.",
+  "techmeme_url": "https://www.techmeme.com/260929/p48",
+  "title": "Mark Zuckerberg says the voluntary \"accord\" on AI standards that tech executives agreed to includes internal risk reviews and external auditors (Axios)"
+ },
+ "a260929p49": {
+  "article_url": "https://www.reuters.com/world/anthropic-ipo-prospectus-lays-bare-deep-dependence-big-tech-partners-2026-09-29/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p49",
+  "summary": "Anthropic's IPO prospectus shows how much it depends on a small group of customers and tech giants, highlighting key risks …",
+  "techmeme_url": "https://www.techmeme.com/260929/p49",
+  "title": "IPO filing: Anthropic routed 47% of its sales, or ~$2.16B, in 2025 through cloud partners Amazon and Google; analysis: it paid ~$351M back in distribution fees (Reuters)"
+ },
  "a260929p5": {
   "article_url": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
   "date": "2026-09-29",
@@ -102,6 +214,14 @@
   "summary": "Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism …",
   "techmeme_url": "https://www.techmeme.com/260929/p5",
   "title": "Sources: six independent advisory board experts resigned from the Global Internet Forum to Counter Terrorism, as Meta and others push for structural changes (Paresh Dave/Wired)"
+ },
+ "a260929p50": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p50",
+  "summary": "President Donald Trump sees artificial intelligence as suffering from a branding problem …",
+  "techmeme_url": "https://www.techmeme.com/260929/p50",
+  "title": "President Trump signs an executive order requiring federal government agencies to refer to AI as \"Super Intelligence\" or \"SI\" in all official communications (Michael Shepard/Bloomberg)"
  },
  "a260929p6": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots",
