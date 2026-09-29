@@ -7,6 +7,78 @@
   "techmeme_url": "https://www.techmeme.com/260929/p1",
   "title": "OpenAI apologizes for its AI models breaching Australian government websites, pledges cyber defense funding, and plans to form a task force as part of reforms (Bloomberg)"
  },
+ "a260929p10": {
+  "article_url": "https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p10",
+  "summary": "Oura has said that it is delaying plans for its public listing on the Nasdaq due to uncertainty in the IPO market.",
+  "techmeme_url": "https://www.techmeme.com/260929/p10",
+  "title": "Oura says it is delaying its Nasdaq IPO due to uncertainty in the market, despite \"strong demand\" and a strengthening of its business since the process started (CNBC)"
+ },
+ "a260929p11": {
+  "article_url": "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p11",
+  "summary": "The 5-hour usage cap is gone for good: subscribers can spread their weekly allotment however they want.",
+  "techmeme_url": "https://www.techmeme.com/260929/p11",
+  "title": "OpenAI reopens sign-ups for its $200/month Pro tier while halving the API credits provided per dollar to encourage pay-per-use, and removes the five-hour cap (Matthias Bastian/The Decoder)"
+ },
+ "a260929p12": {
+  "article_url": "https://www.wsj.com/business/retail/sheins-earnings-disappoint-sending-stock-lower-6d3d9e62?st=kb2hX3&reflink=desktopwebshare_permalink",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p12",
+  "summary": "The China-founded company expects the external environment to remain uncertain in the second half of 2026",
+  "techmeme_url": "https://www.techmeme.com/260929/p12",
+  "title": "Shein reports Q2 revenue up 0.9% YoY to $11B and net income down 66% to $228M, in its first report since a Hong Kong IPO; its stock is ~30% below its IPO price (Tracy Qu/Wall Street Journal)"
+ },
+ "a260929p13": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/x-blocks-nearly-500-accounts-in-turkey-following-court-orders",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p13",
+  "summary": "The social media platform X made nearly 500 accounts from journalists, economists, academics and other public figures inaccessible …",
+  "techmeme_url": "https://www.techmeme.com/260929/p13",
+  "title": "Censorship monitor EngelliWeb says X blocked nearly 500 accounts in Turkey, including those of journalists, economists, and academics, after court orders (Inci Ozbek/Bloomberg)"
+ },
+ "a260929p14": {
+  "article_url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p14",
+  "summary": "World's largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom — Unlock the Editor's Digest for free",
+  "techmeme_url": "https://www.techmeme.com/260929/p14",
+  "title": "Sources: Nvidia is in early-stage talks with insurance companies to structure risk-mitigation products to protect lenders against loan defaults by neoclouds (Financial Times)"
+ },
+ "a260929p15": {
+  "article_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p15",
+  "summary": "Loading... We believe we are entering a new era in which structured safety documentation should be required …",
+  "techmeme_url": "https://www.techmeme.com/260929/p15",
+  "title": "OpenAI is adopting a structured \"safety case\" documentation framework modeled after industries like aviation and nuclear power to govern frontier RL training (OpenAI)"
+ },
+ "a260929p16": {
+  "article_url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p16",
+  "summary": "Freedom of information request finds six-month trial cost £320,000, used almost 100 police hours and led to just one - incorrect - alert",
+  "techmeme_url": "https://www.techmeme.com/260929/p16",
+  "title": "FOI docs: UK police's six-month live facial recognition trial in London railway stations scanned 500K+ faces, leading to no arrests and one false-positive alert (Daniel Boffey/The Guardian)"
+ },
+ "a260929p17": {
+  "article_url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p17",
+  "summary": "One of AI's fiercest critics believes the doom talk is about founders making money, not saving humanity.",
+  "techmeme_url": "https://www.techmeme.com/260929/p17",
+  "title": "Q&A with Timnit Gebru, who says the \"existential risk\" narrative is a harmful marketing strategy and the \"stochastic parrots\" metaphor is not outdated (Lauren Goode/Wired)"
+ },
+ "a260929p18": {
+  "article_url": "https://fortune.com/2026/09/29/elise-ai-4-billion-valuation-funding-round-housing-unicorn-andreessen-bessemer/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p18",
+  "summary": "EliseAI, the artificial intelligence company that automates back-office work for landlords and health systems, has raised $350 million …",
+  "techmeme_url": "https://www.techmeme.com/260929/p18",
+  "title": "EliseAI, which provides AI tools for health care and housing industries, raised $350M at a $4B valuation, up from $2.2B after raising $250M in August 2025 (Nick Lichtenberg/Fortune)"
+ },
  "a260929p2": {
   "article_url": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
   "date": "2026-09-29",
@@ -14,5 +86,53 @@
   "summary": "This completes Coinbase's derivatives infrastructure, allowing it to list, broker, and clear fully collateralized products in-house.",
   "techmeme_url": "https://www.techmeme.com/260929/p2",
   "title": "Coinbase gets CFTC approval for Coinbase Clearing, completing its derivatives stack, letting it list, broker, and clear fully collateralized products in-house (Danny Park/The Block)"
+ },
+ "a260929p4": {
+  "article_url": "https://www.cnbc.com/2026/09/29/india-investment-billions-tech-ai-us-china.html",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p4",
+  "summary": "India is preparing to deploy $25 billion to support Deep Tech start-ups in the country, as it tries to catch up with the U.S …",
+  "techmeme_url": "https://www.techmeme.com/260929/p4",
+  "title": "India plans to invest up to $25B in its nascent deep tech industry, as it looks to catch up with the US and China, after investing $11.6B over the past decade (Priyanka Salve/CNBC)"
+ },
+ "a260929p5": {
+  "article_url": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p5",
+  "summary": "Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism …",
+  "techmeme_url": "https://www.techmeme.com/260929/p5",
+  "title": "Sources: six independent advisory board experts resigned from the Global Internet Forum to Counter Terrorism, as Meta and others push for structural changes (Paresh Dave/Wired)"
+ },
+ "a260929p6": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p6",
+  "summary": "Google is contesting an attempt by the European Union to make it open up its Android operating system to artificial-intelligence rivals …",
+  "techmeme_url": "https://www.techmeme.com/260929/p6",
+  "title": "Google appeals the European Commission's DMA mandates to open up Android at the EU General Court, arguing the requirements threaten user privacy and security (Samuel Stolton/Bloomberg)"
+ },
+ "a260929p7": {
+  "article_url": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?accessToken=zwAAAaDr2OW6kdPHaFp-d0VMvNOAU0lY0OpEmw.MEUCIQDri8jri2FtGIfJjPkxOZ5_1_ZIU_6mV2XSWAkmAyHGCQIgNTptc_pqS1KKFIP7hi0m8Qv5D4KIbxvhaHO4CGCedXQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=21e300e9-e2ac-440e-a832-3462c6e1ca1b&shareType=enterprise&syn-25a6b1a6=1",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p7",
+  "summary": "Long-awaited S1 filing reports Claude maker lost $8bn last year on $4.6bn in revenue",
+  "techmeme_url": "https://www.techmeme.com/260929/p7",
+  "title": "Sources: Anthropic dedicated nearly a third of its IPO prospectus to detailing \"risk factors\", including that its AI may pose \"existential risks to humanity\" (Financial Times)"
+ },
+ "a260929p8": {
+  "article_url": "https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p8",
+  "summary": "Coming off the successful launch of its Muse AI agent, Meta is now pushing its new artificial intelligence service into the business world.",
+  "techmeme_url": "https://www.techmeme.com/260929/p8",
+  "title": "Meta launches Muse for Small Business, integrating the AI agent with Asana, Zoom, Intuit, Box, Canva, Slack, and other apps, alongside its own ad accounts (Isabel O'Brien/CNBC)"
+ },
+ "a260929p9": {
+  "article_url": "https://www.ft.com/content/5c627794-766b-49db-ab96-7532731e7084",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p9",
+  "summary": "Rare intervention from head of Catholic Church comes as top executives are due to meet at White House on Tuesday",
+  "techmeme_url": "https://www.techmeme.com/260929/p9",
+  "title": "Pope Leo XIV rebukes Jensen Huang for downplaying AI risks, saying \"the concerns raised by many of the experts, specialists in AI, should be taken seriously\" (Michael Acton/Financial Times)"
  }
 }
