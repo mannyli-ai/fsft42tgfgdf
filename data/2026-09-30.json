@@ -119,6 +119,54 @@
   "techmeme_url": "https://www.techmeme.com/260930/p3",
   "title": "US Health Secretary RFK Jr. says AI can offer \"a second opinion that is much better informed than any doctor in the country\" and \"free us from medical tyranny\" (Sheryl Gay Stolberg/New York Times)"
  },
+ "a260930p34": {
+  "article_url": "https://www.axios.com/2026/09/29/alex-stamos-cognition-cybersecurity",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p34",
+  "summary": "Alex Stamos has joined Cognition as the AI coding unicorn's new chief security officer. … The hire suggests security has become a major focus for the fast-growing company.",
+  "techmeme_url": "https://www.techmeme.com/260930/p34",
+  "title": "Alex Stamos is joining Cognition as its new chief security officer; he most recently oversaw security at AI security startup Corridor and SentinelOne (Sam Sabin/Axios)"
+ },
+ "a260930p35": {
+  "article_url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p35",
+  "summary": "When Stephen Ewan co-founded Restate in 2022 to provide durable workflow infrastructure, he couldn't have anticipated how valuable …",
+  "techmeme_url": "https://www.techmeme.com/260930/p35",
+  "title": "Berlin-based Restate, which provides a durable execution engine to make software workflows resilient to crashes, raised a $20M Series A led by Singular (Marina Temkin/TechCrunch)"
+ },
+ "a260930p36": {
+  "article_url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p36",
+  "summary": "AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats.",
+  "techmeme_url": "https://www.techmeme.com/260930/p36",
+  "title": "Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity (John Timmer/Ars Technica)"
+ },
+ "a260930p37": {
+  "article_url": "https://gamesbeat.com/cscale-comes-out-of-stealth-with-145m-to-build-interconnect-for-gigawatt-scale-ai/",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p37",
+  "summary": "CScale exited stealth today and announced $145 million in funding to accelerate development and commercialization of optical interconnect for gigawatt-scale AI.",
+  "techmeme_url": "https://www.techmeme.com/260930/p37",
+  "title": "CScale, which is developing optical interconnect for accelerators, emerges from stealth with a $145M Series C led by Atreides, Valor Equity, and Premji Invest (Dean Takahashi/GamesBeat)"
+ },
+ "a260930p38": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/30/construction-tech-miter-battery-ventures",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p38",
+  "summary": "Miter, a construction workforce management platform, raised a $40 million Series B led by Battery Ventures, CEO Connor Watumull tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/260930/p38",
+  "title": "Miter, which provides workforce management tools for the construction industry, raised a $40M Series B led by Battery Ventures, taking its total funding to $78M (Chris Metinko/Axios)"
+ },
+ "a260930p39": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-30/musk-s-spacexai-considers-overhaul-of-pricing-for-grok-x-users",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p39",
+  "summary": "SpaceXAI, the artificial intelligence unit of Elon Musk's SpaceX, is considering an overhaul of its subscription pricing options …",
+  "techmeme_url": "https://www.techmeme.com/260930/p39",
+  "title": "Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering (Edward Ludlow/Bloomberg)"
+ },
  "a260930p4": {
   "article_url": "https://www.ft.com/content/7fb7147a-ec36-4de4-b563-a4ca796fc3b2?accessToken=zwAAAaDw3r13kc9_txR67DZN5NO1Y6TKeW_Dsg.MEUCIBry5k-NPYmFYxX0NnL8zzL-11gIeRDjtvBKDwOHckeuAiEA3GJ6mryG-fShsIi79YYzGJkrix-7FAqj-2NsgqKay_w&sharetype=gift&token=1f0735bc-de9a-4795-a11c-8c0c76abe6c5",
   "date": "2026-09-30",
@@ -126,6 +174,78 @@
   "summary": "Kospi tumbled almost a fifth in three months to September after July sell-off but is still up 60% this year",
   "techmeme_url": "https://www.techmeme.com/260930/p4",
   "title": "South Korea's Kospi was the world's worst-performing stock market in Q3, down 18.8% due to Samsung and SK Hynix sell-offs in early Q3, but remains up 60% YTD (Financial Times)"
+ },
+ "a260930p40": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-30/stripe-visa-backed-consortium-launches-dollar-stablecoin",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p40",
+  "summary": "Open Standard, a company backed by more than 100 corporations, including Visa Inc., Stripe Inc., and Mastercard Inc. …",
+  "techmeme_url": "https://www.techmeme.com/260930/p40",
+  "title": "Open Standard launches its OUSD stablecoin; founding partners Visa, Stripe, Mastercard, and Coinbase will offer initial access to businesses and developers (Ben Weiss/Bloomberg)"
+ },
+ "a260930p41": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-30/openai-blames-moonshot-for-mass-data-extraction-on-its-ai-models",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p41",
+  "summary": "OpenAI accused its Chinese rival Moonshot AI of being responsible for a wide-scale effort to extract data from its GPT artificial intelligence systems …",
+  "techmeme_url": "https://www.techmeme.com/260930/p41",
+  "title": "OpenAI says individuals associated with Moonshot AI played a significant role in a coordinated model-distillation campaign that began in early July (Maggie Eastland/Bloomberg)"
+ },
+ "a260930p42": {
+  "article_url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p42",
+  "summary": "Amid a number of updates for moderators and developers announced Wednesday comes bad news for supporters of a more open web: Reddit is ending support for RSS feeds.",
+  "techmeme_url": "https://www.techmeme.com/260930/p42",
+  "title": "Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March (Sarah Perez/TechCrunch)"
+ },
+ "a260930p43": {
+  "article_url": "https://www.axios.com/2026/09/30/google-gemini-4",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p43",
+  "summary": "Google is unveiling its long-awaited next-generation AI model, Gemini 4 Argon, to a small group of cybersecurity partners, the company said Wednesday.",
+  "techmeme_url": "https://www.techmeme.com/260930/p43",
+  "title": "Google rolls out Gemini 4 Argon to a small group of cybersecurity partners and says it outperforms GPT-6 Astra on certain coding and knowledge work benchmarks (Madison Mills/Axios)"
+ },
+ "a260930p44": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p44",
+  "summary": "Alphabet Inc.'s Google has begun rolling out Gemini 4 Argon, its long-awaited flagship artificial intelligence model …",
+  "techmeme_url": "https://www.techmeme.com/260930/p44",
+  "title": "Sources: some Google employees say Gemini 4 performs well on benchmarks but struggles with some real-world coding tasks; Google disputes that characterization (Bloomberg)"
+ },
+ "a260930p45": {
+  "article_url": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p45",
+  "summary": "The Pentagon is tapping Tesla and SpaceX CEO Elon Musk, defense technology entrepreneur and Anduril co-founder Palmer Luckey …",
+  "techmeme_url": "https://www.techmeme.com/260930/p45",
+  "title": "DOD taps Elon Musk, Palmer Luckey, and former House Speaker Newt Gingrich for Project Meridian, a 120-day study of capabilities the US may need in future wars (Luke Fountain/CNBC)"
+ },
+ "a260930p46": {
+  "article_url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p46",
+  "summary": "Micron reported better-than-expected quarterly results on Wednesday as the memory maker continues to benefit from soaring demand for AI infrastructure.",
+  "techmeme_url": "https://www.techmeme.com/260930/p46",
+  "title": "Micron reports Q4 revenue up 379% YoY to $54.23B, vs. $51.07B est., net income up 1,078% to $37.7B, and forecasts Q1 revenue above estimates (CNBC)"
+ },
+ "a260930p47": {
+  "article_url": "https://www.businessinsider.com/ai-coding-rivals-factory-and-cognition-feud-over-top-hire-2026-9",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p47",
+  "summary": "Factory AI and Cognition, two high-profile San Francisco-based AI startups building coding agents, are publicly feuding over the departure …",
+  "techmeme_url": "https://www.techmeme.com/260930/p47",
+  "title": "Factory CEO Matan Grinberg alleges Cognition's new CRO Chris Degnan had been confiding with Cognition executives while advising Factory as a board observer (Rya Jetha/Business Insider)"
+ },
+ "a260930p48": {
+  "article_url": "https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p48",
+  "summary": "Nvidia's CEO was among the execs at White House event who called out the Anthropic leader for warning about the technology's capabilities",
+  "techmeme_url": "https://www.techmeme.com/260930/p48",
+  "title": "Sources: Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it's important to be honest (Wall Street Journal)"
  },
  "a260930p7": {
   "article_url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
