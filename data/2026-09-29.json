@@ -223,6 +223,78 @@
   "techmeme_url": "https://www.techmeme.com/260929/p50",
   "title": "President Trump signs an executive order requiring federal government agencies to refer to AI as \"Super Intelligence\" or \"SI\" in all official communications (Michael Shepard/Bloomberg)"
  },
+ "a260929p51": {
+  "article_url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p51",
+  "summary": "GLM-5.3 can develop working exploits end to end — Five months ago, we announced Claude Mythos Preview, the first AI model …",
+  "techmeme_url": "https://www.techmeme.com/260929/p51",
+  "title": "Anthropic says GLM-5.3 can autonomously build end-to-end cyber exploits, like Claude Mythos Preview, but was released without robust safeguards against misuse (Anthropic)"
+ },
+ "a260929p52": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p52",
+  "summary": "Efficient Computer, a chip startup spun out of Carnegie Mellon University, on Tuesday said it has raised $97 million in additional funding, bringing its valuation to $650 million.",
+  "techmeme_url": "https://www.techmeme.com/260929/p52",
+  "title": "Efficient Computer, which uses dataflow architectures to develop faster and more energy-efficient chips, raised a $97M Series B at a $650M valuation (Stephen Nellis/Reuters)"
+ },
+ "a260929p53": {
+  "article_url": "https://www.reuters.com/business/media-telecom/us-appeals-court-upholds-thomson-reuters-landmark-win-ai-training-lawsuit-2026-09-29/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p53",
+  "summary": "A US appeals court on Tuesday upheld a ruling for information services company Thomson Reuters (TRI.TO) in its copyright dispute …",
+  "techmeme_url": "https://www.techmeme.com/260929/p53",
+  "title": "A US appeals court upholds a ruling for Thomson Reuters in its copyright lawsuit against Ross Intelligence, rejecting Ross' fair use defense for AI training (Blake Brittain/Reuters)"
+ },
+ "a260929p54": {
+  "article_url": "https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p54",
+  "summary": "Amazon's dominance in retail media budgets is hardly a surprise, with Madison Avenue observers expecting a push to win similar spend in adland.",
+  "techmeme_url": "https://www.techmeme.com/260929/p54",
+  "title": "At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together (Ronan Shields/Digiday)"
+ },
+ "a260929p55": {
+  "article_url": "https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p55",
+  "summary": "President Donald Trump released a document on Tuesday that his administration cast as an accord on artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/260929/p55",
+  "title": "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment (Kanishka Singh/Reuters)"
+ },
+ "a260929p56": {
+  "article_url": "https://www.reuters.com/legal/government/robinhood-allow-24-hour-weekend-trading-us-stocks-industry-shifts-wider-access-2026-09-29/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p56",
+  "summary": "Robinhood said on Tuesday it will let users trade some US stocks round-the-clock during weekends, marking its latest effort to keep …",
+  "techmeme_url": "https://www.techmeme.com/260929/p56",
+  "title": "Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures (Reuters)"
+ },
+ "a260929p57": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/accelevation-is-said-to-be-poised-to-price-ipo-at-18-per-share",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p57",
+  "summary": "Accelevation Holdings Corp., a data center infrastructure company, and backer Olympus Partners raised $540 million …",
+  "techmeme_url": "https://www.techmeme.com/260929/p57",
+  "title": "AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range (Bloomberg)"
+ },
+ "a260929p58": {
+  "article_url": "https://www.nytimes.com/2026/09/29/opinion/ezra-klein-podcast-bill-gates.html?unlocked_article_code=1.E1E._RE1.5q4j8Ds1se8H&smid=url-share",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p58",
+  "summary": "This is an edited transcript of “The Ezra Klein Show.” You can listen to the episode wherever you get your podcasts.",
+  "techmeme_url": "https://www.techmeme.com/260929/p58",
+  "title": "An interview with Bill Gates about the need for more than natural incentives under capitalism to regulate AI's risks, the effects AI will have on jobs, and more (New York Times)"
+ },
+ "a260929p59": {
+  "article_url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p59",
+  "summary": "Kalanick, when he was still CEO of Uber, photographed in 2016 at a conference on innovation in Amsterdam.",
+  "techmeme_url": "https://www.techmeme.com/260929/p59",
+  "title": "A profile of Travis Kalanick, CEO of Atoms, whom Silicon Valley has welcomed back with VC support despite his unapologetic stance on his 2017 ouster from Uber (Jeff John Roberts/Fortune)"
+ },
  "a260929p6": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots",
   "date": "2026-09-29",
@@ -230,6 +302,14 @@
   "summary": "Google is contesting an attempt by the European Union to make it open up its Android operating system to artificial-intelligence rivals …",
   "techmeme_url": "https://www.techmeme.com/260929/p6",
   "title": "Google appeals the European Commission's DMA mandates to open up Android at the EU General Court, arguing the requirements threaten user privacy and security (Samuel Stolton/Bloomberg)"
+ },
+ "a260929p60": {
+  "article_url": "https://missionlocal.org/2026/09/mariano-florentino-cuellar-supreme-court-carnegie-anthropic-ai/",
+  "date": "2026-09-29",
+  "permalink_id": "a260929p60",
+  "summary": "In a hot and dry border town at the base of California's Imperial Valley, the list of powerful alumni at Calexico High School is short.",
+  "techmeme_url": "https://www.techmeme.com/260929/p60",
+  "title": "A profile of Mariano-Florentino Cuéllar, Anthropic's first global affairs chief, who had helped shape California's first AI safety law in 2025 (Brandon Pho/Mission Local)"
  },
  "a260929p7": {
   "article_url": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?accessToken=zwAAAaDr2OW6kdPHaFp-d0VMvNOAU0lY0OpEmw.MEUCIQDri8jri2FtGIfJjPkxOZ5_1_ZIU_6mV2XSWAkmAyHGCQIgNTptc_pqS1KKFIP7hi0m8Qv5D4KIbxvhaHO4CGCedXQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=21e300e9-e2ac-440e-a832-3462c6e1ca1b&shareType=enterprise&syn-25a6b1a6=1",
