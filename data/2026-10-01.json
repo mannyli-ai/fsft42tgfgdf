@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/261001/p1",
   "title": "Sources: Tencent signed a ~$7B, five-year deal with Oracle this year for access to ~100K advanced AI chips unavailable in China via Southeast Asian data centers (Zijing Wu/Financial Times)"
  },
+ "a261001p10": {
+  "article_url": "https://www.nytimes.com/2026/09/30/arts/xbox-microsoft-asha-sharma.html?unlocked_article_code=1.FFE.3j4o.dae9CYU4odK1&smid=url-share",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p10",
+  "summary": "Asha Sharma didn't have any experience in video games when she became the chief executive of Xbox this year.",
+  "techmeme_url": "https://www.techmeme.com/261001/p10",
+  "title": "A profile of Xbox CEO Asha Sharma, who insists that \"Xbox is not for sale\" despite mass layoffs and divested studios since inheriting the flailing division (Zachary Small/New York Times)"
+ },
+ "a261001p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-01/huawei-predicts-more-smartphone-price-hikes-due-to-memory-crunch",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p11",
+  "summary": "Huawei Technologies Co. plans to join rivals in jacking up smartphone prices to counter rising memory costs …",
+  "techmeme_url": "https://www.techmeme.com/261001/p11",
+  "title": "Huawei plans moderate smartphone price increases to counter an average $200 per-unit cost hike driven by rising memory component costs, and unveils new handsets (Bloomberg)"
+ },
+ "a261001p12": {
+  "article_url": "https://www.ft.com/content/ec55a734-243b-43a2-93ea-8652d6b99309",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p12",
+  "summary": "Planned 400-megawatt data centre near Tokyo will be among Asia's largest projects outside China — Japan is aiming to speed …",
+  "techmeme_url": "https://www.techmeme.com/261001/p12",
+  "title": "Dell, Jera, and UK-based Rhaelm partner to build a $15B, 400MW off-grid AI data center and gas power plant near Tokyo, set to begin operations around 2028 (Financial Times)"
+ },
+ "a261001p13": {
+  "article_url": "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html?unlocked_article_code=1.FFE.6cVi.x55cp16d-jbK&smid=url-share",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p13",
+  "summary": "Jonathan Zepp, left, Google's head of entertainment content and platforms, and Peter Micelli, chief executive of Range Media Partners …",
+  "techmeme_url": "https://www.techmeme.com/261001/p13",
+  "title": "Google partners with talent agency Range Media to launch 100 Zeros, a rotating fund designed to shape positive onscreen depictions of tech and test AI tools (Brooks Barnes/New York Times)"
+ },
+ "a261001p14": {
+  "article_url": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p14",
+  "summary": "In an exclusive interview with WIRED, Paragon Solutions CEO Andrew Boyd reveals the limits of the company's promise …",
+  "techmeme_url": "https://www.techmeme.com/261001/p14",
+  "title": "An interview with Paragon Solutions CEO Andrew Boyd, who says the US spyware maker lacks visibility into customer targeting data and has no \"kill switch\" (Kim Zetter/Wired)"
+ },
+ "a261001p15": {
+  "article_url": "https://www.ft.com/content/534b6887-63ac-49c7-a816-a81edd2e8de1",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p15",
+  "summary": "Securities regulators looking at use of legal exemption by world's biggest crypto exchange — EU officials are questioning …",
+  "techmeme_url": "https://www.techmeme.com/261001/p15",
+  "title": "Sources: EU regulators are questioning Binance over its use of a legal exemption to continue serving customers in the region despite failing to secure a license (Financial Times)"
+ },
+ "a261001p16": {
+  "article_url": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html?unlocked_article_code=1.FVE.aAkl.NHc0NvNFIsIt&smid=nytcore-ios-share",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p16",
+  "summary": "The Binance founder Changpeng Zhao, who pleaded guilty to violating an anti-money-laundering law, was pardoned by President Trump …",
+  "techmeme_url": "https://www.techmeme.com/261001/p16",
+  "title": "After a four-month US prison sentence, Changpeng Zhao is now living a gilded life in Abu Dhabi; he retains majority ownership of Binance and a $10B+ net worth (David Yaffe-Bellany/New York Times)"
+ },
+ "a261001p17": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p17",
+  "summary": "Armadin said on Thursday that it raised $255.5 million in a Series B funding round, which values the AI cybersecurity company at more than $2.5 billion.",
+  "techmeme_url": "https://www.techmeme.com/261001/p17",
+  "title": "Armadin, started by Mandiant founder Kevin Mandia to build AI cybersecurity agents, raised a $255.5M Series B led by a16z and Accel at a $2.5B valuation (Anzar Mehraj/Reuters)"
+ },
+ "a261001p18": {
+  "article_url": "https://www.tomshardware.com/pc-components/ssds/micron-lawsuit-claims-chinese-memory-maker-ymtc-poached-its-engineers-then-sued-it-using-its-own-stolen-tech-ex-employees-hid-roles-on-linkedin-patented-micron-tech-and-won-a-german-injunction",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p18",
+  "summary": "Some of YMTC's patents can actually belong to Micron, the company alleges. … Micron this month filed a lawsuit …",
+  "techmeme_url": "https://www.techmeme.com/261001/p18",
+  "title": "Micron filed a US lawsuit accusing Chinese memory maker YMTC of systematically poaching key engineers and then using the engineers' patents to sue Micron (Anton Shilov/Tom's Hardware)"
+ },
+ "a261001p19": {
+  "article_url": "https://colossus.com/article/david-velez-nubank/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p19",
+  "summary": "After facing down regulators, oligopolies, and corruption in Latin America, Nubank founder David Vélez faces his biggest challenge yet: the United States",
+  "techmeme_url": "https://www.techmeme.com/261001/p19",
+  "title": "A profile of Nubank founder David Vélez, who graduated from Stanford, worked at Sequoia, and moved to Brazil to start the bank in 2013, as Nubank enters the US (Gabi Marques/Colossus)"
+ },
  "a261001p2": {
   "article_url": "https://www.theregister.com/systems/2026/10/01/ram-supply-set-to-worsen-says-micron-as-ceo-celebrates-much-higher-prices/5300346",
   "date": "2026-10-01",
@@ -14,6 +94,22 @@
   "summary": "Posts huge leaps in revenue, profit, and margin, with more to come — Memory-maker Micron has warned that RAM shortages …",
   "techmeme_url": "https://www.techmeme.com/261001/p2",
   "title": "Micron CEO Sanjay Mehrotra says RAM shortages will persist into 2028 and perhaps beyond, and customers will pay \"much higher prices\" than they did this year (Simon Sharwood/The Register)"
+ },
+ "a261001p20": {
+  "article_url": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p20",
+  "summary": "A wave of little changes, including new colors, the option of an aluminum case, and some neat accessories.",
+  "techmeme_url": "https://www.techmeme.com/261001/p20",
+  "title": "Amazon updates the Kindle, Kindle Paperwhite, and Colorsoft with new colors and up to 32GB of storage, and unveils the $35 Kindle Click page-turning remote (Cameron Faulkner/The Verge)"
+ },
+ "a261001p21": {
+  "article_url": "https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p21",
+  "summary": "Anthropic's IPO prospectus documents extensive partnerships with a handful of big tech firms. One stands out: chip maker Broadcom (AVGO.O).",
+  "techmeme_url": "https://www.techmeme.com/261001/p21",
+  "title": "IPO prospectus: Broadcom agreed to lend Anthropic up to $42B via convertible notes that could help finance Anthropic's $125.2B, five-year TPU lease commitment (Reuters)"
  },
  "a261001p3": {
   "article_url": "https://www.ft.com/",
@@ -46,5 +142,29 @@
   "summary": "US corporations including Google, Apple and Amazon use their influence to push back against EU digital bloc rules.",
   "techmeme_url": "https://www.techmeme.com/261001/p6",
   "title": "Analysis: Google, Apple, and Amazon each have more meetings with European parliament and European Commission officials than any individual European company (Financial Times)"
+ },
+ "a261001p7": {
+  "article_url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p7",
+  "summary": "Claude Code CLI and Claude for Microsoft 365 also now available in early access. — Product announcements — Product",
+  "techmeme_url": "https://www.techmeme.com/261001/p7",
+  "title": "Anthropic says Claude for Government is now generally available to federal and state agencies, with Claude Code CLI and Claude for Microsoft 365 in early access (Claude)"
+ },
+ "a261001p8": {
+  "article_url": "https://fortune.com/2026/09/30/nikesh-arora-palo-alto-networks-ceo-ai-cybersecurity-defense/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p8",
+  "summary": "Nikesh Arora is the guy CEOs of Fortune 500 and tech companies call when AI gets scary. — In April, Nikesh Arora applied a simple …",
+  "techmeme_url": "https://www.techmeme.com/261001/p8",
+  "title": "A profile of Palo Alto Networks CEO Nikesh Arora, who has overseen revenue growth from $2.27B in FY 2018 to $11.48B in FY 2026, as AI reshapes cybersecurity (Allie Garfinkle/Fortune)"
+ },
+ "a261001p9": {
+  "article_url": "https://www.ft.com/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p9",
+  "summary": "Powerful AI tools burn through budgets, prompting a rethink of how the technology is priced ahead of frontier lab IPOs.",
+  "techmeme_url": "https://www.techmeme.com/261001/p9",
+  "title": "SemiAnalysis estimates ~90% of Anthropic's business comes from agentic AI, while sources say nearly 25% of its revenue in 2025 came from just two clients (Financial Times)"
  }
 }
