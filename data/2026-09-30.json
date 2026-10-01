@@ -247,6 +247,78 @@
   "techmeme_url": "https://www.techmeme.com/260930/p48",
   "title": "Sources: Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it's important to be honest (Wall Street Journal)"
  },
+ "a260930p50": {
+  "article_url": "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html?unlocked_article_code=1.FFE.e3i6.y9pbdNHBVc3E&smid=bs-share",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p50",
+  "summary": "Greg Brockman, OpenAI's president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.",
+  "techmeme_url": "https://www.techmeme.com/260930/p50",
+  "title": "Slack message: Greg Brockman has no plans to donate beyond his initial $25M to Leading the Future, saying the PAC has become a \"distraction\" at OpenAI (New York Times)"
+ },
+ "a260930p51": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p51",
+  "summary": "Meta Platforms' Muse now has more than 3 million users who give the AI agent at least one prompt a week, according to internal data reviewed by The Information …",
+  "techmeme_url": "https://www.techmeme.com/260930/p51",
+  "title": "Internal data: Meta's Muse now has 3M+ users who submit at least one prompt per week and 1M+ DAUs who have sent at least one prompt (Jyoti Mann/The Information)"
+ },
+ "a260930p52": {
+  "article_url": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p52",
+  "summary": "California Governor Gavin Newsom has signed a landmark AI law banning Golden State employers from relying solely on artificial intelligence to fire or discipline workers.",
+  "techmeme_url": "https://www.techmeme.com/260930/p52",
+  "title": "California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers (Paxton Honerkamp/CNBC)"
+ },
+ "a260930p53": {
+  "article_url": "https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p53",
+  "summary": "Google's new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted prices",
+  "techmeme_url": "https://www.techmeme.com/260930/p53",
+  "title": "Artificial Analysis says Gemini 4 Argon (high) matches GPT-6 Astra (max) on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra (Artificial Analysis)"
+ },
+ "a260930p54": {
+  "article_url": "https://www.wsj.com/business/grindr-agrees-to-buy-hiv-prevention-telehealth-provider-freddie-for-250-million-fa957bea",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p54",
+  "summary": "Gay dating-app's first major acquisition reflects a broader expansion into the healthcare business",
+  "techmeme_url": "https://www.techmeme.com/260930/p54",
+  "title": "Grindr agrees to acquire PurposeMed, owner of HIV-prevention telehealth provider Freddie, for $250M, its first major acquisition as it expands into a gay hub (Elias Schisgall/Wall Street Journal)"
+ },
+ "a260930p55": {
+  "article_url": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p55",
+  "summary": "Key Points … Ask about this article... Argon is Google's first frontier model in more than seven months, following Gemini 3.1 Pro.",
+  "techmeme_url": "https://www.techmeme.com/260930/p55",
+  "title": "Gemini 4 Argon has a 1M-token output limit, up from 64K for prior models; it initially costs $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Matthias Bastian/The Decoder)"
+ },
+ "a260930p56": {
+  "article_url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p56",
+  "summary": "Flow Engineering, a startup that offers AI tools for hardware design, has raised a $50 million Series B round at a $750 million valuation …",
+  "techmeme_url": "https://www.techmeme.com/260930/p56",
+  "title": "Flow, a hardware development platform for AI agents, raised a $50M Series B led by Valor's Antonio Gracias and Atreides' Gavin Baker at a $750M valuation (Julie Bort/TechCrunch)"
+ },
+ "a260930p57": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-09-30/amazon-nuclear-deal-to-help-expand-constellation-s-maryland-site",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p57",
+  "summary": "Amazon.com Inc. has agreed to purchase 690 megawatts of power from Constellation Energy Corp. in a deal that will help …",
+  "techmeme_url": "https://www.techmeme.com/260930/p57",
+  "title": "Amazon signs a 20-year deal to buy power from Constellation Energy, including boosting capacity at its Maryland nuclear plant, supporting $3B+ in investments (Will Wade/Bloomberg)"
+ },
+ "a260930p58": {
+  "article_url": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a?st=iw7cXj&reflink=desktopwebshare_permalink",
+  "date": "2026-09-30",
+  "permalink_id": "a260930p58",
+  "summary": "The risks of cognitive and emotional dependence, along with falling test scores, are fueling a backlash",
+  "techmeme_url": "https://www.techmeme.com/260930/p58",
+  "title": "Docs and sources: Google researchers worried about AI risks to children, including potential cognitive and emotional harm, as the company pushed AI into schools (Wall Street Journal)"
+ },
  "a260930p7": {
   "article_url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
   "date": "2026-09-30",
