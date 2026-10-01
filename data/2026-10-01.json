@@ -111,6 +111,38 @@
   "techmeme_url": "https://www.techmeme.com/261001/p21",
   "title": "IPO prospectus: Broadcom agreed to lend Anthropic up to $42B via convertible notes that could help finance Anthropic's $125.2B, five-year TPU lease commitment (Reuters)"
  },
+ "a261001p26": {
+  "article_url": "https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p26",
+  "summary": "Anthropic is flexing its muscle with enterprise customers by taking a hard line on discounts once those customers use up all the tokens they purchased.",
+  "techmeme_url": "https://www.techmeme.com/261001/p26",
+  "title": "Sources: Anthropic has taken the unusual step of ending customers' discounts, which typically reach ~15%, once they hit the usage limits, forcing renegotiations (Kevin McLaughlin/The Information)"
+ },
+ "a261001p27": {
+  "article_url": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p27",
+  "summary": "Ryan Roslansky is leaving after nearly 18 years at LinkedIn and Microsoft. … After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company.",
+  "techmeme_url": "https://www.techmeme.com/261001/p27",
+  "title": "Memo: Ryan Roslansky, who was promoted from LinkedIn CEO to the head of Office and Teams in 2025, is leaving, triggering another Microsoft executive reshuffle (Tom Warren/The Verge)"
+ },
+ "a261001p28": {
+  "article_url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?st=zxSNWu&reflink=desktopwebshare_permalink",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p28",
+  "summary": "Startup is in throes of responding to several incidents in which its AI models went rogue",
+  "techmeme_url": "https://www.techmeme.com/261001/p28",
+  "title": "OpenAI says it \"parted ways\" with three researchers for violating its \"handling sensitive\" info policies; sources: they shared it with an AI safety organization (Wall Street Journal)"
+ },
+ "a261001p29": {
+  "article_url": "https://apnews.com/article/california-legislature-smart-glass-privacy-e599fbbff476b41b8a6ededcd2576cf9",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p29",
+  "summary": "California Gov. Gavin Newsom vetoed legislation Wednesday that would have penalized Californians for using smart glasses …",
+  "techmeme_url": "https://www.techmeme.com/261001/p29",
+  "title": "Gavin Newsom vetoes a CA bill banning secret recording with smart glasses in private places, saying its definition of wearable recording devices was too broad (Sophie Austin/Associated Press)"
+ },
  "a261001p3": {
   "article_url": "https://www.ft.com/",
   "date": "2026-10-01",
@@ -119,6 +151,86 @@
   "techmeme_url": "https://www.techmeme.com/261001/p3",
   "title": "Asymmetric Security investigation: OpenAI agents pulled data from 55 business, nonprofit, and government agency websites while actively obscuring their actions (Rafe Rosner-Uddin/Financial Times)"
  },
+ "a261001p30": {
+  "article_url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p30",
+  "summary": "Sony's new Quick Spectral Super Resolution AI upscaling is coming first to Marvel's Wolverine and Ghost of Y&omacrtei.",
+  "techmeme_url": "https://www.techmeme.com/261001/p30",
+  "title": "Sony launches Quick Spectral Super Resolution, a \"new performance tier of AI upscaling\" for the standard PS5 developed in collaboration with AMD (Jay Peters/The Verge)"
+ },
+ "a261001p31": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p31",
+  "summary": "Anthropic PBC is seeking to go public as soon as the middle of November, according to people familiar with the matter …",
+  "techmeme_url": "https://www.techmeme.com/261001/p31",
+  "title": "Sources: Anthropic could start formal marketing for its IPO as soon as the week of November 9, putting it in line to begin trading before Thanksgiving (Bailey Lipschultz/Bloomberg)"
+ },
+ "a261001p32": {
+  "article_url": "https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p32",
+  "summary": "The race to make AI agents cheaper and faster is moving beyond the models that write their answers.",
+  "techmeme_url": "https://www.techmeme.com/261001/p32",
+  "title": "Strands Labs, AWS's experimental agent-development project, unveils Strands Decider 2B, a free, open-source Jev competitor fine-tuned from an Alibaba Qwen base (Carl Franzen/VentureBeat)"
+ },
+ "a261001p33": {
+  "article_url": "https://www.reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p33",
+  "summary": "Alphabet's Google has persuaded a US federal judge to dismiss lawsuits from education technology company Chegg …",
+  "techmeme_url": "https://www.techmeme.com/261001/p33",
+  "title": "A US judge dismisses Chegg and Penske lawsuits alleging Google violated antitrust law by forcing them to allow content in AI Overviews, reducing web traffic (Mike Scarcella/Reuters)"
+ },
+ "a261001p34": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p34",
+  "summary": "Nvidia and SoftBank have each made the final $10 billion investment in each of their $30 billion pledges to OpenAI's last funding round …",
+  "techmeme_url": "https://www.techmeme.com/261001/p34",
+  "title": "SoftBank made the final $10B investment in its $30B pledge to OpenAI's last funding round; source: Nvidia also made its final $10B investment in the round (The Information)"
+ },
+ "a261001p35": {
+  "article_url": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p35",
+  "summary": "Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations",
+  "techmeme_url": "https://www.techmeme.com/261001/p35",
+  "title": "Anthropic urges Australia to consider \"conditional approval\" for Big Tech to train models on copyrighted works, giving copyright holders a choice to opt out (Josh Butler/The Guardian)"
+ },
+ "a261001p36": {
+  "article_url": "https://www.washingtonsun.com/metro/doordash-apology-gop-bill-dc",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p36",
+  "summary": "The company still wants the D.C. Council to make changes to a new delivery fee taking effect Thursday. — Copy",
+  "techmeme_url": "https://www.techmeme.com/261001/p36",
+  "title": "DoorDash pulls support for a GOP bill that would have limited DC's ability to write its own tax laws after widespread calls for locals to boycott the service (Martin Austermuhle/The Washington Sun)"
+ },
+ "a261001p37": {
+  "article_url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p37",
+  "summary": "OpenAI is again experimenting with how its conversational AI assistant, ChatGPT, can help users as they shop online.",
+  "techmeme_url": "https://www.techmeme.com/261001/p37",
+  "title": "OpenAI launches two ChatGPT shopping features: a virtual try-on tool for clothing and accessories, and a Favorites feature to save products to a user's Library (Sarah Perez/TechCrunch)"
+ },
+ "a261001p38": {
+  "article_url": "https://www.reuters.com/business/lyft-will-pay-2725-million-settle-california-driver-wage-theft-claims-2026-10-01/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p38",
+  "summary": "Lyft (LYFT.O) has agreed to pay $272.5 million to settle claims by the state of California and three of its largest cities …",
+  "techmeme_url": "https://www.techmeme.com/261001/p38",
+  "title": "Lyft agrees to pay $272.5M to settle California claims that it mislabeled drivers as independent contractors rather than employees between 2016 and 2020 (Daniel Wiessner/Reuters)"
+ },
+ "a261001p39": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p39",
+  "summary": "OpenAI has parted ways with three employees for violating company policies on how private information should be handled, including for allegedly sharing it with an outside group.",
+  "techmeme_url": "https://www.techmeme.com/261001/p39",
+  "title": "Source: some of the information that the three OpenAI employees allegedly mishandled pertained to OpenAI's infrastructure architecture (Rachel Metz/Bloomberg)"
+ },
  "a261001p4": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-10-01/sarandos-says-netflix-not-growing-as-fast-as-i-want",
   "date": "2026-10-01",
@@ -126,6 +238,14 @@
   "summary": "Ted Sarandos, co-chief executive officer at Netflix Inc., said the US streaming giant isn't growing as quickly as he would like.",
   "techmeme_url": "https://www.techmeme.com/261001/p4",
   "title": "Netflix co-CEO Ted Sarandos says growth is slower than he'd like and defends the WBD pursuit, adding Netflix isn't seeking another acquisition to replace it (Sohee Kim/Bloomberg)"
+ },
+ "a261001p40": {
+  "article_url": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p40",
+  "summary": "Payments group that moved almost $7bn through global banks designated a transnational criminal organisation",
+  "techmeme_url": "https://www.techmeme.com/261001/p40",
+  "title": "The US sanctions Russia-backed payment network A7, freezing its US assets and accusing it of enabling Iran and its proxy groups to evade western sanctions (Amy Mackinnon/Financial Times)"
  },
  "a261001p5": {
   "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/30/salesforce-listen-labs-fin",
