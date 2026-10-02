@@ -7,6 +7,14 @@
   "techmeme_url": "https://www.techmeme.com/261002/p1",
   "title": "ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 (Kat Boboris/arXiv)"
  },
+ "a261002p10": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p10",
+  "summary": "AT&T (T.N), T-Mobile (TMUS.O) and Verizon (VZ.N) have appointed wireless industry veteran Paul Roth as interim chief executive …",
+  "techmeme_url": "https://www.techmeme.com/261002/p10",
+  "title": "AT&T, T-Mobile, and Verizon form a JV that aims to expand US satellite coverage and eliminate dead zones, appointing industry veteran Paul Roth as interim CEO (David Shepardson/Reuters)"
+ },
  "a261002p2": {
   "article_url": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62",
   "date": "2026-10-02",
@@ -14,5 +22,61 @@
   "summary": "Amazon is seeking to offload about $8bn of advanced Nvidia chips to external investors through a new vehicle aimed at strengthening …",
   "techmeme_url": "https://www.techmeme.com/261002/p2",
   "title": "Sources: Amazon has held talks with investors about a deal to spin off $8B of Grace Blackwell chips into an SPV, then lease them back for its US data centers (Financial Times)"
+ },
+ "a261002p3": {
+  "article_url": "https://www.mbi-deepdives.com/no-ads-muse/",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p3",
+  "summary": "Get the next one in your inbox. — A daily journal on business, investing, and technology. — It didn't take too long for the app layer to start to respond to Muse.",
+  "techmeme_url": "https://www.techmeme.com/261002/p3",
+  "title": "Meta may never need ads to monetize Muse, instead focusing on building trust in the near term and possibly monetizing it through merchant transaction fees later (MBI Deep Dives)"
+ },
+ "a261002p4": {
+  "article_url": "https://www.vanityfair.com/story/larry-ellison-profile",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p4",
+  "summary": "The $200 billion software titan has suctioned himself to many hubs of influence—from data centers to TikTok to Hollywood studios to the Oval Office itself.",
+  "techmeme_url": "https://www.techmeme.com/261002/p4",
+  "title": "A profile of Larry Ellison, including his octopus fixation, influence across Oracle, data centers, TikTok, politics, and support for David's media ambitions (Vanity Fair)"
+ },
+ "a261002p5": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p5",
+  "summary": "Federal prosecutors arrested a California man on Thursday on charges of smuggling computer servers containing $300 million worth …",
+  "techmeme_url": "https://www.techmeme.com/261002/p5",
+  "title": "US authorities arrest a California man suspected of smuggling $300M+ worth of restricted Nvidia AI chips to China via Malaysia and Singapore from 2023 to 2024 (Michael Shepard/Bloomberg)"
+ },
+ "a261002p6": {
+  "article_url": "https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft/",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p6",
+  "summary": "Halluminate, a nine-person San Francisco startup building AI training environments for financial work, has raised $30 million …",
+  "techmeme_url": "https://www.techmeme.com/261002/p6",
+  "title": "Halluminate, which builds AI training environments for complex financial work, raised a $30M Series A led by Oak HC/FT, bringing its total funding to $38.5M (Wen Shao/Fortune)"
+ },
+ "a261002p7": {
+  "article_url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p7",
+  "summary": "“It's coming home,” Tether CEO Paolo Ardoino proclaimed on X last week, referring to the return of his company's stablecoin, USDT, to the Bitcoin network.",
+  "techmeme_url": "https://www.techmeme.com/261002/p7",
+  "title": "Tether's USDT stablecoin is set to return to the Bitcoin network through Tether-backed Utexo, which will keep most transaction data off Bitcoin's public ledger (CoinDesk)"
+ },
+ "a261002p8": {
+  "article_url": "https://www.geekwire.com/2026/amazon-pledges-1b-to-data-center-communities-warns-that-local-opposition-threatens-u-s-ai-lead/",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p8",
+  "summary": "Amazon says it will spend more than $1 billion over five years in the U.S. communities where it builds and operates data centers …",
+  "techmeme_url": "https://www.techmeme.com/261002/p8",
+  "title": "Amazon plans to spend $1B+ over five years for infrastructure upgrades and other projects in US communities that host its data centers, amid a growing backlash (Todd Bishop/GeekWire)"
+ },
+ "a261002p9": {
+  "article_url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p9",
+  "summary": "Attack accessing historical data on bushfires occurred in June but not disclosed by the tech company until Thursday",
+  "techmeme_url": "https://www.techmeme.com/261002/p9",
+  "title": "OpenAI says it learned this week that its AI agent hacked Australia's NSW state government in June, following a similar hack on Australia's federal government (Henry Belot/The Guardian)"
  }
 }
