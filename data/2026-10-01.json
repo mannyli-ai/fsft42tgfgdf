@@ -247,6 +247,78 @@
   "techmeme_url": "https://www.techmeme.com/261001/p40",
   "title": "The US sanctions Russia-backed payment network A7, freezing its US assets and accusing it of enabling Iran and its proxy groups to evade western sanctions (Amy Mackinnon/Financial Times)"
  },
+ "a261001p41": {
+  "article_url": "http://www.krqe.com/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p41",
+  "summary": "NEW MEXICO (KRQE) - The State of New Mexico is asking a judge for the biggest penalty ever awarded in a court case in the United States …",
+  "techmeme_url": "https://www.techmeme.com/261001/p41",
+  "title": "New Mexico asks a judge to order Meta to pay up to $40B after a jury found it willfully deceived customers, in what could be the biggest US court penalty ever (KRQE)"
+ },
+ "a261001p42": {
+  "article_url": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p42",
+  "summary": "MAI-Transcribe and MAI-Voice models: accurate, fast, low cost, and chart-topping audio understanding and generation for building the best conversational voice agents.",
+  "techmeme_url": "https://www.techmeme.com/261001/p42",
+  "title": "Microsoft launches MAI-Transcribe-2-Streaming, a model for low-latency, real-time transcripts, and two new voice models, MAI-Voice-2.1 and MAI-Voice-2.1-Flash (Microsoft AI)"
+ },
+ "a261001p43": {
+  "article_url": "https://www.reuters.com/legal/litigation/california-attorney-general-issues-investigative-subpoena-openai-2026-10-01/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p43",
+  "summary": "California Attorney General Rob Bonta has issued an investigative subpoena to OpenAI, as part of a broader inquiry …",
+  "techmeme_url": "https://www.techmeme.com/261001/p43",
+  "title": "California AG Rob Bonta issues an investigative subpoena to OpenAI, as part of a broader inquiry into cybersecurity incidents and risks related to its AI models (Jaspreet Singh/Reuters)"
+ },
+ "a261001p44": {
+  "article_url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p44",
+  "summary": "Quick caveats: this is a post on AI safety, written by a cryptography professor. If that troubles you, you should read something else.",
+  "techmeme_url": "https://www.techmeme.com/261001/p44",
+  "title": "A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment while AI alignment says sandboxes cannot contain agents (Matthew Green/A Few Thoughts on Cryptographic Engineering)"
+ },
+ "a261001p45": {
+  "article_url": "https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p45",
+  "summary": "Most think social media leads to manipulation and division, but they also say it informs people and gives them a voice in politics",
+  "techmeme_url": "https://www.techmeme.com/261001/p45",
+  "title": "Survey of 37 countries: the share of people who say social media is bad for democracy has risen significantly since 2022 or 2023; a median 55% say it's good (Pew Research Center)"
+ },
+ "a261001p46": {
+  "article_url": "https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p46",
+  "summary": "Jay Clayton will likely be the White House's pick for AI czar, and the Trump administration has been discussing having him remain in his current role …",
+  "techmeme_url": "https://www.techmeme.com/261001/p46",
+  "title": "Sources: Jay Clayton will likely be the White House's pick for AI czar, and he may remain in his current role as director of national intelligence (Jennifer Jacobs/CBS News)"
+ },
+ "a261001p47": {
+  "article_url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p47",
+  "summary": "OpenAI has informed more than 100 organizations about incidents involving unauthorized activity tied to its AI agents, according to a blog post by the ChatGPT maker …",
+  "techmeme_url": "https://www.techmeme.com/261001/p47",
+  "title": "OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents (Arasu Kannagi Basil/Reuters)"
+ },
+ "a261001p48": {
+  "article_url": "https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p48",
+  "summary": "Sure, it costs more, but it can handle images and video and it's available on Hugging Face if you have the hardware horsepower to run it locally",
+  "techmeme_url": "https://www.techmeme.com/261001/p48",
+  "title": "Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B (Brandon Vigliarolo/The Register)"
+ },
+ "a261001p49": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
+  "date": "2026-10-01",
+  "permalink_id": "a261001p49",
+  "summary": "Nvidia's AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
+  "techmeme_url": "https://www.techmeme.com/261001/p49",
+  "title": "Experts say mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls are increasingly pointing to gaps in Nvidia's due diligence (Mackenzie Hawkins/Bloomberg)"
+ },
  "a261001p5": {
   "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/30/salesforce-listen-labs-fin",
   "date": "2026-10-01",
