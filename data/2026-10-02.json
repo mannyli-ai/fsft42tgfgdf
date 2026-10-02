@@ -15,6 +15,78 @@
   "techmeme_url": "https://www.techmeme.com/261002/p10",
   "title": "AT&T, T-Mobile, and Verizon form a JV that aims to expand US satellite coverage and eliminate dead zones, appointing industry veteran Paul Roth as interim CEO (David Shepardson/Reuters)"
  },
+ "a261002p11": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p11",
+  "summary": "﻿The new Speech feature provides synthetic voiceovers embellished with AI background music.",
+  "techmeme_url": "https://www.techmeme.com/261002/p11",
+  "title": "Suno debuts Speech, which generates spoken voices from scripts or prompts, with optional background music, in public beta, as its music generator faces lawsuits (Jess Weatherbed/The Verge)"
+ },
+ "a261002p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-02/microsoft-amazon-cloud-arms-set-to-face-deeper-scrutiny-under-eu-s-tech-rules",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p12",
+  "summary": "Microsoft Corp.'s Azure and Amazon Web Services are set to be designated under the European Union's strict rulebook for Big Tech.",
+  "techmeme_url": "https://www.techmeme.com/261002/p12",
+  "title": "Sources: an EU investigation is set to find that Azure and AWS meet DMA thresholds, as the EU strengthens its regulatory scrutiny of the cloud sector (Bloomberg)"
+ },
+ "a261002p13": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p13",
+  "summary": "Broadcom Inc.'s Wall Street syndicate is starting to gather $60 billion of fresh AI chip financing to benefit Anthropic PBC and other companies …",
+  "techmeme_url": "https://www.techmeme.com/261002/p13",
+  "title": "Sources: Broadcom's Wall Street syndicate is amassing $60B in AI chip financing to help Anthropic and others access chips and other key AI infrastructure (Bloomberg)"
+ },
+ "a261002p14": {
+  "article_url": "https://www.bbc.com/news/articles/cqx2z23xj555o",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p14",
+  "summary": "Donald Trump's push to rename AI may be behind an “unprecedented” rise in registrations for domain names in Slovenia, according to its official national registry.",
+  "techmeme_url": "https://www.techmeme.com/261002/p14",
+  "title": "Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI \"super intelligence\" (Laura Cress/BBC)"
+ },
+ "a261002p15": {
+  "article_url": "https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p15",
+  "summary": "One of the largest Dutch eyewear retail chains said on Friday it had suspended sales of Meta's (META.O) Ray-Ban smart glasses …",
+  "techmeme_url": "https://www.techmeme.com/261002/p15",
+  "title": "Hans Anders, one of the largest Dutch eyewear retail chains, suspends sales of Ray-Ban Meta Glasses in the Netherlands and Belgium amid growing privacy concerns (Toby Sterling/Reuters)"
+ },
+ "a261002p16": {
+  "article_url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p16",
+  "summary": "FieldAI is raising $700 million at a $10 billion valuation, up from $2 billion last year. — FieldAI is building what it says is a …",
+  "techmeme_url": "https://www.techmeme.com/261002/p16",
+  "title": "Source: FieldAI, which is developing a \"universal general-purpose brain\" for robots, is raising $700M at a $10B valuation, up from $2B in 2025 (Rya Jetha/Business Insider)"
+ },
+ "a261002p17": {
+  "article_url": "https://www.theinformation.com/articles/spacexs-ai-unit-turned-ai-cloud-firm",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p17",
+  "summary": "SpaceX's AI unit held talks over the summer about leasing computing capacity to Microsoft, say people familiar with the matter …",
+  "techmeme_url": "https://www.techmeme.com/261002/p17",
+  "title": "Sources: SpaceX's AI unit held talks about leasing computing capacity to Microsoft, as it fully embraces the neocloud business despite Musk's initial reluctance (Grace Kay/The Information)"
+ },
+ "a261002p18": {
+  "article_url": "https://www.anthropic.com/news/claude-frontier-academy",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p18",
+  "summary": "The first-of-its-kind Academy trains Frontier Deployed Engineers using the same standard of skills as Anthropic's own engineers …",
+  "techmeme_url": "https://www.techmeme.com/261002/p18",
+  "title": "Anthropic launches the Claude Frontier Academy with a $100M commitment to train 10K \"Frontier Deployed Engineers\" by 2028, starting with Accenture, Bain, others (Anthropic)"
+ },
+ "a261002p19": {
+  "article_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p19",
+  "summary": "Days after a journalist claimed that Meta's Muse app on Mac read their private messages — a claim that Meta disputed …",
+  "techmeme_url": "https://www.techmeme.com/261002/p19",
+  "title": "Apple says it is adding additional controls around \"Full Disk Access\" on macOS as AI agents have increased \"the risks associated with this level of access\" (Sarah Perez/TechCrunch)"
+ },
  "a261002p2": {
   "article_url": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62",
   "date": "2026-10-02",
@@ -22,6 +94,54 @@
   "summary": "Amazon is seeking to offload about $8bn of advanced Nvidia chips to external investors through a new vehicle aimed at strengthening …",
   "techmeme_url": "https://www.techmeme.com/261002/p2",
   "title": "Sources: Amazon has held talks with investors about a deal to spin off $8B of Grace Blackwell chips into an SPV, then lease them back for its US data centers (Financial Times)"
+ },
+ "a261002p20": {
+  "article_url": "https://x.com/tavus",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p20",
+  "summary": "Introducing Griffin, the first model to pass the video Turing test. 48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate <3%. It is #1 on NVIDIA's benchmark for full-duplex AI video. It's the first Human Interaction Model (HIM).",
+  "techmeme_url": "https://www.techmeme.com/261002/p20",
+  "title": "Tavus unveils Griffin, the \"first Human Interaction Model\", which it says passed the \"video Turing test\", with 48% of users thinking it was human in live chats (@tavus)"
+ },
+ "a261002p21": {
+  "article_url": "https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p21",
+  "summary": "The Jev model, which TypeSafe's CEO considers at the forefront of a ‘new class of AI,’ has set Silicon Valley circles abuzz",
+  "techmeme_url": "https://www.techmeme.com/261002/p21",
+  "title": "TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and \"we were at a trillion tokens per day about a week ago\" (Elias Schisgall/Wall Street Journal)"
+ },
+ "a261002p22": {
+  "article_url": "https://www.axios.com/2026/10/02/army-autonomy-command-hegseth-agincourt",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p22",
+  "summary": "The U.S. Army is creating a new autonomous systems command and appointing an acquisition executive to prioritize buying …",
+  "techmeme_url": "https://www.techmeme.com/261002/p22",
+  "title": "Memo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects (Colin Demarest/Axios)"
+ },
+ "a261002p23": {
+  "article_url": "https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p23",
+  "summary": "Meta said it's letting go of employees it hired from AI safety startup Virtue AI four months after they joined the company in June …",
+  "techmeme_url": "https://www.techmeme.com/261002/p23",
+  "title": "Meta says it is letting go of employees it hired from AI safety startup Virtue AI four months after they joined the company, citing clashing work styles (Ashley Gold/Semafor)"
+ },
+ "a261002p24": {
+  "article_url": "https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p24",
+  "summary": "The company created its own smart home device, the Muse Home Link — We still don't know too much about Meta's tamagotchi-like AI device …",
+  "techmeme_url": "https://www.techmeme.com/261002/p24",
+  "title": "Meta announces Muse Gadgets, providing an open source ESP32 microchip firmware and a Linux SDK to let users bring Muse to their hardware, like Raspberry Pi 5 (Karissa Bell/Engadget)"
+ },
+ "a261002p25": {
+  "article_url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p25",
+  "summary": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service.",
+  "techmeme_url": "https://www.techmeme.com/261002/p25",
+  "title": "Apple releases an update for iPhone 18 Pro Max devices on AT&T to address cellular failures; units that already lost service require hardware replacement (Chance Miller/9to5Mac)"
  },
  "a261002p3": {
   "article_url": "https://www.mbi-deepdives.com/no-ads-muse/",
