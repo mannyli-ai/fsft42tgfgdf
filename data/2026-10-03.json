@@ -7,6 +7,14 @@
   "techmeme_url": "https://www.techmeme.com/261003/p1",
   "title": "Onsemi revises its Synaptics acquisition to a ~$5.7B all-cash offer, down from the ~$7B all-stock deal announced in June, after Synaptics received another bid (Elias Schisgall/Wall Street Journal)"
  },
+ "a261003p10": {
+  "article_url": "https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/",
+  "date": "2026-10-03",
+  "permalink_id": "a261003p10",
+  "summary": "YouTube says it wants to ‘focus on originality’ in a push to surface better Shorts recommendations for users.",
+  "techmeme_url": "https://www.techmeme.com/261003/p10",
+  "title": "YouTube says it is adjusting its Shorts recommendations to prioritize \"original content\" and reduce the reach of channels re-uploading others' content (Andrew Romero/9to5Google)"
+ },
  "a261003p2": {
   "article_url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
   "date": "2026-10-03",
@@ -54,5 +62,21 @@
   "summary": "DUV tools, though not as advanced as EUV, can be adapted to manufacture 7-nm logic chips and advanced memory for AI processors, report says.",
   "techmeme_url": "https://www.techmeme.com/261003/p7",
   "title": "Center for Technology & Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM (Howard Liu/South China Morning Post)"
+ },
+ "a261003p8": {
+  "article_url": "https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back",
+  "date": "2026-10-03",
+  "permalink_id": "a261003p8",
+  "summary": "8 min Click here to listen to this article — Coyotec, an AI co-host on Los Angeles' José FM …",
+  "techmeme_url": "https://www.techmeme.com/261003/p8",
+  "title": "A look at a radio show co-hosted by an AI DJ and a human that is expanding in LA and other cities, as radio workers worry synthetic hosts may soon replace them (Nilesh Christopher/Los Angeles Times)"
+ },
+ "a261003p9": {
+  "article_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+  "date": "2026-10-03",
+  "permalink_id": "a261003p9",
+  "summary": "The focus of OpenAI's Dev Day on Tuesday may have been on its agentic assistants known as Dots, or its new AI models, but combined …",
+  "techmeme_url": "https://www.techmeme.com/261003/p9",
+  "title": "OpenAI's DevDay 2026 announcements to turn ChatGPT into a place to discover, launch, and use software could potentially disrupt the traditional app store model (Sarah Perez/TechCrunch)"
  }
 }
