@@ -143,6 +143,38 @@
   "techmeme_url": "https://www.techmeme.com/261002/p25",
   "title": "Apple releases an update for iPhone 18 Pro Max devices on AT&T to address cellular failures; units that already lost service require hardware replacement (Chance Miller/9to5Mac)"
  },
+ "a261002p26": {
+  "article_url": "https://www.pcmag.com/news/facing-memory-crunch-nvidia-creates-64gb-rtx-spark-it-still-costs-4999",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p26",
+  "summary": "The ongoing memory shortage has prompted Nvidia to create a 64GB version of its DGX Spark mini PC, which runs AI models locally. The only problem?",
+  "techmeme_url": "https://www.techmeme.com/261002/p26",
+  "title": "Nvidia announces a version of DGX Spark with 64 GB of unified memory for $4,999, or $1,000 more than the 128 GB version at launch (Michael Kan/PCMag)"
+ },
+ "a261002p27": {
+  "article_url": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p27",
+  "summary": "In a blog post published Friday, CEO Matt Garman detailed the steps the company says it's already taking around data centers.",
+  "techmeme_url": "https://www.techmeme.com/261002/p27",
+  "title": "Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums (Molly Taft/Wired)"
+ },
+ "a261002p28": {
+  "article_url": "https://www.semafor.com/article/10/02/2026/how-employees-forced-openais-president-to-back-down",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p28",
+  "summary": "THE SCOOP — On June 1, OpenAI chief strategy officer Jason Kwon gave employees a preview of a blog post denying the company …",
+  "techmeme_url": "https://www.techmeme.com/261002/p28",
+  "title": "Leaked Slack messages show OpenAI employees' pushback in June to Greg Brockman's Leading the Future ties, contributing to Brockman reneging on a $25M donation (Garrison Lovely/Semafor)"
+ },
+ "a261002p29": {
+  "article_url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p29",
+  "summary": "David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company. — An OpenAI spokesperson told Business Insider on Friday that Robinson left last week …",
+  "techmeme_url": "https://www.techmeme.com/261002/p29",
+  "title": "David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week (Stephen Council/Business Insider)"
+ },
  "a261002p3": {
   "article_url": "https://www.mbi-deepdives.com/no-ads-muse/",
   "date": "2026-10-02",
@@ -150,6 +182,22 @@
   "summary": "Get the next one in your inbox. — A daily journal on business, investing, and technology. — It didn't take too long for the app layer to start to respond to Muse.",
   "techmeme_url": "https://www.techmeme.com/261002/p3",
   "title": "Meta may never need ads to monetize Muse, instead focusing on building trust in the near term and possibly monetizing it through merchant transaction fees later (MBI Deep Dives)"
+ },
+ "a261002p30": {
+  "article_url": "https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso/",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p30",
+  "summary": "Supabase Inc., a startup that commercializes the open-source PostgreSQL database, has raised $150 million in funding. — Singapore's GIC sovereign wealth fund led the deal.",
+  "techmeme_url": "https://www.techmeme.com/261002/p30",
+  "title": "Supabase raised $150M led by Singapore's GIC and agrees to acquire Turso, which offers a database optimized for AI agents, for an undisclosed sum (Maria Deutscher/SiliconANGLE)"
+ },
+ "a261002p31": {
+  "article_url": "https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/",
+  "date": "2026-10-02",
+  "permalink_id": "a261002p31",
+  "summary": "Flock's nationwide network is quickly “approaching dragnet-type law enforcement practice” and the cop should have got a warrant, the judge wrote.",
+  "techmeme_url": "https://www.techmeme.com/261002/p31",
+  "title": "A US judge rules an officer's use of Flock to search a car's license plate was a form of \"indiscriminate mass surveillance\", and violated the Fourth Amendment (Jason Koebler/404 Media)"
  },
  "a261002p4": {
   "article_url": "https://www.vanityfair.com/story/larry-ellison-profile",
