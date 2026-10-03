@@ -14,5 +14,45 @@
   "summary": "Terms like “AI sprawl” have become common fare on tech social media and in thought leadership as enterprises start deploying AI agents en masse.",
   "techmeme_url": "https://www.techmeme.com/261003/p2",
   "title": "Reco, whose tech helps enterprises secure and govern AI agents across SaaS environments, raised a $55M Series B extension, taking its total funding to $140M (Ram Iyer/TechCrunch)"
+ },
+ "a261003p3": {
+  "article_url": "https://www.culpium.com/p/exclusive-tsmc-exploring-plans-to",
+  "date": "2026-10-03",
+  "permalink_id": "a261003p3",
+  "summary": "[Exclusive] Taiwanese foundry giant may use Terafab as anchor client for a future Texas semiconductor factory.",
+  "techmeme_url": "https://www.techmeme.com/261003/p3",
+  "title": "Sources: TSMC is exploring plans to work with Elon Musk's Terafab project as it mulls a presence in Texas, adding to its existing plans to expand in Arizona (Tim Culpan/Culpium)"
+ },
+ "a261003p4": {
+  "article_url": "https://www.calcalistech.com/ctechnews/article/byzggtiqgx",
+  "date": "2026-10-03",
+  "permalink_id": "a261003p4",
+  "summary": "The Israeli startup, which was founded by former Granulate executives and employs 17 people, built technology designed to reduce idle GPU capacity when AI demand changes.",
+  "techmeme_url": "https://www.techmeme.com/261003/p4",
+  "title": "Nasdaq-listed neocloud Nebius acquires Inferize, whose tech helps optimize GPU utilization and reduce AI request costs, sources say for $100M to $150M (Meir Orbach/CTech)"
+ },
+ "a261003p5": {
+  "article_url": "https://siliconangle.com/2026/09/30/smart-radio-startup-relay-raises-36m-in-funding-to-help-businesses-capture-intelligence-from-frontline-workers/",
+  "date": "2026-10-03",
+  "permalink_id": "a261003p5",
+  "summary": "The business communications startup Relay Inc. says it's trying to capture “frontline intelligence” …",
+  "techmeme_url": "https://www.techmeme.com/261003/p5",
+  "title": "Relay, which develops cloud-hosted, AI-powered smart radio communicators for frontline workers, raised $36M to help businesses capture \"frontline intelligence\" (Mike Wheatley/SiliconANGLE)"
+ },
+ "a261003p6": {
+  "article_url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=U3sqqR&reflink=desktopwebshare_permalink",
+  "date": "2026-10-03",
+  "permalink_id": "a261003p6",
+  "summary": "Swarm chasers hunt for clues of bad behavior. Their work is our starkest understanding yet of what happens when AI goes wrong.",
+  "techmeme_url": "https://www.techmeme.com/261003/p6",
+  "title": "A look at the Swarmchasers forum, which has 400 members, including the Nightingale Collective and Transluce, who comb the web for traces of rogue AI agents (Robert McMillan/Wall Street Journal)"
+ },
+ "a261003p7": {
+  "article_url": "https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban",
+  "date": "2026-10-03",
+  "permalink_id": "a261003p7",
+  "summary": "DUV tools, though not as advanced as EUV, can be adapted to manufacture 7-nm logic chips and advanced memory for AI processors, report says.",
+  "techmeme_url": "https://www.techmeme.com/261003/p7",
+  "title": "Center for Technology & Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM (Howard Liu/South China Morning Post)"
  }
 }
