@@ -7,6 +7,14 @@
   "techmeme_url": "https://www.techmeme.com/261004/p1",
   "title": "Q&A with Brian Chesky on Airbnb's plans for agent-to-agent interactions, why chatbots fail at travel e-commerce, the need for an AI-native OS, and more (Ivan Mehta/TechCrunch)"
  },
+ "a261004p10": {
+  "article_url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659?st=ba2ZAz&reflink=desktopwebshare_permalink",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p10",
+  "summary": "Alexandr Wang drove Muse to the top of the charts, putting the company back in the AI race—even if he ruffled feathers inside the tech giant",
+  "techmeme_url": "https://www.techmeme.com/261004/p10",
+  "title": "A profile of Meta Chief AI Officer Alexandr Wang, who is the company's first senior executive from Gen Z and has succeeded in building hype for Muse (Meghan Bobrowsky/Wall Street Journal)"
+ },
  "a261004p2": {
   "article_url": "https://www.calcalistech.com/ctechnews/article/sjh5ocv5me",
   "date": "2026-10-04",
@@ -54,5 +62,21 @@
   "summary": "British claim over Google Play Store is latest effort to challenge market power of Big Tech groups",
   "techmeme_url": "https://www.techmeme.com/261004/p7",
   "title": "Google prepares to defend a £1.2B UK class action lawsuit over claims it levied \"excessive\" charges on Android apps downloaded from Google Play since 2015 (Financial Times)"
+ },
+ "a261004p8": {
+  "article_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p8",
+  "summary": "Headlines and History — The headlines keep coming: such and such an AI system has solved such and such a math problem.",
+  "techmeme_url": "https://www.techmeme.com/261004/p8",
+  "title": "As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask (Stephen Wolfram/Stephen Wolfram Writings)"
+ },
+ "a261004p9": {
+  "article_url": "https://morethanmoore.substack.com/p/interview-with-richard-ho-openai",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p9",
+  "summary": "VP Hardware for Jalapeño … In June 2026, OpenAI confirmed what the industry had assumed for a year …",
+  "techmeme_url": "https://www.techmeme.com/261004/p9",
+  "title": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more (Dr. Ian Cutress/More Than Moore)"
  }
 }
