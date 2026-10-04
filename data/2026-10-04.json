@@ -1,0 +1,58 @@
+{
+ "a261004p1": {
+  "article_url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p1",
+  "summary": "Airbnb rolled out its new AI-powered search this week as part of its fall update, a significant step for a company that has been slow and deliberate about AI.",
+  "techmeme_url": "https://www.techmeme.com/261004/p1",
+  "title": "Q&A with Brian Chesky on Airbnb's plans for agent-to-agent interactions, why chatbots fail at travel e-commerce, the need for an AI-native OS, and more (Ivan Mehta/TechCrunch)"
+ },
+ "a261004p2": {
+  "article_url": "https://www.calcalistech.com/ctechnews/article/sjh5ocv5me",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p2",
+  "summary": "The acquisition will give the bank a digital small business platform while accelerating its technology and AI strategy.",
+  "techmeme_url": "https://www.techmeme.com/261004/p2",
+  "title": "Valley National Bancorp agrees to acquire New Jersey-based Bluevine, which provides digital banking and payments services for 175K SMBs in the US, for $340M (Meir Orbach/CTech)"
+ },
+ "a261004p3": {
+  "article_url": "https://www.moneycontrol.com/news/business/startup/flipkart-grapples-with-sagging-employee-morale-as-snapdeal-meesho-groww-power-ahead-with-ipos-14041869.html",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p3",
+  "summary": "For years, former and current employees of Flipkart pinned their hopes on the Walmart-owned e-commerce major's eventual listing …",
+  "techmeme_url": "https://www.techmeme.com/261004/p3",
+  "title": "Sources: Walmart's Flipkart faces sagging employee morale as Indian startup rivals power ahead with IPOs; at least eight VPs and SVPs have quit in recent weeks (Moneycontrol)"
+ },
+ "a261004p4": {
+  "article_url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p4",
+  "summary": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access.",
+  "techmeme_url": "https://www.techmeme.com/261004/p4",
+  "title": "Google says free Gemini users will be limited to the 3.5 Flash-Lite model from October 9, while Plus subscribers will be limited to 3.5 Flash-Lite and 3.6 Flash (Abner Li/9to5Google)"
+ },
+ "a261004p5": {
+  "article_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p5",
+  "summary": "Engineers and open-source maintainers reportedly overwhelmed by thousands of sloppy reports — Google has officially suspended product …",
+  "techmeme_url": "https://www.techmeme.com/261004/p5",
+  "title": "Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027 (Etiido Uko/Tom's Hardware)"
+ },
+ "a261004p6": {
+  "article_url": "https://asia.nikkei.com/business/electronics/toshiba-to-double-hard-disk-drive-supply-to-fill-ai-chip-memory-gap",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p6",
+  "summary": "MANILA — Japanese technology group Toshiba plans to double production capacity for hard-disk drives used in artificial intelligence …",
+  "techmeme_url": "https://www.techmeme.com/261004/p6",
+  "title": "Toshiba plans to double HDD production capacity for AI data centers within FY2027 from its 2025 level, targeting a 30% share by storage capacity, up from ~10% (Keigo Yoshida/Nikkei Asia)"
+ },
+ "a261004p7": {
+  "article_url": "https://www.ft.com/content/25272ffd-fd7e-4a69-97b3-cfcb3f98e646",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p7",
+  "summary": "British claim over Google Play Store is latest effort to challenge market power of Big Tech groups",
+  "techmeme_url": "https://www.techmeme.com/261004/p7",
+  "title": "Google prepares to defend a £1.2B UK class action lawsuit over claims it levied \"excessive\" charges on Android apps downloaded from Google Play since 2015 (Financial Times)"
+ }
+}
