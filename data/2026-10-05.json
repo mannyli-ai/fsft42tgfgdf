@@ -6,5 +6,125 @@
   "summary": "Firmus Grid Ltd. plans to allocate about half of the shares in its initial public offering to existing shareholders …",
   "techmeme_url": "https://www.techmeme.com/261005/p1",
   "title": "Sources: Firmus plans to allocate ~50% of its IPO shares to existing holders, as investor demand far exceeds the offer size in one of Australia's largest IPOs (Bloomberg)"
+ },
+ "a261005p10": {
+  "article_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p10",
+  "summary": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images.",
+  "techmeme_url": "https://www.techmeme.com/261005/p10",
+  "title": "OpenAI says it will begin testing a visual ad format in ChatGPT later in October in the US, displaying clearly labeled visual ads while users generate images (Mayank Parmar/BleepingComputer)"
+ },
+ "a261005p11": {
+  "article_url": "https://www.ft.com/content/93ee425d-9ac7-4543-8cc9-fef2e0670787",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p11",
+  "summary": "Employees of start-up say they were short-changed when the chip titan left them out of the ‘acqui-hire’ transaction",
+  "techmeme_url": "https://www.techmeme.com/261005/p11",
+  "title": "Former Groq engineers file a lawsuit in Delaware against Groq, alleging the $20B \"non-exclusive\" acqui-hire deal with Nvidia in 2025 short-changed employees (Financial Times)"
+ },
+ "a261005p12": {
+  "article_url": "https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-1",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p12",
+  "summary": "In an exclusive video interview, the OpenAI CEO discusses ChatGPT and suicide prevention, safety breaches …",
+  "techmeme_url": "https://www.techmeme.com/261005/p12",
+  "title": "Q&A with Sam Altman on his kids, his rivalries, pronatalism, \"prepping\" for the apocalypse, new products, the IPO delay, Luca Guadagnino's Artificial, and more (Vanity Fair)"
+ },
+ "a261005p13": {
+  "article_url": "https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-2",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p13",
+  "summary": "In an exclusive video interview, the OpenAI CEO discusses Donald Trump, the midterms, the real risk of extinction …",
+  "techmeme_url": "https://www.techmeme.com/261005/p13",
+  "title": "Q&A with Sam Altman on President Trump, the midterms, AI extinction risk, Xi Jinping's state visit, self-policing vs. regulation, and Greg Brockman's donations (Vanity Fair)"
+ },
+ "a261005p14": {
+  "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p14",
+  "summary": "AI brings a staggering new peak in wealth - and signs we just passed it. … The boom in AI valuations has created unprecedented wealth …",
+  "techmeme_url": "https://www.techmeme.com/261005/p14",
+  "title": "Billionaires Index: tech billionaires account for all of the $845B in wealth gains so far in 2026; those whose fortunes came from outside tech lost $62B total (Kristine Owram/Bloomberg)"
+ },
+ "a261005p15": {
+  "article_url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&reflink=desktopwebshare_permalink",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p15",
+  "summary": "Artificial-intelligence use is measured in tokens, but the models' use of tokens at any given task can be unpredictable",
+  "techmeme_url": "https://www.techmeme.com/261005/p15",
+  "title": "Survey: only 11% of 396 businesses could forecast AI spending; Microsoft finds lower-priced models cost more than higher-priced ones on 32% of 6,800+ tasks (Wall Street Journal)"
+ },
+ "a261005p16": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/05/developer-infrastructure-namespace-scale",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p16",
+  "summary": "Namespace, developer infrastructure company and specialized cloud provider, raised a $42 million Series B led by Scale Venture Partners …",
+  "techmeme_url": "https://www.techmeme.com/261005/p16",
+  "title": "Namespace, which offers cloud services and infrastructure for developers, raised a $42M Series B led by Scale Venture Partners and says it has 1,000+ customers (Chris Metinko/Axios)"
+ },
+ "a261005p17": {
+  "article_url": "https://www.tomshardware.com/tech-industry/semiconductors/china-stockpiled-343-immersion-duv-tools-for-advanced-chipmaking-report-claims-270-asml-scanners-can-produce-7nm-processors-without-sanctioned-euv-tools",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p17",
+  "summary": "China, apparently, has significant immersion DUV capability. … Chinese chipmakers have accumulated an estimated 343 immersion …",
+  "techmeme_url": "https://www.techmeme.com/261005/p17",
+  "title": "CTS: Chinese logic and memory chipmakers have imported 343 ASML immersion DUV lithography scanners from 2012 to early 2026, many of which can make 7nm chips (Anton Shilov/Tom's Hardware)"
+ },
+ "a261005p18": {
+  "article_url": "https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p18",
+  "summary": "Cohere is going after two common enterprise agent problems with North 2, the new version of its enterprise agent platform.",
+  "techmeme_url": "https://www.techmeme.com/261005/p18",
+  "title": "Cohere launches North 2, an update to its enterprise agent platform with cross-session memory and a redesigned harness, available across cloud and on-premises (Sean Michael Kerner/VentureBeat)"
+ },
+ "a261005p19": {
+  "article_url": "https://www.theinformation.com/articles/jensen-huangs-son-in-law-became-one-trusted-executives",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p19",
+  "summary": "A little over a week ago, Madison Huang, a rising star at Nvidia and the daughter of its CEO, celebrated her wedding in Hawaii.",
+  "techmeme_url": "https://www.techmeme.com/261005/p19",
+  "title": "Sources: Nico Caprez, son-in-law to Jensen Huang, rapidly ascended to become an Nvidia VP, serving as its main contact for neoclouds and Huang's \"consigliere\" (Phoebe Liu/The Information)"
+ },
+ "a261005p20": {
+  "article_url": "https://nymag.com/intelligencer/article/ai-researchers-quit-openai-anthropic.html",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p20",
+  "summary": "Exit interviews with defectors from OpenAI, Anthropic, and DeepMind. — On September 8, Jacob Coxon, a 27-year-old Anthropic employee …",
+  "techmeme_url": "https://www.techmeme.com/261005/p20",
+  "title": "Q&A with AI researchers Jacob Coxon, Daniel Kokotajlo, Alex Turner, and others on leaving AI labs, AGI's dangers, planned IPOs, AI safety, oversight, and more (New York Magazine)"
+ },
+ "a261005p21": {
+  "article_url": "http://www.forbes.com/sites/zoyahasan/2026/10/05/fintech-unicorn-valon-hit-a-2-billion-valuation-to-bring-ai-to-americas-13-trillion-mortgage-market/",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p21",
+  "summary": "The U.S. mortgage market is massive, but its payment systems are antiquated and often analog. Valon raised a $150 million Series D …",
+  "techmeme_url": "https://www.techmeme.com/261005/p21",
+  "title": "Valon, which makes software to help US mortgage companies cut red tape and costs, raised a $150M Series D from Ribbit, a16z, and others at a $2.3B valuation (Zoya Hasan/Forbes)"
+ },
+ "a261005p7": {
+  "article_url": "https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p7",
+  "summary": "China's Huawei Technologies (HWT.UL) said on Monday it had agreed a broad multi-year patent licence deal with Qualcomm (QCOM.O) …",
+  "techmeme_url": "https://www.techmeme.com/261005/p7",
+  "title": "Huawei agrees to a multiyear patent licensing deal with Qualcomm covering AI, 5G, computing, and networking tech, its first 5G licensing deal with Qualcomm (Miyoung Kim/Reuters)"
+ },
+ "a261005p8": {
+  "article_url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p8",
+  "summary": "Abuse material monitor says number of AI images assessed this year is already 40% higher than last year's total",
+  "techmeme_url": "https://www.techmeme.com/261005/p8",
+  "title": "The IWF says it assessed 6,310 AI-generated images that met the legal definition of CSAM in H1 2026, 40% more than the 4,500+ images assessed in all of 2025 (Dan Milmo/The Guardian)"
+ },
+ "a261005p9": {
+  "article_url": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5?st=yskaLT&reflink=desktopwebshare_permalink",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p9",
+  "summary": "German company aims to capitalize on growing demand for autonomous industrial robots — German robotics startup RobCo has sold shares …",
+  "techmeme_url": "https://www.techmeme.com/261005/p9",
+  "title": "Munich-based RobCo, which makes robotic arms and automation software, sells $40M of shares at a $1B+ valuation, up from ~$500M after raising $100M in January (Ben Dummett/Wall Street Journal)"
  }
 }
