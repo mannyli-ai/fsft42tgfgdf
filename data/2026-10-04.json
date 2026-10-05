@@ -71,6 +71,22 @@
   "techmeme_url": "https://www.techmeme.com/261004/p17",
   "title": "Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday (Financial Times)"
  },
+ "a261004p18": {
+  "article_url": "https://www.theinformation.com/articles/anthropics-big-charity-bill-shareholders",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p18",
+  "summary": "When Anthropic shared financial figures recently with prospective investors in its planned initial public offering …",
+  "techmeme_url": "https://www.techmeme.com/261004/p18",
+  "title": "Sources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders (Cory Weinberg/The Information)"
+ },
+ "a261004p19": {
+  "article_url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p19",
+  "summary": "OpenAI CEO Sam Altman said there remains a fundamental difference in worldview between his company and rival Anthropic …",
+  "techmeme_url": "https://www.techmeme.com/261004/p19",
+  "title": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks (Politico)"
+ },
  "a261004p2": {
   "article_url": "https://www.calcalistech.com/ctechnews/article/sjh5ocv5me",
   "date": "2026-10-04",
@@ -78,6 +94,46 @@
   "summary": "The acquisition will give the bank a digital small business platform while accelerating its technology and AI strategy.",
   "techmeme_url": "https://www.techmeme.com/261004/p2",
   "title": "Valley National Bancorp agrees to acquire New Jersey-based Bluevine, which provides digital banking and payments services for 175K SMBs in the US, for $340M (Meir Orbach/CTech)"
+ },
+ "a261004p20": {
+  "article_url": "https://app.ft.com/content/57de6604-70a9-413a-a381-9ba82ec202ec",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p20",
+  "summary": "Eleven-year-old UK fintech searching for growth capital after bruising year of boardroom tussles",
+  "techmeme_url": "https://www.techmeme.com/261004/p20",
+  "title": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)"
+ },
+ "a261004p21": {
+  "article_url": "https://www.bloomberg.com/features/2026-james-manyika-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTA0MTMwOSwiZXhwIjoxNzkxNjQ2MTA5LCJhcnRpY2xlSWQiOiJUTTlLSzlSS1YyVFYwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.u-yRXj5OldEL8nTrVyxthWTvxQ8nek0go4FwVqRE75E",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p21",
+  "summary": "The accord, which carries no legal weight, commits Anthropic, OpenAI, Nvidia, Meta, SpacexAI and Google to “robust internal processes” …",
+  "techmeme_url": "https://www.techmeme.com/261004/p21",
+  "title": "Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society (Mishal Husain/Bloomberg)"
+ },
+ "a261004p22": {
+  "article_url": "https://www.axios.com/2026/10/02/changeorg-ai-100-million",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p22",
+  "summary": "Change.org was founded as a venture-backed organization, before a 2021 restructuring that saw investors like Reid Hoffman …",
+  "techmeme_url": "https://www.techmeme.com/261004/p22",
+  "title": "Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators (Dan Primack/Axios)"
+ },
+ "a261004p23": {
+  "article_url": "https://www.theinformation.com/articles/sean-parker-spreads-gospel-ai-music",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p23",
+  "summary": "To the music industry, Sean Parker has been many things. As co-founder of Napster, he was first an “outlaw renegade,” as he himself puts it.",
+  "techmeme_url": "https://www.techmeme.com/261004/p23",
+  "title": "A look at Sean Parker's resurrection of Stability AI following Emad Mostaque's ousting, and its new focus on AI for music professionals, backed by major labels (Abram Brown/The Information)"
+ },
+ "a261004p24": {
+  "article_url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+  "date": "2026-10-04",
+  "permalink_id": "a261004p24",
+  "summary": "A closely watched Nvidia-backed startup called Reflection is preparing to shake up the AI race with a powerful open-weight system …",
+  "techmeme_url": "https://www.techmeme.com/261004/p24",
+  "title": "Sources: several Western open-weight models are set to launch this month, including Reflection AI's first model, which will rival top Chinese open-weight models (Bradley Olson/Axios)"
  },
  "a261004p3": {
   "article_url": "https://www.moneycontrol.com/news/business/startup/flipkart-grapples-with-sagging-employee-morale-as-snapdeal-meesho-groww-power-ahead-with-ipos-14041869.html",
