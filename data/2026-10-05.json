@@ -103,6 +103,110 @@
   "techmeme_url": "https://www.techmeme.com/261005/p21",
   "title": "Valon, which makes software to help US mortgage companies cut red tape and costs, raised a $150M Series D from Ribbit, a16z, and others at a $2.3B valuation (Zoya Hasan/Forbes)"
  },
+ "a261005p22": {
+  "article_url": "https://www.reuters.com/legal/litigation/meta-tiktok-x-challenge-uk-watchdog-over-online-safety-data-demands-2026-10-05/",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p22",
+  "summary": "Meta (META.O), TikTok and X are challenging British regulator Ofcom over the amount of information it is demanding …",
+  "techmeme_url": "https://www.techmeme.com/261005/p22",
+  "title": "Meta, TikTok, and X challenge UK's Ofcom over the amount of info it is demanding under the Online Safety Act, saying it creates unprecedented regulatory burdens (Paul Sandle/Reuters)"
+ },
+ "a261005p23": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-05/nolla-health-ai-can-now-prescribe-acne-drugs-in-utah-without-doctors?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTIxNjEzOSwiZXhwIjoxNzkxODIwOTM5LCJhcnRpY2xlSWQiOiJUTUZMODVLSVAzS00wMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.crHEdlDbj7Dx78MJpxZ7nHnh7NmskJmIYVmdbeyomfE",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p23",
+  "summary": "In a first-of-its-kind pilot, Nolla Health lets AI diagnose and issue prescriptions. — An AI-based healthcare startup on Monday …",
+  "techmeme_url": "https://www.techmeme.com/261005/p23",
+  "title": "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight (Annika Inampudi/Bloomberg)"
+ },
+ "a261005p24": {
+  "article_url": "https://openai.com/index/eu-text-provenance",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p24",
+  "summary": "Starting today, API customers globally will be able to opt in to text watermarking for select models.",
+  "techmeme_url": "https://www.techmeme.com/261005/p24",
+  "title": "To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally (OpenAI)"
+ },
+ "a261005p25": {
+  "article_url": "https://www.bbc.com/news/articles/c5j9x9pr0240o",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p25",
+  "summary": "Technology reporter in San Francisco and — The US Department of Defence is no longer using Anthropic's AI tools …",
+  "techmeme_url": "https://www.techmeme.com/261005/p25",
+  "title": "An official says the DOD has stopped using Anthropic's tools; sources: Claude was in use as recently as last week, including in military operations against Iran (BBC)"
+ },
+ "a261005p26": {
+  "article_url": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p26",
+  "summary": "The agency floated a new “crypto asset market” exchange category but said it can't require crypto to trade on CFTC platforms without Congress.",
+  "techmeme_url": "https://www.techmeme.com/261005/p26",
+  "title": "The CFTC proposes a federal framework for crypto exchanges to offer retail customers leveraged and margined spot trading, without requiring congressional action (Jason Shubnell/The Block)"
+ },
+ "a261005p27": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p27",
+  "summary": "Former Anthropic researcher Jacob Coxon warned that the race to develop artificial intelligence poses risks that the industry itself …",
+  "techmeme_url": "https://www.techmeme.com/261005/p27",
+  "title": "Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety (Bloomberg)"
+ },
+ "a261005p28": {
+  "article_url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p28",
+  "summary": "For much of his life, Zain Javaid, 19, wanted to be a quant who uses math and data to guide his investment decisions. And for a while, he was one.",
+  "techmeme_url": "https://www.techmeme.com/261005/p28",
+  "title": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)"
+ },
+ "a261005p29": {
+  "article_url": "https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p29",
+  "summary": "Meta Platforms and Microsoft, two of Anthropic's biggest corporate customers, are working to cut their employees' use of Claude …",
+  "techmeme_url": "https://www.techmeme.com/261005/p29",
+  "title": "Sources: Meta and Microsoft are working to cut their employees' use of Claude; Meta employees using Claude Code have dropped to ~30K from ~60K earlier this year (The Information)"
+ },
+ "a261005p30": {
+  "article_url": "https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p30",
+  "summary": "Reflection AI, the startup billing itself as America's answer to open-source Chinese AI, is releasing its first model, called Beam.",
+  "techmeme_url": "https://www.techmeme.com/261005/p30",
+  "title": "NY-based Reflection unveils Beam, an open model it claims rivals GLM 5.2 on reasoning while using 3x-4x less compute and approaches Qwen3.8-Max on agentic tasks (Semafor)"
+ },
+ "a261005p31": {
+  "article_url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p31",
+  "summary": "TikTok announced Monday that it's launching an AI shopping assistant and a new in-app checkout feature that lets users buy directly from brands.",
+  "techmeme_url": "https://www.techmeme.com/261005/p31",
+  "title": "TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed (Aisha Malik/TechCrunch)"
+ },
+ "a261005p32": {
+  "article_url": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p32",
+  "summary": "SpaceX shares rose almost 8% on Monday, reaching their highest since mid-June, shortly after Elon Musk's company held its record initial public offering.",
+  "techmeme_url": "https://www.techmeme.com/261005/p32",
+  "title": "SpaceX stock closes up 7.6% after Morgan Stanley called SPCX \"cheap\", reaching its highest level since mid-June and returning Elon Musk to trillionaire status (Lora Kolodny/CNBC)"
+ },
+ "a261005p33": {
+  "article_url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p33",
+  "summary": "Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXAI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
+  "techmeme_url": "https://www.techmeme.com/261005/p33",
+  "title": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)"
+ },
+ "a261005p34": {
+  "article_url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+  "date": "2026-10-05",
+  "permalink_id": "a261005p34",
+  "summary": "Although it's only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already being plied with investment offers …",
+  "techmeme_url": "https://www.techmeme.com/261005/p34",
+  "title": "Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August (Marina Temkin/TechCrunch)"
+ },
  "a261005p7": {
   "article_url": "https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/",
   "date": "2026-10-05",
