@@ -7,6 +7,38 @@
   "techmeme_url": "https://www.techmeme.com/261006/p1",
   "title": "Sources: Seagate and Toshiba are bidding for TDK's HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand (Bloomberg)"
  },
+ "a261006p16": {
+  "article_url": "https://www.ft.com/content/42b6fa88-f730-4f8a-a194-8f53d0759aaf?accessToken=zwAAAaEQ8idRkc9CtvqI9zBPitOhlI9T0HWarw.MEQCIFsYyjb4yxfvL3FOYls_oURkUKWBO4D3qWglNfKRlyUkAiAc4ICia43FCLduzE_Ou9i3X6eZQkRTLJXokEIvDatsNw&sharetype=gift&token=78fc5726-2260-4671-8c2d-d26f1fcda068&syn-25a6b1a6=1",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p16",
+  "summary": "Palmer Luckey's bank for the technology industry has surged to more than $7bn in deposits since launching in February, as the start-up seeks …",
+  "techmeme_url": "https://www.techmeme.com/261006/p16",
+  "title": "Source: Palmer Luckey's Erebor hits $7B+ in deposits since launching in February, including $3B+ over the past quarter with 500+ new customers (Financial Times)"
+ },
+ "a261006p17": {
+  "article_url": "https://www.reuters.com/business/energy/google-enters-massive-36-gw-power-deal-with-constellation-energy-2026-10-06/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p17",
+  "summary": "Google (GOOGL.O) has contracted for 3,590 megawatts of power from Constellation Energy (CEG.O) in the US' largest power grid …",
+  "techmeme_url": "https://www.techmeme.com/261006/p17",
+  "title": "Google contracts for 3,590 MW of power from Constellation Energy in the US' largest power grid, with new nuclear energy accounting for ~25% of that supply (Laila Kearney/Reuters)"
+ },
+ "a261006p18": {
+  "article_url": "https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p18",
+  "summary": "China's booming artificial intelligence sector has given local researchers good reason to remain in the country …",
+  "techmeme_url": "https://www.techmeme.com/261006/p18",
+  "title": "Study: China is struggling to attract foreign AI talent; for every 30 Chinese AI researchers in the US in 2025, only one in China made the opposite journey (Zeyi Yang/New York Times)"
+ },
+ "a261006p19": {
+  "article_url": "https://www.reuters.com/technology/anthropics-amodei-made-18-million-last-year-middle-tech-ceo-pack-2026-10-06/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p19",
+  "summary": "Dario Amodei made $18 million last year as CEO of Claude AI developer Anthropic, the company's IPO filing shows …",
+  "techmeme_url": "https://www.techmeme.com/261006/p19",
+  "title": "Anthropic's IPO prospectus: Dario Amodei made $18M in 2025, ranking in the middle of top tech executives, and President Daniela Amodei, his sister, made $16.4M (Reuters)"
+ },
  "a261006p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
   "date": "2026-10-06",
@@ -14,5 +46,93 @@
   "summary": "DeepSeek is close to securing at least 80 billion yuan ($12 billion) in its latest round of funding, blowing past …",
   "techmeme_url": "https://www.techmeme.com/261006/p2",
   "title": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)"
+ },
+ "a261006p20": {
+  "article_url": "https://www.ft.com/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p20",
+  "summary": "Shares in FTSE 250 retailer fall 11% after mobile users receive message threatening to leak unspecified material",
+  "techmeme_url": "https://www.techmeme.com/261006/p20",
+  "title": "UK retailer Asos' stock falls 10%+ after users got app notifications saying \"we have fully compromised the Snowflake instance\"; source: Asos is investigating (Financial Times)"
+ },
+ "a261006p21": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-06/uber-to-buy-catering-platform-ezcater-for-2-3-billion-in-cash",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p21",
+  "summary": "Uber Technologies Inc. is buying catering firm ezCater Inc. for $2.3 billion in a cash deal that will help the Uber Eats delivery platform reach a more corporate clientele.",
+  "techmeme_url": "https://www.techmeme.com/261006/p21",
+  "title": "Uber agrees to acquire Boston-based catering platform ezCater for $2.3B in cash to help Uber Eats reach corporate clients; the deal is set to close in months (Natalie Lung/Bloomberg)"
+ },
+ "a261006p22": {
+  "article_url": "https://www.thedeepview.com/articles/why-mistral-s-1t-model-is-a-hedge-against-lock-in",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p22",
+  "summary": "Most flagship models dominating the market are from frontier labs and are closed models.",
+  "techmeme_url": "https://www.techmeme.com/261006/p22",
+  "title": "Mistral releases Mistral Large 4, dubbed \"le Chonk\", a 1T-parameter open-weight model for general agentic capabilities, trained on 4,000 Nvidia Grace Blackwells (Sabrina Ortiz/The Deep View)"
+ },
+ "a261006p23": {
+  "article_url": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p23",
+  "summary": "Anduril won an up to $2.9 billion contract with the U.S. Navy on Tuesday to boost submarine production, days after co-founder Palmer Luckey …",
+  "techmeme_url": "https://www.techmeme.com/261006/p23",
+  "title": "Anduril lands an up to $2.9B US Navy contract to make Virginia-class submarine components, days after Palmer Luckey was named to a DOD future weapons task force (Samantha Subin/CNBC)"
+ },
+ "a261006p24": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p24",
+  "summary": "Software startup Vinci said on Tuesday it raised $250 million at a $1.5 billion valuation and is seeking to expand its suite of software used to simulate elements of chip and other hardware design.",
+  "techmeme_url": "https://www.techmeme.com/261006/p24",
+  "title": "Vinci, which makes software used to simulate elements of chip and other hardware design, raised $250M at a $1.5B valuation (Max A. Cherney/Reuters)"
+ },
+ "a261006p25": {
+  "article_url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p25",
+  "summary": "EmbeddingGemma 2 is the most capable model for on-device multimodal embeddings, natively mapping combinations of text, images …",
+  "techmeme_url": "https://www.techmeme.com/261006/p25",
+  "title": "Google DeepMind launches EmbeddingGemma 2, a 740M-parameter model to map code, images, video, and audio in a shared embedding space, under an Apache 2.0 license (Google)"
+ },
+ "a261006p26": {
+  "article_url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p26",
+  "summary": "Anthropic on Tuesday announced it's expanding its Claude Startups program, the artificial intelligence lab's latest push to deepen …",
+  "techmeme_url": "https://www.techmeme.com/261006/p26",
+  "title": "Anthropic expands its Claude Startups program, including up to $45K in discounts and credits via the Claude Startup Stack and a one-time $1,000 API credit (Ashley Capoot/CNBC)"
+ },
+ "a261006p27": {
+  "article_url": "https://www.axios.com/pro/fintech-deals/2026/10/06/navra-mike-cagney-19-million-sofi-defi",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p27",
+  "summary": "Navra, the newest startup from SoFi and Figure co-founder Mike Cagney, has raised $19 million in Series A financing …",
+  "techmeme_url": "https://www.techmeme.com/261006/p27",
+  "title": "Navra, founded by SoFi and Figure co-founder Mike Cagney to make on-chain lending and securities markets more accessible, raised a $19M Series A led by Ribbit (Ryan Lawler/Axios)"
+ },
+ "a261006p28": {
+  "article_url": "https://a16z.com/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p28",
+  "summary": "Three years into tracking consumer AI, the leaderboard is becoming familiar. This is the seventh edition of our Top 100 AI Consumer Apps …",
+  "techmeme_url": "https://www.techmeme.com/261006/p28",
+  "title": "A look at consumer AI trends: ChatGPT has 3x more US subscribers than Claude or Gemini, the top 1% of spenders drive 19.5% of spend, and AI agents gain traction (Olivia Moore/Andreessen Horowitz)"
+ },
+ "a261006p29": {
+  "article_url": "https://www.wsj.com/tech/ai/ai-neocloud-lambda-is-raising-4-billion-in-final-round-before-planned-ipo-568182f9",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p29",
+  "summary": "Blackstone and Coatue are leading the round, which values the cloud-computing startup at $14.5 billion pre-money",
+  "techmeme_url": "https://www.techmeme.com/261006/p29",
+  "title": "Sources: AI neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a pre-money valuation of $14.5B in a final round before its planned IPO (Robbie Whelan/Wall Street Journal)"
+ },
+ "a261006p30": {
+  "article_url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p30",
+  "summary": "When Flai was raising its seed round last year, it was just a team of three people pounding the pavement to get car dealerships to use the startup's software …",
+  "techmeme_url": "https://www.techmeme.com/261006/p30",
+  "title": "Flai, which makes AI tools for car dealerships to manage phone calls, emails, and texts, raised a $27M Series A led by Base10 Partners (Sean O'Kane/TechCrunch)"
  }
 }
