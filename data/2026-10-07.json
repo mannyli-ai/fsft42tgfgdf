@@ -7,6 +7,70 @@
   "techmeme_url": "https://www.techmeme.com/261007/p1",
   "title": "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active (Mary Ann Azevedo/Crunchbase News)"
  },
+ "a261007p10": {
+  "article_url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p10",
+  "summary": "This is fine.png — A game of cat-and-mouse between Sony and hackers is very much underway, as the PS5 has been jailbroken to a massive degree in the past week.",
+  "techmeme_url": "https://www.techmeme.com/261007/p10",
+  "title": "PS5 modders using AI tools have rapidly installed emulators, as jailbreaks spread across social media; recent games requiring newer firmware are inaccessible (Sammy Barker/Push Square)"
+ },
+ "a261007p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-07/elon-musk-rules-out-potential-tsmc-role-in-terafab-operations",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p11",
+  "summary": "Elon Musk said his business empire will build and operate Terafab independently, quashing speculation about industry leader …",
+  "techmeme_url": "https://www.techmeme.com/261007/p11",
+  "title": "Elon Musk says his business empire will build and operate the Texas-based Terafab chipmaking project, quashing speculation about TSMC having an operational role (Debby Wu/Bloomberg)"
+ },
+ "a261007p12": {
+  "article_url": "https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p12",
+  "summary": "A Taiwan union representing workers at Micron Technology (MU.O) said on Wednesday it had secured authorisation from its members …",
+  "techmeme_url": "https://www.techmeme.com/261007/p12",
+  "title": "A Taiwan union representing Micron workers says it has secured member authorization to strike over the company's bonus scheme; the details are under discussion (Wen-Yee Lee/Reuters)"
+ },
+ "a261007p13": {
+  "article_url": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?st=MjELQf&reflink=desktopwebshare_permalink",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p13",
+  "summary": "Winning bets on hot AI startups are propelling a little-known Dallas firm into a small group of firms raising gigantic funds",
+  "techmeme_url": "https://www.techmeme.com/261007/p13",
+  "title": "Sources: Dallas-based Disruptive is targeting up to $10B for a late-stage fund, and has secured $7.5B; founded in 2012, it has backed Groq and Reflection AI (Kate Clark/Wall Street Journal)"
+ },
+ "a261007p14": {
+  "article_url": "https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p14",
+  "summary": "The glasses are now available for pre-order. — Xreal has officially launched its Android XR-powered Aura smartglasses …",
+  "techmeme_url": "https://www.techmeme.com/261007/p14",
+  "title": "Xreal opens preorders for its Android XR-powered Aura glasses with a compute puck, starting at $1,279 for 12GB/256GB, in the US, Canada, Japan, and South Korea (Mariella Moon/Engadget)"
+ },
+ "a261007p15": {
+  "article_url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p15",
+  "summary": "Google Playground is a browser-based tool for making games from AI prompts. … Google today announced Playground …",
+  "techmeme_url": "https://www.techmeme.com/261007/p15",
+  "title": "Google launches Playground, a browser-based, no-code AI game creation platform available to US users aged 18+, powered by Gemini, Nano Banana, and Lyria (Jay Peters/The Verge)"
+ },
+ "a261007p16": {
+  "article_url": "https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p16",
+  "summary": "Xreal's long-hyped Aura glasses arrive soon for $1,279. Here's how they fare against Meta's recently announced VR Glasses.",
+  "techmeme_url": "https://www.techmeme.com/261007/p16",
+  "title": "Xreal's Aura and Meta's VR Glasses hands-on: both have a compute puck and are light, but Aura's arrive in 2026 and have passthrough lenses suitable for walking (Boone Ashworth/Wired)"
+ },
+ "a261007p17": {
+  "article_url": "https://siliconangle.com/2026/10/07/stuut-cashes-in-on-agentic-order-to-cash-automation-with-52-5m-in-funding/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p17",
+  "summary": "Artificial intelligence companies that can help even bigger companies to get paid are likely to make a fair bit of money themselves …",
+  "techmeme_url": "https://www.techmeme.com/261007/p17",
+  "title": "Stuut, which uses AI agents to automate enterprise order-to-cash cycles and serves 150+ clients, raised a $52.5M Series B led by Insight, for $93M total funding (Mike Wheatley/SiliconANGLE)"
+ },
  "a261007p2": {
   "article_url": "https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b",
   "date": "2026-10-07",
@@ -30,5 +94,45 @@
   "summary": "City-state averse to risk and scandal tries to distance itself from homegrown Hyperliquid Labs and its popular ‘perps’",
   "techmeme_url": "https://www.techmeme.com/261007/p4",
   "title": "Sources: Singapore distances itself from regulating Hyperliquid, citing its \"decentralized nature\", even as the crypto futures DEX confirms it is based there (Owen Walker/Financial Times)"
+ },
+ "a261007p5": {
+  "article_url": "https://www.wsj.com/pro/venture-capital/this-startup-wants-to-double-the-worlds-computewithout-building-a-single-data-center-f0bf8140",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p5",
+  "summary": "The data center build-out is exploding across America. But what if AI didn't need more—more chips, more energy, more resources …",
+  "techmeme_url": "https://www.techmeme.com/261007/p5",
+  "title": "Turba Labs, which develops tech for optimizing AI infrastructure by creating digital twins of data centers, emerges from stealth with a $52M seed and Series A (Sarah Klearman/Wall Street Journal)"
+ },
+ "a261007p6": {
+  "article_url": "https://www.ft.com/content/b0c52a17-6fb0-4e81-9539-79366e48ed4e",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p6",
+  "summary": "Asia's market leaders Grab and GoTo face squeezed margins over push to offer better deal to workers",
+  "techmeme_url": "https://www.techmeme.com/261007/p6",
+  "title": "GoTo and Grab face pressure to offer drivers better deals; GoTo's share price has fallen 90% from its 2022 peak, while Grab's has fallen 50% in the past year (Financial Times)"
+ },
+ "a261007p7": {
+  "article_url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p7",
+  "summary": "Spotify announced on Wednesday that it's expanding audiobook access to over 180 markets worldwide, including regions across Europe …",
+  "techmeme_url": "https://www.techmeme.com/261007/p7",
+  "title": "Spotify expands audiobooks to 180+ markets, bringing its catalog to 750M+ users, and adds 350K+ titles in 120+ languages in partnership with 300+ publishers (Ivan Mehta/TechCrunch)"
+ },
+ "a261007p8": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p8",
+  "summary": "ChatGPT's teen-focused experience 'doesn't send alerts to parents when it should,' according to an assessment.﻿",
+  "techmeme_url": "https://www.techmeme.com/261007/p8",
+  "title": "Common Sense Media calls ChatGPT for Teens an \"unacceptable risk\", saying its guardrails fall short of OpenAI's promises and it continues to do kids' homework (Jay Peters/The Verge)"
+ },
+ "a261007p9": {
+  "article_url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p9",
+  "summary": "Google has been ordered to halt work on two data centers it's developing in Finland, a month after the tech giant committed …",
+  "techmeme_url": "https://www.techmeme.com/261007/p9",
+  "title": "Finland orders Google subsidiary Tuike Finland Oy to halt data center construction in Muhos and Kajaani by October 23, pending environmental impact assessments (Kai Nicol-Schwarz/CNBC)"
  }
 }
