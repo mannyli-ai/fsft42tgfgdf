@@ -134,5 +134,93 @@
   "summary": "When Flai was raising its seed round last year, it was just a team of three people pounding the pavement to get car dealerships to use the startup's software …",
   "techmeme_url": "https://www.techmeme.com/261006/p30",
   "title": "Flai, which makes AI tools for car dealerships to manage phone calls, emails, and texts, raised a $27M Series A led by Base10 Partners (Sean O'Kane/TechCrunch)"
+ },
+ "a261006p42": {
+  "article_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p42",
+  "summary": "We're releasing a broad range of new mathematical results produced by an internal frontier model.",
+  "techmeme_url": "https://www.techmeme.com/261006/p42",
+  "title": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage (OpenAI)"
+ },
+ "a261006p43": {
+  "article_url": "https://www.theverge.com/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p43",
+  "summary": "The streaming rights come in November, when Microsoft is opening up access to Xbox Cloud Gaming. … Xbox CEO Asha Sharma told employees that Microsoft …",
+  "techmeme_url": "https://www.techmeme.com/261006/p43",
+  "title": "Sources: Xbox has secured exclusive game streaming rights for Grand Theft Auto VI; it is not clear how long the agreement will be in place (Tom Warren/The Verge)"
+ },
+ "a261006p44": {
+  "article_url": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p44",
+  "summary": "Blockbuster debt deal is the latest sign of the vast spending on chips and other infrastructure underpinning AI",
+  "techmeme_url": "https://www.techmeme.com/261006/p44",
+  "title": "Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo (Financial Times)"
+ },
+ "a261006p45": {
+  "article_url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p45",
+  "summary": "Google has released Nano Banana 2.1, a new model for image generation and editing.",
+  "techmeme_url": "https://www.techmeme.com/261006/p45",
+  "title": "Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions \"across the board\"; pricing is ~50% lower vs. Nano Banana 2 (Matthias Bastian/The Decoder)"
+ },
+ "a261006p46": {
+  "article_url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p46",
+  "summary": "A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more …",
+  "techmeme_url": "https://www.techmeme.com/261006/p46",
+  "title": "OpenAI says its internal model produced 372 math breakthroughs, nearly all from a single prompt to one AI agent, though some may have taken multiple attempts (Joseph Howlett/Scientific American)"
+ },
+ "a261006p47": {
+  "article_url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p47",
+  "summary": "Melius, an AI platform for generating ad campaigns, images, and videos, announced on Tuesday that it raised a total of $25 million in funding …",
+  "techmeme_url": "https://www.techmeme.com/261006/p47",
+  "title": "New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed (Marina Temkin/TechCrunch)"
+ },
+ "a261006p48": {
+  "article_url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p48",
+  "summary": "Open-weights, ideology, and acknowledging trade-offs. … Audio playback is not supported on your browser. Please upgrade.",
+  "techmeme_url": "https://www.techmeme.com/261006/p48",
+  "title": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models (Nathan Lambert/Interconnects AI)"
+ },
+ "a261006p49": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-06/boston-dynamics-taps-amazon-alexa-executive-as-new-ceo",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p49",
+  "summary": "Boston Dynamics appointed former Amazon.com Inc. executive Rohit Prasad as chief executive officer to lead the Hyundai Motor Co.-controlled company into its next era …",
+  "techmeme_url": "https://www.techmeme.com/261006/p49",
+  "title": "Boston Dynamics appoints former Amazon executive Rohit Prasad, who spent 12 years helping build and expand Alexa, as its CEO (Samantha Kelly/Bloomberg)"
+ },
+ "a261006p50": {
+  "article_url": "https://www.billboard.com/pro/ai-music-streaming-fraud-sentence-man-18-months-prison-scam/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p50",
+  "summary": "Michael Smith admitted earlier this year to using bots to stream fake songs billions of times in a first-ever criminal case over streaming fraud.",
+  "techmeme_url": "https://www.techmeme.com/261006/p50",
+  "title": "A US federal court sentences Michael Smith, who pleaded guilty to using bots to stream AI-generated songs, making $8M+ in royalties, to 18 months in prison (Bill Donahue/Billboard)"
+ },
+ "a261006p51": {
+  "article_url": "https://apnews.com/article/arizona-court-system-cyberattack-67a83df1d6c80cdf07ee2c208bf6e676",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p51",
+  "summary": "A cyberattack on Arizona's court system stole personal information for more than a million people and is believed to have started …",
+  "techmeme_url": "https://www.techmeme.com/261006/p51",
+  "title": "A September 24 cyberattack on Arizona's court system stole PII for 1.3M people, including 30K orders of protection and 150K reports from a foster care board (Associated Press)"
+ },
+ "a261006p52": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/japans-15-billion-rapidus-chip-bet-hinges-winning-customers-2026-10-06/",
+  "date": "2026-10-06",
+  "permalink_id": "a261006p52",
+  "summary": "Japan's Rapidus, with $15 billion in state backing, is tying up with chip design firms as it seeks to answer a major question hanging …",
+  "techmeme_url": "https://www.techmeme.com/261006/p52",
+  "title": "Japanese chipmaker Rapidus is partnering with 17 companies, including US-based Synopsys, to help customers design chips; Rapidus has $15B+ in state funding (Reuters)"
  }
 }
