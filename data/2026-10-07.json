@@ -79,6 +79,46 @@
   "techmeme_url": "https://www.techmeme.com/261007/p2",
   "title": "Sources: the European Commission considers taxing big US tech companies through a broad levy on large corporations to avoid singling out individual companies (Financial Times)"
  },
+ "a261007p25": {
+  "article_url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p25",
+  "summary": "Healthleap, a startup building an AI platform that reads patient records to identify patients at risk of undiagnosed illnesses …",
+  "techmeme_url": "https://www.techmeme.com/261007/p25",
+  "title": "Healthleap, which makes AI screening software that helps identify patients at risk of undiagnosed illnesses, raised $38M across a $30M Series A and an $8M seed (Ram Iyer/TechCrunch)"
+ },
+ "a261007p26": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-07/video-game-designer-behind-sky-journey-raises-35-million?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTM4NDU2NywiZXhwIjoxNzkxOTg5MzY3LCJhcnRpY2xlSWQiOiJUTUkxUklLSkg2VjYwMCIsImJjb25uZWN0SWQiOiI3MDM2NkY0MkNENTY0MUQyQkYwODVGRjg3NDM3MDY3QiJ9.m1fa5r3jN4x68LzgBX6BuZH6QwhP2hTwRn1sSd3xzHc",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p26",
+  "summary": "A studio led by the makers of the hit titles Sky: Children of the Light and Journey has raised $35 million in new funding to upend the viral …",
+  "techmeme_url": "https://www.techmeme.com/261007/p26",
+  "title": "Los Angeles-based game studio Gardens Interactive raised a $35M+ Series B led by Lightspeed at a $190M pre-money valuation, taking its total funding to $71M (Cecilia D'Anastasio/Bloomberg)"
+ },
+ "a261007p27": {
+  "article_url": "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p27",
+  "summary": "Teens spend under 15 minutes a day on average on ChatGPT, while less than 2% of them interact with the chatbot for over three straight hours …",
+  "techmeme_url": "https://www.techmeme.com/261007/p27",
+  "title": "OpenAI's first report on teen ChatGPT use says teens spend under 15 minutes per day on average on the chatbot, with less than 2% using it for 3+ hours straight (Reuters)"
+ },
+ "a261007p28": {
+  "article_url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p28",
+  "summary": "Meta announced Wednesday that it took action against 33.2 million pieces of child sexual exploitation content on Facebook and Instagram in the first half of 2026.",
+  "techmeme_url": "https://www.techmeme.com/261007/p28",
+  "title": "Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 (Lauren Forristal/TechCrunch)"
+ },
+ "a261007p29": {
+  "article_url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p29",
+  "summary": "Microsoft's high-end AI mini PC for developers starts shipping in November.﻿ — Microsoft's Nvidia-powered Surface RTX Spark Dev Box …",
+  "techmeme_url": "https://www.techmeme.com/261007/p29",
+  "title": "Microsoft opens preorders for the $5,999 Surface RTX Spark Dev Box, with 128GB of unified memory to run local models with 120B+ parameters, shipping in November (Stevie Bonifield/The Verge)"
+ },
  "a261007p3": {
   "article_url": "https://www.bloomberg.com/",
   "date": "2026-10-07",
@@ -86,6 +126,86 @@
   "summary": "Shenzhen Transsion Holdings Co., which dominates the market for smartphones in Africa, is seeking to raise as much as HK$3.36 billion …",
   "techmeme_url": "https://www.techmeme.com/261007/p3",
   "title": "Filing: China-based Transsion, which commands 53% of Africa's mobile phone market by unit sales, is seeking to raise as much as ~$428M in a Hong Kong share sale (Sangmi Cha/Bloomberg)"
+ },
+ "a261007p30": {
+  "article_url": "https://www.windowscentral.com/hardware/surface/microsoft-finally-confirms-surface-laptop-ultra-pricing-and-release-date",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p30",
+  "summary": "Surface Laptop Ultra is available to order today, with shipments expected to begin on October 16.",
+  "techmeme_url": "https://www.techmeme.com/261007/p30",
+  "title": "Microsoft opens preorders for the $2,599+ Surface Laptop Ultra, shipping from October 16, with an RTX Spark and three USB-C ports; one is magnetic like MagSafe (Zac Bowden/Windows Central)"
+ },
+ "a261007p31": {
+  "article_url": "https://www.anthropic.com/claude-haiku-5-5",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p31",
+  "summary": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we've ever released.",
+  "techmeme_url": "https://www.techmeme.com/261007/p31",
+  "title": "Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summary and classification requests (Anthropic)"
+ },
+ "a261007p32": {
+  "article_url": "https://openai.com/index/gpt-6-for-everyone/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p32",
+  "summary": "Last month we introduced the first GPT-6 models for paid customers and today we're bringing that next generation of intelligence …",
+  "techmeme_url": "https://www.techmeme.com/261007/p32",
+  "title": "OpenAI rolls out GPT-6 in ChatGPT with Intelligent UI, a new feature that includes graphics and interactive elements like charts, buttons, and forms in answers (OpenAI)"
+ },
+ "a261007p33": {
+  "article_url": "https://thenewstack.io/anthropic-claude-haiku-5-5/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p33",
+  "summary": "Anthropic on Wednesday launched Claude Haiku 5.5, the first new version of its smallest and most affordable model in nearly a year.",
+  "techmeme_url": "https://www.techmeme.com/261007/p33",
+  "title": "Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)"
+ },
+ "a261007p34": {
+  "article_url": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p34",
+  "summary": "The model starts at $0.10 per million input tokens and $0.50 per million output tokens, matching OpenAI's GPT-6 Luna.",
+  "techmeme_url": "https://www.techmeme.com/261007/p34",
+  "title": "Anthropic cuts Sonnet 5.5 cache read price from $0.20 to $0.10 and adds monthly API credits: $100 for Max 5x, $200 for Max 20x, up to $500 shared by Team users (Carl Franzen/VentureBeat)"
+ },
+ "a261007p35": {
+  "article_url": "https://www.theinformation.com/articles/ex-trump-ai-adviser-sriram-krishnan-targets-raising-500-million-venture-fund",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p35",
+  "summary": "Sriram Krishnan, a key AI adviser to President Donald Trump who left the White House in June, is raising an AI-focused venture fund …",
+  "techmeme_url": "https://www.techmeme.com/261007/p35",
+  "title": "Sources: former White House AI adviser Sriram Krishnan is raising a ~$500M fund to back growth- and later-stage US AI startups, prioritizing national security (Leo Schwartz/The Information)"
+ },
+ "a261007p36": {
+  "article_url": "https://x.com/openai",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p36",
+  "summary": "GPT-6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and will expand to Free and Go users starting tomorrow. GPT-6 in ChatGPT is powered by GPT-6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT-6 Luna for Free and Go tiers. Both are tuned for e...",
+  "techmeme_url": "https://www.techmeme.com/261007/p36",
+  "title": "OpenAI says GPT-6 in ChatGPT's Chat tab is powered by GPT-6 Sol for Plus, Pro, Business, and Enterprise tiers and GPT-6 Luna for Free and Go tiers (@openai)"
+ },
+ "a261007p37": {
+  "article_url": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p37",
+  "summary": "Apollo, Blackstone and Goldman Sachs among lenders in talks to finance megadeals worth tens of billions of dollars apiece",
+  "techmeme_url": "https://www.techmeme.com/261007/p37",
+  "title": "Sources: Broadcom has been working to arrange more than $50B in financing for OpenAI's custom AI chip; Oracle is in talks on financing for a big chip purchase (Wall Street Journal)"
+ },
+ "a261007p38": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-07/us-agrees-to-loan-for-chipmaker-that-went-bankrupt-last-year",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p38",
+  "summary": "The US Defense Department pledged to issue a conditional loan to Wolfspeed Inc., the chipmaker that filed for bankruptcy last year …",
+  "techmeme_url": "https://www.techmeme.com/261007/p38",
+  "title": "The DOD offers chipmaker Wolfspeed, which filed for bankruptcy in 2025, a conditional loan of up to $1.5B in exchange for warrants for up to 7.5% of the company (Lynn Doan/Bloomberg)"
+ },
+ "a261007p39": {
+  "article_url": "https://www.theregister.com/security/2026/10/07/us-states-sue-popular-kitmaker-tp-link-over-china-risks/5301653",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p39",
+  "summary": "Router maker rejects allegations it misled buyers about protection and its reliance on Chinese suppliers",
+  "techmeme_url": "https://www.techmeme.com/261007/p39",
+  "title": "The AGs of Florida, Iowa, Montana, and Nebraska sue TP-Link, alleging it deceptively marketed its routers' security and didn't properly disclose ties to China (Connor Jones/The Register)"
  },
  "a261007p4": {
   "article_url": "https://www.ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43",
