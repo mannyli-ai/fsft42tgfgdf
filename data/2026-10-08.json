@@ -7,6 +7,78 @@
   "techmeme_url": "https://www.techmeme.com/261008/p1",
   "title": "Sources: Isomorphic Labs, an AI drug discovery startup spun out of Google DeepMind, is in early talks to raise funds at a valuation of at least $40B (Bloomberg)"
  },
+ "a261008p11": {
+  "article_url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p11",
+  "summary": "AI agent startup Manus has raised more than $500 million in its first funding round since Meta was forced to abandon its acquisition of the company.",
+  "techmeme_url": "https://www.techmeme.com/261008/p11",
+  "title": "Manus' parent company Butterfly Effect raised $500M+, led by Boyu Capital and IDG, in its first funding since Beijing forced Meta to unwind its $2B acquisition (Anniek Bao/CNBC)"
+ },
+ "a261008p12": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p12",
+  "summary": "A British startup seeking to build a working quantum computer has raised $100 million from a range of investors …",
+  "techmeme_url": "https://www.techmeme.com/261008/p12",
+  "title": "UK-based quantum computing startup Universal Quantum raised a $100M+ Series A led by DCVC and Firgun Ventures to expand research hubs in Germany and Singapore (Mark Bergen/Bloomberg)"
+ },
+ "a261008p13": {
+  "article_url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p13",
+  "summary": "ICANN's latest top-level domain applications are out, and they are all about AI. … For the first time in years …",
+  "techmeme_url": "https://www.techmeme.com/261008/p13",
+  "title": "ICANN receives 1,615 TLD applications from 481 applicants; Meta, OpenAI, and eight others applied for .agent, seven companies applied for .agi, and six for .asi (David Pierce/The Verge)"
+ },
+ "a261008p14": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-10-07/ai-crowds-out-fresh-grads-at-wall-street-tech-hubs-in-india",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p14",
+  "summary": "Students struggle to find jobs as banks automate more tasks — Purva Jagtap graduated from her engineering college in India …",
+  "techmeme_url": "https://www.techmeme.com/261008/p14",
+  "title": "India's Global Capability Centers, which employ 2.4M people across companies like JPMorgan, are automating entry-level tasks and hiring far fewer graduates (Bloomberg)"
+ },
+ "a261008p15": {
+  "article_url": "https://www.washingtonpost.com/business/2026/10/07/datacenter-boom-is-pushing-prices-higher-fed-officials-said/",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p15",
+  "summary": "At their September meeting, Fed officials cited “surging AI-related investments” as a factor in inflation pressures. — Loading...",
+  "techmeme_url": "https://www.techmeme.com/261008/p15",
+  "title": "The US Federal Reserve's September meeting shows officials are increasingly citing surging AI investments, not tariffs, as the driver of rising goods inflation (Steve Thompson/Washington Post)"
+ },
+ "a261008p16": {
+  "article_url": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p16",
+  "summary": "BEIJING — Faced with a slowdown in the smartphone and car markets, Huawei's consumer business is choosing to focus on phones with homegrown chips.",
+  "techmeme_url": "https://www.techmeme.com/261008/p16",
+  "title": "Huawei says it aims to increase its overseas smartphone market share and expand HarmonyOS globally within one to three years, as Huawei-powered EV sales slow (CNBC)"
+ },
+ "a261008p17": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-08/finland-s-data-center-tally-tops-67-billion-on-ai-boom",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p17",
+  "summary": "TSMC's Quarterly Revenue Jumps 51% After AI Demand Holds Up … By continuing, I agree to the Privacy Policy and Terms of Service.",
+  "techmeme_url": "https://www.techmeme.com/261008/p17",
+  "title": "Analysis: planned and active data center investments in Finland surpass €67B, driven by AI demand, cool climate conditions, and renewable energy access (Kirsi Heikel/Bloomberg)"
+ },
+ "a261008p18": {
+  "article_url": "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc?st=gP1Nnv&reflink=desktopwebshare_permalink",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p18",
+  "summary": "Oratomic's latest raise brings the company's total funding to $775 million — Quantum computing startup Oratomic raised $475 million …",
+  "techmeme_url": "https://www.techmeme.com/261008/p18",
+  "title": "Quantum startup Oratomic raised a $475M Series B at a $5.4B valuation, up from $1.5B after raising a $300M Series A in July, taking its total funding to $775M (Isabelle Bousquette/Wall Street Journal)"
+ },
+ "a261008p19": {
+  "article_url": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p19",
+  "summary": "CrowdStrike Intelligence identified infrastructure associated with a targeted campaign against South Korean financial organizations that resulted in exfiltrated data.",
+  "techmeme_url": "https://www.techmeme.com/261008/p19",
+  "title": "Analysis: the hacker who targeted South Korean banks is likely Chinese-speaking, financially motivated, and used LLMs and open-source Chinese agentic tool ARTEX (Ashley Campion/CrowdStrike)"
+ },
  "a261008p2": {
   "article_url": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
   "date": "2026-10-08",
@@ -14,6 +86,54 @@
   "summary": "SpaceX founder Elon Musk has accused vested interests of blocking the launch of his company's satellite internet service …",
   "techmeme_url": "https://www.techmeme.com/261008/p2",
   "title": "Elon Musk claims \"certain oligarchs\" are stalling Starlink's India launch to protect a \"monopolistic chokehold\"; SpaceX signed MOUs with Jio and Airtel in 2025 (Priyanka Salve/CNBC)"
+ },
+ "a261008p20": {
+  "article_url": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p20",
+  "summary": "Xbox's new ‘XP’ arm will oversee Xbox experiences outside of video games, including movies, consumer products, and live events.",
+  "techmeme_url": "https://www.techmeme.com/261008/p20",
+  "title": "Xbox launches XP, a unit that will manage four non-gaming \"investment areas\": Xbox Pictures for film and TV, Xbox Products, Xbox Places, and Xbox Partnerships (The Verge)"
+ },
+ "a261008p21": {
+  "article_url": "https://www.wsj.com/business/media/joe-rogan-re-ups-lucrative-spotify-deal-4f53c565?st=tbfaye&reflink=desktopwebshare_permalink",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p21",
+  "summary": "Latest multiyear agreement comes as ‘The Joe Rogan Experience’ remains No. 1 in U.S. listenership",
+  "techmeme_url": "https://www.techmeme.com/261008/p21",
+  "title": "Spotify and Joe Rogan renew their multiyear licensing and ad sales deal; sources say the terms are similar to Rogan's last deal, worth $250M, signed in 2024 (Anne Steele/Wall Street Journal)"
+ },
+ "a261008p22": {
+  "article_url": "https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p22",
+  "summary": "Drones hit a data centre owned by Russia's Yandex , the country's leading AI and technology company said on Thursday …",
+  "techmeme_url": "https://www.techmeme.com/261008/p22",
+  "title": "Drones struck a data center owned by Russia's Yandex in the town of Sasovo, marking the first major attack on a Russian data hub since the Ukraine war began (Reuters)"
+ },
+ "a261008p23": {
+  "article_url": "https://fortune.com/2026/10/08/sequoia-backed-catalyst-raises-30-million-build-ai-trading-agents-everyday-investors/",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p23",
+  "summary": "Justin Zheng is pretty sure Dylan Iskandar took his money the first time they met as teenagers, over a poker game in 2019 at a conference run by economist Tyler Cowen.",
+  "techmeme_url": "https://www.techmeme.com/261008/p23",
+  "title": "AI retail trading agent startup Catalyst raised a $30M seed led by Sequoia and says a pilot generated hundreds of millions in trading volume over two weeks (Allie Garfinkle/Fortune)"
+ },
+ "a261008p24": {
+  "article_url": "https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p24",
+  "summary": "They're powerful, priced to move, and filled with AI ideas. Don't you dare call them Fire tablets.",
+  "techmeme_url": "https://www.techmeme.com/261008/p24",
+  "title": "Amazon retires the Fire brand for tablets after 15 years, replacing it with Alexa Tablets that run Android and ship on October 14, including the $499 12 Pro (David Pierce/The Verge)"
+ },
+ "a261008p25": {
+  "article_url": "https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p25",
+  "summary": "Google is unveiling a new universal AI agent for the workplace that can research information, create documents, write code …",
+  "techmeme_url": "https://www.techmeme.com/261008/p25",
+  "title": "Google Cloud unveils the Gemini agent to handle multi-day enterprise workflows across Workspace, Microsoft 365, and Slack, with support for multiple AI models (Carl Franzen/VentureBeat)"
  },
  "a261008p3": {
   "article_url": "https://www.bloomberg.com/",
