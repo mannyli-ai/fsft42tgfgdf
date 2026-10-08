@@ -143,6 +143,46 @@
   "techmeme_url": "https://www.techmeme.com/261008/p3",
   "title": "Filing: Shanghai-based AI chipmaker Biren raises ~$515M in a new share sale; Biren's Hong Kong-listed stock is down 50%+ from a June peak but up ~70% YTD (Bloomberg)"
  },
+ "a261008p35": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-08/ai-model-evaluator-arena-valued-at-over-3-billion-in-round",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p35",
+  "summary": "Arena Intelligence Inc., the startup behind a popular artificial intelligence model leaderboard, has raised $200 million in funding …",
+  "techmeme_url": "https://www.techmeme.com/261008/p35",
+  "title": "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)"
+ },
+ "a261008p36": {
+  "article_url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p36",
+  "summary": "Meet Interface, a new $99 smart ring from AI and hardware startup Natura that's designed for the era of AI agents.",
+  "techmeme_url": "https://www.techmeme.com/261008/p36",
+  "title": "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Claude, ChatGPT, Muse, Grok Bot, and Instinct (Aisha Malik/TechCrunch)"
+ },
+ "a261008p37": {
+  "article_url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p37",
+  "summary": "AI giant recently told investors the key figure was approaching $50bn in September, far less than the $70bn that was widely reported",
+  "techmeme_url": "https://www.techmeme.com/261008/p37",
+  "title": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by the media based on investor docs (Financial Times)"
+ },
+ "a261008p38": {
+  "article_url": "https://truthsocial.com/@realDonaldTrump",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p38",
+  "summary": "The White House considers anyone that uses the term, “Artificial Intelligence,” …",
+  "techmeme_url": "https://www.techmeme.com/261008/p38",
+  "title": "Trump says the WH considers as \"THE ENEMY\" anyone who uses the term Artificial Intelligence, not \"the highly accepted\" and \"more accurate\" Super Intelligence (Donald J. Trump/@realDonaldTrump ...)"
+ },
+ "a261008p39": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p39",
+  "summary": "The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development.",
+  "techmeme_url": "https://www.techmeme.com/261008/p39",
+  "title": "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel behavior\" toward Claude; ending chats is \"the primary enforcement mechanism\" (Hayden Field/The Verge)"
+ },
  "a261008p4": {
   "article_url": "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/",
   "date": "2026-10-08",
@@ -150,6 +190,86 @@
   "summary": "“We are disappointed with the quality of Mistral,” Ecosia founder and CEO told POLITICO. — BERLIN — A Berlin-based search engine used …",
   "techmeme_url": "https://www.techmeme.com/261008/p4",
   "title": "German search engine Ecosia, used by government services, ditches Mistral for open-source models, including Chinese ones, citing Mistral's disappointing quality (Politico)"
+ },
+ "a261008p40": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-firmus-is-set-to-postpone-ipo-weigh-private-round",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p40",
+  "summary": "Australian data center company Firmus Grid Ltd. has shelved its initial public offering plan and will consider other funding options.",
+  "techmeme_url": "https://www.techmeme.com/261008/p40",
+  "title": "Sources: Firmus is set to postpone its IPO and is weighing a private funding round instead, after some investors suggested its pricing strategy is aggressive (Bloomberg)"
+ },
+ "a261008p41": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-names-steve-smith-m-a-chief-moves-adrian-perica-to-services-business?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTQ4MTMxMSwiZXhwIjoxNzkyMDg2MTExLCJhcnRpY2xlSWQiOiJUTUtNVVBWVFRDWlIwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.1w8Mo4fh5SSJ-nNQ5DAatEHpdItwM5wKUnR5XcJw7os",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p41",
+  "summary": "Apple Inc. is naming a new mergers and acquisitions chief, according to people familiar with the matter …",
+  "techmeme_url": "https://www.techmeme.com/261008/p41",
+  "title": "Sources: Apple promotes Carson Oliver to VP of the App Store and names Steve Smith as M&A chief, replacing Adrian Perica, who keeps iCloud, Fitness+, and News (Mark Gurman/Bloomberg)"
+ },
+ "a261008p42": {
+  "article_url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p42",
+  "summary": "Shares of Nvidia, Oracle, CoreWeave and other artificial intelligence names sank lower on Thursday after the market learned more details about OpenAI's revenue.",
+  "techmeme_url": "https://www.techmeme.com/261008/p42",
+  "title": "Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported (CNBC)"
+ },
+ "a261008p43": {
+  "article_url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p43",
+  "summary": "Anthropic is launching a new cybersecurity initiative designed to bring its most powerful AI models and engineers …",
+  "techmeme_url": "https://www.techmeme.com/261008/p43",
+  "title": "Anthropic debuts the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site engineers, starting with CrowdStrike and others (Sam Sabin/Axios)"
+ },
+ "a261008p44": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-08/ftc-probes-block-after-consumer-complaints-over-frozen-accounts",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p44",
+  "summary": "The Federal Trade Commission is investigating whether Block Inc., the parent of Square and Cash App, violated US consumer protection laws …",
+  "techmeme_url": "https://www.techmeme.com/261008/p44",
+  "title": "Filing: the US FTC is probing Block over inadequate customer service for frozen or deactivated Square accounts amid staffing cuts, following 1,500+ complaints (Leah Nylen/Bloomberg)"
+ },
+ "a261008p45": {
+  "article_url": "https://www.anthropic.com/",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p45",
+  "summary": "We're launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude …",
+  "techmeme_url": "https://www.techmeme.com/261008/p45",
+  "title": "Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review (Anthropic)"
+ },
+ "a261008p46": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTQ5MDMwMCwiZXhwIjoxNzkyMDk1MTAwLCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FtH_qR7-ZMoCNHSPZzDhdIAtFuxSSOo7BPD87jeDEW4",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p46",
+  "summary": "Apple Inc., already set to introduce a revamped smart home strategy next week, is planning a second launch in October to introduce …",
+  "techmeme_url": "https://www.techmeme.com/261008/p46",
+  "title": "Sources: Apple is planning an event on or around October 27 for its first touchscreen MacBook, an OLED iPad mini, a 14\" MacBook Pro with M6, and an iMac with M6 (Mark Gurman/Bloomberg)"
+ },
+ "a261008p47": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-08/union-square-ventures-doubles-fund-size-shrinks-team-for-ai-era",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p47",
+  "summary": "New York City-based venture firm Union Square Ventures is reinventing itself to better compete in the artificial intelligence race …",
+  "techmeme_url": "https://www.techmeme.com/261008/p47",
+  "title": "USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds (Bloomberg)"
+ },
+ "a261008p48": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-08/spacex-to-acquire-low-band-spectrum-for-mobile-phone-service",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p48",
+  "summary": "Elon Musk's SpaceX said it acquired low-band spectrum that will enable it to use its Starlink satellites to become a …",
+  "techmeme_url": "https://www.techmeme.com/261008/p48",
+  "title": "SpaceX agrees to acquire a low-band spectrum portfolio to help Starlink \"become a major mobile carrier in the US\"; AT&T, T-Mobile, Verizon fall 6%+ after hours (Bloomberg)"
+ },
+ "a261008p49": {
+  "article_url": "https://x.com/balesni",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p49",
+  "summary": "Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership. I believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation.",
+  "techmeme_url": "https://www.techmeme.com/261008/p49",
+  "title": "AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for \"prioritizing safety over the near-term interests of OpenAI\" (Mikita Balesni/@balesni)"
  },
  "a261008p5": {
   "article_url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
