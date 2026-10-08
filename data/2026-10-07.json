@@ -215,6 +215,70 @@
   "techmeme_url": "https://www.techmeme.com/261007/p4",
   "title": "Sources: Singapore distances itself from regulating Hyperliquid, citing its \"decentralized nature\", even as the crypto futures DEX confirms it is based there (Owen Walker/Financial Times)"
  },
+ "a261007p40": {
+  "article_url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p40",
+  "summary": "Over two decades at MIT, Hamilton forged new paths in computer science and engineering. Her groundbreaking work included leading …",
+  "techmeme_url": "https://www.techmeme.com/261007/p40",
+  "title": "Margaret Hamilton, who led an MIT software team for NASA's Apollo program and helped establish software engineering as a discipline, died on September 30 at 90 (Janine Liberty/MIT News)"
+ },
+ "a261007p41": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-07/samsung-reaches-new-profit-record-with-memory-chip-windfall",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p41",
+  "summary": "Samsung Electronics Co. reported a nearly nine-fold rise in quarterly operating profit, though that was still just shy of sky-high expectations elevated …",
+  "techmeme_url": "https://www.techmeme.com/261007/p41",
+  "title": "Samsung reports preliminary Q3 operating profit up 782% YoY to ~$80.1B, vs. ~$81.2B est., and revenue up 127% to ~$145.7B, lower than expected (Yoolim Lee/Bloomberg)"
+ },
+ "a261007p42": {
+  "article_url": "https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94?st=SSs38V&reflink=desktopwebshare_permalink",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p42",
+  "summary": "In a letter to the board, recently-terminated employees ask that the industry not move forward with work that would degrade the ability to monitor AI",
+  "techmeme_url": "https://www.techmeme.com/261007/p42",
+  "title": "Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are \"chilling those who remain at OpenAI\" (Maxwell Zeff/Wall Street Journal)"
+ },
+ "a261007p43": {
+  "article_url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p43",
+  "summary": "Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other kinds of robots …",
+  "techmeme_url": "https://www.techmeme.com/261007/p43",
+  "title": "Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others (Marina Temkin/TechCrunch)"
+ },
+ "a261007p44": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-07/ex-bytedance-intern-s-200-million-ai-lab-takes-on-fei-fei-li",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p44",
+  "summary": "A former ByteDance Ltd. intern has secured funding from venture heavyweights including 5Y Capital for a stealth startup …",
+  "techmeme_url": "https://www.techmeme.com/261007/p44",
+  "title": "Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation (Bloomberg)"
+ },
+ "a261007p45": {
+  "article_url": "https://www.reuters.com/world/china/tiktok-gave-teens-children-placebo-safety-feature-experiment-new-york-alleges-2026-10-07/",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p45",
+  "summary": "TikTok ran an experiment on thousands of users who tried to turn on a safety feature on the platform, giving them non-functional versions …",
+  "techmeme_url": "https://www.techmeme.com/261007/p45",
+  "title": "Unsealed docs: in its lawsuit, New York alleges TikTok gave thousands of users, including youth, non-functional safety features as part of placebo experiments (Diana Novak Jones/Reuters)"
+ },
+ "a261007p46": {
+  "article_url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b?st=ikknUb",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p46",
+  "summary": "Both companies need to show Wall Street they have sustainable businesses ahead of planned IPOs — Anthropic edged to the front …",
+  "techmeme_url": "https://www.techmeme.com/261007/p46",
+  "title": "OpenRouter: the share of business spending between OpenAI and Anthropic models was roughly even in September, vs. Anthropic commanding a 75% share in January (Angel Au-Yeung/Wall Street Journal)"
+ },
+ "a261007p47": {
+  "article_url": "https://www.theinformation.com/articles/nvidias-100-billion-dealmaking-juggernaut-will-go-next",
+  "date": "2026-10-07",
+  "permalink_id": "a261007p47",
+  "summary": "This July, Nvidia caught wind of a looming takeover of OpenRouter, a three-year-old startup that had emerged as a popular marketplace for AI models …",
+  "techmeme_url": "https://www.techmeme.com/261007/p47",
+  "title": "Source: Nvidia considered a last-minute OpenRouter bid, telling its leadership it was prepared to make a generous offer, but OpenRouter didn't want to wait (The Information)"
+ },
  "a261007p5": {
   "article_url": "https://www.wsj.com/pro/venture-capital/this-startup-wants-to-double-the-worlds-computewithout-building-a-single-data-center-f0bf8140",
   "date": "2026-10-07",
