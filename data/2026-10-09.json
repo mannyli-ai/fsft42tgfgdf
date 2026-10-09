@@ -7,6 +7,30 @@
   "techmeme_url": "https://www.techmeme.com/261009/p1",
   "title": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)"
  },
+ "a261009p10": {
+  "article_url": "https://www.axios.com/pro/fintech-deals/2026/10/08/sam-altman-bitcoin-insurer-meanwhile",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p10",
+  "summary": "Meanwhile, a Sam Altman-backed company offering life insurance in bitcoin, raised $37.5 million in funding, CEO Zac Townsend tells Axios exclusively.",
+  "techmeme_url": "https://www.techmeme.com/261009/p10",
+  "title": "Meanwhile, a Sam Altman-backed bitcoin life insurance provider, raised $37.5M led by Bain Capital, sources say at a $350M valuation, up from $190M in April 2025 (Lucinda Shen/Axios)"
+ },
+ "a261009p11": {
+  "article_url": "https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p11",
+  "summary": "The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified …",
+  "techmeme_url": "https://www.techmeme.com/261009/p11",
+  "title": "The Chinese developer of ARTEX says it has converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks (Brenda Goh/Reuters)"
+ },
+ "a261009p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p12",
+  "summary": "The UK is set to curb hiring restrictions that force employees to wait before moving jobs or starting companies …",
+  "techmeme_url": "https://www.techmeme.com/261009/p12",
+  "title": "The UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups (Shona Ghosh/Bloomberg)"
+ },
  "a261009p2": {
   "article_url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd",
   "date": "2026-10-09",
@@ -14,5 +38,61 @@
   "summary": "Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks",
   "techmeme_url": "https://www.techmeme.com/261009/p2",
   "title": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)"
+ },
+ "a261009p3": {
+  "article_url": "https://asia.nikkei.com/business/technology/exclusive-apple-cuts-iphone-18-pro-orders-due-to-soft-demand",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p3",
+  "summary": "TAIPEI — Apple has told some of its suppliers to cut production of components for its newly launched iPhone 18 Pro and iPhone 18 Pro Max …",
+  "techmeme_url": "https://www.techmeme.com/261009/p3",
+  "title": "Sources: Apple told some suppliers to cut iPhone 18 Pro and Pro Max component production by 15%-20% as higher memory costs pushed up prices and hurt demand (Nikkei Asia)"
+ },
+ "a261009p4": {
+  "article_url": "https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p4",
+  "summary": "Q3 delivered the widely expected PC downturn, with supply constraints, high price points, and logistical disruption eroding the usual seasonal lift",
+  "techmeme_url": "https://www.techmeme.com/261009/p4",
+  "title": "Global PC shipments dropped 20.1% YoY in Q3 to 62.7M units due to higher prices and supply issues; Lenovo dropped 22.6% YoY, HP 30.9%, Dell 25%, and Apple 11.3% (IDC)"
+ },
+ "a261009p5": {
+  "article_url": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p5",
+  "summary": "OpenAI on Friday defended its decision to fire three safety researchers, saying they had committed a “significant breach of trust.”",
+  "techmeme_url": "https://www.techmeme.com/261009/p5",
+  "title": "OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but for violating \"clear policies on handling sensitive information\" (Michael Considine/CNBC)"
+ },
+ "a261009p6": {
+  "article_url": "https://puck.news/netflix-is-sharpening-the-layoff-axe/",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p6",
+  "summary": "Facing pressure over weakened engagement and a depressed stock price, the streamer is prepping for a round of layoffs in the near future, per sources.",
+  "techmeme_url": "https://www.techmeme.com/261009/p6",
+  "title": "Sources: Netflix is preparing for layoffs that will impact ~5% of employees, or ~850 jobs, amid pressure over weakened engagement and a depressed stock price (Matthew Belloni/Puck)"
+ },
+ "a261009p7": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p7",
+  "summary": "A cascade of cyberattacks has hit Japanese companies over the past few weeks, prompting the government to call for security checks …",
+  "techmeme_url": "https://www.techmeme.com/261009/p7",
+  "title": "A slew of cyberattacks hit Japanese companies in September, exposing the data of millions and prompting calls for security checks, as AI lowers hacking barriers (Sarah Hilton/Bloomberg)"
+ },
+ "a261009p8": {
+  "article_url": "https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p8",
+  "summary": "Commitment comes as GPUzilla prepares to fortify Uncle Sam's arsenal with at least seven AI-optimized supers",
+  "techmeme_url": "https://www.techmeme.com/261009/p8",
+  "title": "Nvidia commits $1B over five years to build out the US' \"capacity for super intelligence R&D\" in fields like quantum computing, healthcare, and energy security (Tobias Mann/The Register)"
+ },
+ "a261009p9": {
+  "article_url": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p9",
+  "summary": "Meta had delayed releasing Muse, its A.I. agent app, for months over safety concerns. Then new competition forced Mr. Zuckerberg's hand.",
+  "techmeme_url": "https://www.techmeme.com/261009/p9",
+  "title": "Sources detail Mark Zuckerberg's decision to launch Muse despite safety concerns, after seeing that AI startup Instinct's similar agent product gained traction (Eli Tan/New York Times)"
  }
 }
