@@ -31,6 +31,54 @@
   "techmeme_url": "https://www.techmeme.com/261009/p12",
   "title": "The UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups (Shona Ghosh/Bloomberg)"
  },
+ "a261009p14": {
+  "article_url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p14",
+  "summary": "AI safety is on fire. On 12 September 2026, Dario Amodei published an essay arguing that frontier labs must deliberately slow …",
+  "techmeme_url": "https://www.techmeme.com/261009/p14",
+  "title": "Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch (SemiAnalysis)"
+ },
+ "a261009p15": {
+  "article_url": "https://www.forbes.com/sites/rashishrivastava/2026/10/09/vinod-khosla-backs-an-ai-startup-building-a-mind-reading-baseball-cap/",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p15",
+  "summary": "Palo Alto-based Sabi is betting its cap, outfitted with 100,000 sensors, will enable people to talk to their AI agents just by thinking.",
+  "techmeme_url": "https://www.techmeme.com/261009/p15",
+  "title": "Sabi, which is building a baseball cap that uses 100K non-contact neuro-sensors to convert neural signals into text prompts for AI systems, raised a $50M seed (Rashi Shrivastava/Forbes)"
+ },
+ "a261009p16": {
+  "article_url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p16",
+  "summary": "New York Attorney General Letitia James said Friday she secured up to $35 million from former Celsius CEO Alex Mashinsky …",
+  "techmeme_url": "https://www.techmeme.com/261009/p16",
+  "title": "NY AG announces an up-to-$35M settlement with ex-Celsius CEO Alex Mashinsky that permanently bars him from the securities, commodities, and crypto industries (Olivier Acuna/CoinDesk)"
+ },
+ "a261009p17": {
+  "article_url": "https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-intelligence/",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p17",
+  "summary": "Finance editor Jeff John Roberts here. The explosive growth of the robotics industry in recent years is reflected in new technology feats …",
+  "techmeme_url": "https://www.techmeme.com/261009/p17",
+  "title": "Warehouse robotics startup Ultra raised a $12M seed and a $50M Series A, and expands its deal with Physical Intelligence to supply AI software for its robots (Jeff John Roberts/Fortune)"
+ },
+ "a261009p18": {
+  "article_url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p18",
+  "summary": "Tesla has changed the name of its advanced driver assistance system in Europe after pushback from Germany's transportation ministry.",
+  "techmeme_url": "https://www.techmeme.com/261009/p18",
+  "title": "Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe after pushback from Germany, whose transport minister will now back its EU-wide approval (Sean O'Kane/TechCrunch)"
+ },
+ "a261009p19": {
+  "article_url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p19",
+  "summary": "Blockchain.com, a digital asset platform, wants to get in on the prediction market boom in the U.S.",
+  "techmeme_url": "https://www.techmeme.com/261009/p19",
+  "title": "Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally (Davis Giangiulio/CNBC)"
+ },
  "a261009p2": {
   "article_url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd",
   "date": "2026-10-09",
@@ -38,6 +86,78 @@
   "summary": "Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks",
   "techmeme_url": "https://www.techmeme.com/261009/p2",
   "title": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)"
+ },
+ "a261009p20": {
+  "article_url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p20",
+  "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced on Thursday that it raised a $30 million round led by Conversion Capital.",
+  "techmeme_url": "https://www.techmeme.com/261009/p20",
+  "title": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)"
+ },
+ "a261009p21": {
+  "article_url": "https://www.axios.com/2026/10/09/decacorns-record-venture-capital",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p21",
+  "summary": "We're in the golden age of decacorns. — The average time from launch to decacorn has been cut in nearly half, and some decacorns arrive literally overnight.",
+  "techmeme_url": "https://www.techmeme.com/261009/p21",
+  "title": "A record 42 startups became decacorns so far in 2026, beating 2021's 34; PitchBook: the average time to hit $10B dropped to 5.5 years in 2025 vs. 9.4 in 2020 (Lucinda Shen/Axios)"
+ },
+ "a261009p22": {
+  "article_url": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p22",
+  "summary": "Watch the 6abc Philadelphia 24/7 stream featuring Action News, AccuWeather and Entertainment — ShareFollow 6abc on Google",
+  "techmeme_url": "https://www.techmeme.com/261009/p22",
+  "title": "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)"
+ },
+ "a261009p23": {
+  "article_url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p23",
+  "summary": "Telecommunications stocks sold off on Friday after Elon Musk's SpaceX announced an agreement to purchase a nationwide spectrum portfolio …",
+  "techmeme_url": "https://www.techmeme.com/261009/p23",
+  "title": "Verizon closed down 8.75%, its worst day since 2002, while T-Mobile fell 13.27% and AT&T 9.81% after SpaceX announced a nationwide spectrum deal on Thursday (CJ Haddad/CNBC)"
+ },
+ "a261009p24": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p24",
+  "summary": "Fintech startup Ramp has reached a roughly $60 billion valuation with its latest fundraising effort, according to people familiar with the matter.",
+  "techmeme_url": "https://www.techmeme.com/261009/p24",
+  "title": "Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M (Rebecca Torrence/Bloomberg)"
+ },
+ "a261009p25": {
+  "article_url": "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p25",
+  "summary": "As Google prepares to roll out its new Gemini 4 ‘Argon’ model to the public, staff inside the company are testing better versions …",
+  "techmeme_url": "https://www.techmeme.com/261009/p25",
+  "title": "Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\" (Hugh Langley/Business Insider)"
+ },
+ "a261009p26": {
+  "article_url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p26",
+  "summary": "The first example of significant real-world harm caused by unsafe AI would turn an already wary public further against the technology and its leaders …",
+  "techmeme_url": "https://www.techmeme.com/261009/p26",
+  "title": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)"
+ },
+ "a261009p27": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p27",
+  "summary": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips …",
+  "techmeme_url": "https://www.techmeme.com/261009/p27",
+  "title": "A man US authorities called a \"fixer\", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty (Bob Van Voris/Bloomberg)"
+ },
+ "a261009p28": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/09/compute-cloud-ai-oxide",
+  "date": "2026-10-09",
+  "permalink_id": "a261009p28",
+  "summary": "Oxide Computer Company, which helps companies build their own on-premise integrated cloud computer systems, raised a $445 million Series D led …",
+  "techmeme_url": "https://www.techmeme.com/261009/p28",
+  "title": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)"
  },
  "a261009p3": {
   "article_url": "https://asia.nikkei.com/business/technology/exclusive-apple-cuts-iphone-18-pro-orders-due-to-soft-demand",
