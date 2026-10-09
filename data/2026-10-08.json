@@ -279,6 +279,54 @@
   "techmeme_url": "https://www.techmeme.com/261008/p5",
   "title": "Vitalik Buterin says \"we should take the risks to cryptography from AI-accelerated math seriously\", backing a \"bunker mode\" call for the blockchain industry (Felix Ng/Cointelegraph)"
  },
+ "a261008p50": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-08/meta-bans-tiktok-parent-bytedance-from-advertising-on-its-apps-in-7-countries",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p50",
+  "summary": "Meta Platforms Inc. banned advertisements in the US from ByteDance Ltd., the former controlling owner of TikTok, intensifying the competition with the popular social video site.",
+  "techmeme_url": "https://www.techmeme.com/261008/p50",
+  "title": "Meta bans ByteDance ads and paid marketing, plus third-party campaigns linking to TikTok, in the US, Canada, Egypt, Indonesia, Japan, Thailand, and Vietnam (Bloomberg)"
+ },
+ "a261008p51": {
+  "article_url": "https://www.nbcnews.com/tech/tech-news/trump-awards-musk-tech-titans-national-medals-science-rcna602104",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p51",
+  "summary": "President Donald Trump joined Michael Kratsios to award the Medal of Science to Elon Musk, Jensen Huang, Lisa Su and Sergey Brin amid announcements about new science funding.",
+  "techmeme_url": "https://www.techmeme.com/261008/p51",
+  "title": "President Trump awards Elon Musk, Jensen Huang, Lisa Su, and Sergey Brin the National Medal of Science at a White House summit promoting innovation (Jared Perlo/NBC News)"
+ },
+ "a261008p52": {
+  "article_url": "https://www.washingtonpost.com/politics/2026/10/08/trump-microsoft-nadella-musk-ai/2a7fcefa-c33f-11f1-8170-681419af1cc9_story.html",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p52",
+  "summary": "President Donald Trump celebrated tech billionaires such as Microsoft CEO Satya Nadella at an event with arguably awkward timing",
+  "techmeme_url": "https://www.techmeme.com/261008/p52",
+  "title": "Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders (Washington Post)"
+ },
+ "a261008p53": {
+  "article_url": "https://www.reuters.com/business/ai-surveillance-startup-flock-safety-cut-several-hundred-jobs-amid-backlash-2026-10-09/",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p53",
+  "summary": "Flock Safety plans to let go of about 18% of its employees, people with direct knowledge of the plans said on Thursday …",
+  "techmeme_url": "https://www.techmeme.com/261008/p53",
+  "title": "Sources: Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September (Reuters)"
+ },
+ "a261008p54": {
+  "article_url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p54",
+  "summary": "The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years …",
+  "techmeme_url": "https://www.techmeme.com/261008/p54",
+  "title": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)"
+ },
+ "a261008p55": {
+  "article_url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+  "date": "2026-10-08",
+  "permalink_id": "a261008p55",
+  "summary": "President Donald Trump's administration announced Thursday it was suspending Microsoft and several other firms …",
+  "techmeme_url": "https://www.techmeme.com/261008/p55",
+  "title": "Microsoft denies JD Vance's claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)"
+ },
  "a261008p6": {
   "article_url": "https://scottaaronson.blog/",
   "date": "2026-10-08",
