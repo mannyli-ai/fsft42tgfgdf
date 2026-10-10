@@ -7,6 +7,14 @@
   "techmeme_url": "https://www.techmeme.com/261010/p1",
   "title": "A US Senate investigation led by Senators Warren, Van Hollen, and Blumenthal says some hyperscalers misled the public about AI data centers' costs and benefits (Nik Popli/Time)"
  },
+ "a261010p10": {
+  "article_url": "https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?st=GBFvs6&reflink=desktopwebshare_permalink",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p10",
+  "summary": "Machines programmed to sort merchandise in warehouses hit kinks with cardboard boxes and turkeys; automation push reaches ‘peak complexity’",
+  "techmeme_url": "https://www.techmeme.com/261010/p10",
+  "title": "A look at Walmart's troubled push to automate its ~200 US warehouses, as it and partners like Symbotic face technical setbacks; Walmart owns 12.6% of Symbotic (Sarah Nassauer/Wall Street Journal)"
+ },
  "a261010p2": {
   "article_url": "https://thenewstack.io/cloudflare-acquires-deno-ryan-dahl/",
   "date": "2026-10-10",
@@ -30,5 +38,45 @@
   "summary": "“Price sensitivity is becoming a real problem.” — Follow Grand Theft Auto VI … PS5 and Xbox Series X/S consoles …",
   "techmeme_url": "https://www.techmeme.com/261010/p4",
   "title": "Circana: US Xbox unit sales fell 33% YoY to an all-time low in 2026 through August, while PS5 sales fell 25%, as both consoles hit record high average prices (Kaan Serin/Eurogamer.net)"
+ },
+ "a261010p5": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYxMjE0MSwiZXhwIjoxNzkyMjE2OTQxLCJhcnRpY2xlSWQiOiJUTU05UzVLSkg2VjQwMCIsImJjb25uZWN0SWQiOiIxMDMxRDIzQ0YzNEY0Q0ZEQTM3MDVBRDc4MjYwNTBEMSJ9.-CUwCUPRd1JHAqd8D36ChrGP0JL2pBwuJQ1dyBTmpQY",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p5",
+  "summary": "Current Time 0:00 Loaded: 17.94% Playback Rate — This is a modal window. — Unmute — In 48 hours, Firmus Grid Ltd. went …",
+  "techmeme_url": "https://www.techmeme.com/261010/p5",
+  "title": "Sources detail how Firmus' IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue (Bloomberg)"
+ },
+ "a261010p6": {
+  "article_url": "https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p6",
+  "summary": "PALO ALTO, California — Chip design software leader Synopsys says it is looking to help Chinese companies develop chips faster …",
+  "techmeme_url": "https://www.techmeme.com/261010/p6",
+  "title": "Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market (Yifan Yu/Nikkei Asia)"
+ },
+ "a261010p7": {
+  "article_url": "https://www.trendforce.com/presscenter/news/20261008-13264.html",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p7",
+  "summary": "TrendForce's latest notebook industry research reveals that the primary risk facing the market in 2027 is expected to shift …",
+  "techmeme_url": "https://www.techmeme.com/261010/p7",
+  "title": "Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs (TrendForce)"
+ },
+ "a261010p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p8",
+  "summary": "When measuring the race between artificial intelligence leaders OpenAI and Anthropic PBC, investors have run into a problem …",
+  "techmeme_url": "https://www.techmeme.com/261010/p8",
+  "title": "A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share (Bloomberg)"
+ },
+ "a261010p9": {
+  "article_url": "https://www.politico.com/news/magazine/2026/10/09/tiktok-trump-deal-us-china-01093142",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p9",
+  "summary": "In the months before TikTok finalized a deal to sell its U.S. operations to a group of investors friendly to President Donald Trump …",
+  "techmeme_url": "https://www.techmeme.com/261010/p9",
+  "title": "Current and former employees say TikTok US still coordinates closely with the global TikTok org, and US staff continue to use ByteDance's internal chat app Lark (Sylvia Varnham O'Regan/Politico)"
  }
 }
