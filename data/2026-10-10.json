@@ -15,6 +15,70 @@
   "techmeme_url": "https://www.techmeme.com/261010/p10",
   "title": "A look at Walmart's troubled push to automate its ~200 US warehouses, as it and partners like Symbotic face technical setbacks; Walmart owns 12.6% of Symbotic (Sarah Nassauer/Wall Street Journal)"
  },
+ "a261010p11": {
+  "article_url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p11",
+  "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy …",
+  "techmeme_url": "https://www.techmeme.com/261010/p11",
+  "title": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more (Adam Morgan/Wired)"
+ },
+ "a261010p12": {
+  "article_url": "https://www.wsj.com/tech/ai/tom-brown-athropic-669005ad?st=dmPXhF&reflink=article_copyURL_share",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p12",
+  "summary": "Tom Brown is leveraging his Republican ties and business savvy to win over Washington and secure the computing power Anthropic needs",
+  "techmeme_url": "https://www.techmeme.com/261010/p12",
+  "title": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)"
+ },
+ "a261010p13": {
+  "article_url": "https://www.theinformation.com/articles/shroud-secrecy-cloaks-star-investor-behind-cognition-ramp",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p13",
+  "summary": "Last month, Zach Dell, son of billionaire Michael Dell and cofounder of Base Power, a billion-dollar battery startup …",
+  "techmeme_url": "https://www.techmeme.com/261010/p13",
+  "title": "A profile of Zach Frankel, a secretive and unusually hands-on solo investor who wrote the first checks to startups like Ramp, Cognition, and Applied Compute (Jemima McEvoy/The Information)"
+ },
+ "a261010p14": {
+  "article_url": "https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p14",
+  "summary": "A cadre of elite techies, financiers, and high-level Trump administration officials have spent a year quietly charting an extraordinary …",
+  "techmeme_url": "https://www.techmeme.com/261010/p14",
+  "title": "A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access (CBS News)"
+ },
+ "a261010p15": {
+  "article_url": "https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p15",
+  "summary": "DJI and Insta360 engaged in ‘civil war’ to become world's top smart camera maker — The decline of action camera pioneer GoPro …",
+  "techmeme_url": "https://www.techmeme.com/261010/p15",
+  "title": "IDC: Shenzhen-based DJI and Insta360, accounting for 73% and 20% of global smart camera market in Q2, are vying for the top spot as GoPro's share drops to 3% (William Langley/Financial Times)"
+ },
+ "a261010p16": {
+  "article_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p16",
+  "summary": "Donald Trump's administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+  "techmeme_url": "https://www.techmeme.com/261010/p16",
+  "title": "Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny (Financial Times)"
+ },
+ "a261010p17": {
+  "article_url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p17",
+  "summary": "Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight",
+  "techmeme_url": "https://www.techmeme.com/261010/p17",
+  "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)"
+ },
+ "a261010p18": {
+  "article_url": "https://x.com/satyanadella/status/2108931348857827686",
+  "date": "2026-10-10",
+  "permalink_id": "a261010p18",
+  "summary": "As traditional software systems were being deployed across the economy over the last few decades, we had the tools …",
+  "techmeme_url": "https://www.techmeme.com/261010/p18",
+  "title": "\"Super Intelligence systems\" are black boxes that shouldn't be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)"
+ },
  "a261010p2": {
   "article_url": "https://thenewstack.io/cloudflare-acquires-deno-ryan-dahl/",
   "date": "2026-10-10",
