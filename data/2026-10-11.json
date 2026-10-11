@@ -7,6 +7,22 @@
   "techmeme_url": "https://www.techmeme.com/261011/p1",
   "title": "General Medicine, an online storefront for medical care founded by PillPack founders TJ Parker and Elliot Cohen, raised a $120M Series B led by a16z (Heather Landi/Fierce Healthcare)"
  },
+ "a261011p10": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p10",
+  "summary": "Musk, Benioff, Huang, and now Nadella have all capitulated to Trump's ‘super intelligence’ rebrand.",
+  "techmeme_url": "https://www.techmeme.com/261011/p10",
+  "title": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O'Brien/The Verge)"
+ },
+ "a261011p11": {
+  "article_url": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p11",
+  "summary": "San Francisco company's software makes it easier for developers to switch between different AI chips",
+  "techmeme_url": "https://www.techmeme.com/261011/p11",
+  "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)"
+ },
  "a261011p2": {
   "article_url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
   "date": "2026-10-11",
@@ -38,5 +54,37 @@
   "summary": "Autonomous vehicle companies believe there's a huge market opportunity in delivering after dark, if the technical challenges can be overcome.",
   "techmeme_url": "https://www.techmeme.com/261011/p5",
   "title": "A look at Beijing-based Neolix, which operates the world's largest robovan fleet at 27K, as Shenzhen tests nighttime parcel deliveries by driverless vehicles (Bloomberg)"
+ },
+ "a261011p6": {
+  "article_url": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p6",
+  "summary": "‘Physical AI’ developers are putting cameras in homes, offices and factories to fill a gap in the training material of robotics",
+  "techmeme_url": "https://www.techmeme.com/261011/p6",
+  "title": "PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes (Rafe Rosner-Uddin/Financial Times)"
+ },
+ "a261011p7": {
+  "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTcyNzI2MCwiZXhwIjoxNzkyMzMyMDYwLCJhcnRpY2xlSWQiOiJUTVFYSzJOM04wOFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.E6mgNQtIHgnFxRiqVKKqNT7CE2st-g896cIaaDBzKVs",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p7",
+  "summary": "Fresh details on Apple's HomeView, HomePod mini and new Apple TV, including release dates, colors, chips and features.",
+  "techmeme_url": "https://www.techmeme.com/261011/p7",
+  "title": "A look at Apple's smart home strategy, centered on a HomeView display hub, with a new HomePod mini, Apple TV, and second-party accessories from LG and Schneider (Mark Gurman/Bloomberg)"
+ },
+ "a261011p8": {
+  "article_url": "https://www.kyivpost.com/post/86708",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p8",
+  "summary": "A Ukrainian drone strike targeted a major Yandex data center in the Russian city of Vladimir early Sunday morning, Oct. 11 …",
+  "techmeme_url": "https://www.techmeme.com/261011/p8",
+  "title": "Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)"
+ },
+ "a261011p9": {
+  "article_url": "https://www.theinformation.com/articles/attractive-economics-behind-anthropic-data-center-sprint",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p9",
+  "summary": "Why is Anthropic driving its partners to speed up the $530 billion of data center leasing deals it has signed?",
+  "techmeme_url": "https://www.techmeme.com/261011/p9",
+  "title": "A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)"
  }
 }
