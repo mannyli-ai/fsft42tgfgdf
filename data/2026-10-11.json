@@ -1,0 +1,34 @@
+{
+ "a261011p1": {
+  "article_url": "https://www.fiercehealthcare.com/health-tech/general-medicine-banks-120m-backed-a16z-eli-lilly-and-mercy-health",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p1",
+  "summary": "General Medicine Andreessen Horowitz Mercy Health Eli Lilly — Artificial intelligence is making healthcare advice easier to access …",
+  "techmeme_url": "https://www.techmeme.com/261011/p1",
+  "title": "General Medicine, an online storefront for medical care founded by PillPack founders TJ Parker and Elliot Cohen, raised a $120M Series B led by a16z (Heather Landi/Fierce Healthcare)"
+ },
+ "a261011p2": {
+  "article_url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p2",
+  "summary": "Decision models are quickly emerging as an important new category in AI. Unlike LLMs, which are designed to generate text …",
+  "techmeme_url": "https://www.techmeme.com/261011/p2",
+  "title": "Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, and says it will soon rebase it on MAI, OpenAI, and other models (Achint Srivastava/Command Line)"
+ },
+ "a261011p3": {
+  "article_url": "https://siliconangle.com/2026/10/06/multiply-labs-raises-75m-to-optimize-pharmaceutical-manufacturing-with-robots/",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p3",
+  "summary": "Multiply Labs Inc., a startup that develops automation equipment for drugmakers, has raised $75 million in funding.",
+  "techmeme_url": "https://www.techmeme.com/261011/p3",
+  "title": "Multiply Labs, which develops robotic systems to automate pharmaceutical manufacturing processes, raised a $75M Series B led by Patrick Soon-Shiong's NantWorks (Maria Deutscher/SiliconANGLE)"
+ },
+ "a261011p4": {
+  "article_url": "https://www.calcalistech.com/ctechnews/article/rkf52cnimg",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p4",
+  "summary": "The Israeli startup says its revenue has grown eightfold since January and its platform is now securing thousands of agents that execute millions of actions.",
+  "techmeme_url": "https://www.techmeme.com/261011/p4",
+  "title": "Rein Security, which develops runtime tools to secure enterprise AI agents and stop adversarial AI agents, raised a $25M Series A, taking total funding to $35M (Meir Orbach/CTech)"
+ }
+}
