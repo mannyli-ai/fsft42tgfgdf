@@ -7,6 +7,46 @@
   "techmeme_url": "https://www.techmeme.com/261012/p1",
   "title": "Sources: PCB maker Dongshan is eyeing to raise $2B to $3B in a Hong Kong listing as soon as this month; Dongshan is listed in Shenzhen with a $39B valuation (Bloomberg)"
  },
+ "a261012p15": {
+  "article_url": "https://www.wsj.com/business/deals/quantum-computing-company-ionq-to-buy-cybersecurity-firm-for-up-to-1-3-billion-65af65bd?st=uPLJKd&reflink=desktopwebshare_permalink",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p15",
+  "summary": "Privately held Elisity stops cyber attackers and ransomware from spreading across organizations",
+  "techmeme_url": "https://www.techmeme.com/261012/p15",
+  "title": "Quantum computing company IonQ agrees to buy Elisity, which helps stop cyberattacks and ransomware from spreading, in an all-stock deal valued at up to $1.3B (Lauren Thomas/Wall Street Journal)"
+ },
+ "a261012p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-12/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p16",
+  "summary": "The AI boom has attracted investors whose strategies resemble those of gamblers, Broadcom Inc. Chief Executive Officer Hock Tan said …",
+  "techmeme_url": "https://www.techmeme.com/261012/p16",
+  "title": "Broadcom CEO Hock Tan criticizes speculative AI investing, comparing uninformed investors to casino gamblers and questioning the long-term economics of AI labs (Gao Yuan/Bloomberg)"
+ },
+ "a261012p17": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-12/deepseek-backs-ex-tencent-ai-scientist-s-400-million-robot-lab",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p17",
+  "summary": "DeepSeek aims to lead the first round of investment for a months-old startup building AI for robots, deploying capital …",
+  "techmeme_url": "https://www.techmeme.com/261012/p17",
+  "title": "Sources: DeepSeek agrees to lead robotic AI startup Winverse AI's seed funding round of tens of millions of dollars, valuing the startup at ~$400M post-money (Bloomberg)"
+ },
+ "a261012p18": {
+  "article_url": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p18",
+  "summary": "SINGAPORE — The chief executives of Intel and Broadcom warned that access to capital could emerge as a major constraint …",
+  "techmeme_url": "https://www.techmeme.com/261012/p18",
+  "title": "Speaking in Singapore, Broadcom CEO Hock Tan and Intel CEO Lip-Bu Tan warn that access to capital and rising borrowing costs could become AI's main bottleneck (Lee Ying Shan/CNBC)"
+ },
+ "a261012p19": {
+  "article_url": "https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html?unlocked_article_code=1.IFE.aLC7.pvHMc8gKt-Fv&smid=nytcore-ios-share",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p19",
+  "summary": "The world's richest person has quietly become by far the biggest known midterm donor, trying to save Republicans' Senate majority …",
+  "techmeme_url": "https://www.techmeme.com/261012/p19",
+  "title": "Elon Musk contributed $276M+ since July to Republican entities, including $158M to the Senate Leadership Fund; sources: he is taking a more hands-off approach (Theodore Schleifer/New York Times)"
+ },
  "a261012p2": {
   "article_url": "https://www.culpium.com/p/inside-tsmc-texas-and-the-terafab",
   "date": "2026-10-12",
@@ -14,6 +54,86 @@
   "summary": "“He said his biggest concern was that nobody would supply him with chips. ” I told him: 'Don't worry.",
   "techmeme_url": "https://www.techmeme.com/261012/p2",
   "title": "Sources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years (Tim Culpan/Culpium)"
+ },
+ "a261012p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p20",
+  "summary": "The Edge, which replaces the Fitbit Charge 6, offers consumers another vehicle for trying out the recently revamped Google Health app.",
+  "techmeme_url": "https://www.techmeme.com/261012/p20",
+  "title": "Google unveils the $180 Fitbit Edge, featuring an oval, 1.34\" display and shipping October 27, replacing the Fitbit Charge 6 and discontinuing the Charge line (Samantha Kelly/Bloomberg)"
+ },
+ "a261012p21": {
+  "article_url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhuOHhJWE1DRnQiLCJwIjoiL25ld3MvMTAwOTQ2NS9taWNyb3NvZnQtbWFpYS0zMDAtY2hpcC1pbXByb3ZlbWVudHMtcm9sbG91dCIsImV4cCI6MTc5MjI0OTI3MCwiaWF0IjoxNzkxODE3MjcwfQ.i9L0gEtKZ0hTFs7qN6PA6RQy74E-sUQ_GKvVv5h7JJY",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p21",
+  "summary": "The new Maia 300 chip will start rolling out to production AI workloads in 2027.",
+  "techmeme_url": "https://www.techmeme.com/261012/p21",
+  "title": "Microsoft unveils its third-gen in-house AI chip, the Maia 300, built on TSMC's N2P process node and aimed at serving as its \"primary AI inference system\" (Tom Warren/The Verge)"
+ },
+ "a261012p22": {
+  "article_url": "https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p22",
+  "summary": "The company also announced a new metal mesh band for the Fitbit Air. — Google is rolling out a pair of updates …",
+  "techmeme_url": "https://www.techmeme.com/261012/p22",
+  "title": "Google says Health Guardian is launching later in October on the Fitbit Air and Edge for Google Health Premium users, and expands automatic activity tracking (Cheyenne MacDonald/Engadget)"
+ },
+ "a261012p23": {
+  "article_url": "https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p23",
+  "summary": "In the summer of 2025, Microsoft was fielding customer complaints that its AI assistant, Copilot, was buggy and not good enough at automating work in Excel or PowerPoint.",
+  "techmeme_url": "https://www.techmeme.com/261012/p23",
+  "title": "A profile of Microsoft EVP of Copilot Charles Lamanna, a potential Satya Nadella successor; a source says Microsoft is on track to pay Anthropic $2B+ per year (Aaron Holmes/The Information)"
+ },
+ "a261012p24": {
+  "article_url": "https://www.bloomberg.com/features/2026-ai-data-center-build-costs/",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p24",
+  "summary": "Roughly $750 billion. That's how much Meta Platforms Inc., Amazon.com Inc., Microsoft Corp. and Google owner Alphabet Inc …",
+  "techmeme_url": "https://www.techmeme.com/261012/p24",
+  "title": "Analysis: constructing and equipping a 1GW AI data center in Abilene, Texas, could cost ~$30B, including $17B on chips, $3B on power, and $2.4B on construction (Lynn Doan/Bloomberg)"
+ },
+ "a261012p25": {
+  "article_url": "http://www.counterpointresearch.com/",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p25",
+  "summary": "The global smartphone market declined 20% YoY in Q3 2026, reaching its lowest Q3 level in 14 years, as continued memory shortages constrained supply for most OEMs.",
+  "techmeme_url": "https://www.techmeme.com/261012/p25",
+  "title": "Global smartphone shipments fell 20% YoY in Q3 to a 14-year low amid memory shortages; Apple's share crossed 20% for the first time in any Q3, reaching 22% (Counterpoint Research)"
+ },
+ "a261012p26": {
+  "article_url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p26",
+  "summary": "As an Android devotee, I want to love Googlebooks — but they don't make it easy. … My first week with the new Android-powered laptops …",
+  "techmeme_url": "https://www.techmeme.com/261012/p26",
+  "title": "Googlebooks hands-on: a rocky start, with severe connectivity, file-sharing, and software stability issues; core productivity software lacks full desktop parity (Dominic Preston/The Verge)"
+ },
+ "a261012p27": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p27",
+  "summary": "Hundreds of supermarkets in France were targeted by cyberattacks on Sunday night, disabling refrigeration systems and forcing stores to throw out damaged food.",
+  "techmeme_url": "https://www.techmeme.com/261012/p27",
+  "title": "Cyberattacks on Sunday night targeted Danfoss-managed refrigeration systems across hundreds of French supermarkets, heating them to 50°C for roughly six hours (Jenny Che/Bloomberg)"
+ },
+ "a261012p28": {
+  "article_url": "https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p28",
+  "summary": "Samsung computers, Huawei smartphones, Redmi handsets and dozens of Chinese and Malaysian passports.",
+  "techmeme_url": "https://www.techmeme.com/261012/p28",
+  "title": "AI is supercharging a ~$442B scam economy that is bigger than the global cocaine trade, as the Chinese scam industry spreads beyond Asia's fortified compounds (Bloomberg)"
+ },
+ "a261012p29": {
+  "article_url": "https://www.reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12/",
+  "date": "2026-10-12",
+  "permalink_id": "a261012p29",
+  "summary": "Microsoft (MSFT.O) announced the next generation of its custom AI chip on Monday and said it plans to deploy potentially …",
+  "techmeme_url": "https://www.techmeme.com/261012/p29",
+  "title": "Microsoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out \"multi-gigawatt deployments\" of the chip starting next year (Reuters)"
  },
  "a261012p3": {
   "article_url": "https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828",
