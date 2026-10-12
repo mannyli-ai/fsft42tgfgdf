@@ -23,6 +23,54 @@
   "techmeme_url": "https://www.techmeme.com/261011/p11",
   "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)"
  },
+ "a261011p12": {
+  "article_url": "https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p12",
+  "summary": "The following is the full transcript of the interview with Shyam Sankar, chief technology officer of Palantir, a portion of which aired on …",
+  "techmeme_url": "https://www.techmeme.com/261011/p12",
+  "title": "Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)"
+ },
+ "a261011p13": {
+  "article_url": "https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p13",
+  "summary": "Hospital staffing and scheduling is unglamorous, complex and tedious work, and Veeraj Shah, co-founder and CEO of startup Vitalize …",
+  "techmeme_url": "https://www.techmeme.com/261011/p13",
+  "title": "Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating (Heather Landi/Fierce Healthcare)"
+ },
+ "a261011p14": {
+  "article_url": "https://www.axios.com/pro/fintech-deals/2026/10/06/anchorage-routable-corporate-payments",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p14",
+  "summary": "Anchorage Digital has acquired Routable, a startup that helps businesses automate payouts to vendors, contractors and other recipients …",
+  "techmeme_url": "https://www.techmeme.com/261011/p14",
+  "title": "Anchorage Digital buys B2B payments automation startup Routable for an undisclosed sum; Anchorage CEO calls it its largest acquisition by team size and revenue (Ryan Lawler/Axios)"
+ },
+ "a261011p15": {
+  "article_url": "https://sources.news/p/qualcomm-ceo-ai-phone",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p15",
+  "summary": "Cristiano Amon on the China vs. US AI sentiment, how AI is changing smartphones and wearables, Qualcomm's data center strategy, and what 6G will unlock.",
+  "techmeme_url": "https://www.techmeme.com/261011/p15",
+  "title": "Qualcomm CEO Cristiano Amon says AI companies are \"starting to do phones\" and asking Qualcomm to support running 100B-parameter local LLMs continuously by 2028 (Alex Heath/Sources)"
+ },
+ "a261011p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-12/bain-s-bridge-data-centres-seeks-to-upsize-loan-to-6-6-billion",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p16",
+  "summary": "Bain Capital-owned Bridge Data Centres is in talks with banks to more than double the size of an existing loan to about $6.6 billion …",
+  "techmeme_url": "https://www.techmeme.com/261011/p16",
+  "title": "Sources: Bain's Bridge Data Centres is in talks to upsize an existing loan from $2.8B to ~$6.6B, in what would be one of the largest data center deals in Asia (Kari Soo Lindberg/Bloomberg)"
+ },
+ "a261011p17": {
+  "article_url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+  "date": "2026-10-11",
+  "permalink_id": "a261011p17",
+  "summary": "A spy implant in some Ledger crypto wallets may be the root of an $86 million supply chain attack.",
+  "techmeme_url": "https://www.techmeme.com/261011/p17",
+  "title": "Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a \"hardware implant\" (Terrence O'Brien/The Verge)"
+ },
  "a261011p2": {
   "article_url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
   "date": "2026-10-11",
