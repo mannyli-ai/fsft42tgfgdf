@@ -118,5 +118,125 @@
   "summary": "Apple's new HomeView smart home hub will not be available in the European Union because Siri AI is currently unavailable …",
   "techmeme_url": "https://www.techmeme.com/261013/p24",
   "title": "Apple says the HomeView will not be available in the EU because Siri AI is currently unavailable on iOS there and it is \"working constructively with the EU\" (Hartley Charlton/MacRumors)"
+ },
+ "a261013p31": {
+  "article_url": "https://daringfireball.net/",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p31",
+  "summary": "Apple Newsroom: … Your first question might be how this facial recognition to identify users works …",
+  "techmeme_url": "https://www.techmeme.com/261013/p31",
+  "title": "Apple says HomeView's facial recognition works only if users have a \"registered personal device\" with Apple Intelligence and Siri AI on the same Wi-Fi network (John Gruber/Daring Fireball)"
+ },
+ "a261013p32": {
+  "article_url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p32",
+  "summary": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services.",
+  "techmeme_url": "https://www.techmeme.com/261013/p32",
+  "title": "Meta says hackers stole some code and personal data of roughly 1,500 people, most of them employees in the US, after compromising some of its GitHub repos (Eduard Kovacs/SecurityWeek)"
+ },
+ "a261013p33": {
+  "article_url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p33",
+  "summary": "Meta's bringing Instagram's “Your Algorithm” feature to Facebook, and using LLMs more to rank content.﻿",
+  "techmeme_url": "https://www.techmeme.com/261013/p33",
+  "title": "Meta expands its AI-powered \"Your Algorithm\" feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems (Stevie Bonifield/The Verge)"
+ },
+ "a261013p34": {
+  "article_url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p34",
+  "summary": "It just got a whole lot easier to vibe code the exact Android app you need - no developer experience required. — ZDNET's key takeaways",
+  "techmeme_url": "https://www.techmeme.com/261013/p34",
+  "title": "Google says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months (Artie Beaty/ZDNET)"
+ },
+ "a261013p35": {
+  "article_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p35",
+  "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways.",
+  "techmeme_url": "https://www.techmeme.com/261013/p35",
+  "title": "Pluto Security, which monitors AI agents and vibe-coded apps, exits stealth with $42M, including a $34M Series A, and says it has hit $2M+ in ARR since April (Ram Iyer/TechCrunch)"
+ },
+ "a261013p36": {
+  "article_url": "https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p36",
+  "summary": "Buzzy AI agent startup Decagon could be the latest company swept up in a growing wave of AI dealmaking.",
+  "techmeme_url": "https://www.techmeme.com/261013/p36",
+  "title": "Sources: Decagon, which offers AI customer service agents and was last valued at $4.5B, hired a bank and is in early talks with buyers, including ServiceNow (Katie Roof/Business Insider)"
+ },
+ "a261013p37": {
+  "article_url": "https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13/",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p37",
+  "summary": "Chip technology supplier Arm Holdings (O9Ty.F) breached a licensing agreement with Qualcomm (QCOM.O) and intentionally interfered …",
+  "techmeme_url": "https://www.techmeme.com/261013/p37",
+  "title": "A Delaware jury awards Qualcomm $2 in nominal damages after finding Arm breached its architectural license agreement and sought to disrupt Qualcomm's business (Tom Hals/Reuters)"
+ },
+ "a261013p38": {
+  "article_url": "https://www.anthropic.com/engineering/redesigning-source-control",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p38",
+  "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck.",
+  "techmeme_url": "https://www.techmeme.com/261013/p38",
+  "title": "Anthropic details Scion, a git replacement for its monorepo, built by seven engineers with Claude in five months, as daily merges rose from 2.5K in May to 30K+ (Anthropic)"
+ },
+ "a261013p39": {
+  "article_url": "https://www.theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p39",
+  "summary": "For the last three years, AI labs like OpenAI, Anthropic and xAI have sucked up a lot of investor attention—as well as nosebleed valuations.",
+  "techmeme_url": "https://www.techmeme.com/261013/p39",
+  "title": "Sources: self-driving simulation software maker Applied Intuition has received investment offers that would value it at $30B+, up from $15B in June (Stephanie Palazzolo/The Information)"
+ },
+ "a261013p40": {
+  "article_url": "https://x.com/openainewsroom",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p40",
+  "summary": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we're grateful to the agen...",
+  "techmeme_url": "https://www.techmeme.com/261013/p40",
+  "title": "OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device (@openainewsroom)"
+ },
+ "a261013p41": {
+  "article_url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p41",
+  "summary": "An OpenAI engineer has been arrested on suspicion of hiding an audio recording device in an executive conference room …",
+  "techmeme_url": "https://www.techmeme.com/261013/p41",
+  "title": "Federal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30 (The San Francisco Standard)"
+ },
+ "a261013p42": {
+  "article_url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p42",
+  "summary": "New business unit is charged with testing new projects and judging them by user feedback, spurred by recent mashups and ports delivered with AI coding tools",
+  "techmeme_url": "https://www.techmeme.com/261013/p42",
+  "title": "Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools (Jon Hicks/GamesIndustry.biz)"
+ },
+ "a261013p43": {
+  "article_url": "https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html?unlocked_article_code=1.IVE.Hd6z.VaFEYJD7BNi_&smid=nytcore-ios-share",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p43",
+  "summary": "F.B.I. investigators worked with the cybersecurity firm CrowdStrike to dismantle so-called laptop farms that steal American identities to earn cash for Pyongyang.",
+  "techmeme_url": "https://www.techmeme.com/261013/p43",
+  "title": "The FBI says it worked with CrowdStrike to dismantle 40+ laptop farms across Texas used to help North Koreans get remote US tech jobs under stolen identities (Dustin Volz/New York Times)"
+ },
+ "a261013p44": {
+  "article_url": "https://news.bloomberglaw.com/tech-and-telecom-law/apple-wins-early-access-to-openai-files-in-trade-secrets-suit",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p44",
+  "summary": "Apple Inc. convinced a federal judge in California to force OpenAI Inc. to expedite turning over documents concerning its alleged theft …",
+  "techmeme_url": "https://www.techmeme.com/261013/p44",
+  "title": "Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents (Annelise Levy/Bloomberg Law)"
+ },
+ "a261013p45": {
+  "article_url": "https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p45",
+  "summary": "OpenAI is grappling with fallout from its use of a controversial innovation in AI design as it works to get its next unreleased model …",
+  "techmeme_url": "https://www.techmeme.com/261013/p45",
+  "title": "A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)"
  }
 }
