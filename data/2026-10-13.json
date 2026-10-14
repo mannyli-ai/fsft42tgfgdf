@@ -238,5 +238,69 @@
   "summary": "OpenAI is grappling with fallout from its use of a controversial innovation in AI design as it works to get its next unreleased model …",
   "techmeme_url": "https://www.techmeme.com/261013/p45",
   "title": "A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)"
+ },
+ "a261013p46": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/tencent-markets-us-dollar-dim-sum-bonds-four-tranches-2026-10-13/",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p46",
+  "summary": "Tencent Holdings (0700.HK) has raised about $5.7 billion through US dollar and offshore yuan debt offerings on Tuesday …",
+  "techmeme_url": "https://www.techmeme.com/261013/p46",
+  "title": "Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B (Reuters)"
+ },
+ "a261013p47": {
+  "article_url": "https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p47",
+  "summary": "OpenAI, which is trying to develop a substantial cybersecurity business, is in early talks to buy Trail of Bits …",
+  "techmeme_url": "https://www.techmeme.com/261013/p47",
+  "title": "Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)"
+ },
+ "a261013p48": {
+  "article_url": "https://www.forbes.com/sites/the-prompt/2026/10/13/30-of-scientific-experiments-are-wasteful-this-startup-wants-to-use-ai-to-change-that/",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p48",
+  "summary": "Scientists at manufacturing conglomerates like Kenvue and Henkel use Albert Invent's AI tools to design experiments.",
+  "techmeme_url": "https://www.techmeme.com/261013/p48",
+  "title": "Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation (Rashi Shrivastava/Forbes)"
+ },
+ "a261013p49": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p49",
+  "summary": "An employee at OpenAI was arrested and charged with using a hidden recording device in one of the company's San Francisco offices …",
+  "techmeme_url": "https://www.techmeme.com/261013/p49",
+  "title": "Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 (Bloomberg)"
+ },
+ "a261013p50": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p50",
+  "summary": "Advanced humanoid hardware is one of the strategic high-tech fields where China has an early lead over the US.",
+  "techmeme_url": "https://www.techmeme.com/261013/p50",
+  "title": "Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains (Bloomberg)"
+ },
+ "a261013p51": {
+  "article_url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p51",
+  "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software.",
+  "techmeme_url": "https://www.techmeme.com/261013/p51",
+  "title": "Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September's record of 972, which was already ~10x the normal monthly patch load (Brian Krebs/Krebs on Security)"
+ },
+ "a261013p52": {
+  "article_url": "https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents/",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p52",
+  "summary": "Artificial intelligence is becoming a fixture in the workplace. Soon, many firms will have agents that don't just operate within a business …",
+  "techmeme_url": "https://www.techmeme.com/261013/p52",
+  "title": "Delaware-based Causa Prima, which develops an agent-to-agent AI platform for managing B2B payments, resolving billing disputes, and more, raised a $20M seed (Camila Grigera Naón/Fortune)"
+ },
+ "a261013p53": {
+  "article_url": "https://www.reuters.com/legal/litigation/scientists-call-international-body-oversee-advanced-ai-2026-10-13/",
+  "date": "2026-10-13",
+  "permalink_id": "a261013p53",
+  "summary": "Around 400 scientists, including AI pioneers Geoffrey Hinton and Yoshua Bengio, on Tuesday called for an international body …",
+  "techmeme_url": "https://www.techmeme.com/261013/p53",
+  "title": "Open letter: Geoffrey Hinton, Yoshua Bengio, and over 400 scientists call for an international body to oversee AI containment standards and incident reporting (Leo Marchandon/Reuters)"
  }
 }
