@@ -47,6 +47,70 @@
   "techmeme_url": "https://www.techmeme.com/261014/p2",
   "title": "ASML reports Q3 net sales of €11.66B, vs. €11.72B est., a €4.96B net profit, vs. €4.1B est., and raises its 2026 net sales forecast from €43B-€45B to €44B-€45B (Arjun Kharpal/CNBC)"
  },
+ "a261014p22": {
+  "article_url": "https://www.wsj.com/business/energy-oil/american-electric-power-to-invest-4-billion-in-fuel-cell-project-to-meet-energy-demand-from-google-c946aa2f?st=TE3r6W&reflink=desktopwebshare_permalink",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p22",
+  "summary": "Google will acquire power from Cheyenne Fuel Cell under a 20-year power purchase agreement — American Electric Power plans to invest …",
+  "techmeme_url": "https://www.techmeme.com/261014/p22",
+  "title": "Google plans to acquire power from AEP's Cheyenne Fuel Cell under a 20-year deal; AEP will invest ~$4B in the Wyoming fuel cell project using Bloom's tech (Kelly Cloonan/Wall Street Journal)"
+ },
+ "a261014p23": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-13/nvidia-s-huang-plans-2-billion-in-europe-ai-deals-in-next-week",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p23",
+  "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang announced plans to invest $2 billion in European deals during a tour of the region …",
+  "techmeme_url": "https://www.techmeme.com/261014/p23",
+  "title": "Jensen Huang announces $2B in new European Nvidia investments, including in French startups Doctolib and Genesis AI, adding to $8B invested over the past year (Benoit Berthelot/Bloomberg)"
+ },
+ "a261014p24": {
+  "article_url": "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p24",
+  "summary": "Shares of conglomerate that owns AOL and Vimeo jump more than 50% on news of expanded investment by Nebraska asset manager",
+  "techmeme_url": "https://www.techmeme.com/261014/p24",
+  "title": "Berkshire Hathaway invests an additional $330M in Bending Spoons, taking its stake to 4%, after investing $600M during Bending Spoons' July IPO; BSP jumps 40%+ (Peter Wells/Financial Times)"
+ },
+ "a261014p25": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/14/modal-accel-ai-infrastructure",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p25",
+  "summary": "AI infrastructure startup Modal raised a $750 million Series D at a $15.75 billion post-money valuation and topped $1 billion in ARR …",
+  "techmeme_url": "https://www.techmeme.com/261014/p25",
+  "title": "AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, taking its total funding to $1.2B, and passes $1B ARR (Chris Metinko/Axios)"
+ },
+ "a261014p26": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-14/eu-set-to-lift-sanction-on-chinese-firm-to-save-asml-supplier",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p26",
+  "summary": "The European Union is in talks with China to secure relief from sanctions that threatened the survival of Sindlhauser Materials GmbH …",
+  "techmeme_url": "https://www.techmeme.com/261014/p26",
+  "title": "Sources: the EU is negotiating with China to lift sanctions on an unnamed Chinese company in exchange for China lifting sanctions on a German ASML supplier (Bloomberg)"
+ },
+ "a261014p27": {
+  "article_url": "https://siliconangle.com/2026/10/14/salience-labs-raises-125m-in-funding-after-showcasing-worlds-most-advanced-fully-optical-circuit-switching-tech/",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p27",
+  "summary": "A startup called Salience Labs Inc. wants to play a bigger role in speeding up artificial intelligence workloads after raising $125 million in a Series B funding.",
+  "techmeme_url": "https://www.techmeme.com/261014/p27",
+  "title": "Salience Labs, which develops specialized all-optical circuit switching tech for AI data centers, raised a $125M Series B led by Bullhound Capital (Mike Wheatley/SiliconANGLE)"
+ },
+ "a261014p28": {
+  "article_url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p28",
+  "summary": "Epic is making a big push into AI-assisted development, and that approach includes its work on the new, faster launcher.﻿",
+  "techmeme_url": "https://www.techmeme.com/261014/p28",
+  "title": "Epic unveils a refresh of its Epic Games Launcher for PC in preview, saying that the new version is \"vibe coded\" and \"way faster\", and now supports Linux (Jay Peters/The Verge)"
+ },
+ "a261014p29": {
+  "article_url": "https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p29",
+  "summary": "Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected",
+  "techmeme_url": "https://www.techmeme.com/261014/p29",
+  "title": "A profile of Abdulrahman Alfozan, a Saudi national who the FBI arrested after OpenAI discovered a recording device and who has deep connections in Saudi Arabia (Financial Times)"
+ },
  "a261014p3": {
   "article_url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
   "date": "2026-10-14",
@@ -54,6 +118,62 @@
   "summary": "ASML (ASML.AS) said on Wednesday AI-driven demand for its chip-printing tools is so strong that it will not be able …",
   "techmeme_url": "https://www.techmeme.com/261014/p3",
   "title": "ASML says it cannot fully meet AI-driven demand for its chipmaking tools in 2027 and 2028, and is seeing \"strong interest\" in orders for 2029 and 2030 (Reuters)"
+ },
+ "a261014p30": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/13/construction-tech-icon-blackrock",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p30",
+  "summary": "Icon, an Austin, Texas-based robotic construction startup, announced a $200 million Series D co-led by Baillie Gifford and BlackRock on Tuesday.",
+  "techmeme_url": "https://www.techmeme.com/261014/p30",
+  "title": "Austin-based Icon, which builds robotic 3D-printing construction systems and software, raised a $200M Series D co-led by Baillie Gifford and BlackRock (Chris Metinko/Axios)"
+ },
+ "a261014p31": {
+  "article_url": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html?unlocked_article_code=1.IlE.MmMT.-dqDF5SZcwZA&smid=url-share",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p31",
+  "summary": "Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them.",
+  "techmeme_url": "https://www.techmeme.com/261014/p31",
+  "title": "Researchers say they discovered and communicated with Chinese AI agents that were trying to bypass security controls on websites and were traced to Tencent (Dylan Freedman/New York Times)"
+ },
+ "a261014p32": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p32",
+  "summary": "An OpenAI employee who left the ChatGPT maker for Apple sent more than 100 files about an unreleased product to a personal account …",
+  "techmeme_url": "https://www.techmeme.com/261014/p32",
+  "title": "Filing: OpenAI says a staffer who joined Apple sent 100+ files to a personal account and made a presentation about an unreleased product to Apple leadership (Reuters)"
+ },
+ "a261014p33": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-14/openai-names-uday-ruddarraju-to-lead-data-center-computing-unit?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTk5Mzc2MSwiZXhwIjoxNzkyNTk4NTYxLCJhcnRpY2xlSWQiOiJUTDI0M0FUOU5KTFQwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.MmfGP9LhJKtB-EmXmu3P2DnLjoL8PaO9e0xH4xMvKeQg",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p33",
+  "summary": "OpenAI has named former xAI executive Uday Ruddarraju to lead its infrastructure and compute businesses, marking the latest leadership shakeup …",
+  "techmeme_url": "https://www.techmeme.com/261014/p33",
+  "title": "OpenAI names Uday Ruddarraju, who joined OpenAI last year and was promoted as CTO for compute in July, to lead its infrastructure and compute businesses (Dina Bass/Bloomberg)"
+ },
+ "a261014p34": {
+  "article_url": "https://www.wsj.com/tech/ai/openai-computing-chief-to-depart-6ffb7d7e?st=4xyNgM&reflink=desktopwebshare_permalink",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p34",
+  "summary": "The artificial-intelligence company plans to spend around $750 billion on computing power through 2030 — OpenAI's head of computing capacity …",
+  "techmeme_url": "https://www.techmeme.com/261014/p34",
+  "title": "OpenAI's head of computing capacity Sachin Katti is leaving the company next month after about a year and is expected to stay on as an adviser (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a261014p35": {
+  "article_url": "https://www.engadget.com/2286108/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p35",
+  "summary": "It's also working on calendar integrations for later this year. — WhatsApp is adding more flexibility for talking to people who aren't regular users of its service.",
+  "techmeme_url": "https://www.techmeme.com/261014/p35",
+  "title": "WhatsApp rolls out a guest calling feature letting people join a call even if they don't have an account; guests cannot start a call and have to be invited (Anna Washenko/Engadget)"
+ },
+ "a261014p36": {
+  "article_url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+  "date": "2026-10-14",
+  "permalink_id": "a261014p36",
+  "summary": "CoreWeave's stock and bonds were both hit on Wednesday as investor fear grew that some technology companies are borrowing …",
+  "techmeme_url": "https://www.techmeme.com/261014/p36",
+  "title": "CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL is down 7%+ (Michelle Fox/CNBC)"
  },
  "a261014p4": {
   "article_url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
