@@ -1,0 +1,26 @@
+{
+ "a261015p1": {
+  "article_url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p1",
+  "summary": "A sell-off in global technology hardware stocks deepened Thursday, with Asian chipmakers tracking Wall Street losses as concerns …",
+  "techmeme_url": "https://www.techmeme.com/261015/p1",
+  "title": "Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% (Lee Ying Shan/CNBC)"
+ },
+ "a261015p2": {
+  "article_url": "https://www.scmp.com/tech/big-tech/article/3370904/asmls-chip-equipment-sales-china-soar-109-despite-us-export-curb-push",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p2",
+  "summary": "Dutch semiconductor equipment giant ASML expects China to account for about 20 per cent of its total sales this year …",
+  "techmeme_url": "https://www.techmeme.com/261015/p2",
+  "title": "ASML expects China to account for ~20% of total sales this year, after Q3 sales there surged 109% QoQ, lifting China's share of machine sales from 14% to 23% (Xiaofei Xu/South China Morning Post)"
+ },
+ "a261015p3": {
+  "article_url": "https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94?st=e4Ldue&reflink=desktopwebshare_permalink",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p3",
+  "summary": "Allowing users to add their own information to the company's generative AI-based ASKB interface will feed the system with a new level of context",
+  "techmeme_url": "https://www.techmeme.com/261015/p3",
+  "title": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)"
+ }
+}
