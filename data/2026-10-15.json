@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/261015/p1",
   "title": "Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% (Lee Ying Shan/CNBC)"
  },
+ "a261015p10": {
+  "article_url": "https://www.nytimes.com/2026/10/14/opinion/ezra-klein-podcast-sherry-turkle.html?unlocked_article_code=1.IlE.QZXk.Pjomlkjt7c6k&smid=nytcore-ios-share",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p10",
+  "summary": "This is an edited transcript of “The Ezra Klein Show.” You can listen to the episode wherever you get your podcasts.",
+  "techmeme_url": "https://www.techmeme.com/261015/p10",
+  "title": "Q&A with MIT sociologist Sherry Turkle, who has been studying relationships between humans and machines since the 1970s, on her new book, AI chatbots, and more (New York Times)"
+ },
+ "a261015p11": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p11",
+  "summary": "Taiwan Semiconductor Manufacturing Co. said Thursday it will build another 3-nanometer chip factory in the Taiwanese city of Tainan …",
+  "techmeme_url": "https://www.techmeme.com/261015/p11",
+  "title": "TSMC says it plans to build an additional 3nm fab in Tainan, Taiwan, set for production in H1 2028, alongside its 3nm capacity in Arizona and Japan's Kumamoto (Qianer Liu/The Information)"
+ },
+ "a261015p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p12",
+  "summary": "The OpenAI employee who was arrested and charged with allegedly using a hidden recording device in one of the ChatGPT maker's …",
+  "techmeme_url": "https://www.techmeme.com/261015/p12",
+  "title": "Filing: Abdulrahman Alfozan, his wife, and a family member booked one-way tickets from the US to Saudi Arabia for October 12; the FBI arrested him on October 9 (Rachel Metz/Bloomberg)"
+ },
+ "a261015p13": {
+  "article_url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p13",
+  "summary": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+  "techmeme_url": "https://www.techmeme.com/261015/p13",
+  "title": "Abdulrahman Alfozan, who worked at Meta and gained US residency in 2020, advised Saudi organizations and is listed as a venture partner at Riyadh-based RAED (Emmy Martin/New York Times)"
+ },
+ "a261015p14": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-open-to-working-with-terafab-but-must-control-plants",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p14",
+  "summary": "Taiwan Semiconductor Manufacturing Co. is in discussions about collaborating with Elon Musk's Terafab project …",
+  "techmeme_url": "https://www.techmeme.com/261015/p14",
+  "title": "TSMC CEO C.C. Wei says the company is in talks over Elon Musk's Texas-based Terafab project, but stresses that any participating fab \"has got to be run by TSMC\" (Debby Wu/Bloomberg)"
+ },
+ "a261015p15": {
+  "article_url": "https://www.pewresearch.org/internet/2026/10/14/online-community-and-connection-in-america/",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p15",
+  "summary": "Nearly 4 in 10 U.S. adults - including about half of those 18 to 29 - are part of an online community",
+  "techmeme_url": "https://www.techmeme.com/261015/p15",
+  "title": "Survey: nearly 40% of US adults, and ~50% of those aged 18 to 29, participate in an online community; social media is the primary venue for online communities (Pew Research Center)"
+ },
+ "a261015p16": {
+  "article_url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p16",
+  "summary": "Earlier this week, a mass hack of refrigeration systems at an estimated 700 supermarkets throughout France caused them to suddenly malfunction …",
+  "techmeme_url": "https://www.techmeme.com/261015/p16",
+  "title": "A hack of Internet-connected fridge controllers across ~700 European supermarkets exploited critical vulnerabilities in three models flagged by Claroty and CISA (Dan Goodin/Ars Technica)"
+ },
+ "a261015p17": {
+  "article_url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p17",
+  "summary": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
+  "techmeme_url": "https://www.techmeme.com/261015/p17",
+  "title": "Citizen Lab details AdFection, a zero-click spyware campaign where an Israeli ad company routed targets to spyware servers and infected dozens of devices (Wired)"
+ },
+ "a261015p18": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-15/ramp-completes-funding-at-60-billion-value-as-revenue-surges",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p18",
+  "summary": "Ramp has surged to $2 billion in annualized revenue, the fintech company plans to announce Thursday — a milestone that's helped attract fresh investor capital.",
+  "techmeme_url": "https://www.techmeme.com/261015/p18",
+  "title": "Ramp raised $1.85B led by Dragoneer at a $60B valuation, up from $44B after raising $750M in June, and hits $2B in annualized revenue, up from $1.5B in June (Rebecca Torrence/Bloomberg)"
+ },
+ "a261015p19": {
+  "article_url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p19",
+  "summary": "AI companies like Anthropic and OpenAI have long mentioned the possibility that their products could be existentially dangerous …",
+  "techmeme_url": "https://www.techmeme.com/261015/p19",
+  "title": "AI industry extinction warnings are genuine rather than corporate plots for regulatory capture or hype, and they go as far back as the mid-2000s and the 2010s (Scott Alexander/Astral Codex Ten)"
+ },
  "a261015p2": {
   "article_url": "https://www.scmp.com/tech/big-tech/article/3370904/asmls-chip-equipment-sales-china-soar-109-despite-us-export-curb-push",
   "date": "2026-10-15",
@@ -15,6 +95,22 @@
   "techmeme_url": "https://www.techmeme.com/261015/p2",
   "title": "ASML expects China to account for ~20% of total sales this year, after Q3 sales there surged 109% QoQ, lifting China's share of machine sales from 14% to 23% (Xiaofei Xu/South China Morning Post)"
  },
+ "a261015p20": {
+  "article_url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p20",
+  "summary": "The FTC sought documents from Anthropic and OpenAI with the scope of the probe focused on potential consumer protection violations, a person familiar told Axios.",
+  "techmeme_url": "https://www.techmeme.com/261015/p20",
+  "title": "Source: the US FTC issues ~50-page civil investigative demands to OpenAI and Anthropic over safety incidents, safeguarding practices, and consumer protection (Maria Curi/Axios)"
+ },
+ "a261015p21": {
+  "article_url": "https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d?st=V9oLsY&reflink=desktopwebshare_permalink",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p21",
+  "summary": "Money from Tether flowed to Nxum while Bo Hines worked in the White House on landmark stablecoin legislation.",
+  "techmeme_url": "https://www.techmeme.com/261015/p21",
+  "title": "Sources and docs: while Bo Hines helped craft the crypto-friendly Genius Act, he had a 33% stake in consulting firm Nxum, which received millions from Tether (Sam Kessler/Wall Street Journal)"
+ },
  "a261015p3": {
   "article_url": "https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94?st=e4Ldue&reflink=desktopwebshare_permalink",
   "date": "2026-10-15",
@@ -22,5 +118,29 @@
   "summary": "Allowing users to add their own information to the company's generative AI-based ASKB interface will feed the system with a new level of context",
   "techmeme_url": "https://www.techmeme.com/261015/p3",
   "title": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)"
+ },
+ "a261015p7": {
+  "article_url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p7",
+  "summary": "Taiwan Semiconductor Manufacturing Co. on Thursday reported a record third-quarter profit that beat estimates, powered by an unrelenting global appetite for AI chips.",
+  "techmeme_url": "https://www.techmeme.com/261015/p7",
+  "title": "TSMC reports Q3 revenue up 50.9% YoY to $46.36B, net income up 68.7% to $23.7B, both above est., marking a sixth straight quarterly profit record on AI demand (Jenny Lee/CNBC)"
+ },
+ "a261015p8": {
+  "article_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p8",
+  "summary": "Design platform Figma announced a new Markdown-based editor to help define a company's design, bring in design and code libraries …",
+  "techmeme_url": "https://www.techmeme.com/261015/p8",
+  "title": "Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language (Ivan Mehta/TechCrunch)"
+ },
+ "a261015p9": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-14/celine-dion-harry-styles-use-l-acoustics-ai-powered-tech-for-better-live-sound",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p9",
+  "summary": "New software from L-Acoustics helps isolate a singer's voice to cut through concert noise",
+  "techmeme_url": "https://www.techmeme.com/261015/p9",
+  "title": "A look at L-Acoustics, whose audio platform uses machine learning to help artists like Céline Dion isolate their voices and cut through noise at live concerts (Benoit Berthelot/Bloomberg)"
  }
 }
