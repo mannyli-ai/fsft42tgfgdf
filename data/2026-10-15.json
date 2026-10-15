@@ -111,6 +111,70 @@
   "techmeme_url": "https://www.techmeme.com/261015/p21",
   "title": "Sources and docs: while Bo Hines helped craft the crypto-friendly Genius Act, he had a 33% stake in consulting firm Nxum, which received millions from Tether (Sam Kessler/Wall Street Journal)"
  },
+ "a261015p22": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjA2OTk5NCwiZXhwIjoxNzkyNjc0Nzk0LCJhcnRpY2xlSWQiOiJUTVhZRElWVFRDWlAwMCIsImJjb25uZWN0SWQiOiJFN0UyN0Q2RDgyQjc0MEQzQTQzNkUzN0Y2ODE5MUNEMyJ9.NrYogTbGdmCZxu0VPZ36QdaMsY5JCi-cSihMLkuB9t8",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p22",
+  "summary": "The prominent investor has said the Biden administration pushed him to the political right, but sources say his grievances don't always match reality.",
+  "techmeme_url": "https://www.techmeme.com/261015/p22",
+  "title": "Current and former a16z partners and others say Marc Andreessen is driven by grievances that don't quite match reality, as his White House influence grows (Austin Carr/Bloomberg)"
+ },
+ "a261015p23": {
+  "article_url": "https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&reflink=desktopwebshare_permalink",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p23",
+  "summary": "From ‘honey pots’ to insider threats, Silicon Valley was on espionage alert even before the FBI's arrest of an OpenAI employee",
+  "techmeme_url": "https://www.techmeme.com/261015/p23",
+  "title": "Sources: OpenAI executives have warned staff over potential espionage like honey pots and insider threats and told them to adopt operational security measures (Wall Street Journal)"
+ },
+ "a261015p24": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p24",
+  "summary": "Amazon.com Inc. launched two new wearables that use artificial intelligence to record and analyze a person's day …",
+  "techmeme_url": "https://www.techmeme.com/261015/p24",
+  "title": "Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription (Bloomberg)"
+ },
+ "a261015p25": {
+  "article_url": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p25",
+  "summary": "Atom is a data-only Android device designed to work alongside your smartphone. … Ledger has announced its latest crypto …",
+  "techmeme_url": "https://www.techmeme.com/261015/p25",
+  "title": "Ledger unveils Atom, an $899 data-only Android-based smartphone companion device launching in summer 2027, as it pauses some sales following hardware tampering (Dominic Preston/The Verge)"
+ },
+ "a261015p26": {
+  "article_url": "https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p26",
+  "summary": "Laying the foundation for the reinvention of the PC in the agentic AI era — Nvidia CEO Jensen Huang announced the RTX Spark platform …",
+  "techmeme_url": "https://www.techmeme.com/261015/p26",
+  "title": "Nvidia's RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple's M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models (Jeffrey Kampman/Tom's Hardware)"
+ },
+ "a261015p27": {
+  "article_url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p27",
+  "summary": "Bank of America has hired an army of external contractors to help it patch software vulnerabilities exposed by advanced artificial …",
+  "techmeme_url": "https://www.techmeme.com/261015/p27",
+  "title": "BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos (Hugh Son/CNBC)"
+ },
+ "a261015p28": {
+  "article_url": "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p28",
+  "summary": "Dwarkesh Patel on what the public doesn't know about A.I. — Produced by Sophia Muniz — Dwarkesh Patel is one of the …",
+  "techmeme_url": "https://www.techmeme.com/261015/p28",
+  "title": "Q&A with Dwarkesh Patel on his podcast, lessons from history, AGI, the mood in San Francisco, the Hugging Face hack, Chinese AI, pacing the frontier, and more (New York Times)"
+ },
+ "a261015p29": {
+  "article_url": "https://time.com/collection/best-inventions/2026/apple-iphone-duo/",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p29",
+  "summary": "Andrew R. Chow/Cupertino, Calif. … Just below the broad smile he's been wearing all morning, John Ternus' hands are shaking.",
+  "techmeme_url": "https://www.techmeme.com/261015/p29",
+  "title": "John Ternus discusses the iPhone Duo, memory shortages, AI, and more; he says \"all options should be on the table\" after reports that Apple tested Chinese chips (Andrew R. Chow/Time)"
+ },
  "a261015p3": {
   "article_url": "https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94?st=e4Ldue&reflink=desktopwebshare_permalink",
   "date": "2026-10-15",
@@ -118,6 +182,62 @@
   "summary": "Allowing users to add their own information to the company's generative AI-based ASKB interface will feed the system with a new level of context",
   "techmeme_url": "https://www.techmeme.com/261015/p3",
   "title": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)"
+ },
+ "a261015p30": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/15/cloud-spend-northcloud-peakspan",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p30",
+  "summary": "North.cloud, which helps companies watch their cloud, AI and data spend, closed a $60 million Series B led by PeakSpan Capital, CEO Matt Biringer tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/261015/p30",
+  "title": "North.cloud, which helps companies watch their cloud, AI and data spend, raised a $60M Series B led by PeakSpan Capital, taking its total funding to $67M (Chris Metinko/Axios)"
+ },
+ "a261015p31": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p31",
+  "summary": "Portland-based startup Mueon raised $65 million to develop a new way to arrange AI server rack components.",
+  "techmeme_url": "https://www.techmeme.com/261015/p31",
+  "title": "Portland-based Mueon, which says its AI server racks could fit up to 10x more computing capacity, raised $65M led by Maverick Silicon, with Intel participating (Phoebe Liu/The Information)"
+ },
+ "a261015p32": {
+  "article_url": "https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyMDM2ODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzkzNDE5MTk5LCJpYXQiOjE3OTIwMzY4MDAsImp0aSI6IjZiOTgyNjcxLWUwNWQtNDBjMi05MzJlLWYxNjg4ODgwN2I4YSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbnZlc3RpZ2F0aW9ucy8yMDI2LzEwLzE1L3NlY3JldC1kb2N1bWVudHMtcmV2ZWFsLWRvbm9ycy1iZWhpbmQtMzMwLW1pbGxpb24tdHJ1bXBzLWJhbGxyb29tLyJ9.bwQFjcPhaUaMyVgd-xm4T-gTGikZG8Y5qKSXJnffNqU&itid=gfta",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p32",
+  "summary": "The records offer a panoramic view of a fundraising campaign that is extraordinary for its size and opacity. — Loading... $2.5M",
+  "techmeme_url": "https://www.techmeme.com/261015/p32",
+  "title": "Docs: Nvidia and Apple each committed $25M, the top amount, to Trump's White House ballroom; Microsoft and Palantir each committed $10M, and Meta and Amazon $5M (Washington Post)"
+ },
+ "a261015p33": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-15/sony-debuts-5-900-gold-plated-walkman-music-player-for-enthusiasts",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p33",
+  "summary": "Sony Group Corp. introduced a trio of premium digital music players priced from $1,900 to $5,900, marking the first new hardware in several years carrying the storied Walkman name.",
+  "techmeme_url": "https://www.techmeme.com/261015/p33",
+  "title": "Sony launches three new Android-powered Walkman music players, including the gold-plated NW-WM1ZM3 for $5,900, as it targets the audiophile market (Chris Welch/Bloomberg)"
+ },
+ "a261015p34": {
+  "article_url": "https://venturebeat.com/technology/nvidias-new-open-nemotron-3-5-super-vl-with-post-training-beats-claude-opus-5-gpt-6-1-sol-on-specialized-task-benchmarks",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p34",
+  "summary": "An enterprise agent reviewing a credit agreement may need to extract figures from tables, interpret a chart, check a related webpage …",
+  "techmeme_url": "https://www.techmeme.com/261015/p34",
+  "title": "Nvidia launches Nemotron 3.5 Super VL, a 120B-parameter open model for enterprise agents, and says it outperforms frontier models on specialized benchmarks (Carl Franzen/VentureBeat)"
+ },
+ "a261015p35": {
+  "article_url": "https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p35",
+  "summary": "The company's new Kaleido 4 color e-paper technology is debuting in a new note-taking tablet launching in China.",
+  "techmeme_url": "https://www.techmeme.com/261015/p35",
+  "title": "E Ink unveils Kaleido 4, its next-gen color e-paper tech, replacing the Kaleido 3 displays currently used by brands including Amazon, Kobo, and PocketBook (Andrew Liszewski/The Verge)"
+ },
+ "a261015p36": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-15/binance-us-seeks-100-million-to-expand-its-crypto-business",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p36",
+  "summary": "Binance.US is looking to raise as much as $100 million as the crypto exchange seeks to beef up its US business amid intensifying competition for digital-asset customers.",
+  "techmeme_url": "https://www.techmeme.com/261015/p36",
+  "title": "Sources: Binance.US seeks to raise up to $100M, targeting a ~$1B valuation in the private round, as it aims to expand its US business; WLF is not participating (Bloomberg)"
  },
  "a261015p7": {
   "article_url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
