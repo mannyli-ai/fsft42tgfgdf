@@ -359,6 +359,78 @@
   "techmeme_url": "https://www.techmeme.com/261015/p52",
   "title": "Sources: some Anthropic investors discussed a ~$1.5T valuation for its IPO, down from ~$2T they had expected, after disclosures showed slowing Q3 revenue growth (Reuters)"
  },
+ "a261015p53": {
+  "article_url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p53",
+  "summary": "Open social network Bluesky is once again expanding beyond its flagship app. At TechCrunch Disrupt 2026 on Thursday …",
+  "techmeme_url": "https://www.techmeme.com/261015/p53",
+  "title": "Bluesky expands Attie, its AI tool for building custom feeds, with a \"social vibe coding\" feature to create sites, games, quizzes, and more on the AT Protocol (Sarah Perez/TechCrunch)"
+ },
+ "a261015p54": {
+  "article_url": "https://variety.com/2026/film/news/netflix-bela-bajaria-leaving-layoffs-1236913504/",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p54",
+  "summary": "In a major executive shakeup, Bela Bajaria is out at Netflix after 10 years at the streamer, most recently serving as its chief content officer.",
+  "techmeme_url": "https://www.techmeme.com/261015/p54",
+  "title": "Netflix Chief Content Officer Bela Bajaria is leaving the company and will be replaced by former Disney and Fox executive Peter Rice, who starts October 26 (Rebecca Rubin/Variety)"
+ },
+ "a261015p55": {
+  "article_url": "https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p55",
+  "summary": "The order to limit a satellite system used by Ukraine for battlefield communications and drone operations came from inside the White House …",
+  "techmeme_url": "https://www.techmeme.com/261015/p55",
+  "title": "Two US officials and a Western official say the order to limit Ukraine's access to SpaceX's Starshield came from inside the White House (Reuters)"
+ },
+ "a261015p56": {
+  "article_url": "https://www.businessinsider.com/opsin-expands-21-m-to-tackle-ai-agents-in-businesses-2026-10",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p56",
+  "summary": "AI agents are starting to outnumber humans in many high-tech workplaces, and they can be far trickier to monitor.",
+  "techmeme_url": "https://www.techmeme.com/261015/p56",
+  "title": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)"
+ },
+ "a261015p57": {
+  "article_url": "https://www.semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p57",
+  "summary": "The White House's AI task force has formally adopted its charter, kicking off the short 120-day window it's been given to answer …",
+  "techmeme_url": "https://www.techmeme.com/261015/p57",
+  "title": "The White House's AI task force begins its 120-day window to evaluate AI, including producing a risk report, implementing the White House Accord on SI, and more (Ashley Gold/Semafor)"
+ },
+ "a261015p58": {
+  "article_url": "https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p58",
+  "summary": "As OpenAI has jockeyed with Anthropic to win over developers with new models and tools this year, its advertising business at times has seemed like an afterthought.",
+  "techmeme_url": "https://www.techmeme.com/261015/p58",
+  "title": "OpenAI continues to work to grow its ad business in ChatGPT, cutting ad rates, chasing small and midsize businesses, and hiring some new talent from Meta (Alix Coutures/The Information)"
+ },
+ "a261015p59": {
+  "article_url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p59",
+  "summary": "In June, we announced MAI-Thinking-1, a general-purpose foundation model post-trained on top of MAI-Base-1 with strong reasoning performance.",
+  "techmeme_url": "https://www.techmeme.com/261015/p59",
+  "title": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base (Microsoft AI)"
+ },
+ "a261015p60": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-10-15/nscale-s-35-billion-ipo-plans-muddied-by-ai-data-center-delays",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p60",
+  "summary": "One flagship AI data center in Norway is six months behind schedule, with workers set to be housed in a floating hotel to get it over the finish line.",
+  "techmeme_url": "https://www.techmeme.com/261015/p60",
+  "title": "Sources detail Nscale's setbacks ahead of an IPO at up to a $35B valuation, including a six-month delay in Norway and penalties owed to Microsoft and ByteDance (Bloomberg)"
+ },
+ "a261015p61": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/15/agentic-enterprise-rapidcanvas-vertex",
+  "date": "2026-10-15",
+  "permalink_id": "a261015p61",
+  "summary": "RapidCanvas, which uses agents to help businesses build and deploy custom AI applications, has raised nearly $29 million in Series B funding, CEO Rahul Pangam tells Axios Pro.",
+  "techmeme_url": "https://www.techmeme.com/261015/p61",
+  "title": "Austin-based RapidCanvas, which uses agents to help businesses build custom AI tools, raised a ∼$29M Series B led by Vertex Ventures and Hitachi Ventures (Chris Metinko/Axios)"
+ },
  "a261015p7": {
   "article_url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
   "date": "2026-10-15",
