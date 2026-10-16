@@ -7,6 +7,54 @@
   "techmeme_url": "https://www.techmeme.com/261016/p1",
   "title": "Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn (Bloomberg)"
  },
+ "a261016p10": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-15/grace-hopper-confab-s-sudden-cancellation-raises-alarm-for-women-in-tech",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p10",
+  "summary": "The cancellation of this year's Grace Hopper Celebration, one of the largest gatherings of women in technology, is the latest example …",
+  "techmeme_url": "https://www.techmeme.com/261016/p10",
+  "title": "Organizers abruptly cancel 2026's Grace Hopper Celebration, one of the biggest events for women in tech, after sponsorships and registrations fall short (Bloomberg)"
+ },
+ "a261016p11": {
+  "article_url": "https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p11",
+  "summary": "As the U.S. Department of Justice negotiates a settlement of its antitrust lawsuit against Apple, app developers are fretting …",
+  "techmeme_url": "https://www.techmeme.com/261016/p11",
+  "title": "Sources: PayPal, Epic, and others voiced concerns to DOJ as it signaled a preference to settle its Apple antitrust suit with a deal focusing on interoperability (Aaron Tilley/The Information)"
+ },
+ "a261016p12": {
+  "article_url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p12",
+  "summary": "Useful for AI models, but still waiting for more Windows 11 features to take advantage of. — Reviews",
+  "techmeme_url": "https://www.techmeme.com/261016/p12",
+  "title": "Microsoft Surface Laptop Ultra review: powerful, useful Magnetic Connect port, bright screen, but heavy, loud, and Windows doesn't take advantage of RTX Spark (Andrew E. Freedman/Tom's Hardware)"
+ },
+ "a261016p13": {
+  "article_url": "https://www.thetimes.com/",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p13",
+  "summary": "A British financial technology business has been acquired by Intuit, the American software company, in a sale estimated to be worth around $200m …",
+  "techmeme_url": "https://www.techmeme.com/261016/p13",
+  "title": "Source: Intuit acquired UK-based B2B revenue management and billing startup Sequence in a sale worth ~$200M; Sequence raised $19M led by a16z in 2022 (Jess Jones/The Times)"
+ },
+ "a261016p14": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/trump-s-ai-task-force-to-commission-report-on-technology-s-risks",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p14",
+  "summary": "President Donald Trump's artificial intelligence task force in its first meeting agreed on Thursday to address risks related to cybersecurity …",
+  "techmeme_url": "https://www.techmeme.com/261016/p14",
+  "title": "In its first meeting, Trump's Super Intelligence Force says it plans to commission a report on AI risks and develop protocols for labs to provide early warnings (John Harney/Bloomberg)"
+ },
+ "a261016p15": {
+  "article_url": "https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p15",
+  "summary": "Reflection AI today released the weights of Beam, its first open model, and is pitching it against the Chinese open models that many U.S. companies …",
+  "techmeme_url": "https://www.techmeme.com/261016/p15",
+  "title": "Reflection AI releases Apache 2.0-licensed weights for Beam, a 501B-parameter model, trained with RL that penalized unnecessary tokens (Matt Marshall/VentureBeat)"
+ },
  "a261016p2": {
   "article_url": "https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/",
   "date": "2026-10-16",
@@ -54,5 +102,21 @@
   "summary": "Republicans have used A.I.-generated content more often than Democrats, ranging from subtle enhancements to convincing deepfakes.",
   "techmeme_url": "https://www.techmeme.com/261016/p7",
   "title": "US candidates and PACs, mostly tied to Republicans, have spent $137M+ on 220 AI-generated campaign ads in 2026; ~70% of the 220 videos didn't disclose AI use (Stuart A. Thompson/New York Times)"
+ },
+ "a261016p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p8",
+  "summary": "Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei …",
+  "techmeme_url": "https://www.techmeme.com/261016/p8",
+  "title": "Taiwan plans to curb AI server and chip exports to China as part of a US trade deal and make shipping restricted AI hardware to China a criminal offense (Bloomberg)"
+ },
+ "a261016p9": {
+  "article_url": "https://www.reuters.com/business/googles-waymo-plans-first-canada-robotaxi-service-toronto-2028-2026-10-16/",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p9",
+  "summary": "Google's (GOOGL.O) Waymo said on Friday it plans to bring its autonomous ride-hailing service to Toronto in 2028, marking the self-driving company's …",
+  "techmeme_url": "https://www.techmeme.com/261016/p9",
+  "title": "Waymo plans to launch its robotaxis in Toronto in 2028 in partnership with Element Fleet Management, the company's first deployment in Canada (Prathik Jayaprakash/Reuters)"
  }
 }
