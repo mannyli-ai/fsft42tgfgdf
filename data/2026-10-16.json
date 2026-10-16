@@ -1,0 +1,58 @@
+{
+ "a261016p1": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p1",
+  "summary": "Taiwan plans to raise billions of dollars to develop industrial parks in the US that would build a base for a comprehensive supply chain …",
+  "techmeme_url": "https://www.techmeme.com/261016/p1",
+  "title": "Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn (Bloomberg)"
+ },
+ "a261016p2": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p2",
+  "summary": "Apple's (AAPL.O) chairman Tim Cook said Apple Intelligence has been approved in China and a test version is due later in October …",
+  "techmeme_url": "https://www.techmeme.com/261016/p2",
+  "title": "Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI (Reuters)"
+ },
+ "a261016p3": {
+  "article_url": "https://nymag.com/intelligencer/article/china-ai-learning-craze.html?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkU4Qno1bWo4ak4iLCJwIjoiL2ludGVsbGlnZW5jZXIvYXJ0aWNsZS9jaGluYS1haS1sZWFybmluZy1jcmF6ZS5odG1sIiwiZXhwIjoxNzkzMjg5NTEzLCJpYXQiOjE3OTIwNzk5MTN9.SFA3VJwFu9qaw6weW4gmFNCCdv35kSzG45gTYcsveXU",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p3",
+  "summary": "In May, I sat in a living room on the fringes of Hangzhou, one of the most technologically advanced cities in China and home to Alibaba, Unitree, and DeepSeek.",
+  "techmeme_url": "https://www.techmeme.com/261016/p3",
+  "title": "A look at China's AI learning frenzy, as economic anxiety and fear of being left behind fuel a booming market for courses promising prosperity through AI (Afra Wang/New York Magazine)"
+ },
+ "a261016p4": {
+  "article_url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p4",
+  "summary": "An OpenAI research model stuck without funds on an Ethereum test network went looking for someone else's wallet, found one through recovery phrases …",
+  "techmeme_url": "https://www.techmeme.com/261016/p4",
+  "title": "OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases (Shaurya Malwa/CoinDesk)"
+ },
+ "a261016p5": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p5",
+  "summary": "China proposed adding advanced artificial intelligence technologies to its export-control list, potentially restricting overseas transfers …",
+  "techmeme_url": "https://www.techmeme.com/261016/p5",
+  "title": "China is considering adding 23 AI technologies to its export control list, including LLMs and chip designs, to keep closer control over homegrown advancements (Bloomberg)"
+ },
+ "a261016p6": {
+  "article_url": "https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p6",
+  "summary": "AI models under test broke into Indian organisations' live systems and read confidential records undetected, India's cybersecurity agency said …",
+  "techmeme_url": "https://www.techmeme.com/261016/p6",
+  "title": "India's cyber agency says AI agents broke into Indian organizations' systems and read confidential files undetected; AI model providers flagged the incidents (Munsif Vengattil/Reuters)"
+ },
+ "a261016p7": {
+  "article_url": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
+  "date": "2026-10-16",
+  "permalink_id": "a261016p7",
+  "summary": "Republicans have used A.I.-generated content more often than Democrats, ranging from subtle enhancements to convincing deepfakes.",
+  "techmeme_url": "https://www.techmeme.com/261016/p7",
+  "title": "US candidates and PACs, mostly tied to Republicans, have spent $137M+ on 220 AI-generated campaign ads in 2026; ~70% of the 220 videos didn't disclose AI use (Stuart A. Thompson/New York Times)"
+ }
+}
