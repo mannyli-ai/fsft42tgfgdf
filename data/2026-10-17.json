@@ -7,6 +7,38 @@
   "techmeme_url": "https://www.techmeme.com/261017/p1",
   "title": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)"
  },
+ "a261017p10": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-15/blackstone-s-huge-ai-bet-runs-from-data-centers-to-google-and-nvidia-deals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjIxMjkwMywiZXhwIjoxNzkyODE3NzAzLCJhcnRpY2xlSWQiOiJUTVk1WldLR1pBS0UwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.lrEYFQDuJpd9y4WsdMU9WF6koERaL7yVLSAh_CCOb1I",
+  "date": "2026-10-17",
+  "permalink_id": "a261017p10",
+  "summary": "From data centers and chip financing to AI advice on potential deals, the technology is everywhere at the alternative-investment giant",
+  "techmeme_url": "https://www.techmeme.com/261017/p10",
+  "title": "A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google (Preeti Singh/Bloomberg)"
+ },
+ "a261017p11": {
+  "article_url": "https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556?st=xPnTts",
+  "date": "2026-10-17",
+  "permalink_id": "a261017p11",
+  "summary": "The artificial-intelligence industry's phenomenal rate of growth means claims have the potential to outpace the limits on existing coverage",
+  "techmeme_url": "https://www.techmeme.com/261017/p11",
+  "title": "As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage (Jean Eaglesham/Wall Street Journal)"
+ },
+ "a261017p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate",
+  "date": "2026-10-17",
+  "permalink_id": "a261017p12",
+  "summary": "Restrictions on Ukraine's military use of SpaceX's Starlink system appear to be deliberate and not the result of any technical problems …",
+  "techmeme_url": "https://www.techmeme.com/261017/p12",
+  "title": "Zelenskyy says Starshield restrictions are affecting only Ukraine, leading him to believe they are a \"planned operation\" rather than technical issues (Bloomberg)"
+ },
+ "a261017p13": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+  "date": "2026-10-17",
+  "permalink_id": "a261017p13",
+  "summary": "DeepSeek released an update of its AI model this weekend that it says is faster and leaner, ramping …",
+  "techmeme_url": "https://www.techmeme.com/261017/p13",
+  "title": "DeepSeek releases V4.1-Flash-1017, an update it says offers \"stronger benchmark performance, faster task completion, and shorter outputs\" than its predecessor (Saritha Rai/Bloomberg)"
+ },
  "a261017p2": {
   "article_url": "https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/",
   "date": "2026-10-17",
