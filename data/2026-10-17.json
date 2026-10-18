@@ -71,6 +71,22 @@
   "techmeme_url": "https://www.techmeme.com/261017/p17",
   "title": "Turkish police detained Hex and PulseChain founder Richard Heart on Oct. 14, seizing $7M+ in cash and six cold wallets; HEX fell nearly 50% on initial reports (Zack Abrams/The Block)"
  },
+ "a261017p18": {
+  "article_url": "https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation/",
+  "date": "2026-10-17",
+  "permalink_id": "a261017p18",
+  "summary": "A large-scale distillation attack against the company behind the open-source coding agent OpenCode exposed stored OpenAI …",
+  "techmeme_url": "https://www.techmeme.com/261017/p18",
+  "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)"
+ },
+ "a261017p19": {
+  "article_url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+  "date": "2026-10-17",
+  "permalink_id": "a261017p19",
+  "summary": "We've shown that magic state cultivation works on Google Quantum AI hardware. — Google Quantum AI has demonstratively opened …",
+  "techmeme_url": "https://www.techmeme.com/261017/p19",
+  "title": "Google says \"magic state cultivation\" works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x (Google)"
+ },
  "a261017p2": {
   "article_url": "https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/",
   "date": "2026-10-17",
@@ -78,6 +94,22 @@
   "summary": "Ambient intelligence startup Mistlabs Ltd. today brought its Ambi artificial intelligence system out of beta test on Apple Inc. devices, backed by $26 million in new funding.",
   "techmeme_url": "https://www.techmeme.com/261017/p2",
   "title": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)"
+ },
+ "a261017p20": {
+  "article_url": "https://thenewthings.com/p/microsoft-ceo-on-rogue-ai-agents-super-laptops-and-clippy",
+  "date": "2026-10-17",
+  "permalink_id": "a261017p20",
+  "summary": "My exclusive interview with Satya Nadella on the new Surface Laptop Ultra and Microsoft's plan to make Windows safer for AI agents",
+  "techmeme_url": "https://www.techmeme.com/261017/p20",
+  "title": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more (Joanna Stern/The New Things)"
+ },
+ "a261017p21": {
+  "article_url": "https://www.bloomberg.com/news/newsletters/2026-10-17/disney-offers-soft-landing-to-staff-at-troubled-character-ai",
+  "date": "2026-10-17",
+  "permalink_id": "a261017p21",
+  "summary": "More than 60 workers at Character.AI are being offered a lifeline from the media giant … Soft Landing — Layoffs are common in bankruptcy.",
+  "techmeme_url": "https://www.techmeme.com/261017/p21",
+  "title": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve (Bloomberg)"
  },
  "a261017p3": {
   "article_url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-kioxia-sheds-two-thirds-of-peak-market-value-as-china-chip-rivals-emerge",
