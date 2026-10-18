@@ -7,6 +7,22 @@
   "techmeme_url": "https://www.techmeme.com/261018/p1",
   "title": "GTCR and Elliott agree to acquire and take private CCC, a Nasdaq-listed car insurance software provider, for $4.6B; the deal values CCC at $6.1B including debt (Bloomberg)"
  },
+ "a261018p10": {
+  "article_url": "https://www.anthropic.com/news/public-benefit-fund",
+  "date": "2026-10-18",
+  "permalink_id": "a261018p10",
+  "summary": "Today, we're committing a portion of Anthropic's shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+  "techmeme_url": "https://www.techmeme.com/261018/p10",
+  "title": "Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)"
+ },
+ "a261018p11": {
+  "article_url": "https://www.theinformation.com/articles/neocloud-shakeout-looms-nvidia-lot-lose",
+  "date": "2026-10-18",
+  "permalink_id": "a261018p11",
+  "summary": "How many young AI cloud providers can the market, and Nvidia, support? — That's one of the big questions after a week …",
+  "techmeme_url": "https://www.techmeme.com/261018/p11",
+  "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)"
+ },
  "a261018p2": {
   "article_url": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9",
   "date": "2026-10-18",
@@ -62,5 +78,13 @@
   "summary": "Also: The company is planning Nov. 6 retail store reset, indicating potential Mac release date.",
   "techmeme_url": "https://www.techmeme.com/261018/p8",
   "title": "Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales (Mark Gurman/Bloomberg)"
+ },
+ "a261018p9": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/",
+  "date": "2026-10-18",
+  "permalink_id": "a261018p9",
+  "summary": "Samsung Electronics (005930.KS) will use TSMC's (2330.TW) 3-nanometre process to produce base dies for Nvidia's (NVDA.O) …",
+  "techmeme_url": "https://www.techmeme.com/261018/p9",
+  "title": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)"
  }
 }
