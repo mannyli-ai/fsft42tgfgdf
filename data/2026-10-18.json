@@ -23,6 +23,62 @@
   "techmeme_url": "https://www.techmeme.com/261018/p11",
   "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)"
  },
+ "a261018p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-18/ai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation",
+  "date": "2026-10-18",
+  "permalink_id": "a261018p12",
+  "summary": "Nscale Ltd. is facing opposition to the valuation target it's pursuing in its initial public offering, according to people familiar …",
+  "techmeme_url": "https://www.techmeme.com/261018/p12",
+  "title": "Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal (Bailey Lipschultz/Bloomberg)"
+ },
+ "a261018p13": {
+  "article_url": "https://fortune.com/2026/10/15/stand-insurance-wildfire-unicorn-raises-70-million-1-billion-valuation/",
+  "date": "2026-10-18",
+  "permalink_id": "a261018p13",
+  "summary": "Matt DiStefano shares his screen and rotates a gray 3D model of a California neighborhood. He zooms in on one house and overlays a heat map.",
+  "techmeme_url": "https://www.techmeme.com/261018/p13",
+  "title": "SF-based home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation (Nick Lichtenberg/Fortune)"
+ },
+ "a261018p14": {
+  "article_url": "https://www.ft.com/",
+  "date": "2026-10-18",
+  "permalink_id": "a261018p14",
+  "summary": "Schneider Electric and Siemens move further into software as rival ABB bets on physical equipment",
+  "techmeme_url": "https://www.techmeme.com/261018/p14",
+  "title": "Europe's three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment (Aaron Kirchfeld/Financial Times)"
+ },
+ "a261018p15": {
+  "article_url": "https://www.wsj.com/finance/nearly-all-volume-on-fifa-linked-prediction-market-is-circular-trading-549393f3?st=Mc7RQM&reflink=desktopwebshare_permalink",
+  "date": "2026-10-18",
+  "permalink_id": "a261018p15",
+  "summary": "ADI Predictstreet, backed by Abu Dhabi's royal family, paid close to $150 million for advertising rights during the World Cup",
+  "techmeme_url": "https://www.techmeme.com/261018/p15",
+  "title": "Analysis: 795 accounts funded by ADI Predictstreet's own fee-collecting wallet drove 99% of the FIFA-partnered prediction market's activity since late August (Wall Street Journal)"
+ },
+ "a261018p16": {
+  "article_url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+  "date": "2026-10-18",
+  "permalink_id": "a261018p16",
+  "summary": "The identity project co-founded by OpenAI CEO Sam Altman named Bain Capital and VanEck Funds among its design partners but did not name …",
+  "techmeme_url": "https://www.techmeme.com/261018/p16",
+  "title": "Sam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering (Zack Abrams/The Block)"
+ },
+ "a261018p17": {
+  "article_url": "https://www.bbc.com/news/articles/cm5yn098xz8lo",
+  "date": "2026-10-18",
+  "permalink_id": "a261018p17",
+  "summary": "China's economic growth picked up in the three months to the end of September, rebounding from a three-year low as the artificial intelligence (AI) boom helped boost exports.",
+  "techmeme_url": "https://www.techmeme.com/261018/p17",
+  "title": "China's GDP is set to grow 4.5% YoY in Q3, up from Q2's three-year-low growth rate of 4.3%, as AI-driven exports helped offset weak domestic spending (Osmond Chia/BBC)"
+ },
+ "a261018p18": {
+  "article_url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+  "date": "2026-10-18",
+  "permalink_id": "a261018p18",
+  "summary": "Intel GPU D-series uses laptop LPDDR5X with 480GB memory — Intel's GPU D-series sets a new GPU memory record with 480GB of LPDDR5X",
+  "techmeme_url": "https://www.techmeme.com/261018/p18",
+  "title": "Intel unveils its GPU D-series for data centers, featuring up to 480GB of LPDDR5X memory, an unusually large capacity to support demanding inference workloads (Efosa Udinmwen/TechRadar)"
+ },
  "a261018p2": {
   "article_url": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9",
   "date": "2026-10-18",
