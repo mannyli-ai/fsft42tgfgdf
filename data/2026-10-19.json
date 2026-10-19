@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/261019/p1",
   "title": "Allium: stablecoin payments rose 45% YoY to $482B YTD through September 30, with transactions up 71% to 1.04B, while circulating supply grew just 0.4% (Krisztian Sandor/CoinDesk)"
  },
+ "a261019p10": {
+  "article_url": "https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p10",
+  "summary": "NVIDIA's Vera CPU heralds a redefinition of computing architecture from a traditional, task-isolated paradigm to an orchestrated …",
+  "techmeme_url": "https://www.techmeme.com/261019/p10",
+  "title": "Q&A with Nvidia's Vera team on agentic AI driving CPU demands and forcing CPU design priority back to single-threaded performance over core counts, and more (Wccftech)"
+ },
+ "a261019p11": {
+  "article_url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p11",
+  "summary": "Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+  "techmeme_url": "https://www.techmeme.com/261019/p11",
+  "title": "Elon Musk says \"I will give one of my SpaceX shares to every kid in America\" in 2027, a gift worth ~$10.5B, after Anthropic committed 5% of its shares to APBF (Kai Nicol-Schwarz/CNBC)"
+ },
+ "a261019p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/foxconn-buys-727-million-stake-in-mitsubishi-electric-unit-that-makes-ev-parts",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p12",
+  "summary": "Hon Hai Precision Industry Co. is paying ¥115 billion ($727 million) for a 50% stake in Mitsubishi Electric Corp.'s automotive-components unit …",
+  "techmeme_url": "https://www.techmeme.com/261019/p12",
+  "title": "Foxconn agrees to acquire a 50% stake in Mitsubishi's automotive components unit for ~$727M; Mitsubishi will provide autonomous tech for Foxconn's EV platforms (Reed Stevenson/Bloomberg)"
+ },
+ "a261019p13": {
+  "article_url": "https://www.pewresearch.org/short-reads/2026/10/16/the-gender-gap-in-ai/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p13",
+  "summary": "Note: This analysis is an excerpt from a broader June 2026 study about Americans and artificial intelligence. — About this research",
+  "techmeme_url": "https://www.techmeme.com/261019/p13",
+  "title": "Survey: the chatbot gender adoption gap among US adults has closed since 2024, though men are more likely to use them daily; ChatGPT has identical use rates (Pew Research Center)"
+ },
+ "a261019p14": {
+  "article_url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p14",
+  "summary": "The Google Deepmind team dropped the agents into a randomly generated world without assigning roles, strategies, or game-specific tools.",
+  "techmeme_url": "https://www.techmeme.com/261019/p14",
+  "title": "Google DeepMind says four Gemini 4 Argon agents beat Minecraft without any human help in 27 hours and 14 minutes, costing $1,620 at Argon's planned 2027 price (Matthias Bastian/The Decoder)"
+ },
+ "a261019p15": {
+  "article_url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p15",
+  "summary": "AI company has shared few details on the dynamics of the five-person trust empowered to shape its board and block major moves",
+  "techmeme_url": "https://www.techmeme.com/261019/p15",
+  "title": "A look at Anthropic's opaque, five-member Long-Term Benefit Trust, where members own no Anthropic equity but hold enormous sway by appointing most of its board (Theo Francis/Wall Street Journal)"
+ },
+ "a261019p16": {
+  "article_url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p16",
+  "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens …",
+  "techmeme_url": "https://www.techmeme.com/261019/p16",
+  "title": "Character.AI's Chapter 11 court filings indicate a two-part deal with Disney to transfer talent and tech while insulating Disney from mounting legal liabilities (Maddy Varner/Wired)"
+ },
+ "a261019p17": {
+  "article_url": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p17",
+  "summary": "60GW Under Construction, SemiAnalysis Leading Indicators, 1.3T of Lease Contracts Signed YTD, The Shortage Could Move to Chips",
+  "techmeme_url": "https://www.techmeme.com/261019/p17",
+  "title": "Analysis: companies are set for a massive acceleration of 50GW+ in data center capacity additions in 2027; 24GW+ across 40 campuses are in the advanced stages (Jeremie Eliahou Ontiveros/SemiAnalysis)"
+ },
+ "a261019p18": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/ai-chip-startup-tenstorrent-raises-funds-at-6-2-billion-value",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p18",
+  "summary": "AI chip startup Tenstorrent Inc., after attracting takeover interest earlier this year, has raised $1.5 billion from investors …",
+  "techmeme_url": "https://www.techmeme.com/261019/p18",
+  "title": "AI chip startup Tenstorrent raised a $1.5B Series E led by Trace Capital and Innovation X at a $6.2B valuation, up from $2.6B after raising $700M in 2024 (Bloomberg)"
+ },
+ "a261019p19": {
+  "article_url": "https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p19",
+  "summary": "Deutsche Telekom, Orange, Telefónica and Vodafone to explore joint bid for spectrum to provide mobile satellite coverage",
+  "techmeme_url": "https://www.techmeme.com/261019/p19",
+  "title": "Deutsche Telekom, Orange, Telefónica, and Vodafone agree to explore a joint bid to offer \"direct-to-device\" satellite service in Europe, challenging Starlink (Financial Times)"
+ },
  "a261019p2": {
   "article_url": "https://fortune.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/",
   "date": "2026-10-19",
@@ -14,5 +94,45 @@
   "summary": "As a kid, Havi Nguyen sometimes missed school to translate at doctor's appointments, and was managing Medicaid paperwork for her family, who had recently immigrated from Vietnam.",
   "techmeme_url": "https://www.techmeme.com/261019/p2",
   "title": "Abby Care, which runs a clinically led, AI-powered platform to train and certify family caregivers, raised an $82M Series C led by Transformation Capital (Allie Garfinkle/Fortune)"
+ },
+ "a261019p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p20",
+  "summary": "Vinted, a secondhand online marketplace that counts France as its largest market, has seen an influx of listings suspected …",
+  "techmeme_url": "https://www.techmeme.com/261019/p20",
+  "title": "Vinted faces an influx of listings suspected of containing stolen goods following widespread French riots, which targeted Sephora, Louis Vuitton, and Burberry (Yazhou Sun/Bloomberg)"
+ },
+ "a261019p21": {
+  "article_url": "https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215?st=Xj19EK&reflink=desktopwebshare_permalink",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p21",
+  "summary": "DoubleAI, a startup based in Tel Aviv, is set to debut what it calls a new category of artificial intelligence that can help companies lower their computing costs.",
+  "techmeme_url": "https://www.techmeme.com/261019/p21",
+  "title": "Tel Aviv-based doubleAI releases its debut code execution model to optimize GPU and CPU performance; doubleAI raised $220M and acquired 1,000 Nvidia B300 chips (Belle Lin/Wall Street Journal)"
+ },
+ "a261019p22": {
+  "article_url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p22",
+  "summary": "Over the past couple of weeks, a cybersecurity researcher watched as a Chinese-speaking hacker broke into websites belonging …",
+  "techmeme_url": "https://www.techmeme.com/261019/p22",
+  "title": "Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, including Deere and SharkNinja, spending ~$5,000 total (Raphael Satter/Reuters)"
+ },
+ "a261019p23": {
+  "article_url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p23",
+  "summary": "At a moment when voters are fearful of AI, Democrats are finding their footing. … Democrats could win back control of Congress this November …",
+  "techmeme_url": "https://www.techmeme.com/261019/p23",
+  "title": "How Democrats, who polls predict will flip at least one chamber of Congress in the midterm elections, are preparing to aggressively scrutinize the AI industry (Lauren Feiner/The Verge)"
+ },
+ "a261019p24": {
+  "article_url": "https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p24",
+  "summary": "Microsoft is coming out with new security tools that treat AI agents as potential insider threats, continuously assessing their risk …",
+  "techmeme_url": "https://www.techmeme.com/261019/p24",
+  "title": "Microsoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments (Todd Bishop/GeekWire)"
  }
 }
