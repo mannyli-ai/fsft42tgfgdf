@@ -134,5 +134,125 @@
   "summary": "Microsoft is coming out with new security tools that treat AI agents as potential insider threats, continuously assessing their risk …",
   "techmeme_url": "https://www.techmeme.com/261019/p24",
   "title": "Microsoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments (Todd Bishop/GeekWire)"
+ },
+ "a261019p30": {
+  "article_url": "https://www.minimax.io/blog/minimax-m31f",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p30",
+  "summary": "Space Bunny 🐰, which processed more than 200 trillion tokens while operating anonymously, was an early version of MiniMax M3.1 Flash.",
+  "techmeme_url": "https://www.techmeme.com/261019/p30",
+  "title": "MiniMax launches M3.1 Flash, saying it delivers \"a generational leap\" in agentic tasks, coding, computer use, and cybersecurity, with weights due October 23 (MiniMax)"
+ },
+ "a261019p31": {
+  "article_url": "https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p31",
+  "summary": "Nvidia (NVDA.O) has won central processor chip business with another fast-growing AI startup that until now relied entirely …",
+  "techmeme_url": "https://www.techmeme.com/261019/p31",
+  "title": "AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips (Stephen Nellis/Reuters)"
+ },
+ "a261019p32": {
+  "article_url": "https://www.geekwire.com/2026/amazon-challenges-nvidias-software-advantage-with-new-tool-for-its-ai-chips/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p32",
+  "summary": "A new software tool from Amazon aims to make switching from Nvidia to the company's own AI chips about as simple as changing a setting.",
+  "techmeme_url": "https://www.techmeme.com/261019/p32",
+  "title": "Amazon launches TorchNeuron, an open-source framework that lets developers run PyTorch code on Amazon's Trainium chips with no rewriting needed, in public beta (Todd Bishop/GeekWire)"
+ },
+ "a261019p33": {
+  "article_url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p33",
+  "summary": "Apple today announced its second experience of the month, taking place next Wednesday, October 28 at 10 a.m. PT. The tagline for this event is: “Pro and tell.”",
+  "techmeme_url": "https://www.techmeme.com/261019/p33",
+  "title": "Apple announces a \"Pro and tell\" event on October 28 at 10am PT in LA, where its first touchscreen MacBook, a 14-inch MacBook Pro with M6, and more are expected (Chance Miller/9to5Mac)"
+ },
+ "a261019p34": {
+  "article_url": "https://www.reuters.com/legal/government/us-supreme-court-rejects-music-labels-challenge-copyright-termination-ruling-2026-10-19/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p34",
+  "summary": "The US Supreme Court rejected on Monday a challenge by a group of music labels to a judicial decision that said a law allowing creators …",
+  "techmeme_url": "https://www.techmeme.com/261019/p34",
+  "title": "SCOTUS rejects an appeal by BMG, Sony Music, UMG, and Warner Music, upholding a decision that copyright termination rights apply globally, not just in the US (Blake Brittain/Reuters)"
+ },
+ "a261019p35": {
+  "article_url": "https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p35",
+  "summary": "DeepSeek is working closely with Huawei Technologies to shape the design of future AI chips, two people familiar with the matter said …",
+  "techmeme_url": "https://www.techmeme.com/261019/p35",
+  "title": "Sources: DeepSeek and Huawei are collaborating on future AI chip designs; DeepSeek plans to start using Ascend 950DT for pre-training as soon as 2026's end (The Information)"
+ },
+ "a261019p36": {
+  "article_url": "https://www.upstartsmedia.com/p/tolan-raises-30m-for-ai-companion-you-trust",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p36",
+  "summary": "Far from Silicon Valley's echo chamber, about 250,000 everyday people turn to AI app Tolan as a friendly voice, or to help organize their lives and families.",
+  "techmeme_url": "https://www.techmeme.com/261019/p36",
+  "title": "Tolan, an AI assistant focused on users that are not tech-savvy, raised $30M from USV, Khosla Ventures, and Homebrew, and says 70% of its users are women (Alex Konrad/Upstarts Media)"
+ },
+ "a261019p37": {
+  "article_url": "https://www.axios.com/pro/fintech-deals/2026/10/19/prism-data-20-million-series-a-credit-analytics",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p37",
+  "summary": "Prism Data, which helps lenders assess credit risk using bank transaction data, raised $20 million in Series A funding, CEO Jason Rosen tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/261019/p37",
+  "title": "Prism Data, which provides credit-scoring data and analytics that help lenders assess borrowers, raised a $20M Series A led by Story Ventures (Ryan Lawler/Axios)"
+ },
+ "a261019p38": {
+  "article_url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p38",
+  "summary": "The latest use case for AI? Dumbing down your smart TV to get rid of the bloat. A number of developers and vibe coders have recently …",
+  "techmeme_url": "https://www.techmeme.com/261019/p38",
+  "title": "Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more (Sarah Perez/TechCrunch)"
+ },
+ "a261019p39": {
+  "article_url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p39",
+  "summary": "Town, a two-year-old, San Francisco-based startup developing AI assistants, nabbed a unicorn valuation on Monday, announcing a $108 million Series B funding round co-led …",
+  "techmeme_url": "https://www.techmeme.com/261019/p39",
+  "title": "Town, which develops enterprise AI assistants, raised a $108M Series B at a $1B valuation, after announcing a $55M Series A in June (Dominic-Madori Davis/TechCrunch)"
+ },
+ "a261019p40": {
+  "article_url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p40",
+  "summary": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible.",
+  "techmeme_url": "https://www.techmeme.com/261019/p40",
+  "title": "Meta details Prometheus, its gigawatt-scale supercluster in Ohio, which will have ~1M GPUs at full scale and was used to train its Muse foundational models (Engineering at Meta)"
+ },
+ "a261019p41": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p41",
+  "summary": "Nscale Ltd., the AI cloud computing firm, is in talks to sell computing power to Anthropic PBC in a deal that could be worth about $45 billion …",
+  "techmeme_url": "https://www.techmeme.com/261019/p41",
+  "title": "Sources: Nscale is in talks for a second deal with Anthropic worth ~$45B to deliver 460MW of computing power at its West Virginia campus using Vera Rubin chips (Bloomberg)"
+ },
+ "a261019p42": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/fintech-ramp-applies-for-trust-bank-charter-with-us-regulator",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p42",
+  "summary": "Financial technology firm Ramp said it applied with the Office of the Comptroller of the Currency for a trust bank charter …",
+  "techmeme_url": "https://www.techmeme.com/261019/p42",
+  "title": "Ramp says it applied to the US OCC for a trust bank charter that, if approved, would allow it to offer fiduciary investment management and digital asset custody (Paige Smith/Bloomberg)"
+ },
+ "a261019p43": {
+  "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/10/19/robot-brains-for-75-centshour-former-nvidia-researchers-raise-90-million/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p43",
+  "summary": "This voice experience is generated by AI. Learn more. … Want to make your dumb robot smart? $3 an hour is all it costs.",
+  "techmeme_url": "https://www.techmeme.com/261019/p43",
+  "title": "Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures (John Koetsier/Forbes)"
+ },
+ "a261019p44": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/ftc-requires-publicis-to-offer-equal-access-to-liveramp-data",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p44",
+  "summary": "The US Federal Trade Commission said it will allow Publicis Groupe SA to complete the $2.2 billion acquisition of LiveRamp Holdings Inc …",
+  "techmeme_url": "https://www.techmeme.com/261019/p44",
+  "title": "The US FTC clears Publicis' $2.2B LiveRamp acquisition, subject to a consent decree requiring equal access to LiveRamp's data connectivity tools for all clients (Leah Nylen/Bloomberg)"
  }
 }
