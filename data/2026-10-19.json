@@ -254,5 +254,77 @@
   "summary": "The US Federal Trade Commission said it will allow Publicis Groupe SA to complete the $2.2 billion acquisition of LiveRamp Holdings Inc …",
   "techmeme_url": "https://www.techmeme.com/261019/p44",
   "title": "The US FTC clears Publicis' $2.2B LiveRamp acquisition, subject to a consent decree requiring equal access to LiveRamp's data connectivity tools for all clients (Leah Nylen/Bloomberg)"
+ },
+ "a261019p45": {
+  "article_url": "https://blog.cloudflare.com/clairic-extraction-model/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p45",
+  "summary": "Today, we're announcing a preview of a new class of System One-style models: extraction models.",
+  "techmeme_url": "https://www.techmeme.com/261019/p45",
+  "title": "Cloudflare debuts Clairic, a System One-class extraction model it says processes unstructured data faster, more cheaply, and more accurately than normal LLMs (Cloudflare)"
+ },
+ "a261019p46": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p46",
+  "summary": "Former Google Chief Executive Officer Eric Schmidt owns around 1% of Anthropic PBC thanks to his early investment in the startup …",
+  "techmeme_url": "https://www.techmeme.com/261019/p46",
+  "title": "Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO (Bloomberg)"
+ },
+ "a261019p47": {
+  "article_url": "https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p47",
+  "summary": "THE SCOOP — As Waymo expands into new cities with its self-driving cars, the company plans to use the $5 billion it recently borrowed to massively increase its fleet.",
+  "techmeme_url": "https://www.techmeme.com/261019/p47",
+  "title": "Sources: Waymo aims to expand its fleet to 8K by the end of this year, up from 4K today, and to 20K by the end of 2027, after raising $5B in debt this month (Ellen DiMauro/Semafor)"
+ },
+ "a261019p48": {
+  "article_url": "https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?st=pHTpM3&reflink=desktopwebshare_permalink",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p48",
+  "summary": "Company is overhauling creative leadership as it struggles to get domestic audiences to watch more — Netflix is writing a new script.",
+  "techmeme_url": "https://www.techmeme.com/261019/p48",
+  "title": "Sources: Ted Sarandos complained for months of a lack of new Netflix hit shows and US watch time being down; Netflix just fired its film chief and content chief (Wall Street Journal)"
+ },
+ "a261019p49": {
+  "article_url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p49",
+  "summary": "OpenAI is racing to secure investor commitments before rival Anthropic's expected public market debut in mid-November …",
+  "techmeme_url": "https://www.techmeme.com/261019/p49",
+  "title": "Sources: OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ (Reuters)"
+ },
+ "a261019p50": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/data-center-firm-elice-plunges-32-in-debut-after-korea-ipo",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p50",
+  "summary": "Shares of data-center infrastructure company Elice Inc. plunged in their trading debut, underscoring lingering concerns about whether …",
+  "techmeme_url": "https://www.techmeme.com/261019/p50",
+  "title": "Korean data-center company Elice falls 30%+ in Kosdaq trading debut; sources: Australian data center operator AirTrunk delays real estate investment trust IPO (Bloomberg)"
+ },
+ "a261019p51": {
+  "article_url": "https://www.thedeepview.com/articles/why-inception-s-mercury-3-upends-ai-economics",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p51",
+  "summary": "W — hile the AI industry has bet heavily on LLMs and the massive data centers needed to scale them, one of the neolabs betting …",
+  "techmeme_url": "https://www.techmeme.com/261019/p51",
+  "title": "Inception launches Mercury 3, a diffusion-based LLM that it claims outperforms GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash while being 4x to 8x faster (Jason Hiner/The Deep View)"
+ },
+ "a261019p52": {
+  "article_url": "https://www.newcomer.co/p/mercury-crosses-1-billion-annualized",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p52",
+  "summary": "I sat down with Mercury CEO Immad Akhund — We just published my conversation with Mercury CEO Immad Akhund on the Newcomer Podcast.",
+  "techmeme_url": "https://www.techmeme.com/261019/p52",
+  "title": "Mercury CEO Immad Akhund says the fintech hit $1B in annualized revenue, up ~50% YoY, has more than 450K customers, and is launching a payroll service (Eric Newcomer/Newcomer)"
+ },
+ "a261019p53": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/australia-to-sue-facebook-tiktok-for-alleged-breaches-of-ban",
+  "date": "2026-10-19",
+  "permalink_id": "a261019p53",
+  "summary": "Australia's government is set to sue Facebook, TikTok and other major digital platforms for alleged non-compliance …",
+  "techmeme_url": "https://www.techmeme.com/261019/p53",
+  "title": "An Australian minister says the eSafety Commissioner plans to sue Meta, TikTok, Snapchat, and YouTube over alleged breaches of the under-16 social media ban (Angus Whitley/Bloomberg)"
  }
 }
