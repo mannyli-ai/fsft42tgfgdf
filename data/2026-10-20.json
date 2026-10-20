@@ -191,6 +191,46 @@
   "techmeme_url": "https://www.techmeme.com/261020/p30",
   "title": "Sources: Polymarket investors pressured CEO Shayne Coplan to add stricter financial and operational controls; Elon Musk's lawyer, Alex Spiro, joined its board (Bloomberg)"
  },
+ "a261020p35": {
+  "article_url": "https://www.reuters.com/world/us-judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit-2026-10-20/",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p35",
+  "summary": "Sam Altman on Tuesday won the dismissal of a civil lawsuit filed by his sister accusing the OpenAI co-founder and chief executive …",
+  "techmeme_url": "https://www.techmeme.com/261020/p35",
+  "title": "A US judge dismisses a civil sexual abuse lawsuit brought against Sam Altman by his sister, after she refused to appear for an independent medical examination (Luc Cohen/Reuters)"
+ },
+ "a261020p36": {
+  "article_url": "https://www.axios.com/2026/10/20/steve-cohen-hertz-robotaxi-80-million",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p36",
+  "summary": "Billionaire hedge fund investor Steve Cohen is backing a new $80 million investment in Oro Mobility, a Hertz-owned business positioning itself …",
+  "techmeme_url": "https://www.techmeme.com/261020/p36",
+  "title": "Oro Mobility, a Hertz-owned fleet management business that has a deal to manage Uber's planned Lucid robotaxi fleet starting in San Francisco, raised $80M (Joann Muller/Axios)"
+ },
+ "a261020p37": {
+  "article_url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p37",
+  "summary": "On Tuesday, Google announced that TorchTPU, its long-awaited version of PyTorch, is now available as an open-source project.",
+  "techmeme_url": "https://www.techmeme.com/261020/p37",
+  "title": "Google launches TorchTPU, an open-source version of PyTorch to let AI apps run on TPUs and Google Cloud via simple configuration changes without rewriting code (Julie Bort/TechCrunch)"
+ },
+ "a261020p38": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/amazon-to-hire-over-300-000-in-holiday-season-up-20-from-2025",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p38",
+  "summary": "Amazon.com Inc. plans to hire more than 300,000 workers during the holiday shopping season, up 20% from a year ago …",
+  "techmeme_url": "https://www.techmeme.com/261020/p38",
+  "title": "Amazon plans to hire 300K+ US workers for seasonal, part-time, and full-time roles for the upcoming holiday season, up 20% from 2025, paying $20/hour on average (Spencer Soper/Bloomberg)"
+ },
+ "a261020p39": {
+  "article_url": "https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts-xbox/",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p39",
+  "summary": "Xbox CEO Asha Sharma. — Asha Sharma returns from one of her walking meetings around Microsoft's sprawling campus in Redmond …",
+  "techmeme_url": "https://www.techmeme.com/261020/p39",
+  "title": "A profile of Xbox CEO Asha Sharma; sources: Xbox plans a major Game Pass overhaul, a next-gen handheld device by late 2027, and next-gen console by late 2028 (Sebastian Herrera/Fortune)"
+ },
  "a261020p4": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
   "date": "2026-10-20",
@@ -198,6 +238,86 @@
   "summary": "Washington has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties …",
   "techmeme_url": "https://www.techmeme.com/261020/p4",
   "title": "The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)"
+ },
+ "a261020p40": {
+  "article_url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=YKUo1r",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p40",
+  "summary": "In a new draft prospectus viewed by the Journal, the AI giant disclosed an $80.7 billion net loss for the first half of 2026 and a long list of risk factors",
+  "techmeme_url": "https://www.techmeme.com/261020/p40",
+  "title": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges (Anissa Gardizy/Wall Street Journal)"
+ },
+ "a261020p41": {
+  "article_url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p41",
+  "summary": "Netflix on Tuesday reported third-quarter earnings that topped analyst estimates and revenue that was in line as Wall Street eyes …",
+  "techmeme_url": "https://www.techmeme.com/261020/p41",
+  "title": "Netflix reports Q3 revenue up 12% YoY to $12.87B, in line with est., net income up 44% YoY to $3.66B, in part due to expenses timing; NFLX drops 5%+ after hours (Sarah Whitten/CNBC)"
+ },
+ "a261020p42": {
+  "article_url": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p42",
+  "summary": "The streaming service reported a 12 percent increase in quarterly revenue, but acknowledged that stagnant viewership …",
+  "techmeme_url": "https://www.techmeme.com/261020/p42",
+  "title": "Netflix says despite investor concern about its view-hours growth, its engagement is \"healthy\" and it will try to bring more third-party content to its service (Nicole Sperling/New York Times)"
+ },
+ "a261020p43": {
+  "article_url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p43",
+  "summary": "SpaceX reported 161% revenue growth for the third quarter, driven by the company's artificial intelligence business and Starlink Subscriber growth.",
+  "techmeme_url": "https://www.techmeme.com/261020/p43",
+  "title": "SpaceX reports Q3 revenue up 161% YoY to $14.58B, vs. $12.72B est., AI revenue up 830% to $7.56B, and AI operating income of $431M, up from a loss of $1.7B (Lora Kolodny/CNBC)"
+ },
+ "a261020p44": {
+  "article_url": "https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193?st=SfFvsh&reflink=desktopwebshare_permalink",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p44",
+  "summary": "The SpaceX founder authorized the move and has been discussing Ukraine with Trump, but the president has denied ordering the restrictions",
+  "techmeme_url": "https://www.techmeme.com/261020/p44",
+  "title": "Sources: Elon Musk ordered Starshield slowdown in Ukraine and discussed it with Trump after the issue became public; some US officials say he acted unilaterally (Wall Street Journal)"
+ },
+ "a261020p45": {
+  "article_url": "https://variety.com/2026/tv/news/netflix-q3-2026-earnings-wall-street-layoffs-exec-firings-1236917438/",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p45",
+  "summary": "But the streamer faces an urgent need to refresh its queue: Revenue growth in the period slowed to its lowest rate in three years …",
+  "techmeme_url": "https://www.techmeme.com/261020/p45",
+  "title": "Netflix says it expects FY 2026 ad revenue of ~$2.7B, under its ~$3B forecast, and its Q4 operating margin will be impacted due to costs associated with layoffs (Todd Spangler/Variety)"
+ },
+ "a261020p46": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p46",
+  "summary": "Anthropic PBC could spend $750 billion on additional computing power in the coming years, according to a Wall Street Journal report …",
+  "techmeme_url": "https://www.techmeme.com/261020/p46",
+  "title": "Report: Anthropic's draft S-1 shows it spent ~$9B on compute and infrastructure in H1, up from $2.3B a year earlier, and could spend $750B in the coming years (David Morris/Bloomberg)"
+ },
+ "a261020p47": {
+  "article_url": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?st=eQFqUL&reflink=desktopwebshare_permalink",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p47",
+  "summary": "Artificial intelligence revenue surges around 830% while capital spending on data center build-out and developing new technology continues",
+  "techmeme_url": "https://www.techmeme.com/261020/p47",
+  "title": "SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B (Becky Peterson/Wall Street Journal)"
+ },
+ "a261020p48": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/super-micro-jumps-after-preliminary-results-top-estimates",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p48",
+  "summary": "Super Micro Computer Inc. jumped in late trading after reporting preliminary quarterly results that topped analysts' estimates.",
+  "techmeme_url": "https://www.techmeme.com/261020/p48",
+  "title": "Super Micro reports preliminary Q1 revenues of $18.5B to $19.5B, vs. $15B est., and gross margins of 12% to 12.5%; SMCI jumps 11%+ after hours (Dina Bass/Bloomberg)"
+ },
+ "a261020p49": {
+  "article_url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p49",
+  "summary": "Security personnel around the world are on high alert Tuesday following the discovery of eight TLS certificates with private keys …",
+  "techmeme_url": "https://www.techmeme.com/261020/p49",
+  "title": "Eight intermediate TLS certificates from eMudhra with private key sizes of just 3 to 8 bits were compromised; browser makers and major apps have blocked them (Dan Goodin/Ars Technica)"
  },
  "a261020p5": {
   "article_url": "https://openai.com/index/low-resource-programming-languages",
