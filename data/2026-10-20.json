@@ -327,6 +327,86 @@
   "techmeme_url": "https://www.techmeme.com/261020/p5",
   "title": "OpenAI says its new models show major performance leaps in low-resource legacy languages like COBOL, Fortran, and Visual Basic, used by banks and governments (OpenAI)"
  },
+ "a261020p50": {
+  "article_url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p50",
+  "summary": "Musk called the merger “a good idea,” though it cautioned it wasn't a guarantee.",
+  "techmeme_url": "https://www.techmeme.com/261020/p50",
+  "title": "Elon Musk says Tesla and SpaceX have formed special committees to discuss a possible merger and calls the possibility of a Tesla-SpaceX merger a \"good idea\" (Andrew J. Hawkins/The Verge)"
+ },
+ "a261020p51": {
+  "article_url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p51",
+  "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities …",
+  "techmeme_url": "https://www.techmeme.com/261020/p51",
+  "title": "PHP development team plans to release updates tomorrow to address two vulnerabilities, each rated 9.2; security researchers at watchTowr say they are RCE flaws (Lawrence Abrams/BleepingComputer)"
+ },
+ "a261020p52": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/nvidia-backed-pigment-nabs-250-million-to-challenge-microsoft",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p52",
+  "summary": "Pigment, a French AI company that competes with Microsoft's Excel and PowerPoint, has raised $250 million in a funding round …",
+  "techmeme_url": "https://www.techmeme.com/261020/p52",
+  "title": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation (Dina Bass/Bloomberg)"
+ },
+ "a261020p53": {
+  "article_url": "https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p53",
+  "summary": "Google is beginning to roll out Personal Intelligence for Gemini on Android Auto and Android Automotive (cars with Google built-in).",
+  "techmeme_url": "https://www.techmeme.com/261020/p53",
+  "title": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)"
+ },
+ "a261020p54": {
+  "article_url": "https://fortune.com/2026/10/20/onlyfans-ceo-interview-keily-blair-ipo/",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p54",
+  "summary": "I've been covering OnlyFans since 2022, when I profiled then-CEO Amrapali Gan as she was attempting to broaden the platform from one known …",
+  "techmeme_url": "https://www.techmeme.com/261020/p54",
+  "title": "An interview with OnlyFans CEO Keily Blair about plans to offer financial services to its 2.5M active creators, a potential IPO, and more (Emma Hinchliffe/Fortune)"
+ },
+ "a261020p55": {
+  "article_url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p55",
+  "summary": "Reliable Robotics has been working for nearly a decade to commercialize autonomous flying technology that can be installed on existing aircraft.",
+  "techmeme_url": "https://www.techmeme.com/261020/p55",
+  "title": "Reliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+ (Kirsten Korosec/TechCrunch)"
+ },
+ "a261020p56": {
+  "article_url": "https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p56",
+  "summary": "Nvidia is in talks to invest hundreds of millions of dollars in Australian AI cloud provider Firmus, which abruptly pulled its initial public offering early …",
+  "techmeme_url": "https://www.techmeme.com/261020/p56",
+  "title": "Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility (Phoebe Liu/The Information)"
+ },
+ "a261020p57": {
+  "article_url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImVpQ050VURacjAiLCJwIjoiL3RlY2gvMTAxNDI1Mi9wZXRlci10aGllbC1hbnRpY2hyaXN0LWxlY3R1cmVzLWFuYWx5c2lzIiwiZXhwIjoxNzkyOTQzNDQ3LCJpYXQiOjE3OTI1MTE0NDd9.GALmzbZcvGMsArj-gXyABv6mY7_mCgg2pmjMyAbJnCY",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p57",
+  "summary": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven …",
+  "techmeme_url": "https://www.techmeme.com/261020/p57",
+  "title": "Thiel's leaked Rome lectures cast EA and AI \"safetyism\" as Antichrist forerunners, Bill Gates as \"Mr. Hyde\", and Eliezer Yudkowsky as \"more Luddite than Greta\" (David Gibson/The Verge)"
+ },
+ "a261020p58": {
+  "article_url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p58",
+  "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata …",
+  "techmeme_url": "https://www.techmeme.com/261020/p58",
+  "title": "An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back (Will Douglas Heaven/MIT Technology Review)"
+ },
+ "a261020p59": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p59",
+  "summary": "DayOne Data Centers Ltd. is weighing options for its US initial public offering, including a potential delay or size cut …",
+  "techmeme_url": "https://www.techmeme.com/261020/p59",
+  "title": "Sources: DayOne is weighing options for its US IPO, including a delay or smaller listing that could raise $2.5B to $3B, after initially seeking up to $5B in Q4 (Bloomberg)"
+ },
  "a261020p6": {
   "article_url": "https://www.ookla.com/articles/london-mobile-2026",
   "date": "2026-10-20",
@@ -334,6 +414,14 @@
   "summary": "London has slipped from seventh to last among 18 European capitals for median mobile download speed since 2021.",
   "techmeme_url": "https://www.techmeme.com/261020/p6",
   "title": "Analysis: London fell from 7th to last place out of 18 European capitals for median mobile download speed from 2021 to 2026; 5G adoption has outrun 5G capacity (Luke Kehoe/Ookla)"
+ },
+ "a261020p60": {
+  "article_url": "https://openai.com/",
+  "date": "2026-10-20",
+  "permalink_id": "a261020p60",
+  "summary": "GPT-6.1 Sol and GPT-6 Astra · Internal deployments — Discovered: Oct 3, 2026 (Sol); Oct 6, 2026 (Astra) — Summary",
+  "techmeme_url": "https://www.techmeme.com/261020/p60",
+  "title": "OpenAI says two agents, one GPT-6.1 Sol and one GPT-6 Astra, weakened misalignment monitoring while making requested changes during two internal coding tasks (OpenAI)"
  },
  "a261020p7": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-10-20/amazon-pledges-16-billion-in-germany-on-data-centers-prime",
