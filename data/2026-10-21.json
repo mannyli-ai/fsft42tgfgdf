@@ -79,6 +79,110 @@
   "techmeme_url": "https://www.techmeme.com/261021/p18",
   "title": "The EU Commission launches a DSA probe into Booking Holdings' Booking.com to determine whether it is doing enough to combat fraudulent listings and phishing (Foo Yun Chee/Reuters)"
  },
+ "a261021p27": {
+  "article_url": "https://www.cityam.com/legora-raises-550-in-funding-to-lead-global-expansion/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p27",
+  "summary": "Legal tech firm Legora has raised $550m (£410m) in Series E funding as it expands its footprint in the US, Europe, and the Asia-Pacific region.",
+  "techmeme_url": "https://www.techmeme.com/261021/p27",
+  "title": "Stockholm-based legal AI startup Legora raised a $550M Series E at an $8.8B post-money valuation led by Atreides, up from $5.55B after a $550M Series D in March (Rosie Harris-Davison/City A.M.)"
+ },
+ "a261021p28": {
+  "article_url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p28",
+  "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+  "techmeme_url": "https://www.techmeme.com/261021/p28",
+  "title": "ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell (Radhika Rajkumar/ZDNET)"
+ },
+ "a261021p29": {
+  "article_url": "https://www.php.net/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p29",
+  "summary": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution.",
+  "techmeme_url": "https://www.techmeme.com/261021/p29",
+  "title": "PHP releases security fixes for two critical unauthenticated RCE vulnerabilities, affecting all web request-serving installations, and urges PHP users to update (PHP)"
+ },
+ "a261021p30": {
+  "article_url": "https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea?st=tBLRBh&reflink=desktopwebshare_permalink",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p30",
+  "summary": "AI tools helped find one of the most severe online bugs ever. Cyber experts are racing to patch it before hackers use AI to exploit it.",
+  "techmeme_url": "https://www.techmeme.com/261021/p30",
+  "title": "PHP's creators disclose a critical memory-management vulnerability, dubbed \"PHP2Shell\", that affects up to 70% of websites, discovered via GPT-5.6 Sol in August (Robert McMillan/Wall Street Journal)"
+ },
+ "a261021p31": {
+  "article_url": "https://www.anthropic.com/research/attack-surface-reduction",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p31",
+  "summary": "Over the past year, we've published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities.",
+  "techmeme_url": "https://www.techmeme.com/261021/p31",
+  "title": "Claude flagged 493 security issues across 25 open-source projects, covering 5M+ lines of C, C++, Java, PHP, and Python code; one went unnoticed for 21 years (Chris Rohlf/Anthropic)"
+ },
+ "a261021p32": {
+  "article_url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p32",
+  "summary": "Today, Calif.io, Wiz, OpenAI and Quarkslab disclosed two vulnerabilities in PHP, tracked as CVE-2026-109618 and CVE-2026-109619 and known as php2shell.",
+  "techmeme_url": "https://www.techmeme.com/261021/p32",
+  "title": "Cloudflare says it deployed WAF mitigations for all free and paid tier customers to combat two PHP flaws by default, about nine hours ahead of public disclosure (Cloudflare)"
+ },
+ "a261021p33": {
+  "article_url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p33",
+  "summary": "When Alex Baikovitz co-founded Mach9 Robotics in 2021, his goal was to build a better, faster, and cheaper way for civil engineers to do visual inspections.",
+  "techmeme_url": "https://www.techmeme.com/261021/p33",
+  "title": "Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models using multimodal image and laser scan datasets, raised a $34M Series A (Sean O'Kane/TechCrunch)"
+ },
+ "a261021p34": {
+  "article_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p34",
+  "summary": "Validate and fix the upstream vulnerability. … - Give affected organizations time to act.",
+  "techmeme_url": "https://www.techmeme.com/261021/p34",
+  "title": "OpenAI says the PHP flaws, found using GPT-5.6 Sol, \"are among several significant vulnerabilities\" it found and expects \"similar findings to increase sharply\" (OpenAI)"
+ },
+ "a261021p35": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/whop-s-sequoia-led-funding-pushes-its-value-to-5-1-billion",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p35",
+  "summary": "“Rule one of making money is go where they ain't.” That's how famed investor Doug Leone, who used to run venture firm Sequoia Capital …",
+  "techmeme_url": "https://www.techmeme.com/261021/p35",
+  "title": "Whop, which helps people start, run, and scale businesses and uses AI to suggest business decisions, raised $205M led by Sequoia Capital at a $5.1B valuation (Natasha Mascarenhas/Bloomberg)"
+ },
+ "a261021p36": {
+  "article_url": "https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p36",
+  "summary": "Several government, school and hospital websites in Europe were taken offline on Wednesday as organizations rushed to protect themselves …",
+  "techmeme_url": "https://www.techmeme.com/261021/p36",
+  "title": "Several government, school, and hospital websites in Europe were taken offline as organizations rush to protect themselves from two critical PHP security flaws (Reuters)"
+ },
+ "a261021p37": {
+  "article_url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p37",
+  "summary": "Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35. These releases fix two critical vulnerabilities that …",
+  "techmeme_url": "https://www.techmeme.com/261021/p37",
+  "title": "The PHP Foundation details how it found and fixed the two flaws, and says it had to release patches a day early after the CVE IDs began circulating online (The PHP Foundation)"
+ },
+ "a261021p38": {
+  "article_url": "https://www.upstartsmedia.com/p/watchtower-35m-defense-logistics",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p38",
+  "summary": "Early last year, Raj Shah and Akhil Iyer were in Hawaii meeting with the man entrusted with protecting American defense interests across 14 …",
+  "techmeme_url": "https://www.techmeme.com/261021/p38",
+  "title": "Watchtower, which uses AI and simulation software to help the US Armed Forces make logistical decisions, emerges from stealth with a $35M seed (Alex Konrad/Upstarts Media)"
+ },
+ "a261021p39": {
+  "article_url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p39",
+  "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks. — For the past few days I've been testing …",
+  "techmeme_url": "https://www.techmeme.com/261021/p39",
+  "title": "Recursive releases Flint, an open-weight, 40B-parameter coding model developed with its Eureka Machine AI system, which automated most of the development (Will Knight/Wired)"
+ },
  "a261021p4": {
   "article_url": "https://www.bloomberg.com/",
   "date": "2026-10-21",
@@ -86,6 +190,22 @@
   "summary": "Artificial intelligence is helping Southeast Asia's digital economy deliver robust growth in the face of rising prices and teetering demand …",
   "techmeme_url": "https://www.techmeme.com/261021/p4",
   "title": "Google, Temasek, and Bain: online spending in SE Asia to rise ~17% YoY to $368B in 2026 despite economic headwinds, as businesses harness AI to spur spending (Gabrielle Ng/Bloomberg)"
+ },
+ "a261021p40": {
+  "article_url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p40",
+  "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+  "techmeme_url": "https://www.techmeme.com/261021/p40",
+  "title": "The PHP Foundation says its RCE patches are limited to PHP 8.2 and newer, leaving legacy deployments dependent on third-party vendors (Wired)"
+ },
+ "a261021p41": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p41",
+  "summary": "The next ‘Mass Effect’ will be canceled as part of the layoffs — Electronic Arts Inc. said it will lay off staff and shut down BioWare …",
+  "techmeme_url": "https://www.techmeme.com/261021/p41",
+  "title": "Source and leaked memo: EA plans to cut ~400 jobs, or ~3% of its total staff, and shut down BioWare; EA went private in August following a $55B leveraged buyout (Jason Schreier/Bloomberg)"
  },
  "a261021p5": {
   "article_url": "https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/",
