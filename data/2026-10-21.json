@@ -207,6 +207,70 @@
   "techmeme_url": "https://www.techmeme.com/261021/p41",
   "title": "Source and leaked memo: EA plans to cut ~400 jobs, or ~3% of its total staff, and shut down BioWare; EA went private in August following a $55B leveraged buyout (Jason Schreier/Bloomberg)"
  },
+ "a261021p42": {
+  "article_url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p42",
+  "summary": "Meta was ordered to pay $25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy case that stemmed …",
+  "techmeme_url": "https://www.techmeme.com/261021/p42",
+  "title": "A New Mexico court orders Meta to pay $25B in penalties after a jury found Meta misled residents about its data practices in the Cambridge Analytica scandal (Jonathan Vanian/CNBC)"
+ },
+ "a261021p43": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjEzMywiZXhwIjoxNzkzMjA2OTMzLCJhcnRpY2xlSWQiOiJUTjlPSzFLSVVQU1UwMCIsImJjb25uZWN0SWQiOiIyMjNDRDM2NDg0QzY0OTc3QjY5ODE0Rjc1MTYxNDRGNyJ9.2ECQs48uRgaUOE9dkbaIGZ556qBFOPomk4VxMDMXvHE",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p43",
+  "summary": "Flapping Airplanes, a year-old artificial intelligence startup, has raised $1 billion in funding at a $6 billion valuation …",
+  "techmeme_url": "https://www.techmeme.com/261021/p43",
+  "title": "Flapping Airplanes, which is working on methods to train AI models using less data and compute and make the chips more efficient, raised $1B at a $6B valuation (Rachel Metz/Bloomberg)"
+ },
+ "a261021p44": {
+  "article_url": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p44",
+  "summary": "Microsoft is opening up Xbox Cloud Gaming to anyone in November. … Microsoft announced last month that it will let anyone …",
+  "techmeme_url": "https://www.techmeme.com/261021/p44",
+  "title": "Microsoft reveals pricing for Xbox Cloud Gaming without Game Pass, for Xbox Insiders now and others next month: 10 hours for $3.99, 25 for $7.99, 50 for $11.99 (Tom Warren/The Verge)"
+ },
+ "a261021p45": {
+  "article_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p45",
+  "summary": "How OpenAI, PerturbAI, and Scripps Research used distributed AI agents to help scientists identify promising research leads in data from millions of brain cells",
+  "techmeme_url": "https://www.techmeme.com/261021/p45",
+  "title": "OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months (OpenAI)"
+ },
+ "a261021p46": {
+  "article_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p46",
+  "summary": "Announces Establishment of New Class C Common Stock — Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter ended September 30, 2026.",
+  "techmeme_url": "https://www.techmeme.com/261021/p46",
+  "title": "Meta reports Q3 revenue up 26% YoY to $64.6B, operating income down 37% to $12.99B on a $9.89B AG settlement charge, and family DAP up 3% to 3.64B for September (Meta)"
+ },
+ "a261021p47": {
+  "article_url": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?st=Uj26V6&reflink=desktopwebshare_permalink",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p47",
+  "summary": "The company, which reported record revenue of $64.2 billion for the third quarter, said the new stock won't affect Mark Zuckerberg's voting control",
+  "techmeme_url": "https://www.techmeme.com/261021/p47",
+  "title": "Meta says it will create a new class of nonvoting stock to raise the capital it needs for developing AI models, with an effective date in January 2027 (Meghan Bobrowsky/Wall Street Journal)"
+ },
+ "a261021p48": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/zuckerberg-weighs-leaving-california-if-billionaire-tax-passes",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p48",
+  "summary": "Mark Zuckerberg said he is considering leaving California if it passes a measure that would impose a one-time, 5% tax on billionaires.",
+  "techmeme_url": "https://www.techmeme.com/261021/p48",
+  "title": "Filing: Meta says Mark Zuckerberg is considering leaving California if it passes a one-time 5% tax on billionaires; voters will decide on the measure next month (Pierre Paulden/Bloomberg)"
+ },
+ "a261021p49": {
+  "article_url": "https://claude.com/resources/articles/claude-duet",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p49",
+  "summary": "A research preview is available by waitlist today, starting with US Pro and Max subscribers. — Join the waitlist … ShareCopy link",
+  "techmeme_url": "https://www.techmeme.com/261021/p49",
+  "title": "Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users (Claude)"
+ },
  "a261021p5": {
   "article_url": "https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/",
   "date": "2026-10-21",
@@ -214,6 +278,22 @@
   "summary": "Samsung Electronics (005930.KS) and SK Hynix (000660.KS) are upgrading their China factories to produce more advanced memory chips …",
   "techmeme_url": "https://www.techmeme.com/261021/p5",
   "title": "Sources: Samsung and SK Hynix are upgrading their China fabs to produce NAND flash chips with 200+ layers, aiming to fend off fast-growing Chinese rival YMTC (Reuters)"
+ },
+ "a261021p50": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYxNDI3NiwiZXhwIjoxNzkzMjE5MDc2LCJhcnRpY2xlSWQiOiJUTjZESlZUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.q9Qa14j48qtAHKu_qndGn-NfmTTT6GH40NNt8Ryh-C4",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p50",
+  "summary": "Meta Platforms Inc. boosted its capital spending outlook and announced plans to create a new class of nonvoting stock …",
+  "techmeme_url": "https://www.techmeme.com/261021/p50",
+  "title": "Meta expects its 2026 capex to be $135B-$145B, vs. $130B-$145B previously, and forecasts Q4 revenue of $73B-$76B, vs. $73.6B est.; META jumps 3%+ after hours (Riley Griffin/Bloomberg)"
+ },
+ "a261021p51": {
+  "article_url": "https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p51",
+  "summary": "Meta's new personal AI agent app, Muse, has drawn more than 10 million users since its September launch, CEO Mark Zuckerberg said Wednesday.",
+  "techmeme_url": "https://www.techmeme.com/261021/p51",
+  "title": "Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+ (Business Insider)"
  },
  "a261021p6": {
   "article_url": "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc",
