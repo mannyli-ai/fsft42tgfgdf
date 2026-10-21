@@ -6,5 +6,125 @@
   "summary": "NextDC plunge adds to sector woes as Nvidia holds talks over injecting capital into Firmus after failed IPO",
   "techmeme_url": "https://www.techmeme.com/261021/p1",
   "title": "NextDC's stock fell as much as 44% to A$5.15 after the Australian data center company cut its earnings forecast by over a third; shares were above A$16 in June (Nic Fildes/Financial Times)"
+ },
+ "a261021p10": {
+  "article_url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p10",
+  "summary": "In August, we showed how Claude designed protein minibinders after being given a single prompt.",
+  "techmeme_url": "https://www.techmeme.com/261021/p10",
+  "title": "Anthropic and Citrini Research use an internal Claude model to autonomously generate protein minibinders against five scorpion neurotoxins, testing 211 designs (Anthropic)"
+ },
+ "a261021p11": {
+  "article_url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p11",
+  "summary": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
+  "techmeme_url": "https://www.techmeme.com/261021/p11",
+  "title": "China criticizes the US DHS's DeepSeek ban, vowing \"resolute countermeasures\" while rejecting allegations from the FBI and AI labs of illicit distillation (Ephrat Livni/New York Times)"
+ },
+ "a261021p12": {
+  "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p12",
+  "summary": "Details released at GTC Berlin event, taking place this week — Nvidia has claimed its DSX reference architecture for AI data centers …",
+  "techmeme_url": "https://www.techmeme.com/261021/p12",
+  "title": "Nvidia unveils the DSX POD, a modular containerized version of its Vera Rubin reference architecture to cut data center deployment from six months to 14 days (Charlotte Trueman/DatacenterDynamics)"
+ },
+ "a261021p13": {
+  "article_url": "https://x.com/darioamodei",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p13",
+  "summary": "Thank you for this, @_NathanCalvin. I appreciate and am a fan of the investigative work you've done on behalf of AI safety and believe your comments are coming from a constructive, honest place, and that it benefits the public to have people whose job is to scrutinize the actions of frontier AI com...",
+  "techmeme_url": "https://www.techmeme.com/261021/p13",
+  "title": "Dario Amodei says Anthropic's \"race to the top\" makes AI safer, cites nine safety decisions with \"substantial costs\", and admits mishandling a draft AI bill (Dario Amodei/@darioamodei)"
+ },
+ "a261021p14": {
+  "article_url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153?st=qXvQgt&reflink=desktopwebshare_permalink",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p14",
+  "summary": "YOU CAN LEARN a lot about the people racing to build the world's most powerful technology by asking what keeps them up at night.",
+  "techmeme_url": "https://www.techmeme.com/261021/p14",
+  "title": "Demis Hassabis says he expects AGI within two to three years, down from his three-to-five-year prediction earlier in 2026, and discusses AI's science potential (Ben Cohen/Wall Street Journal)"
+ },
+ "a261021p15": {
+  "article_url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p15",
+  "summary": "It's the latest in a growing wave of bets that AI companies are making on brain data. — OpenAI's venture capital arm …",
+  "techmeme_url": "https://www.techmeme.com/261021/p15",
+  "title": "Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund (Emily Mullin/Wired)"
+ },
+ "a261021p16": {
+  "article_url": "https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p16",
+  "summary": "The world's richest man is preparing for the “AI singularity” by trying to fold SpaceX and Tesla together into a single company spanning rockets …",
+  "techmeme_url": "https://www.techmeme.com/261021/p16",
+  "title": "A look at Elon Musk's planned SpaceX-Tesla merger, which would create a $3.6T company but faces serious hurdles like shareholder votes and regulatory probes (Financial Times)"
+ },
+ "a261021p17": {
+  "article_url": "https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p17",
+  "summary": "Blacksmith, a startup that runs the infrastructure companies use to test code before it ships, has been valued at $1 billion following …",
+  "techmeme_url": "https://www.techmeme.com/261021/p17",
+  "title": "AI code-testing startup Blacksmith raised a $66M Series C led by Sequoia Capital at a $1B valuation, up from $550M after raising a $45M Series B in August (Beatrice Nolan/Fortune)"
+ },
+ "a261021p18": {
+  "article_url": "https://www.reuters.com/business/media-telecom/bookingcom-targeted-eu-investigation-into-phishing-scams-fraudulent-listings-2026-10-21/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p18",
+  "summary": "EU tech regulators will investigate whether online hotel reservation website Booking.com is doing enough to weed out fraudulent listings …",
+  "techmeme_url": "https://www.techmeme.com/261021/p18",
+  "title": "The EU Commission launches a DSA probe into Booking Holdings' Booking.com to determine whether it is doing enough to combat fraudulent listings and phishing (Foo Yun Chee/Reuters)"
+ },
+ "a261021p4": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p4",
+  "summary": "Artificial intelligence is helping Southeast Asia's digital economy deliver robust growth in the face of rising prices and teetering demand …",
+  "techmeme_url": "https://www.techmeme.com/261021/p4",
+  "title": "Google, Temasek, and Bain: online spending in SE Asia to rise ~17% YoY to $368B in 2026 despite economic headwinds, as businesses harness AI to spur spending (Gabrielle Ng/Bloomberg)"
+ },
+ "a261021p5": {
+  "article_url": "https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p5",
+  "summary": "Samsung Electronics (005930.KS) and SK Hynix (000660.KS) are upgrading their China factories to produce more advanced memory chips …",
+  "techmeme_url": "https://www.techmeme.com/261021/p5",
+  "title": "Sources: Samsung and SK Hynix are upgrading their China fabs to produce NAND flash chips with 200+ layers, aiming to fend off fast-growing Chinese rival YMTC (Reuters)"
+ },
+ "a261021p6": {
+  "article_url": "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p6",
+  "summary": "Founder of OpenEvidence chatbot says two-thirds of US physicians use the ad-powered tool, prompting a debate about patient care",
+  "techmeme_url": "https://www.techmeme.com/261021/p6",
+  "title": "OpenEvidence says nearly two-thirds of ~1M US physicians use its AI search engine; a source says it is on track to generate $400M-$500M in 2026 ad revenue (Rafe Rosner-Uddin/Financial Times)"
+ },
+ "a261021p7": {
+  "article_url": "https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p7",
+  "summary": "We've been looking at AI from the bottom of our own well. Here's the view from China's. — ∙ Paid",
+  "techmeme_url": "https://www.techmeme.com/261021/p7",
+  "title": "A look at Chinese philosophical views on AI; one says aligning AI to human values may be a \"suicidal mistake\" and another fears the \"machinization of humans\" (Arnaud Bertrand)"
+ },
+ "a261021p8": {
+  "article_url": "https://www.ft.com/content/9bc15db9-08b4-40f1-b814-24a52eed8ebc",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p8",
+  "summary": "Founder Josh Payne says demand remains ‘insatiable’ for the services of Nvidia-backed data centre group",
+  "techmeme_url": "https://www.techmeme.com/261021/p8",
+  "title": "Memo: Nscale CEO Josh Payne says it has \"more than $100B in contracted revenue\"; sources say it still plans to list by the end of 2026 at a $30B-$35B valuation (Kieran Smith/Financial Times)"
+ },
+ "a261021p9": {
+  "article_url": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p9",
+  "summary": "Micron Memory Taiwan and a union representing workers at its Taichung operations said on Wednesday they had signed …",
+  "techmeme_url": "https://www.techmeme.com/261021/p9",
+  "title": "Micron and the union of workers at its Taichung facility sign a multi-issue agreement, without giving details, resolving tensions at its largest Taiwan site (Reuters)"
  }
 }
