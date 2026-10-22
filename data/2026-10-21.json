@@ -295,6 +295,70 @@
   "techmeme_url": "https://www.techmeme.com/261021/p51",
   "title": "Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+ (Business Insider)"
  },
+ "a261021p52": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/texas-instruments-forecast-tops-estimates-after-demand-picks-up",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p52",
+  "summary": "Texas Instruments Inc., the biggest maker of analog and embedded processing chips, gave a strong revenue forecast for the current period …",
+  "techmeme_url": "https://www.techmeme.com/261021/p52",
+  "title": "Texas Instruments reports Q3 revenue up 28% YoY to $6.06B, above $5.93B est., net income up 78% YoY to $2.43B, and forecasts $5.8B-$6.3B in Q4, vs. $5.73B est. (Ian King/Bloomberg)"
+ },
+ "a261021p53": {
+  "article_url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p53",
+  "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version …",
+  "techmeme_url": "https://www.techmeme.com/261021/p53",
+  "title": "GitLab patches a critical flaw that lets unauthenticated attackers run code on self-managed servers, affecting every release since 7.0 in 2014 (Swati Khandelwal/The Hacker News)"
+ },
+ "a261021p54": {
+  "article_url": "https://www.wsj.com/business/earnings/ibm-reports-higher-profit-as-some-slipped-deals-come-through-c0bb0640",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p54",
+  "summary": "The company reported a third-quarter profit of $2.19 billion, up from $1.74 billion a year earlier",
+  "techmeme_url": "https://www.techmeme.com/261021/p54",
+  "title": "IBM reports Q3 revenue up 5% YoY to $17.1B, above $16.82B est., net income up 26% to $2.19B, software revenue up 8% to $7.8B, and infrastructure revenue up 4% (Elias Schisgall/Wall Street Journal)"
+ },
+ "a261021p55": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-21/sap-cloud-growth-beats-forecast-in-sign-of-software-s-resilience",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p55",
+  "summary": "SAP SE reported higher growth for its cloud products than anticipated in a sign that the boom …",
+  "techmeme_url": "https://www.techmeme.com/261021/p55",
+  "title": "SAP: Q3 cloud revenue up 25% YoY to €6.67B, vs. €6.57B est., total revenue up 12% to €10.27B, current cloud backlog up 26% to €24.1B, all in constant currencies (Christina Kyriasoglou/Bloomberg)"
+ },
+ "a261021p56": {
+  "article_url": "https://siliconangle.com/2026/10/20/auxoai-raises-over-20m-to-bring-ai-expertise-to-the-enterprise-and-redesign-how-work-gets-done/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p56",
+  "summary": "AuxoAI Inc., an enterprise engineering and consulting company that helps large businesses build and deploy artificial intelligence systems …",
+  "techmeme_url": "https://www.techmeme.com/261021/p56",
+  "title": "AuxoAI, which helps large businesses build and deploy AI systems, raised a $20.7M Series A led by NTTVC to accelerate growth and scale (Kyt Dotson/SiliconANGLE)"
+ },
+ "a261021p57": {
+  "article_url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p57",
+  "summary": "Earlier this morning, Railway detected anomalous activity involving systems that store customer environment variables.",
+  "techmeme_url": "https://www.techmeme.com/261021/p57",
+  "title": "Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents (Jacob Cooper/Railway Blog)"
+ },
+ "a261021p58": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-10-22/tesla-spacex-merger-why-musk-wants-a-deal-before-trump-leaves-office",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p58",
+  "summary": "Time is running out to pull off the $3.7 trillion merger before political and financial environments take a turn.",
+  "techmeme_url": "https://www.techmeme.com/261021/p58",
+  "title": "Sources: advisers within Elon Musk's empire are pushing to announce a SpaceX-Tesla merger by H1 2027 so it can close while President Trump remains in power (Bloomberg)"
+ },
+ "a261021p59": {
+  "article_url": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p59",
+  "summary": "The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.",
+  "techmeme_url": "https://www.techmeme.com/261021/p59",
+  "title": "GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq (Aarian Marshall/Wired)"
+ },
  "a261021p6": {
   "article_url": "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc",
   "date": "2026-10-21",
@@ -302,6 +366,30 @@
   "summary": "Founder of OpenEvidence chatbot says two-thirds of US physicians use the ad-powered tool, prompting a debate about patient care",
   "techmeme_url": "https://www.techmeme.com/261021/p6",
   "title": "OpenEvidence says nearly two-thirds of ~1M US physicians use its AI search engine; a source says it is on track to generate $400M-$500M in 2026 ad revenue (Rafe Rosner-Uddin/Financial Times)"
+ },
+ "a261021p60": {
+  "article_url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p60",
+  "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being “broadly exploited” across the internet.",
+  "techmeme_url": "https://www.techmeme.com/261021/p60",
+  "title": "AWS analysts claim that at least one actor started to exploit the PHP2Shell bugs on October 17, four days prior to the vulnerabilities' public disclosure (Lily Hay Newman/Wired)"
+ },
+ "a261021p61": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p61",
+  "summary": "The Chinese AI pioneer DeepSeek has raised about 100 billion yuan ($15 billion) in its latest fundraising round, one of the country's largest ever …",
+  "techmeme_url": "https://www.techmeme.com/261021/p61",
+  "title": "Sources: DeepSeek raised ~$15B in its latest fundraising round, one of China's largest ever, with CATL and Tencent among the biggest contributors (Lulu Yilun Chen/Bloomberg)"
+ },
+ "a261021p62": {
+  "article_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+  "date": "2026-10-21",
+  "permalink_id": "a261021p62",
+  "summary": "Walmart is embracing agentic commerce with the launch of its own Agent Gateway to manage transactions …",
+  "techmeme_url": "https://www.techmeme.com/261021/p62",
+  "title": "Walmart unveils its Agent Gateway, a new MCP server to help users' approved AI agents shop its website, and dedicated Agent Profiles with special \"terms\" for AI (Sarah Perez/TechCrunch)"
  },
  "a261021p7": {
   "article_url": "https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas",
