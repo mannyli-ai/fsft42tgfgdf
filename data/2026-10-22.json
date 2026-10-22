@@ -6,5 +6,125 @@
   "summary": "An Australian federal judge has ordered Apple to make sweeping changes to its App Store rules following a years-long antitrust battle with Epic Games.",
   "techmeme_url": "https://www.techmeme.com/261022/p1",
   "title": "An Australian federal judge rules Apple must let Australian iPhone users install apps from third-party app stores starting March 1, 2027; Apple plans to appeal (Marcus Mendes/9to5Mac)"
+ },
+ "a261022p10": {
+  "article_url": "https://daringfireball.net/2026/10/the_iphone_duo",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p10",
+  "summary": "The very nature of the iPhone Duo raises numerous obvious questions about what it's like to use. Does it not feel thick and heavy, awkward both to pocket and unpocket?",
+  "techmeme_url": "https://www.techmeme.com/261022/p10",
+  "title": "iPhone Duo review: the outer device is by far the worst iPhone Apple has ever made, while the inner device is a splendid tablet with a UI that bests the iPad's (John Gruber/Daring Fireball)"
+ },
+ "a261022p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-starts-creating-efficiency",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p11",
+  "summary": "Barclays to Cut 5,000 Jobs as AI Starts to Create Efficiency — Video Player is loading. — Unmute — Current Time 0:00 Loaded: 69.77% Playback Rate",
+  "techmeme_url": "https://www.techmeme.com/261022/p11",
+  "title": "Barclays plans to cut 5,000 jobs, or ~5% of its workforce, by the end of 2026 as part of AI-driven cost cutting, with ~60% coming from support and developers (William Shaw/Bloomberg)"
+ },
+ "a261022p12": {
+  "article_url": "https://newsletter.semianalysis.com/p/huawei-deepseek",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p12",
+  "summary": "Huawei Ascend 950PR Deep dive & µbenchmarks, DSv4.1 Flash Analysis, DeepSeek support for Ascend, AICPU, Tilelang Ascend",
+  "techmeme_url": "https://www.techmeme.com/261022/p12",
+  "title": "A look at Huawei and DeepSeek's mutual reliance, where Huawei provides compute hardware while DeepSeek contributes model workloads and kernel optimization (SemiAnalysis)"
+ },
+ "a261022p13": {
+  "article_url": "https://www.reuters.com/business/media-telecom/palantir-says-it-cannot-shut-off-nato-ai-system-europeans-fear-us-tech-2026-10-22/",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p13",
+  "summary": "US software company Palantir (PLTR.O) sought to reassure Europeans that its military AI system used by NATO has no …",
+  "techmeme_url": "https://www.techmeme.com/261022/p13",
+  "title": "Palantir says that neither the company nor the US government has a \"kill switch\" for its Maven platform that NATO uses, after Ukraine's Starlink disruptions (Andrew Gray/Reuters)"
+ },
+ "a261022p14": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/spotify-keeps-adding-users-but-misses-slightly-on-revenue",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p14",
+  "summary": "Spotify Technology SA reported monthly active users grew 1% in the third quarter, over the prior quarter …",
+  "techmeme_url": "https://www.techmeme.com/261022/p14",
+  "title": "Spotify reports Q3 revenue up 16% YoY to €4.97B, below €4.98B est., subscribers up 9% to 306M, MAUs up 11% to 788M, meeting est., and €672M operating income (Ashley Carman/Bloomberg)"
+ },
+ "a261022p15": {
+  "article_url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p15",
+  "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+  "techmeme_url": "https://www.techmeme.com/261022/p15",
+  "title": "Hugging Face releases Carbon-X, an open-source, 14B-parameter multimodal AI model to let users query DNA sequences via natural language, trained on 300B tokens (Emily Mullin/Wired)"
+ },
+ "a261022p16": {
+  "article_url": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p16",
+  "summary": "Tech companies are painting data centers with gray coatings on top of gray concrete and steel to resist fire, rust and static electricity.",
+  "techmeme_url": "https://www.techmeme.com/261022/p16",
+  "title": "How the AI boom is boosting paint maker PPG's sales: its specialized gray coatings serve critical functional needs and total $3M to $8M per data center, per JLL (Emmy Martin/New York Times)"
+ },
+ "a261022p17": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/nvidia-s-huang-urged-nscale-to-move-faster-after-early-setbacks",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p17",
+  "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang said he told UK-based neocloud Nscale to “work around the clock” …",
+  "techmeme_url": "https://www.techmeme.com/261022/p17",
+  "title": "At GTC Berlin, Jensen Huang says he urged UK-based neocloud Nscale to \"work around the clock\" to resolve data center delays amid investor doubts about its IPO (Bloomberg)"
+ },
+ "a261022p18": {
+  "article_url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p18",
+  "summary": "An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less Personalized Ads models at the beginning of this year.",
+  "techmeme_url": "https://www.techmeme.com/261022/p18",
+  "title": "Meta reports 18% YoY ad revenue growth in Europe for Q3, down from ~40% in Q1 and 24% in Q2, lagging the US and Canada, after rolling out Less Personalized Ads (Isabella Ward/Wired)"
+ },
+ "a261022p19": {
+  "article_url": "https://www.theinformation.com/articles/andreessen-horowitz-drop-crypto-name-flagship-blockchain-fund",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p19",
+  "summary": "Andreessen Horowitz, which made one of the boldest bets on blockchain investments in the venture world …",
+  "techmeme_url": "https://www.techmeme.com/261022/p19",
+  "title": "Source: a16z plans to drop \"crypto\" from its flagship blockchain fund, rebranding it to \"a16z frontier\" and broadening its investment strategy beyond crypto (Leo Schwartz/The Information)"
+ },
+ "a261022p5": {
+  "article_url": "https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p5",
+  "summary": "A Chinese state-aligned hacking group used an AI-driven penetration testing tool to compromise IT services firm ConnectWise as part …",
+  "techmeme_url": "https://www.techmeme.com/261022/p5",
+  "title": "Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations (AJ Vicens/Reuters)"
+ },
+ "a261022p6": {
+  "article_url": "https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p6",
+  "summary": "Axel Springer boss Mathias Döpfner raised idea over lunch with US ambassador to France Charles Kushner.",
+  "techmeme_url": "https://www.techmeme.com/261022/p6",
+  "title": "Sources: Axel Springer CEO Mathias Döpfner proposed joining a bid for TikTok's European business over lunch with Charles Kushner, the US ambassador to France (Financial Times)"
+ },
+ "a261022p7": {
+  "article_url": "https://www.reuters.com/legal/government/musks-public-endorsement-spacex-tesla-deal-may-throw-wrench-talks-2026-10-22/",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p7",
+  "summary": "Elon Musk's public endorsement this week of a potential $3.5 trillion merger between SpaceX (SPCX.O) and Tesla (TSLA.O) …",
+  "techmeme_url": "https://www.techmeme.com/261022/p7",
+  "title": "Source: Elon Musk's public endorsement of a SpaceX-Tesla merger rattled some insiders, who worry his comments could invite shareholder scrutiny and delays (Milana Vinn/Reuters)"
+ },
+ "a261022p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/venture-capitalists-push-up-ai-startup-valuations-with-tranched-two-step-rounds",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p8",
+  "summary": "Venture capitalists are fighting to invest in AI startup Emulate, driving its valuation into the billions …",
+  "techmeme_url": "https://www.techmeme.com/261022/p8",
+  "title": "Pressure to back promising AI startups is upending the VC investment process, with investors willing to buy into the same round at rapidly escalating valuations (Bloomberg)"
+ },
+ "a261022p9": {
+  "article_url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p9",
+  "summary": "The Rise and Fall of a New Global Order — In the span of a few years, China and the United States have each assembled …",
+  "techmeme_url": "https://www.techmeme.com/261022/p9",
+  "title": "How AI is an inherently imperial technology, and how the US and China are building rival \"AI empires\" with different approaches to extend their power (Foreign Affairs)"
  }
 }
