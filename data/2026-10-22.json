@@ -207,6 +207,70 @@
   "techmeme_url": "https://www.techmeme.com/261022/p41",
   "title": "Microsoft says it is closing The Garage, which gave employees around the world space and tools for side projects and ran the company's Global Hackathon (Todd Bishop/GeekWire)"
  },
+ "a261022p42": {
+  "article_url": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p42",
+  "summary": "New feature development for the innovative web browser ended last year. Now The Browser Company is telling users to try Dia, Arc's replacement.",
+  "techmeme_url": "https://www.techmeme.com/261022/p42",
+  "title": "The Browser Company says it will shut down its Arc browser on December 22, launched in 2023, shifting attention to its AI-focused Dia browser, launched in 2025 (Jay Peters/The Verge)"
+ },
+ "a261022p43": {
+  "article_url": "https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p43",
+  "summary": "Formic, a physical AI commercialization platform, raised $50 million in financing, CEO Saman Farid tells Axios exclusively.",
+  "techmeme_url": "https://www.techmeme.com/261022/p43",
+  "title": "Chicago-based Formic, which provides robots-as-a-service automation to manufacturers, raised $50M, including a $40M Series B and $10M in asset-backed financing (Natalie Breymeyer/Axios)"
+ },
+ "a261022p44": {
+  "article_url": "https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?st=hZda67",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p44",
+  "summary": "Military-grade system appeared to be working more normally on Thursday, soon after the call — WASHINGTON—President Trump …",
+  "techmeme_url": "https://www.techmeme.com/261022/p44",
+  "title": "US officials say Trump asked Elon Musk to lift Starshield restrictions; Ukraine officials said it was not fully fixed Thursday but was working at higher speeds (Wall Street Journal)"
+ },
+ "a261022p45": {
+  "article_url": "https://www.theinformation.com/articles/sb-energy-considers-waiting-december-later-ipo",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p45",
+  "summary": "SB Energy, the SoftBank Group-controlled developer of a massive planned Ohio data center project for OpenAI …",
+  "techmeme_url": "https://www.techmeme.com/261022/p45",
+  "title": "Sources: SoftBank's SB Energy is considering going public as soon as December or waiting until 2027, as it closely watches Anthropic's IPO, expected in November (The Information)"
+ },
+ "a261022p46": {
+  "article_url": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p46",
+  "summary": "Unlike narrated audiobooks from Audible and other providers, the audiobooks created with Virtual Voice in Kindle+ will instead be narrated by AI. — ZDNET's key takeaways",
+  "techmeme_url": "https://www.techmeme.com/261022/p46",
+  "title": "Amazon rebrands its Kindle Unlimited subscription as Kindle+ and expands access to audiobooks, including titles narrated by AI (Maria Diaz/ZDNET)"
+ },
+ "a261022p47": {
+  "article_url": "https://www.theinformation.com/articles/datadog-offered-buy-security-startup-upwind-nearly-4-billion",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p47",
+  "summary": "Enterprise software firm Datadog recently offered to buy Israeli cloud cybersecurity startup Upwind Security for nearly $4 billion …",
+  "techmeme_url": "https://www.techmeme.com/261022/p47",
+  "title": "Sources: Datadog offered to acquire Israeli cloud cybersecurity startup Upwind Security for nearly $4B; Upwind is finalizing a $300M round at a ~$3.8B valuation (The Information)"
+ },
+ "a261022p48": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p48",
+  "summary": "'We're going to build something that is indistinguishable from human performance ... in the next couple of years,' Microsoft AI CEO Mustafa Suleyman tells The Verge.",
+  "techmeme_url": "https://www.techmeme.com/261022/p48",
+  "title": "Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors (Robert Hart/The Verge)"
+ },
+ "a261022p49": {
+  "article_url": "https://www.politico.com/news/2026/10/21/amazon-trump-midterms-settlement-01130666",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p49",
+  "summary": "Millions of Americans are expected to receive a settlement check from Amazon credited to “President Trump's Federal Trade Commission” …",
+  "techmeme_url": "https://www.techmeme.com/261022/p49",
+  "title": "Amazon issues refunds from a 2025 settlement, crediting \"President Trump's Federal Trade Commission,\" the first time an FTC refund has been tied to a president (Alfred Ng/Politico)"
+ },
  "a261022p5": {
   "article_url": "https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/",
   "date": "2026-10-22",
@@ -214,6 +278,38 @@
   "summary": "A Chinese state-aligned hacking group used an AI-driven penetration testing tool to compromise IT services firm ConnectWise as part …",
   "techmeme_url": "https://www.techmeme.com/261022/p5",
   "title": "Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations (AJ Vicens/Reuters)"
+ },
+ "a261022p50": {
+  "article_url": "https://fortune.com/2026/10/21/microsoft-alphabet-object-blockchain-versions-shares-veto/",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p50",
+  "summary": "A growing number of companies are pushing back against tokenized trading of their shares. Microsoft and Alphabet are the latest …",
+  "techmeme_url": "https://www.techmeme.com/261022/p50",
+  "title": "Microsoft and Alphabet join 14 other companies objecting to a plan by OKXICE, a venture of OKX and ICE, to trade blockchain-based versions of their shares (Camila Grigera Naón/Fortune)"
+ },
+ "a261022p51": {
+  "article_url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p51",
+  "summary": "Design platform Canva released its first image generation model, called Canva Craft, developed by its research team to compete …",
+  "techmeme_url": "https://www.techmeme.com/261022/p51",
+  "title": "Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots (Ivan Mehta/TechCrunch)"
+ },
+ "a261022p52": {
+  "article_url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p52",
+  "summary": "OpenAI is closing in on a funding round that could value the artificial intelligence giant at more than $1 trillion ahead …",
+  "techmeme_url": "https://www.techmeme.com/261022/p52",
+  "title": "Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an \"opportunistic\" bridge ahead of an IPO (Kate Rooney/CNBC)"
+ },
+ "a261022p53": {
+  "article_url": "https://www.anthropic.com/",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p53",
+  "summary": "Today, we're donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF).",
+  "techmeme_url": "https://www.techmeme.com/261022/p53",
+  "title": "Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025 (Anthropic)"
  },
  "a261022p6": {
   "article_url": "https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb",
