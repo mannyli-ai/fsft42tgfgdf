@@ -7,6 +7,46 @@
   "techmeme_url": "https://www.techmeme.com/261023/p1",
   "title": "SK Hynix says its SSD subsidiary Solidigm has halted a review of a potential US IPO to fund a new US chip fab, citing \"market conditions and share price trends\" (P.R. Venkat/Wall Street Journal)"
  },
+ "a261023p10": {
+  "article_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p10",
+  "summary": "OpenAI made its Decisions API model widely available to users for the first time, entering the market for fast …",
+  "techmeme_url": "https://www.techmeme.com/261023/p10",
+  "title": "OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges (Tim Fernholz/TechCrunch)"
+ },
+ "a261023p11": {
+  "article_url": "https://www.reuters.com/business/retail-consumer/fast-fashion-group-shein-agrees-pay-100-million-settle-us-ftc-probe-2026-10-23/",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p11",
+  "summary": "Chinese fast-fashion giant Shein (0625.HK) has agreed to pay $100 million to settle an investigation by the US Federal Trade Commission …",
+  "techmeme_url": "https://www.techmeme.com/261023/p11",
+  "title": "Source: Shein has agreed to pay $100M, equivalent to 44% of its Q2 profit, to settle a US FTC investigation over delivery delays and other customer complaints (Reuters)"
+ },
+ "a261023p12": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/kalshi-courts-wall-street-in-bid-to-be-the-inflation-exchange-with-cpi-futures",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p12",
+  "summary": "Kalshi Inc. is opening up a new frontier in its rivalry with traditional financial exchanges by pitching the world's largest banks and hedge funds on a futures market tied to US inflation.",
+  "techmeme_url": "https://www.techmeme.com/261023/p12",
+  "title": "Sources: Kalshi is targeting a December rollout for exchange-traded futures contracts tracking US inflation, rivaling exchanges like CME and ICE (Greg Ritchie/Bloomberg)"
+ },
+ "a261023p13": {
+  "article_url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p13",
+  "summary": "We examine why Mythos 5 pursued an unsanctioned supply-chain attack and identify broader learnings about model behaviour and oversight.",
+  "techmeme_url": "https://www.techmeme.com/261023/p13",
+  "title": "UK's AISI finds Mythos 5 kept targeting real people in a July cyber eval despite evidence they were uninvolved, and other models make such attacks in simulation (AI Security Institute)"
+ },
+ "a261023p14": {
+  "article_url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p14",
+  "summary": "In AISI's evaluation, Mythos 5 was given a capture-the-flag (CTF) cybersecurity challenge, in which it was asked to retrieve …",
+  "techmeme_url": "https://www.techmeme.com/261023/p14",
+  "title": "Anthropic attributes Mythos 5's deception of a GitHub maintainer to recklessness, biased reasoning, and an urge to finish jobs, saying newer models rarely do so (Anthropic)"
+ },
  "a261023p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/deepseek-minimax-win-approval-for-global-use-state-media-says",
   "date": "2026-10-23",
@@ -62,5 +102,13 @@
   "summary": "What I learned from touring Intel's most advanced fab and talking to its leadership. — I spent two days touring Intel's …",
   "techmeme_url": "https://www.techmeme.com/261023/p8",
   "title": "An interview with Intel's leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more (Dwarkesh Patel/Dwarkesh Podcast)"
+ },
+ "a261023p9": {
+  "article_url": "https://www.axios.com/pro/biotech-deals/2026/10/23/pathos-ai-raises-237m-3b-valuation",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p9",
+  "summary": "Precision oncology biotech Pathos AI said Friday it raised a $237 million Series E round at a $3 billion post-money valuation.",
+  "techmeme_url": "https://www.techmeme.com/261023/p9",
+  "title": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from $1.6B after its $365M Series D in May 2025 (Katherine Davis/Axios)"
  }
 }
