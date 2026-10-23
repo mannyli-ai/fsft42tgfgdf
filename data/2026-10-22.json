@@ -311,6 +311,54 @@
   "techmeme_url": "https://www.techmeme.com/261022/p53",
   "title": "Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025 (Anthropic)"
  },
+ "a261022p54": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/spacex-in-talks-to-access-80-000-cell-sites-for-wireless-network",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p54",
+  "summary": "SpaceX aims to secure a minimum of 80,000 cell sites across the US, and it's in talks with at least one major cellular infrastructure company …",
+  "techmeme_url": "https://www.techmeme.com/261022/p54",
+  "title": "Sources: SpaceX is in talks with at least one major cellular infrastructure firm to secure a minimum of 80K US cell sites, as it eyes a wireless carrier launch (Kelcee Griffis/Bloomberg)"
+ },
+ "a261022p55": {
+  "article_url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p55",
+  "summary": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT — OpenAI has cut its valuation target …",
+  "techmeme_url": "https://www.techmeme.com/261022/p55",
+  "title": "Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors (Financial Times)"
+ },
+ "a261022p56": {
+  "article_url": "https://fortune.com/2026/10/22/venture-giant-andreessen-horowitz-crypto-name-blockchain-fund-rebrands-a16z-frontier/",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p56",
+  "summary": "In 2018, Andreessen Horowitz made a splash in the venture capital world by launching a spin-off dedicated to digital assets called a16z Crypto.",
+  "techmeme_url": "https://www.techmeme.com/261022/p56",
+  "title": "a16z rebrands a16z Crypto as a16z Frontier and expands the fund's scope to back startups developing AI, robotics, and other emerging technologies (Camila Grigera Naón/Fortune)"
+ },
+ "a261022p57": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p57",
+  "summary": "Germany's idle nuclear plants could find a new life as data centers, with operators looking for ways to redevelop the sites while dismantling of the reactors continues.",
+  "techmeme_url": "https://www.techmeme.com/261022/p57",
+  "title": "German energy company PreussenElektra says it is working with Nvidia to assess whether the country's idle nuclear plants could be turned into data centers (Eva Brendel/Bloomberg)"
+ },
+ "a261022p58": {
+  "article_url": "https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123/?gift=iWa_iB9lkw4UuiWbIbrWGX0S2EScp28jU-louXZfg5I",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p58",
+  "summary": "On Tuesday, the world found out about two massive security vulnerabilities in PHP, a programming language that is used by roughly 70 percent of websites.",
+  "techmeme_url": "https://www.techmeme.com/261022/p58",
+  "title": "An interview with Ondřej Surý, a volunteer who maintains PHP and automates its patches, about his role in fixing two critical PHP security vulnerabilities (Charlie Warzel/The Atlantic)"
+ },
+ "a261022p59": {
+  "article_url": "https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p59",
+  "summary": "The U.S. Treasury Department proposed a rule Thursday to crack down on American high-tech investments such as supercomputing …",
+  "techmeme_url": "https://www.techmeme.com/261022/p59",
+  "title": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)"
+ },
  "a261022p6": {
   "article_url": "https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb",
   "date": "2026-10-22",
@@ -318,6 +366,22 @@
   "summary": "Axel Springer boss Mathias Döpfner raised idea over lunch with US ambassador to France Charles Kushner.",
   "techmeme_url": "https://www.techmeme.com/261022/p6",
   "title": "Sources: Axel Springer CEO Mathias Döpfner proposed joining a bid for TikTok's European business over lunch with Charles Kushner, the US ambassador to France (Financial Times)"
+ },
+ "a261022p60": {
+  "article_url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p60",
+  "summary": "Spotify confirmed the reports of its crackdown on Family Plan sharing during its third-quarter call with investors …",
+  "techmeme_url": "https://www.techmeme.com/261022/p60",
+  "title": "Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers' phones within seven days of notice (Sarah Perez/TechCrunch)"
+ },
+ "a261022p61": {
+  "article_url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853",
+  "date": "2026-10-22",
+  "permalink_id": "a261022p61",
+  "summary": "The company fired three safety researchers for mishandling sensitive information. They had been fighting to keep the workings …",
+  "techmeme_url": "https://www.techmeme.com/261022/p61",
+  "title": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats (Wall Street Journal)"
  },
  "a261022p7": {
   "article_url": "https://www.reuters.com/legal/government/musks-public-endorsement-spacex-tesla-deal-may-throw-wrench-talks-2026-10-22/",
