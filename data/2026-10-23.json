@@ -14,5 +14,53 @@
   "summary": "DeepSeek and MiniMax Group Inc. have won approval to deploy models overseas, part of a wave of homegrown AI technologies that Beijing …",
   "techmeme_url": "https://www.techmeme.com/261023/p2",
   "title": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)"
+ },
+ "a261023p3": {
+  "article_url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p3",
+  "summary": "Smart ring maker Oura has sued Indian rival Ultrahuman again, seeking to block U.S. sales of its Ring Pro (pictured above) …",
+  "techmeme_url": "https://www.techmeme.com/261023/p3",
+  "title": "Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban (Jagmeet Singh/TechCrunch)"
+ },
+ "a261023p4": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p4",
+  "summary": "SK Hyper Co. is in talks with big tech firms and financial investors to secure funding for an envisioned $350 billion data center buildout …",
+  "techmeme_url": "https://www.techmeme.com/261023/p4",
+  "title": "SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B (Bloomberg)"
+ },
+ "a261023p5": {
+  "article_url": "https://www.anthropic.com/research/formal-verification",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p5",
+  "summary": "Introduction — Even mature, heavily tested software contains bugs, and LLMs are increasingly adept at finding them.",
+  "techmeme_url": "https://www.techmeme.com/261023/p5",
+  "title": "Anthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries (Anthropic)"
+ },
+ "a261023p6": {
+  "article_url": "https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p6",
+  "summary": "Greece's parliament approved a bill on Friday that bans the use of social media platforms for children under 15 amid growing concerns …",
+  "techmeme_url": "https://www.techmeme.com/261023/p6",
+  "title": "Greece's parliament passes a bill to ban social media platforms for children under 15 from 2027 and gives companies two months to verify users' ages (Angeliki Koutantou/Reuters)"
+ },
+ "a261023p7": {
+  "article_url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p7",
+  "summary": "New company backed by Anthropic and UK buyout group Hg will advise companies on how to deploy AI",
+  "techmeme_url": "https://www.techmeme.com/261023/p7",
+  "title": "Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses (Financial Times)"
+ },
+ "a261023p8": {
+  "article_url": "https://www.dwarkesh.com/p/intel-tour",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p8",
+  "summary": "What I learned from touring Intel's most advanced fab and talking to its leadership. — I spent two days touring Intel's …",
+  "techmeme_url": "https://www.techmeme.com/261023/p8",
+  "title": "An interview with Intel's leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more (Dwarkesh Patel/Dwarkesh Podcast)"
  }
 }
