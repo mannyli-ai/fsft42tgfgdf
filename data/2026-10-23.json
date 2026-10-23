@@ -47,6 +47,46 @@
   "techmeme_url": "https://www.techmeme.com/261023/p14",
   "title": "Anthropic attributes Mythos 5's deception of a GitHub maintainer to recklessness, biased reasoning, and an urge to finish jobs, saying newer models rarely do so (Anthropic)"
  },
+ "a261023p15": {
+  "article_url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p15",
+  "summary": "We're introducing Kimi K3.1 Pro, the first model in our new K3.1 series and our most capable 3T-class open-weight model to date, with a 1-million-token context window.",
+  "techmeme_url": "https://www.techmeme.com/261023/p15",
+  "title": "Moonshot unveils Kimi K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by Nov. 4 (Kimi)"
+ },
+ "a261023p16": {
+  "article_url": "https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p16",
+  "summary": "Tehran has drawn up detailed plans to target undersea communications cables in the Gulf if the United States and Israel attack Iran again …",
+  "techmeme_url": "https://www.techmeme.com/261023/p16",
+  "title": "Iranian security officials say the country has detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again (Reuters)"
+ },
+ "a261023p17": {
+  "article_url": "http://www.counterpointresearch.com/",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p17",
+  "summary": "Global PC shipments declined 21% YoY in Q3 2026 to 57 million units, as elevated memory and other component costs continued to push up PC prices and constrain demand.",
+  "techmeme_url": "https://www.techmeme.com/261023/p17",
+  "title": "Global PC shipments fell 21% YoY in Q3 to 57M units, as memory and other costs pushed prices up; Lenovo retained its market leadership despite a 23% decline (Minsoo Kang/Counterpoint Research)"
+ },
+ "a261023p18": {
+  "article_url": "https://x.com/artificialanlys",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p18",
+  "summary": "Kimi K3.1 Pro launches at 4th on the Artificial Analysis Intelligence Index scoring 55, making large gains in agentic performance; it will be the leading open-weights model once its weights are published @Kimi_Moonshot's new reasoning model gains 11 points over Kimi K3 (max, 44). It trails only Cl...",
+  "techmeme_url": "https://www.techmeme.com/261023/p18",
+  "title": "Artificial Analysis says Kimi K3.1 Pro lands 4th on its Intelligence Index, behind only Opus 5.5 (max), Sonnet 5.5 (max), and Muse Wonder Full (max) (@artificialanlys)"
+ },
+ "a261023p19": {
+  "article_url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p19",
+  "summary": "Key Points … Ask about this article... The model scores 55 points on the Artificial Analysis Intelligence Index …",
+  "techmeme_url": "https://www.techmeme.com/261023/p19",
+  "title": "Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro \"to reduce potential misuse risk while preserving general usefulness\" (Matthias Bastian/The Decoder)"
+ },
  "a261023p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/deepseek-minimax-win-approval-for-global-use-state-media-says",
   "date": "2026-10-23",
@@ -54,6 +94,30 @@
   "summary": "DeepSeek and MiniMax Group Inc. have won approval to deploy models overseas, part of a wave of homegrown AI technologies that Beijing …",
   "techmeme_url": "https://www.techmeme.com/261023/p2",
   "title": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)"
+ },
+ "a261023p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-23/openai-to-train-ai-models-without-internet-after-cyber-incidents",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p20",
+  "summary": "OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process …",
+  "techmeme_url": "https://www.techmeme.com/261023/p20",
+  "title": "OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established (Rachel Metz/Bloomberg)"
+ },
+ "a261023p21": {
+  "article_url": "https://www.theinformation.com/articles/instacart-exploring-sale",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p21",
+  "summary": "Instacart is in talks to sell itself in a transaction that would cap the grocery delivery app's 14-year run as a standalone company.",
+  "techmeme_url": "https://www.techmeme.com/261023/p21",
+  "title": "Sources: Instacart, currently valued at $12B, is in talks to sell itself and held preliminary conversations with DoorDash and Uber; CART jumps 9%+ (The Information)"
+ },
+ "a261023p22": {
+  "article_url": "https://www.calcalistech.com/ctechnews/article/h1sq8ip2mx",
+  "date": "2026-10-23",
+  "permalink_id": "a261023p22",
+  "summary": "The funding, led by Red Dot Capital Partners, brings Mave's total funding to $34 million. The company is developing AI …",
+  "techmeme_url": "https://www.techmeme.com/261023/p22",
+  "title": "Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M (Meir Orbach/CTech)"
  },
  "a261023p3": {
   "article_url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
