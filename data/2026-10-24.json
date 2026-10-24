@@ -46,5 +46,21 @@
   "summary": "Ciena CEO Gary Smith is ‘suitably paranoid,’ but optimistic — The historic telecommunications crash of 2001 is burned indelibly …",
   "techmeme_url": "https://www.techmeme.com/261024/p6",
   "title": "An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more (Steven Rosenbush/Wall Street Journal)"
+ },
+ "a261024p7": {
+  "article_url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html?unlocked_article_code=1.K1E.IcJn.2l4XIQK5gQsl&smid=url-share",
+  "date": "2026-10-24",
+  "permalink_id": "a261024p7",
+  "summary": "Alpha School, a private network, is spreading into public education. While its students' test scores are high, some parents and educators say it doesn't live up to the hype.",
+  "techmeme_url": "https://www.techmeme.com/261024/p7",
+  "title": "A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math (Dana Goldstein/New York Times)"
+ },
+ "a261024p8": {
+  "article_url": "https://www.theinformation.com/articles/anthropics-margin-openais-opportunity",
+  "date": "2026-10-24",
+  "permalink_id": "a261024p8",
+  "summary": "OpenAI's efforts to undercut Anthropic on price are producing some results. — For instance, in May, Anthropic models powered 57% …",
+  "techmeme_url": "https://www.techmeme.com/261024/p8",
+  "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)"
  }
 }
