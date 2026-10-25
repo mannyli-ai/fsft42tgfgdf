@@ -7,6 +7,14 @@
   "techmeme_url": "https://www.techmeme.com/261024/p1",
   "title": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)"
  },
+ "a261024p10": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-24/meta-unseats-musk-as-tech-villain-for-lula-in-brazil-s-election",
+  "date": "2026-10-24",
+  "permalink_id": "a261024p10",
+  "summary": "A new villain is emerging in the closing stretch of Brazil's bitterly contested presidential election: Meta Platforms Inc.",
+  "techmeme_url": "https://www.techmeme.com/261024/p10",
+  "title": "A look at Meta's role in Brazil's runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches (Augusta Saraiva/Bloomberg)"
+ },
  "a261024p2": {
   "article_url": "https://www.forbes.com/sites/thomasbrewster/2026/10/23/inside-openais-plan-to-protect-the-internet-before-hackers-break-it/",
   "date": "2026-10-24",
@@ -62,5 +70,13 @@
   "summary": "OpenAI's efforts to undercut Anthropic on price are producing some results. — For instance, in May, Anthropic models powered 57% …",
   "techmeme_url": "https://www.techmeme.com/261024/p8",
   "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)"
+ },
+ "a261024p9": {
+  "article_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+  "date": "2026-10-24",
+  "permalink_id": "a261024p9",
+  "summary": "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.",
+  "techmeme_url": "https://www.techmeme.com/261024/p9",
+  "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)"
  }
 }
