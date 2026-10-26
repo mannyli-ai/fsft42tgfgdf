@@ -6,5 +6,125 @@
   "summary": "Japanese group uses 20 years of research to commercialise intelligent robots — Toyota is setting its sights on becoming …",
   "techmeme_url": "https://www.techmeme.com/261026/p1",
   "title": "A look at Toyota's robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China (Financial Times)"
+ },
+ "a261026p10": {
+  "article_url": "https://minimaxir.com/2026/10/cheap-llms/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p10",
+  "summary": "Let's look at a quick timeline of the major LLM model announcements from both OpenAI and Anthropic over the past few months.",
+  "techmeme_url": "https://www.techmeme.com/261026/p10",
+  "title": "A look at OpenAI's and Anthropic's aggressive price cuts from June through September, driven by low switching costs and pricing pressure from open-weight models (Max Woolf's Blog)"
+ },
+ "a261026p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-26/china-boosts-self-driving-push-with-vw-xpeng-technology-trials",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p11",
+  "summary": "Volkswagen AG and Xpeng Inc. secured approvals to trial autonomous driving systems on public roads in China, signaling a renewed push …",
+  "techmeme_url": "https://www.techmeme.com/261026/p11",
+  "title": "Volkswagen's China unit and Xpeng secure approvals to trial autonomous driving systems on public roads in China; VW is testing Level 3 and Xpeng Level 4 (Bloomberg)"
+ },
+ "a261026p12": {
+  "article_url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p12",
+  "summary": "AI panic weirdly resembles the anxiety that accompanied early capitalism — I've been reading Joyce Appleby's …",
+  "techmeme_url": "https://www.techmeme.com/261026/p12",
+  "title": "Modern AI panic reflects \"cognitive mercantilism\", a zero-sum worldview where intelligence is a scarce, dangerous supply-side resource that elites must manage (Venkatesh Rao/Contraptions)"
+ },
+ "a261026p13": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p13",
+  "summary": "Meta Platforms Inc.'s $349-and-up Ray-Ban Meta Audio, announced last month, are an odd proposition.",
+  "techmeme_url": "https://www.techmeme.com/261026/p13",
+  "title": "Ray-Ban Meta Audio glasses review: no camera is a bonus for some, good audio quality, and Meta AI works well, but lingering privacy concerns and fairly pricey (Samantha Kelly/Bloomberg)"
+ },
+ "a261026p14": {
+  "article_url": "https://stratechery.com/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p14",
+  "summary": "It was the summer of 2003, just weeks before I was set to move to Taiwan, that I decided to create a blog to document my journey.",
+  "techmeme_url": "https://www.techmeme.com/261026/p14",
+  "title": "The public internet model is dying from too much content, algorithmic aggregators, and vulnerabilities found with AI, and that may bring new possibilities (Ben Thompson/Stratechery)"
+ },
+ "a261026p15": {
+  "article_url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p15",
+  "summary": "Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors — Meta is planning to raise $95bn …",
+  "techmeme_url": "https://www.techmeme.com/261026/p15",
+  "title": "Meta plans to raise $95B to finance its AI infrastructure, including $35B in public equity offerings, backed by cornerstone investors Nvidia, AMD, and Broadcom (Tim Bradshaw/Financial Times)"
+ },
+ "a261026p16": {
+  "article_url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyOTg3MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk0MzczMTk5LCJpYXQiOjE3OTI5ODcyMDAsImp0aSI6ImI1M2RjZmEzLThkNTItNGE3NC05ZjI4LWU1ZGJkZTIyZDFmOSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMTAvMjYvcmVzZWFyY2hlcnMtY3liZXJzZWN1cml0eS1zdGFydC11cC1jYXRoZWRyYWwtZ290LWluc2lkZS1hbnRocm9waWMvIn0.k3b70wv6ePisrPvCYfDOPAjt5vHweVxm4rBnhcnDU-M&itid=gfta",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p16",
+  "summary": "The start-up firm Cathedral has told makers of the Claude chatbot that its researchers were able to quickly penetrate sensitive systems, a report reviewed by The Post shows.",
+  "techmeme_url": "https://www.techmeme.com/261026/p16",
+  "title": "Cathedral, a months-old cybersecurity startup founded by ex-DOGE staffers, says it breached Anthropic's internal systems in under 12 hours using AI agents (Washington Post)"
+ },
+ "a261026p17": {
+  "article_url": "https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p17",
+  "summary": "California companies have scooped up more than three-fourths of all U.S. startup funding this year. That, per Crunchbase data, is an apparent record share.",
+  "techmeme_url": "https://www.techmeme.com/261026/p17",
+  "title": "California startups have raised a record $385B across seed to growth rounds so far in 2026, or 75%+ of all US startup funding; early and seed stage raised ~$62B (Joanna Glasner/Crunchbase News)"
+ },
+ "a261026p18": {
+  "article_url": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p18",
+  "summary": "Hurricane forecasters are increasingly using artificial intelligence to make predictions — and they say the technology is rapidly transforming the field.",
+  "techmeme_url": "https://www.techmeme.com/261026/p18",
+  "title": "Google DeepMind's AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida (Jessica Meszaros/NPR)"
+ },
+ "a261026p19": {
+  "article_url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p19",
+  "summary": "Featuring a stunning OLED display in an even thinner and lighter design, a huge leap in performance, faster wireless connectivity, and water and dust resistance",
+  "techmeme_url": "https://www.techmeme.com/261026/p19",
+  "title": "Apple unveils a redesigned iPad mini with an 8.5-inch OLED display, A20 Pro, 24% thinner bezels, and an optional nano-texture finish, for $699+ on November 6 (Apple)"
+ },
+ "a261026p20": {
+  "article_url": "https://www.anthropic.com/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p20",
+  "summary": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating …",
+  "techmeme_url": "https://www.techmeme.com/261026/p20",
+  "title": "Anthropic files for an IPO on the Nasdaq under the symbol ANT; the number of Class A shares to be offered and the price range is yet to be determined (Anthropic)"
+ },
+ "a261026p6": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p6",
+  "summary": "Three of the biggest and most important technology companies in the world are expected to show healthy growth when they report earnings this week.",
+  "techmeme_url": "https://www.techmeme.com/261026/p6",
+  "title": "Alphabet, Amazon, and Microsoft are expected to report double-digit gains in revenue this week, as investors grow impatient with AI capex and seek returns (Bloomberg)"
+ },
+ "a261026p7": {
+  "article_url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html?unlocked_article_code=1.LVE.Unk9.7e04-FAQ9Ei8&smid=nytcore-ios-share",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p7",
+  "summary": "The $41 million lawsuit contends that the A.I. company used Presley's music to train its models without permission.",
+  "techmeme_url": "https://www.techmeme.com/261026/p7",
+  "title": "Elvis Presley's rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+; Anthropic says it disagrees and will defend itself (Derrick Bryson Taylor/New York Times)"
+ },
+ "a261026p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p8",
+  "summary": "Suzhou Dongshan Precision Manufacturing Co. a printed circuit board maker, raised about HK$9.9 billion ($1.3 billion) …",
+  "techmeme_url": "https://www.techmeme.com/261026/p8",
+  "title": "Filing: Chinese PCB maker Dongshan raised ~$1.3B in Hong Kong's biggest IPO in nearly two months, pricing shares at ~$11, or 35% below its Friday Shenzhen close (Bloomberg)"
+ },
+ "a261026p9": {
+  "article_url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LVE.T4pO.KW_xY6NbyH_s&smid=nytcore-ios-share",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p9",
+  "summary": "On July 5 the Northwest Chinese Baptist Church in Phoenix opened its weekly Mandarin service with a verse from the Old Testament.",
+  "techmeme_url": "https://www.techmeme.com/261026/p9",
+  "title": "A look at TSMC's initial Phoenix fab, which has achieved chip output rates comparable to its Taiwan facilities, as its Taiwanese engineers teach US workers (New York Times)"
  }
 }
