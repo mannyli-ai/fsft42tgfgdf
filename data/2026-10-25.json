@@ -15,6 +15,54 @@
   "techmeme_url": "https://www.techmeme.com/261025/p10",
   "title": "Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)"
  },
+ "a261025p11": {
+  "article_url": "https://x.com/elonmusk",
+  "date": "2026-10-25",
+  "permalink_id": "a261025p11",
+  "summary": "Pretty much. As of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn't have substantial revenue independent of AI data centers. SpaceX closed $40B of debt for GPUs, but we're investment grade and have Starlink & launch revenue. That means...",
+  "techmeme_url": "https://www.techmeme.com/261025/p11",
+  "title": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)"
+ },
+ "a261025p12": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+  "date": "2026-10-25",
+  "permalink_id": "a261025p12",
+  "summary": "The opensource subreddit's new rules against AI have sparked a revolt. … The post made Saturday evening opens by saying …",
+  "techmeme_url": "https://www.techmeme.com/261025/p12",
+  "title": "Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more (Terrence O'Brien/The Verge)"
+ },
+ "a261025p13": {
+  "article_url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+  "date": "2026-10-25",
+  "permalink_id": "a261025p13",
+  "summary": "Apple's folding iPhone finally made it to our teardown table. Some owners' screens didn't make it through setup.",
+  "techmeme_url": "https://www.techmeme.com/261025/p13",
+  "title": "iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough (Elizabeth Chamberlain/iFixit News)"
+ },
+ "a261025p14": {
+  "article_url": "https://www.theinformation.com/articles/ramp-investors-went-nuclear-airwallex-doomed-deal",
+  "date": "2026-10-25",
+  "permalink_id": "a261025p14",
+  "summary": "In April 2025, Eric Glyman, co-founder and co-CEO of Ramp, received some bad news: A deal was falling apart.",
+  "techmeme_url": "https://www.techmeme.com/261025/p14",
+  "title": "Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex's China ties after Airwallex scrapped a Ramp deal (Michael Roddan/The Information)"
+ },
+ "a261025p15": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mjg5ODcyMSwiZXhwIjoxNzkzNTAzNTIxLCJhcnRpY2xlSWQiOiJUTkJVQ0RLSUpIOTIwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.aZUQTESNPxDFkB9tAjev0zQuyASx2W5Ed0a-yabw_WY",
+  "date": "2026-10-25",
+  "permalink_id": "a261025p15",
+  "summary": "High-frequency trading firms are even building their own data centers as they compete for an edge in the AI era.",
+  "techmeme_url": "https://www.techmeme.com/261025/p15",
+  "title": "High-frequency trading firms such as Jane Street are investing in AI and chip startups and neoclouds, and building data centers to gain an edge in the AI era (Bloomberg)"
+ },
+ "a261025p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report",
+  "date": "2026-10-25",
+  "permalink_id": "a261025p16",
+  "summary": "SK Hynix Inc.'s shares bucked a broad selloff in AI-related stocks thanks to the prospect of a hefty dividend payout related …",
+  "techmeme_url": "https://www.techmeme.com/261025/p16",
+  "title": "Report: SK Hynix gained ~$15B from selling down its Kioxia stake earlier this year, and plans to return ~$12B to shareholders via a special dividend (Bloomberg)"
+ },
  "a261025p2": {
   "article_url": "https://venturebeat.com/technology/moonshots-kimi-k3-1-pro-flirts-with-open-weights-leadership-amid-paid-influencer-scandal-allegations",
   "date": "2026-10-25",
