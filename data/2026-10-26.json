@@ -95,6 +95,126 @@
   "techmeme_url": "https://www.techmeme.com/261026/p20",
   "title": "Anthropic files for an IPO on the Nasdaq under the symbol ANT; the number of Class A shares to be offered and the price range is yet to be determined (Anthropic)"
  },
+ "a261026p34": {
+  "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026/card/few-vcs-mentioned-in-anthropic-ipo-filing-except-spark-capital-AzO2iia3OGgCOvgbzPAt",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p34",
+  "summary": "Venture capital firms are largely absent from Anthropic's IPO prospectus, with one exception: Spark Capital, an early investor whose general partner …",
+  "techmeme_url": "https://www.techmeme.com/261026/p34",
+  "title": "Few VC firms are mentioned in Anthropic's S-1, except Spark, which invested ~$800M across six rounds and whose GP Yasmin Razavi is the sole VC on its board (Kate Clark/Wall Street Journal)"
+ },
+ "a261026p35": {
+  "article_url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p35",
+  "summary": "A critical flaw dubbed ‘HTTP2Shell’ in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data.",
+  "techmeme_url": "https://www.techmeme.com/261026/p35",
+  "title": "Microsoft and others push out emergency patches for a critical flaw in Brotli, the C decoder library built into Node.js, that could allow remote code execution (Bill Toulas/BleepingComputer)"
+ },
+ "a261026p36": {
+  "article_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p36",
+  "summary": "Anthropic is building the same kind of cross-product ecosystem that helped make tech companies like Amazon and Uber enormously sticky, and its S-1 suggests the strategy is working.",
+  "techmeme_url": "https://www.techmeme.com/261026/p36",
+  "title": "S-1: as of September 30, Anthropic had 11,900+ customers spending $100,000+ annually, 1,900+ customers spending $1M+, and ~250 customers spending $10M+ (Rebecca Bellan/TechCrunch)"
+ },
+ "a261026p37": {
+  "article_url": "https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p37",
+  "summary": "Over the weekend, a handful of iPhone Duo users reported that their inner display had cracked along the hinge.",
+  "techmeme_url": "https://www.techmeme.com/261026/p37",
+  "title": "Apple says it is \"aware of an issue impacting the inner display on a small number\" of iPhone Duos and affected users can contact AppleCare for a replacement (Chance Miller/9to5Mac)"
+ },
+ "a261026p38": {
+  "article_url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p38",
+  "summary": "For nearly two years, one comforting idea has shaped how companies and government contractors adopt open-weight AI models that anyone can download and run.",
+  "techmeme_url": "https://www.techmeme.com/261026/p38",
+  "title": "Cohere says during an evaluation Qwen3.8-Flash-Next inventoried its host machine and tried to upload a probe file to an Alibaba Cloud storage bucket in Beijing (Cohere)"
+ },
+ "a261026p39": {
+  "article_url": "https://www.culpium.com/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p39",
+  "summary": "What you need to know: Lease obligations pass $780 billion. Revenue per employee $6.6 million — Good Evening from Taipei,",
+  "techmeme_url": "https://www.techmeme.com/261026/p39",
+  "title": "Anthropic S-1: it spent just $482M on capex in H1 2026, leasing most of its compute, and its capex is almost entirely outsourced via $782B in lease obligations (Tim Culpan/Culpium)"
+ },
+ "a261026p40": {
+  "article_url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p40",
+  "summary": "Delivering fast and capable computer use at scale — , a fast, efficient model that combines detailed visual reasoning …",
+  "techmeme_url": "https://www.techmeme.com/261026/p40",
+  "title": "OpenAI releases GPT-6.1 Terra, touting \"fast and capable computer use at scale\" and clearer, more natural writing, priced at $1/1M input and $5/1M output tokens (OpenAI)"
+ },
+ "a261026p41": {
+  "article_url": "https://www.bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p41",
+  "summary": "Also share classes and fake polls. — Happy Anthropic S-1 day — Here's the draft prospectus for Anthropic PBC's initial public offering.",
+  "techmeme_url": "https://www.techmeme.com/261026/p41",
+  "title": "Anthropic's S-1 shows a governance structure that suits a fun quirky little mission-driven worker cooperative that needs to raise billions as a public company (Matt Levine/Bloomberg)"
+ },
+ "a261026p42": {
+  "article_url": "https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p42",
+  "summary": "Apple today released iOS 27.2 and iPadOS 27.2, the first major updates to the iOS 27 and iPadOS 27 operating systems that came …",
+  "techmeme_url": "https://www.techmeme.com/261026/p42",
+  "title": "Apple debuts iOS 27.2, with Siri AI enhancements for recalling past conversations, understanding more personal context, supporting five more languages, and more (Juli Clover/MacRumors)"
+ },
+ "a261026p43": {
+  "article_url": "https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?st=uZNB75",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p43",
+  "summary": "Deal could be completed as soon as this week, people familiar with the matter say — DoorDash is in advanced talks to acquire food …",
+  "techmeme_url": "https://www.techmeme.com/261026/p43",
+  "title": "Sources: DoorDash is in advanced talks to acquire Instacart, and the deal could be finalized as soon as this week and could value Instacart at ~$17B (Heather Haddon/Wall Street Journal)"
+ },
+ "a261026p44": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-26/redotpay-said-to-prepare-confidential-ipo-filing-by-year-end",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p44",
+  "summary": "Crypto firm Redotpay is considering filing confidentially for a US initial public offering by year-end, according to people familiar …",
+  "techmeme_url": "https://www.techmeme.com/261026/p44",
+  "title": "Sources: Hong Kong-based stablecoin payments startup RedotPay plans a US IPO filing by year-end and is in talks for a pre-IPO round at a $4B to $5B valuation (Olga Kharif/Bloomberg)"
+ },
+ "a261026p45": {
+  "article_url": "https://www.forbes.com/sites/annatong/2026/10/26/anthropic-founders-can-name-secret-successors/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p45",
+  "summary": "Anthropic's IPO includes a private line of succession: confidential lists of would-be heirs to its founders' voting power …",
+  "techmeme_url": "https://www.techmeme.com/261026/p45",
+  "title": "Anthropic's IPO outlines an unusual succession plan: confidential, ranked lists of up to 10 successors per co-founder, subject to approval from five co-founders (Anna Tong/Forbes)"
+ },
+ "a261026p46": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p46",
+  "summary": "Intel Corp. agreed to buy Israeli startup Classiq Technologies Ltd. as part of a push to capitalize on quantum computing, a still-nascent field that is seeking commercial applications.",
+  "techmeme_url": "https://www.techmeme.com/261026/p46",
+  "title": "Intel agrees to acquire Tel Aviv-based quantum computing startup Classiq; Classiq has raised more than $200M in funding and has about 130 employees (Ian King/Bloomberg)"
+ },
+ "a261026p47": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p47",
+  "summary": "Chipmaker Broadcom Inc. has arranged a $63 billion deal with Bank of America Corp., Blackstone Inc., Citigroup Inc. and Morgan Stanley …",
+  "techmeme_url": "https://www.techmeme.com/261026/p47",
+  "title": "Broadcom arranges a $63B deal with BofA, Blackstone, Citi, and Morgan Stanley to finance the purchase of chips for Anthropic via a new special purpose vehicle (Lynn Doan/Bloomberg)"
+ },
+ "a261026p48": {
+  "article_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+  "date": "2026-10-26",
+  "permalink_id": "a261026p48",
+  "summary": "We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.",
+  "techmeme_url": "https://www.techmeme.com/261026/p48",
+  "title": "OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false (OpenAI)"
+ },
  "a261026p6": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
   "date": "2026-10-26",
