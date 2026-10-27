@@ -6,5 +6,93 @@
   "summary": "Trucking, supply chain and security industry veterans detailed to NBC News how thieves staged dramatic robberies as part of the growing theft of tech equipment.",
   "techmeme_url": "https://www.techmeme.com/261027/p1",
   "title": "Experts: since June, $100M+ in US data center freight has been stolen; in two successful heists, robbers struck escorts protecting trucks hauling $10M+ in goods (Lisa Cavazuti/NBC News)"
+ },
+ "a261027p10": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p10",
+  "summary": "Hyphenate Inc. has raised $45 million in a funding round led by Nexus Venture Partners, securing capital for an effort …",
+  "techmeme_url": "https://www.techmeme.com/261027/p10",
+  "title": "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)"
+ },
+ "a261027p11": {
+  "article_url": "https://www.wsj.com/business/retail/paypal-lifts-full-year-outlook-ceo-stresses-turnaround-plan-15cd0e2e?st=HHaBnz&reflink=desktopwebshare_permalink",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p11",
+  "summary": "The financial technology company expects full-year adjusted earnings of around $5.60 a share, up from a previous view of around $5.38",
+  "techmeme_url": "https://www.techmeme.com/261027/p11",
+  "title": "PayPal reports Q3 revenue up 2% YoY to $8.58B, below $8.71B est., TPV up 6% to $487.14B, and raises full-year adjusted EPS guidance to ~$5.60, above $5.39 est. (Elias Schisgall/Wall Street Journal)"
+ },
+ "a261027p12": {
+  "article_url": "https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p12",
+  "summary": "Experts at a digital defense firm recently found that an Israeli ad tech company was heavily targeting users …",
+  "techmeme_url": "https://www.techmeme.com/261027/p12",
+  "title": "Sources: Trend Micro's TrendAI found Israeli adtech company Discover-Tech heavily targeted Starlink users in 100+ countries, likely to geolocate or surveil them (Raphael Satter/Reuters)"
+ },
+ "a261027p2": {
+  "article_url": "https://cybersecuritynews.com/microsoft-authenticator-flaw/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p2",
+  "summary": "Microsoft patched high-severity flaw CVE-2026-80097 (CVSS 8.6) in Authenticator for Android, allowing malicious apps …",
+  "techmeme_url": "https://www.techmeme.com/261027/p2",
+  "title": "Microsoft patches a severe flaw in its Android Authenticator app that could let untrusted apps impersonate Microsoft apps and obtain delegated account tokens (Abinaya/Cyber Security News)"
+ },
+ "a261027p3": {
+  "article_url": "https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a?st=4eEQYV&reflink=desktopwebshare_permalink",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p3",
+  "summary": "Investment comes as Facebook's parent seeks up to $95 billion via stock offerings — Nvidia and Meta Platforms are expanding …",
+  "techmeme_url": "https://www.techmeme.com/261027/p3",
+  "title": "Nvidia and Meta expand their Muse partnership, including Meta deploying more Vera Rubin and Vera CPUs; Nvidia will invest $3B in Meta's planned equity fundraise (Wall Street Journal)"
+ },
+ "a261027p4": {
+  "article_url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?st=f24o6c&reflink=desktopwebshare_permalink",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p4",
+  "summary": "The deal, announced on Monday, is the biggest ever to raise money for AI infrastructure — Hock Tan was running out of patience.",
+  "techmeme_url": "https://www.techmeme.com/261027/p4",
+  "title": "Sources: Broadcom CEO Hock Tan held 11th-hour talks and agreed to higher rates and loan guarantees to secure bank participation in the $63B Anthropic debt deal (Wall Street Journal)"
+ },
+ "a261027p5": {
+  "article_url": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p5",
+  "summary": "Prospectus details AI lab's ‘mission’, $800bn data centre commitments and extraordinary governance structure",
+  "techmeme_url": "https://www.techmeme.com/261027/p5",
+  "title": "S-1: Anthropic spent ~$2.50 on compute and infrastructure for every $1 of revenue in Q1 2025, falling to under 50 cents in Q2 2026, as it seeks profitability (Financial Times)"
+ },
+ "a261027p6": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/alibaba-wins-challenge-to-pentagon-s-chinese-army-blacklisting",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p6",
+  "summary": "Alibaba Group Holding Ltd. won a US court ruling in its challenge to a Department of Defense blacklist, testing Washington's ability to curtail Chinese companies' activities.",
+  "techmeme_url": "https://www.techmeme.com/261027/p6",
+  "title": "A US federal judge orders the Trump administration to halt a ban prohibiting the Pentagon from doing business with companies lobbying for Alibaba (Peter Blumberg/Bloomberg)"
+ },
+ "a261027p7": {
+  "article_url": "https://www.ft.com/content/65a113b4-2a45-49cf-9e68-93f42151166e",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p7",
+  "summary": "Steven Richardson has raised funds from investors including Sequoia for company providing tools for police forces",
+  "techmeme_url": "https://www.techmeme.com/261027/p7",
+  "title": "Sources: UK stealth AI startup 22one, which is building law enforcement tools, hit a nearly $400M valuation after raising funds from Sequoia, Lux, and others (Financial Times)"
+ },
+ "a261027p8": {
+  "article_url": "https://sfstandard.com/2026/10/26/anthropic-cofounder-mystery-ben-mann/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p8",
+  "summary": "On Oct. 14, Anthropic announced the opening of its first Singapore office and said “cofounder Ben Mann” …",
+  "techmeme_url": "https://www.techmeme.com/261027/p8",
+  "title": "Anthropic's S-1 excludes Labs co-lead Ben Mann from its \"Continuing Founders\" and Founder LLC; Anthropic says \"it's still fair to refer to him as a co-founder\" (Zara Stone/The San Francisco Standard)"
+ },
+ "a261027p9": {
+  "article_url": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p9",
+  "summary": "Silicon Valley's bid to dominate artificial intelligence politics has devolved into a fight with itself.",
+  "techmeme_url": "https://www.techmeme.com/261027/p9",
+  "title": "Analysis: AI political groups have spent $78.5M on US federal candidates during the 2026 cycle; AI accelerationists spent $34M and safeguard-focused groups $39M (Luke Fountain/CNBC)"
  }
 }
