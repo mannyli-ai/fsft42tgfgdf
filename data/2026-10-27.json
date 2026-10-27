@@ -31,6 +31,62 @@
   "techmeme_url": "https://www.techmeme.com/261027/p12",
   "title": "Sources: Trend Micro's TrendAI found Israeli adtech company Discover-Tech heavily targeted Starlink users in 100+ countries, likely to geolocate or surveil them (Raphael Satter/Reuters)"
  },
+ "a261027p13": {
+  "article_url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p13",
+  "summary": "Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.",
+  "techmeme_url": "https://www.techmeme.com/261027/p13",
+  "title": "Study: non-English languages can consume far more AI tokens, with the most expensive language using 1.5x to 5x more than the cheapest, causing a \"tokenizer tax\" (Ananya Bhattacharya/Rest of World)"
+ },
+ "a261027p14": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/fcc-warns-tp-link-its-routers-breach-power-limits-in-latest-snub",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p14",
+  "summary": "The Federal Communications Commission has told TP-Link Systems Inc. that some of its Wi-Fi routers are violating power level limits …",
+  "techmeme_url": "https://www.techmeme.com/261027/p14",
+  "title": "The FCC warns TP-Link that three of its routers violate power limits, which could bring more bans, and it may have submitted \"false or incorrect information\" (Bloomberg)"
+ },
+ "a261027p15": {
+  "article_url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p15",
+  "summary": "Supercharged by M6, the 14-inch MacBook Pro features incredible performance and next-level AI capabilities, enhanced connectivity …",
+  "techmeme_url": "https://www.techmeme.com/261027/p15",
+  "title": "Apple unveils a 14\" MacBook Pro with an M6, which has a 12-core CPU and a 12-core GPU, 16GB or 32GB of unified memory, and Wi-Fi 7, for $1,999+ from November 6 (Apple)"
+ },
+ "a261027p16": {
+  "article_url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p16",
+  "summary": "With blazing-fast performance, enhanced connectivity, Siri AI, and macOS 27, all in a stunning design in seven vibrant colors, the world's best all-in-one gets even better",
+  "techmeme_url": "https://www.techmeme.com/261027/p16",
+  "title": "Apple updates the 24-inch iMac with an M6, which has up to a 12-core CPU and up to a 12-core GPU, and a dual 16-core Neural Engine, for $1,499+ from November 6 (Apple)"
+ },
+ "a261027p17": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/anduril-and-qualcomm-plan-to-build-laptop-with-us-supply-chain",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p17",
+  "summary": "Anduril and Qualcomm Plan US Supply Chain Laptop — Video Player is loading. — Unmute — Current Time 0:00 Loaded: 44.16% Playback Rate",
+  "techmeme_url": "https://www.techmeme.com/261027/p17",
+  "title": "Anduril and Qualcomm unveil BlueChip, a line of laptops designed and assembled in the US for defense and government; Anduril will begin taking orders in 2027 (Bloomberg)"
+ },
+ "a261027p18": {
+  "article_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p18",
+  "summary": "CoreWeave, a publicly traded neocloud that rents out computing power for AI, has seen its stock price fall to a 12-month low …",
+  "techmeme_url": "https://www.techmeme.com/261027/p18",
+  "title": "Neocloud General Compute, which specializes in bare-metal infrastructure, raised a $100M Series A led by Blackbird and Abstract at an $800M post-money valuation (Tim Fernholz/TechCrunch)"
+ },
+ "a261027p19": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-27/disruptive-closes-10-billion-megafund-for-ai-defense-startups",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p19",
+  "summary": "The Dallas-based firm plans to back 10 later-stage companies with $1 billion each. — Disruptive, a 15-year-old investment firm based …",
+  "techmeme_url": "https://www.techmeme.com/261027/p19",
+  "title": "Dallas-based Disruptive raised $10B to invest in AI, defense, and software, doubling its AUM, and pivots from single-deal SPVs to a discretionary fund structure (Natasha Mascarenhas/Bloomberg)"
+ },
  "a261027p2": {
   "article_url": "https://cybersecuritynews.com/microsoft-authenticator-flaw/",
   "date": "2026-10-27",
@@ -38,6 +94,54 @@
   "summary": "Microsoft patched high-severity flaw CVE-2026-80097 (CVSS 8.6) in Authenticator for Android, allowing malicious apps …",
   "techmeme_url": "https://www.techmeme.com/261027/p2",
   "title": "Microsoft patches a severe flaw in its Android Authenticator app that could let untrusted apps impersonate Microsoft apps and obtain delegated account tokens (Abinaya/Cyber Security News)"
+ },
+ "a261027p20": {
+  "article_url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p20",
+  "summary": "The new AI assistant can draft and restructure content in Pages, while organizing data in Numbers.",
+  "techmeme_url": "https://www.techmeme.com/261027/p20",
+  "title": "Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)"
+ },
+ "a261027p21": {
+  "article_url": "https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p21",
+  "summary": "A London-based robotics startup is betting it can teach robots new tricks without collecting the mountains of real-world data its much bigger rivals are chasing.",
+  "techmeme_url": "https://www.techmeme.com/261027/p21",
+  "title": "London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed (Rya Jetha/Business Insider)"
+ },
+ "a261027p22": {
+  "article_url": "https://www.theinformation.com/articles/anthropics-85-margin-reality-check-skeptics",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p22",
+  "summary": "When Anthropic on Monday dropped its long-awaited initial public offering prospectus filing, a lot of the details …",
+  "techmeme_url": "https://www.techmeme.com/261027/p22",
+  "title": "Anthropic's S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn't be profitable (Stephanie Palazzolo/The Information)"
+ },
+ "a261027p23": {
+  "article_url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p23",
+  "summary": "The Genie 4 world model offers more realism and can create audio to accompany its interactive worlds.",
+  "techmeme_url": "https://www.techmeme.com/261027/p23",
+  "title": "Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers (Jay Peters/The Verge)"
+ },
+ "a261027p24": {
+  "article_url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p24",
+  "summary": "Oracle on Tuesday announced an expanded collaboration with OpenAI that brings the artificial intelligence lab's ChatGPT …",
+  "techmeme_url": "https://www.techmeme.com/261027/p24",
+  "title": "Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware (Seema Mody/CNBC)"
+ },
+ "a261027p25": {
+  "article_url": "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p25",
+  "summary": "Chronicling the Seattle and Pacific Northwest startup scene. — Avante, the maker of an AI platform to help companies manage employee health care …",
+  "techmeme_url": "https://www.techmeme.com/261027/p25",
+  "title": "Avante, which builds an AI platform to help companies manage employee healthcare and other benefits, raised a $30M Series A, following a $10M seed in 2024 (Kurt Schlosser/GeekWire)"
  },
  "a261027p3": {
   "article_url": "https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a?st=4eEQYV&reflink=desktopwebshare_permalink",
