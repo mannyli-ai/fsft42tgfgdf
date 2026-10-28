@@ -215,6 +215,22 @@
   "techmeme_url": "https://www.techmeme.com/261027/p33",
   "title": "Source: Apple has discussed charging $2,899 for the 14-inch MacBook Pro with an OLED XDR touch screen and M5 Pro chip, $400 more than the current M5 Pro model (Mark Gurman/Bloomberg)"
  },
+ "a261027p38": {
+  "article_url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p38",
+  "summary": "This month, I laid the traditional coding interview to rest. As a hiring manager at Anthropic, I stopped asking candidates to do them.",
+  "techmeme_url": "https://www.techmeme.com/261027/p38",
+  "title": "An Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them and tells junior engineers that \"hunger beats tenure\" (Felix Rieseberg)"
+ },
+ "a261027p39": {
+  "article_url": "https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p39",
+  "summary": "OpenAI plans to buy Google's AI chips, according to a person familiar with the matter, in a boost for a rising competitor to OpenAI backer Nvidia.",
+  "techmeme_url": "https://www.techmeme.com/261027/p39",
+  "title": "Source: OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to \"lead the optimization\" of its models on TPUs (Ryan Barwick/The Information)"
+ },
  "a261027p4": {
   "article_url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?st=f24o6c&reflink=desktopwebshare_permalink",
   "date": "2026-10-27",
@@ -222,6 +238,54 @@
   "summary": "The deal, announced on Monday, is the biggest ever to raise money for AI infrastructure — Hock Tan was running out of patience.",
   "techmeme_url": "https://www.techmeme.com/261027/p4",
   "title": "Sources: Broadcom CEO Hock Tan held 11th-hour talks and agreed to higher rates and loan guarantees to secure bank participation in the $63B Anthropic debt deal (Wall Street Journal)"
+ },
+ "a261027p40": {
+  "article_url": "http://www.reuters.com/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p40",
+  "summary": "Oct 27 (Reuters) - Canadian financial services company Wealthsimple said on Tuesday it had raised up to C$425 million ($302.5 million), taking its valuation …",
+  "techmeme_url": "https://www.techmeme.com/261027/p40",
+  "title": "Toronto-based fintech Wealthsimple raised up to CA$425M led by GIC at a post-money valuation of CA$13.8B, up from CA$10B in 2025 (Reuters)"
+ },
+ "a261027p41": {
+  "article_url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p41",
+  "summary": "Nvidia and Advanced Micro Devices have said they will invest a total of $4 billion in Meta after the social media …",
+  "techmeme_url": "https://www.techmeme.com/261027/p41",
+  "title": "AMD says it will invest $1B in Meta's equity offering, its first Helios rackscale systems are installed at Meta, and its EPYC CPUs power Meta's Muse AI agent (Kai Nicol-Schwarz/CNBC)"
+ },
+ "a261027p42": {
+  "article_url": "https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p42",
+  "summary": "The South Korean memory-chip maker's net profit more than tripled in the third quarter — South Korean memory-chip titan SK Hynix plans to return …",
+  "techmeme_url": "https://www.techmeme.com/261027/p42",
+  "title": "SK Hynix plans to return $22B+ in dividends and ~$15B in buybacks to shareholders, on top of its ~$30B buyback program completed in August (Kwanwoo Jun/Wall Street Journal)"
+ },
+ "a261027p43": {
+  "article_url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p43",
+  "summary": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress …",
+  "techmeme_url": "https://www.techmeme.com/261027/p43",
+  "title": "Letter: two Democratic senators allege the Trump administration withheld a secret FISC ruling on search filters that let analysts access Americans' messages (Dell Cameron/Wired)"
+ },
+ "a261027p44": {
+  "article_url": "https://www.theinformation.com/articles/chipmaker-onsemi-talks-buy-startup-1-billion",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p44",
+  "summary": "Semiconductor component maker Onsemi has been discussing an acquisition of 16-year-old chip startup Ferric for close to $1 billion …",
+  "techmeme_url": "https://www.techmeme.com/261027/p44",
+  "title": "Sources: chipmaker Onsemi is in talks to acquire 16-year-old chip startup Ferric for ~$1B; PitchBook: Ferric last raised a $32.1M Series C in December 2024 (Valida Pau/The Information)"
+ },
+ "a261027p45": {
+  "article_url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+  "date": "2026-10-27",
+  "permalink_id": "a261027p45",
+  "summary": "The Federal Communications Commission said on Tuesday it approved Amazon (AMZN.O) Leo's $11.5 billion deal to acquire Globalstar (GSAT.O) …",
+  "techmeme_url": "https://www.techmeme.com/261027/p45",
+  "title": "The US FCC approves Amazon Leo's $11.5B acquisition of Globalstar, giving Amazon access to Globalstar's 24 satellites and mobile satellite spectrum (David Shepardson/Reuters)"
  },
  "a261027p5": {
   "article_url": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29",
