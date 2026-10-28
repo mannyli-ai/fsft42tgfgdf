@@ -7,6 +7,62 @@
   "techmeme_url": "https://www.techmeme.com/261028/p1",
   "title": "Sources: HP, Asus, and Acer are shifting some PC production from Thailand and Vietnam back to China amid rising component costs; Dell is mulling a similar move (Nikkei Asia)"
  },
+ "a261028p13": {
+  "article_url": "https://www.anthropic.com/research/agents-judgment-calls",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p13",
+  "summary": "Amaç Herda&gbrevedelen, Hailey Joren, Alex Tamkin — When experts hand their work to an AI agent …",
+  "techmeme_url": "https://www.techmeme.com/261028/p13",
+  "title": "Research: professional analysts followed AI agents' randomly assigned \"leans\" on subjective analytical decisions 86% of the time; 77% used the agents' arguments (Anthropic)"
+ },
+ "a261028p14": {
+  "article_url": "https://www.reuters.com/world/china/ai-chips-worth-121-million-seized-malaysia-airport-customs-authority-says-2026-10-28/",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p14",
+  "summary": "Malaysian customs said on Wednesday that it had seized about 49.5 million ringgit ($12.11 million) worth of advanced artificial intelligence chips …",
+  "techmeme_url": "https://www.techmeme.com/261028/p14",
+  "title": "Malaysia says it seized ~$12.11M worth of AI chips this month, as authorities close in on a syndicate suspected of smuggling through the country's main airport (Rozanna Latiff/Reuters)"
+ },
+ "a261028p15": {
+  "article_url": "https://www.wsj.com/finance/regulation/elizabeth-warren-demands-answers-from-anthropic-on-existential-risks-5362f009?st=jjenAB&reflink=desktopwebshare_permalink",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p15",
+  "summary": "The Democratic senator told the AI giant to answer four pages of questions about its IPO filing by Nov. 3",
+  "techmeme_url": "https://www.techmeme.com/261028/p15",
+  "title": "Letter: Senator Elizabeth Warren asks Dario Amodei for \"exhaustive responses\" to four pages of questions by November 3 regarding existential risks in its S-1 (Corrie Driebusch/Wall Street Journal)"
+ },
+ "a261028p16": {
+  "article_url": "https://www.reuters.com/technology/hacker-trying-breach-us-federal-election-commission-system-email-shows-2026-10-27/",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p16",
+  "summary": "The US Federal Election Commission's website was targeted by a hacker or hackers, according to an email seen by Reuters …",
+  "techmeme_url": "https://www.techmeme.com/261028/p16",
+  "title": "Email: a hacker attack forced the FEC to temporarily take its filing system offline around 10pm ET on Monday, blocking groups from submitting reports (Dawn Kopecki/Reuters)"
+ },
+ "a261028p17": {
+  "article_url": "https://www.ft.com/content/d92ede23-75c3-4549-bec2-7fa4be979786",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p17",
+  "summary": "The UK council overseeing Europe's data centre capital has asked companies to provide more benefits for local people …",
+  "techmeme_url": "https://www.techmeme.com/261028/p17",
+  "title": "How the UK's Slough, a town on the borders of west London, became the largest data center hub in Europe, hosting 40+ facilities, as locals seek more benefits (Financial Times)"
+ },
+ "a261028p18": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p18",
+  "summary": "Upwind Security, a San Francisco-based startup offering cybersecurity for artificial intelligence and cloud applications …",
+  "techmeme_url": "https://www.techmeme.com/261028/p18",
+  "title": "AI and cloud cybersecurity startup Upwind Security raised $400M led by Bessemer at a $3.8B valuation, up from $1.5B in January, for $830M in total funding (Marissa Newman/Bloomberg)"
+ },
+ "a261028p19": {
+  "article_url": "https://www.sfchronicle.com/bayarea/article/open-ai-engineer-indicted-for-bugging-headquarters-22497813.php",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p19",
+  "summary": "The OpenAI engineer accused of bugging a conference room in San Francisco used by company executives was indicted Tuesday, according to a court filing.",
+  "techmeme_url": "https://www.techmeme.com/261028/p19",
+  "title": "A US federal grand jury indicts OpenAI engineer and Saudi national Abdulrahman \"Abdul\" Alfozan on a felony charge of interception of oral communications (Sarah Brager/San Francisco Chronicle)"
+ },
  "a261028p2": {
   "article_url": "https://www.wsj.com/tech/ai/see-how-anthropic-arrived-at-its-mind-boggling-40-trillion-market-opportunity-948c56a0?st=QmxiSy",
   "date": "2026-10-28",
@@ -14,6 +70,70 @@
   "summary": "The company's estimated market opportunity, tied to the economic value of work produced by knowledge workers, tops SpaceX's enormous figure from earlier this year",
   "techmeme_url": "https://www.techmeme.com/261028/p2",
   "title": "Anthropic's S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX's $28.5T estimate, without explicitly naming it (Wall Street Journal)"
+ },
+ "a261028p20": {
+  "article_url": "https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p20",
+  "summary": "Anthropic's seven billionaire co-founders are set to gain collective control over one of the world's biggest companies following …",
+  "techmeme_url": "https://www.techmeme.com/261028/p20",
+  "title": "Sources: Anthropic's seven cofounders remain extremely influential and personally tight; Daniela Amodei, who runs operations, is seen as a good balance to Dario (Financial Times)"
+ },
+ "a261028p21": {
+  "article_url": "https://www.bloomberg.com/",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p21",
+  "summary": "AI chipmaker Moore Threads Technology Co. said sales grew 1,774% in the three months through September, buoyed …",
+  "techmeme_url": "https://www.techmeme.com/261028/p21",
+  "title": "Chinese AI chipmaker Moore Threads reports Q3 revenue up 1,774% YoY to ~$240M and a ~$7.4M net profit; Moore is building a domestic 100K-GPU cluster with JD.com (Rachel Yeo/Bloomberg)"
+ },
+ "a261028p22": {
+  "article_url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p22",
+  "summary": "But it's only available in the Philippines for now. — Looks like a big part of Meta's AI strategy is to rely on …",
+  "techmeme_url": "https://www.techmeme.com/261028/p22",
+  "title": "Meta quietly launched Waddle World, a Tamagotchi-like, AI pet-rearing game, in the Philippines in September, calling it a \"daily journal disguised as a pet\" (Mariella Moon/Engadget)"
+ },
+ "a261028p23": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p23",
+  "summary": "With its latest devices, including a smart bedside alarm clock, Amazon looks to cement Alexa's presence in every room of the home",
+  "techmeme_url": "https://www.techmeme.com/261028/p23",
+  "title": "Amazon unveils the $500 Echo Show 16, the $200 Echo Time alarm, and the $200+ Alexa Photo Frame, raises smart speaker prices, and previews Alexa Home Map (Chris Welch/Bloomberg)"
+ },
+ "a261028p24": {
+  "article_url": "https://www.wsj.com/business/retail/etsy-sales-rise-as-the-number-of-active-buyers-increases-01c646c9?st=eiH3p6&reflink=desktopwebshare_permalink",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p24",
+  "summary": "The online marketplace operator's revenue rose 11% to 692.5 million in the third quarter — Etsy logged higher sales in the third quarter …",
+  "techmeme_url": "https://www.techmeme.com/261028/p24",
+  "title": "Etsy reports Q3 revenue up 11% YoY to $692.5M, above $668M est., net income of $853.5M after selling Depop, and gross merchandise sales up 9% YoY to $2.65B (Katherine Hamilton/Wall Street Journal)"
+ },
+ "a261028p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-28/samsung-unveils-galaxy-buds-on-clip-on-earbuds-for-229",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p25",
+  "summary": "Samsung Electronics Co. unveiled its first pair of cuff-style earbuds, adding to a growing category that includes products from Sony Group Corp. …",
+  "techmeme_url": "https://www.techmeme.com/261028/p25",
+  "title": "Samsung unveils the $229 Galaxy Buds On, its first open-fit, C-shaped cuff earbuds to compete with Sony and Bose, designed with AI's help, shipping November 6 (Chris Welch/Bloomberg)"
+ },
+ "a261028p26": {
+  "article_url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p26",
+  "summary": "Google to showcase a new security system designed to help banks and other financial institutions safeguard and move cryptocurrencies …",
+  "techmeme_url": "https://www.techmeme.com/261028/p26",
+  "title": "Google unveils Google Multi-Party Compute (MPC), a digital-asset custody and security service in private preview, set for commercial availability in early 2027 (Aoyon Ashraf/CoinDesk)"
+ },
+ "a261028p27": {
+  "article_url": "https://x.com/artificialanlys",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p27",
+  "summary": "Announcing Artificial Analysis Intelligence Index v5, featuring 2 new benchmarks and 3 upgrades. For the first time, the majority of the Index is built on private datasets The Artificial Analysis Intelligence Index is our composite measure of model capabilities across tasks reflecting real-world u...",
+  "techmeme_url": "https://www.techmeme.com/261028/p27",
+  "title": "Artificial Analysis launches the Intelligence Index v5, with new coding and science benchmarks, built on private datasets; Claude Opus 5.5 (max) leads at 58 (@artificialanlys)"
  },
  "a261028p3": {
   "article_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-buildup-in-two-decades",
