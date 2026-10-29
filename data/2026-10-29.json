@@ -7,6 +7,70 @@
   "techmeme_url": "https://www.techmeme.com/261029/p1",
   "title": "Fragment, which uses AI to resolve purchasing and payment issues across manufacturing datasets, emerges from stealth with $56M from 8VC and others (Chris Metinko/Axios)"
  },
+ "a261029p12": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-10-29/nscale-s-unproven-ceo-braves-ai-turmoil-in-bid-for-30-billion-neocloud-ipo",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p12",
+  "summary": "Sheryl Sandberg says the 32-year-old executive reminds her of Mark Zuckerberg. Josh Payne must now take his startup public at a tumultuous moment for the AI industry.",
+  "techmeme_url": "https://www.techmeme.com/261029/p12",
+  "title": "A profile of Nscale CEO Josh Payne, who is proceeding with plans for a US IPO that sources say is targeting a $30B valuation despite some investor pushback (Mark Bergen/Bloomberg)"
+ },
+ "a261029p13": {
+  "article_url": "https://www.reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29/",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p13",
+  "summary": "Truth Social, the social media platform founded by President Donald Trump, has signed up news and data provider Bloomberg and two Wall Street firms …",
+  "techmeme_url": "https://www.techmeme.com/261029/p13",
+  "title": "Sources: Bloomberg, Susquehanna, and Jump Trading signed up for Truth Social's fast API feed of President Trump's posts, paying $60K to $100K per month (Reuters)"
+ },
+ "a261029p14": {
+  "article_url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj&smid=nytcore-ios-share",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p14",
+  "summary": "Jensen Huang, the chief executive of Nvidia, is influential at the White House on technology policy and has developed a close relationship …",
+  "techmeme_url": "https://www.techmeme.com/261029/p14",
+  "title": "US officials believe Megaspeed executive Alice Huang is a Chinese asset who maintained a close relationship with Jensen Huang to pass intelligence to Beijing (New York Times)"
+ },
+ "a261029p15": {
+  "article_url": "https://www.macstories.net/stories/macbook-pro-with-touch-a-mac-for-the-ipad-generation/",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p15",
+  "summary": "Ever since I got my hands on the very first iPad Pro all the way back in November 2015, I've gotten used to a certain type …",
+  "techmeme_url": "https://www.techmeme.com/261029/p15",
+  "title": "Apple's touchscreen MacBook Pro is designed for the iPad generation, with an optimized macOS, and the company is right to move on from Steve Jobs' skepticism (Federico Viticci/MacStories)"
+ },
+ "a261029p16": {
+  "article_url": "https://www.bbc.com/news/articles/c63djl148n3eo",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p16",
+  "summary": "Elon Musk is a “real genius”, Russian President Vladimir Putin said on Wednesday after revealing the two are in …",
+  "techmeme_url": "https://www.techmeme.com/261029/p16",
+  "title": "Vladimir Putin praises Elon Musk as a \"real genius\" and says Russia is in \"close contact\" with Musk and the US to coordinate Rassvet and Starlink satellites (Kali Hays/BBC)"
+ },
+ "a261029p17": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-28/us-data-center-buildout-risks-erasing-years-of-climate-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzIxODQ4MywiZXhwIjoxNzkzODIzMjgzLCJhcnRpY2xlSWQiOiJUTk03WTFLSVAzSVAwMCIsImJjb25uZWN0SWQiOiJGM0VENDU5NTZFRjA0QjY5QTI0NTVBNTYxRDkyNkY5NiJ9.vaYGVNos-PgwrFAeFWxa9-gyGHRxRihCe_on05i2B3A",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p17",
+  "summary": "The boom is set to produce enough greenhouse gases to cancel out 15 years of declines in power-sector emissions, according to a Sierra Club analysis.",
+  "techmeme_url": "https://www.techmeme.com/261029/p17",
+  "title": "Sierra Club expects US power emissions to hit 2.1B metric tons by 2030, up 42% on 2025 and erasing 15 years of cuts, with off-grid data centers matching Mexico (Bloomberg)"
+ },
+ "a261029p18": {
+  "article_url": "https://thisweekinvideogames.com/news/epic-games-confirms-ai-is-being-used-to-develop-code-for-unreal-engine/",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p18",
+  "summary": "In Brief: Following CEO Tim Sweeney's announcement of a “huge pivot” towards AI tools, Epic Games has confirmed that AI tools …",
+  "techmeme_url": "https://www.techmeme.com/261029/p18",
+  "title": "Epic Games says it is using AI tools to \"develop code and features\" for Unreal Engine, including core engine components like the D3D12 rendering layer (Jamie Hore/This Week in Videogames)"
+ },
+ "a261029p19": {
+  "article_url": "https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p19",
+  "summary": "OpenAI's GPT-6 Astra, the most powerful model the company has released, has met with strong demand since its release in early September.",
+  "techmeme_url": "https://www.techmeme.com/261029/p19",
+  "title": "Sources: DeepSeek and Moonshot AI heavily relied on GPT-6 Astra distillation to train models like Kimi K3.1 Pro and V4.1-Flash 1017, after Anthropic's crackdown (The Information)"
+ },
  "a261029p2": {
   "article_url": "https://www.bloomberg.com/",
   "date": "2026-10-29",
@@ -14,6 +78,62 @@
   "summary": "DoorDash Inc., the food delivery provider in talks to take over Instacart, moved its earnings release date forward by almost a week.",
   "techmeme_url": "https://www.techmeme.com/261029/p2",
   "title": "DoorDash moves its Q3 earnings release from November 4 to before the market opens on October 29, amid reports of an imminent ~$17B deal to acquire Instacart (Ville Heiskanen/Bloomberg)"
+ },
+ "a261029p20": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/jio-platforms-adds-36-billion-in-value-after-india-ipo-surge",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p20",
+  "summary": "Jio Platforms Ltd. has added almost $36 billion in market value in two trading sessions, extending its blistering run …",
+  "techmeme_url": "https://www.techmeme.com/261029/p20",
+  "title": "Jio Platforms adds $36B in market value in two trading sessions, hitting a $144B market cap, up from its ~$108B IPO valuation, after India's biggest-ever IPO (Ashutosh Joshi/Bloomberg)"
+ },
+ "a261029p21": {
+  "article_url": "https://www.reuters.com/technology/pentagon-treating-military-base-freezer-malfunctions-suspected-cyberattack-2026-10-29/",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p21",
+  "summary": "The Pentagon is treating the spate of mysterious freezer malfunctions that spoiled food at military bases across the United States …",
+  "techmeme_url": "https://www.techmeme.com/261029/p21",
+  "title": "Sources: the Pentagon is treating the late August freezer malfunctions across 6+ military bases as a suspected cyberattack and is working with French police (Reuters)"
+ },
+ "a261029p22": {
+  "article_url": "https://www.reuters.com/legal/transactional/doordash-strikes-17-billion-deal-us-rival-instacart-bets-grocery-delivery-2026-10-29/",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p22",
+  "summary": "DoorDash (DASH.O) said on Thursday it would buy Instacart (CART.O) in a deal valued at about $17 billion, stepping up its push …",
+  "techmeme_url": "https://www.techmeme.com/261029/p22",
+  "title": "DoorDash agrees to acquire Instacart in a ~$17B deal, paying $65 per share, a 26% premium to its October 22 close, as the platform delivery market consolidates (Reuters)"
+ },
+ "a261029p23": {
+  "article_url": "https://www.nytimes.com/2026/10/29/business/dealbook/its-investors-say-kalshi-is-worth-40-billion-is-an-ipo-next.html",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p23",
+  "summary": "The prediction market raised $1 billion in a new funding round and landed a market value almost double that of rival Polymarket.",
+  "techmeme_url": "https://www.techmeme.com/261029/p23",
+  "title": "Kalshi raised $1B led by Sequoia and Wellington Management at a $40B valuation, up from a $22B valuation after raising $1B in May, its last raise before an IPO (Lauren McCarthy/New York Times)"
+ },
+ "a261029p24": {
+  "article_url": "https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p24",
+  "summary": "Circuit Mind, a startup developing AI software for electronics design, raised $25 million, CEO Tomide Adesanmi tells Axios Pro exclusively.",
+  "techmeme_url": "https://www.techmeme.com/261029/p24",
+  "title": "Circuit Mind, which uses AI to automate electronics and circuit design, raised $25M, including an $18.5M Series A led by Norwest, and plans a US relocation (Natalie Breymeyer/Axios)"
+ },
+ "a261029p25": {
+  "article_url": "https://stratechery.com/",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p25",
+  "summary": "Today's Stratechery Interview is with Palantir CTO Shyam Sankar. Sankar has worked at Palantir for 20 years …",
+  "techmeme_url": "https://www.techmeme.com/261029/p25",
+  "title": "Q&A with Palantir CTO Shyam Sankar on diffusing intelligence, safety, AI lessons, forward-deployed engineering, Anthropic vs. the US, AI religion, and more (Ben Thompson/Stratechery)"
+ },
+ "a261029p26": {
+  "article_url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p26",
+  "summary": "Sam Altman, CEO of OpenAI, joins John to break down how models uncovered critical PHP vulnerabilities …",
+  "techmeme_url": "https://www.techmeme.com/261029/p26",
+  "title": "Q&A with Sam Altman on finding PHP bugs, sandboxing superhuman models as an unsolved safety dilemma, robotics scaling data centers, math, agent swarms, and more (John Collison/Cheeky Pint)"
  },
  "a261029p3": {
   "article_url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
