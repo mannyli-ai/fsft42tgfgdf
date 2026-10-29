@@ -151,6 +151,54 @@
   "techmeme_url": "https://www.techmeme.com/261029/p4",
   "title": "Samsung expects capex to rise ~60% to ~$63B this year, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers (Bloomberg)"
  },
+ "a261029p44": {
+  "article_url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p44",
+  "summary": "Sources tell WIRED that an Accenture employee's personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+  "techmeme_url": "https://www.techmeme.com/261029/p44",
+  "title": "Sources: an Accenture staffer's Claude agent ran on a DOD network for two months and appears to have sent info to a third-party site before it was identified (Vittoria Elliott/Wired)"
+ },
+ "a261029p45": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p45",
+  "summary": "Anthropic PBC is SpaceX's largest single customer, a person familiar with the matter said, accounting for more than a third …",
+  "techmeme_url": "https://www.techmeme.com/261029/p45",
+  "title": "Source: Anthropic is \"Customer B\" cited by SpaceX in a filing as its single largest customer accounting for 34.5% of Q3 revenue, surpassing the US government (Bloomberg)"
+ },
+ "a261029p46": {
+  "article_url": "https://www.businesswire.com/news/home/20261028373648/en/",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p46",
+  "summary": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon's highest operating margin ever AWS net sales increased 39.3% …",
+  "techmeme_url": "https://www.techmeme.com/261029/p46",
+  "title": "Amazon reports Q3 revenue up 12% YoY to $201.9B, net income down 2% to $20.7B, and operating income up 61% to $28.1B; AMZN drops 8%+ after hours (Amazon)"
+ },
+ "a261029p47": {
+  "article_url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p47",
+  "summary": "Amazon shares plunged more than 7% in extended trading Thursday after the company reported earnings and revenue for the third quarter that fell short of Wall Street's expectations.",
+  "techmeme_url": "https://www.techmeme.com/261029/p47",
+  "title": "Amazon reports Q3 ad revenue up 11% YoY to $19.64B, vs. $20.82B est., and subscription services revenue up 11% YoY to $14B (Annie Palmer/CNBC)"
+ },
+ "a261029p48": {
+  "article_url": "https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p48",
+  "summary": "Reddit on Thursday said it's moving to become a primarily logged-in experience, marking one of the most significant shifts in its 21-year history.",
+  "techmeme_url": "https://www.techmeme.com/261029/p48",
+  "title": "Reddit plans to require users to log in to fully access the site in response to AI scraping and will test it in select markets outside the US this quarter (Sara Fischer/Axios)"
+ },
+ "a261029p49": {
+  "article_url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p49",
+  "summary": "Intel shares plummeted more than 20% in extended trading on Thursday after the chipmaker issued a weak fourth-quarter forecast, citing continued softness in the global PC market.",
+  "techmeme_url": "https://www.techmeme.com/261029/p49",
+  "title": "Intel reports Q3 revenue up 21% YoY to $16.5B, vs. $16.5B est., and forecasts Q4 revenue and adjusted EPS below estimates; INTC drops 16%+ after hours (Katie Tarasov/CNBC)"
+ },
  "a261029p5": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-electronics-shares-slide-after-return-plan-is-delayed",
   "date": "2026-10-29",
@@ -158,6 +206,78 @@
   "summary": "Samsung Electronics Co. shares reversed earlier gains to slide as much as 6.6% as the lack of a new shareholder return plan in its earnings disappointed investors.",
   "techmeme_url": "https://www.techmeme.com/261029/p5",
   "title": "Samsung shares fall as much as 6.6% as a lack of a new shareholder return plan, higher capex, and its chip unit's profit miss weigh on investor sentiment (Bloomberg)"
+ },
+ "a261029p50": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p50",
+  "summary": "Breaking Down Amazon's Third-Quarter Earnings — Video Player is loading. — Unmute — Current Time 0:00 Loaded: 0.00% Playback Rate",
+  "techmeme_url": "https://www.techmeme.com/261029/p50",
+  "title": "Amazon spent $77B+ on property and equipment in Q3, leading to a free cash outflow of $42.4B; Amazon said in July that it would likely spend $220B in 2026 capex (Matt Day/Bloomberg)"
+ },
+ "a261029p51": {
+  "article_url": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p51",
+  "summary": "Reddit plans to require all users to create official accounts to access the social media platform, marking a major departure for the site known as …",
+  "techmeme_url": "https://www.techmeme.com/261029/p51",
+  "title": "Reddit reports Q3 revenue up 53% YoY to $895M, vs. $878M est., DAUq up 12% to 130.3M, below est., forecasts Q4 revenue below est.; RDDT drops 17%+ after hours (Jonathan Vanian/CNBC)"
+ },
+ "a261029p52": {
+  "article_url": "https://www.reuters.com/technology/walmart-commits-6-billion-expand-symbotic-deal-2026-10-29/",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p52",
+  "summary": "Symbotic (SYM.O) said on Thursday it had expanded its agreement with Walmart (WMT.O), with the retailer committing about $6 billion …",
+  "techmeme_url": "https://www.techmeme.com/261029/p52",
+  "title": "Symbotic says Walmart has committed an additional $6B over several years to deploy Symbotic's supply-chain automation technology across its distribution network (Sanskriti Shekhar/Reuters)"
+ },
+ "a261029p53": {
+  "article_url": "https://www.wsj.com/politics/policy/google-meta-ice-midterms-e6f2a6c4?st=BLSqTK&reflink=desktopwebshare_permalink",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p53",
+  "summary": "As midterms near, Google, Meta and other tech firms resist broad ICE demands for user data as the agency scours platforms for immigration speech",
+  "techmeme_url": "https://www.techmeme.com/261029/p53",
+  "title": "Sources: Google, Meta, and other tech companies are resisting broad ICE demands for user data as they face future Democratic-led congressional investigations (Wall Street Journal)"
+ },
+ "a261029p54": {
+  "article_url": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p54",
+  "summary": "Amazon's cloud-computing unit reported more rapid third-quarter growth than analysts had projected. — Revenue came in at $45.98 billion …",
+  "techmeme_url": "https://www.techmeme.com/261029/p54",
+  "title": "Amazon reports Q3 AWS revenue up 39% YoY to $45.98B, above $45.29B est., and AWS operating income up 55% to $17.77B, above $16.97B est. (Jordan Novet/CNBC)"
+ },
+ "a261029p55": {
+  "article_url": "https://www.businessinsider.com/instagram-offers-youtube-creators-six-figure-longform-video-deals-2026-10",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p55",
+  "summary": "Instagram wants what YouTube has — and it's willing to pay up to get it. — In an effort to persuade content creators to post long-form video …",
+  "techmeme_url": "https://www.techmeme.com/261029/p55",
+  "title": "Sources: Instagram is offering select creators $50K to $500K to cross-post their long-form YouTube content to its new \"Features\" product (Business Insider)"
+ },
+ "a261029p56": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p56",
+  "summary": "Roblox Corp. reported third-quarter users that missed analysts' expectations amid questions about whether a new hit game could reverse a recent slowdown …",
+  "techmeme_url": "https://www.techmeme.com/261029/p56",
+  "title": "Roblox reports Q3 bookings down 12% YoY to $1.7B, vs. $1.63B est., and DAUs down 9% to 138M, vs. 145.8M est.; RBLX drops 16%+ after hours (Cecilia D'Anastasio/Bloomberg)"
+ },
+ "a261029p57": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p57",
+  "summary": "Coinbase Global Inc. returned to profitability for the first time in a year while posting a quarterly decline in revenue …",
+  "techmeme_url": "https://www.techmeme.com/261029/p57",
+  "title": "Coinbase reports Q3 revenue down 35% YoY to $1.22B, in line with est., and net income up 66% to $719M, its first profit in a year, on unrealized crypto gains (Olga Kharif/Bloomberg)"
+ },
+ "a261029p58": {
+  "article_url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+  "date": "2026-10-29",
+  "permalink_id": "a261029p58",
+  "summary": "Onchain data shows about $3.55 billion in incoming transfers to the unlabeled wallet, with nearly $900 million subsequently moved across other wallets.",
+  "techmeme_url": "https://www.techmeme.com/261029/p58",
+  "title": "Binance says it is investigating a \"potential security issue\" as suspicious outflows reach up to $5.8B; Tether freezes 1.5B+ USDT, Circle freezes 800M+ USDC (The Block)"
  },
  "a261029p6": {
   "article_url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
