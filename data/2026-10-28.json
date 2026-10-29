@@ -279,6 +279,30 @@
   "techmeme_url": "https://www.techmeme.com/261028/p55",
   "title": "Sources: Marvell is in advanced talks to buy data center optics maker Lumentum, whose market value is ~$83B; the deal could be announced as soon as next week (Bloomberg)"
  },
+ "a261028p57": {
+  "article_url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p57",
+  "summary": "The US Department of Justice has made inquiries about how Nvidia's (NVDA.O) $12.93 billion deal to buy open-source platform Hugging Face …",
+  "techmeme_url": "https://www.techmeme.com/261028/p57",
+  "title": "Sources: the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct (Reuters)"
+ },
+ "a261028p58": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p58",
+  "summary": "South Korean AI chip startup FuriosaAI quadrupled its valuation to $2.9 billion in a fresh funding round, bolstering its bid to challenge the likes of Nvidia Corp.",
+  "techmeme_url": "https://www.techmeme.com/261028/p58",
+  "title": "Seoul-based AI chip startup FuriosaAI raised a $620M Series D at a $2.9B valuation, up from $735M in 2025; South Korea's National Growth Fund contributed $280M (Yoolim Lee/Bloomberg)"
+ },
+ "a261028p59": {
+  "article_url": "https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p59",
+  "summary": "Just weeks after announcing a new round of funding at a $48 billion valuation, AI coding startup Cognition is fielding new investor interest at a much higher price.",
+  "techmeme_url": "https://www.techmeme.com/261028/p59",
+  "title": "Sources: AI coding startup Cognition weighs a new funding round before year's end after receiving offers valuing it at $70B-$80B, up from $48B in September (Katie Roof/Business Insider)"
+ },
  "a261028p6": {
   "article_url": "https://asia.nikkei.com/spotlight/supply-chain/ai-boom-sparks-circuit-board-crunch-across-global-tech-supply-chain",
   "date": "2026-10-28",
@@ -286,6 +310,54 @@
   "summary": "TAIPEI — As executives at PC makers, including HP and Dell, map out their supply needs for 2027, a mundane component has emerged as an unlikely concern.",
   "techmeme_url": "https://www.techmeme.com/261028/p6",
   "title": "Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers as AI demand increasingly eats up production capacity (Nikkei Asia)"
+ },
+ "a261028p60": {
+  "article_url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p60",
+  "summary": "Zillow (ZG.O) said on Wednesday it will pay $212.5 million in cash to settle a class action accusing the online real estate marketplace …",
+  "techmeme_url": "https://www.techmeme.com/261028/p60",
+  "title": "Zillow agrees to pay $212.5M to settle an investor class action over its failed Zillow Offers home-flipping venture, after SCOTUS refused to hear its appeal (Jonathan Stempel/Reuters)"
+ },
+ "a261028p61": {
+  "article_url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p61",
+  "summary": "Windows and Xbox revenues have declined during Microsoft's first quarter of the 2027 financial year. … Microsoft just posted the first quarter of its 2027 fiscal financial results.",
+  "techmeme_url": "https://www.techmeme.com/261028/p61",
+  "title": "Microsoft reports Q1 Xbox hardware revenue down 14% YoY, Xbox content and services revenue down 2%, and Windows OEM and Devices revenue down 22% (Tom Warren/The Verge)"
+ },
+ "a261028p62": {
+  "article_url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p62",
+  "summary": "The leaked records include the locations of ICE and CBP facilities, workers' cell phone numbers, and the members of groups tied …",
+  "techmeme_url": "https://www.techmeme.com/261028/p62",
+  "title": "The personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents, leaks online after hackers claim they breached DHS' Okta login system (Wired)"
+ },
+ "a261028p63": {
+  "article_url": "https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p63",
+  "summary": "Google announced its latest and most intelligent frontier AI model today: Gemini 4 Carbon promises improvements in cybersecurity …",
+  "techmeme_url": "https://www.techmeme.com/261028/p63",
+  "title": "Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Carl Franzen/VentureBeat)"
+ },
+ "a261028p64": {
+  "article_url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p64",
+  "summary": "Samsung Electronics reported third-quarter earnings on Thursday, with operating profit broadly in line with analysts' estimates",
+  "techmeme_url": "https://www.techmeme.com/261028/p64",
+  "title": "Samsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates (Jenny Lee/CNBC)"
+ },
+ "a261028p65": {
+  "article_url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=jB9Xwc&reflink=desktopwebshare_permalink",
+  "date": "2026-10-28",
+  "permalink_id": "a261028p65",
+  "summary": "The iPhone maker for years bullied flash-storage makers into steep discounts—until AI hyperscalers bid up prices and gobbled up supply",
+  "techmeme_url": "https://www.techmeme.com/261028/p65",
+  "title": "How surging demand from AI hyperscalers has quintupled flash memory prices and shifted market and negotiating power from Apple to suppliers like Kioxia (Rolfe Winkler/Wall Street Journal)"
  },
  "a261028p7": {
   "article_url": "https://www.ft.com/content/e2aafede-771a-4fd0-b9fb-67c0bbb828ed",
