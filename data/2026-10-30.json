@@ -1,0 +1,26 @@
+{
+ "a261030p1": {
+  "article_url": "https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p1",
+  "summary": "Chinese state-linked hackers targeted more than 200 organizations in just 11 days, using AI to attack governments and businesses worldwide, according to CrowdStrike.",
+  "techmeme_url": "https://www.techmeme.com/261030/p1",
+  "title": "CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine (Kevin Collier/NBC News)"
+ },
+ "a261030p2": {
+  "article_url": "https://www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p2",
+  "summary": "Binance, the world's largest cryptocurrency exchange by trading volume, has pledged to cover all losses from a hack that it said drained around US$6.3 billion from its wallet.",
+  "techmeme_url": "https://www.techmeme.com/261030/p2",
+  "title": "Binance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025 (South China Morning Post)"
+ },
+ "a261030p3": {
+  "article_url": "https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p3",
+  "summary": "North Korean hackers were behind a $6.3 billion raid on cryptocurrency exchange Binance, according to US blockchain analysis firm TRM Labs.",
+  "techmeme_url": "https://www.techmeme.com/261030/p3",
+  "title": "TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes (Tom Westbrook/Reuters)"
+ }
+}
