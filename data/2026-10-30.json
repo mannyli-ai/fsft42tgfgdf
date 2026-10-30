@@ -31,6 +31,62 @@
   "techmeme_url": "https://www.techmeme.com/261030/p12",
   "title": "CXMT reports Q3 revenue of ~$16.7B, up 613.2% YoY, and a net profit of ~$8.17B, swinging to profitability on the back of rising AI-driven memory chip prices (Reuters)"
  },
+ "a261030p13": {
+  "article_url": "https://puck.news/ai/2026/10/pro-ai-pacs-are-retreating-from-the-midterms",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p13",
+  "summary": "To almost everyone's surprise, pro-regulatory PACs have outspent pro-industry groups in the midterms as the A.I. accelerationists seemingly took their foot off the pedal.",
+  "techmeme_url": "https://www.techmeme.com/261030/p13",
+  "title": "FEC data: AI-oriented PACs spent nearly $80M on the 2026 US elections, mostly before the primaries; pro-regulatory PACs outspent Leading the Future's network (Ian Krietzberg/Puck)"
+ },
+ "a261030p14": {
+  "article_url": "https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p14",
+  "summary": "Binance said on Friday it has reserved more than $6.34 billion in company funds, including $5 billion already held in impacted token assets …",
+  "techmeme_url": "https://www.techmeme.com/261030/p14",
+  "title": "Binance says it has reserved $6.34B+ in company funds, including $5B already held in impacted token assets, to deal with the fallout from the $6.3B hack (Rajveer Singh Pardesi/Reuters)"
+ },
+ "a261030p15": {
+  "article_url": "https://www.reuters.com/world/meta-tiktok-x-lose-legal-challenge-against-uk-watchdog-over-online-safety-data-2026-10-30/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p15",
+  "summary": "Meta (META.O), TikTok and X lost a legal challenge against British regulator Ofcom on Friday over information requests made under …",
+  "techmeme_url": "https://www.techmeme.com/261030/p15",
+  "title": "London's High Court dismisses Meta, TikTok, and X's challenge to Ofcom's Online Safety Act information requests, rejecting arguments they were disproportionate (Sam Tobin/Reuters)"
+ },
+ "a261030p16": {
+  "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/29/salesforce-rune-defense",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p16",
+  "summary": "Salesforce signed a definitive agreement to acquire Rune Technologies, a military software and hardware developer for logistics and sustainment. … - Salesforce called Rune its most significant national security-focused acquisition, but did not disclose terms of the deal.",
+  "techmeme_url": "https://www.techmeme.com/261030/p16",
+  "title": "Salesforce buys Rune Technologies for new defense unit (Chris Metinko/Axios)"
+ },
+ "a261030p17": {
+  "article_url": "https://resiliencemedia.co/scoop-salesforce-is-paying-375m-for-rune-technologies/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p17",
+  "summary": "Salesforce is acquiring defence tech startup Rune Technologies for $375 million in a combination of shares and cash, according to two sources familiar with the matter.",
+  "techmeme_url": "https://www.techmeme.com/261030/p17",
+  "title": "Salesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others (Margaux MacColl/Resilience Media)"
+ },
+ "a261030p18": {
+  "article_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p18",
+  "summary": "Google Suncatcher's prototype space data center is online and communicating with the ground after launching earlier this month alongside …",
+  "techmeme_url": "https://www.techmeme.com/261030/p18",
+  "title": "Google says its Suncatcher prototype data center satellite is online after an October 1 launch, with Gemma 4 generating a haiku about being in space (Tim Fernholz/TechCrunch)"
+ },
+ "a261030p19": {
+  "article_url": "https://x.com/claudeai",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p19",
+  "summary": "We're renaming our Max plans: Max 5x → Max Max 20x → Ultra Max is still $100/month, and Ultra is still $200. If you're a subscriber, there's nothing you need to do. We're also removing the 5-hour limit for verified Ultra accounts, starting today with most existing subscribers. Newer accounts ke...",
+  "techmeme_url": "https://www.techmeme.com/261030/p19",
+  "title": "Anthropic renames its $100 per month Max 5x plan as Max and the $200 per month Max 20x plan as Ultra, and removes the 5-hour limit for verified Ultra accounts (Claude/@claudeai)"
+ },
  "a261030p2": {
   "article_url": "https://www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack",
   "date": "2026-10-30",
@@ -38,6 +94,70 @@
   "summary": "Binance, the world's largest cryptocurrency exchange by trading volume, has pledged to cover all losses from a hack that it said drained around US$6.3 billion from its wallet.",
   "techmeme_url": "https://www.techmeme.com/261030/p2",
   "title": "Binance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025 (South China Morning Post)"
+ },
+ "a261030p20": {
+  "article_url": "https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p20",
+  "summary": "The biggest US technology companies generated record amounts of cash in the first nine months of 2026, yet returned the smallest share …",
+  "techmeme_url": "https://www.techmeme.com/261030/p20",
+  "title": "Microsoft, Alphabet, Amazon, Meta, and Oracle returned just 9.3% of cash to shareholders in the first three quarters of 2026, a 15-year low amid AI spending (Patturaja Murugaboopathy/Reuters)"
+ },
+ "a261030p21": {
+  "article_url": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p21",
+  "summary": "North Korean hackers' attack on Binance takes crypto theft to an unprecedented scale — The largest financial theft in history took no more than 30 minutes.",
+  "techmeme_url": "https://www.techmeme.com/261030/p21",
+  "title": "Chainalysis says Binance hackers used automated money-laundering patterns not seen before; Elliptic: almost all of the $6.3B was taken in the first 30 minutes (Financial Times)"
+ },
+ "a261030p22": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p22",
+  "summary": "The five largest players in the data center race have committed more than $3 trillion in spending over the coming years …",
+  "techmeme_url": "https://www.techmeme.com/261030/p22",
+  "title": "Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet's $1T and Meta's $800B (Brody Ford/Bloomberg)"
+ },
+ "a261030p23": {
+  "article_url": "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p23",
+  "summary": "Shares of Reddit cratered 29.22% on Friday, the worst drop since becoming a public company in 2024, after the company forecast weak fourth-quarter sales in its latest earnings report.",
+  "techmeme_url": "https://www.techmeme.com/261030/p23",
+  "title": "Reddit closed down 29.27% on Friday, the worst drop since becoming a public company in 2024, after it forecast weak Q4 revenue (Caleigh Keating/CNBC)"
+ },
+ "a261030p24": {
+  "article_url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p24",
+  "summary": "Intel shares plummeted 29% on Friday, their worst day since the 1970s, after the chipmaker issued weaker-than-expected guidance due …",
+  "techmeme_url": "https://www.techmeme.com/261030/p24",
+  "title": "Intel stock closed down 28.58% on Friday, its worst day since the 1970s and wiping ~$12B off US government's stake, after issuing weaker-than-expected guidance (CNBC)"
+ },
+ "a261030p25": {
+  "article_url": "https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p25",
+  "summary": "OpenAI said on Friday it is tightening limits on the weapons-related information ChatGPT provides to teens, even when a question appears harmless …",
+  "techmeme_url": "https://www.techmeme.com/261030/p25",
+  "title": "OpenAI tightens limits on the weapons-related information that ChatGPT provides teens, even when a question appears harmless, as part of new safeguards (Reuters)"
+ },
+ "a261030p26": {
+  "article_url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p26",
+  "summary": "The new control will allow publishers to apply their AI training preferences across multiple crawlers.",
+  "techmeme_url": "https://www.techmeme.com/261030/p26",
+  "title": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers (Emma Roth/The Verge)"
+ },
+ "a261030p27": {
+  "article_url": "https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p27",
+  "summary": "Powerlattice, a Vancouver, Wash.-based startup developing chips that cut the power demands of AI processors, has raised $86 million, according to an SEC filing on Friday.",
+  "techmeme_url": "https://www.techmeme.com/261030/p27",
+  "title": "Filing: Vancouver, WA-based Powerlattice, which makes a power delivery chiplet to reduce AI compute power needs by 50%+, raised $86M, after raising $31M in 2025 (Kurt Schlosser/GeekWire)"
  },
  "a261030p3": {
   "article_url": "https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/",
