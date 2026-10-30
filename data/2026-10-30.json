@@ -7,6 +7,30 @@
   "techmeme_url": "https://www.techmeme.com/261030/p1",
   "title": "CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine (Kevin Collier/NBC News)"
  },
+ "a261030p10": {
+  "article_url": "https://www.reuters.com/world/europe/uks-cma-opens-investigation-into-metas-terms-publishers-advertisers-2026-10-30/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p10",
+  "summary": "Britain's competition regulator on Friday said it has opened an investigation into whether Meta (META.O) was imposing exploitative terms …",
+  "techmeme_url": "https://www.techmeme.com/261030/p10",
+  "title": "The UK CMA opens a probe into whether Meta imposed exploitative terms on publishers and advertisers to use their content to develop its AI and other services (Reuters)"
+ },
+ "a261030p11": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p11",
+  "summary": "Kioxia Holdings Corp. delivered a profit outlook that trailed estimates, warning that an AI-fueled surge in flash memory chip prices …",
+  "techmeme_url": "https://www.techmeme.com/261030/p11",
+  "title": "NAND maker Kioxia reports FY Q2 operating profit up 22x YoY to ~$12.7B, in line with est., but forecasts Q3 operating profit of ~$12.7B, below ~$14.9B est. (Takashi Mochizuki/Bloomberg)"
+ },
+ "a261030p12": {
+  "article_url": "https://www.reuters.com/world/asia-pacific/cxmt-turns-third-quarter-net-profit-544-billion-yuan-2026-10-30/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p12",
+  "summary": "China's CXMT (688825.SS) said on Friday it swung to a net profit in the third quarter as surging AI-driven demand drove prices higher for its memory chips.",
+  "techmeme_url": "https://www.techmeme.com/261030/p12",
+  "title": "CXMT reports Q3 revenue of ~$16.7B, up 613.2% YoY, and a net profit of ~$8.17B, swinging to profitability on the back of rising AI-driven memory chip prices (Reuters)"
+ },
  "a261030p2": {
   "article_url": "https://www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack",
   "date": "2026-10-30",
@@ -22,5 +46,53 @@
   "summary": "North Korean hackers were behind a $6.3 billion raid on cryptocurrency exchange Binance, according to US blockchain analysis firm TRM Labs.",
   "techmeme_url": "https://www.techmeme.com/261030/p3",
   "title": "TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes (Tom Westbrook/Reuters)"
+ },
+ "a261030p4": {
+  "article_url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p4",
+  "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+  "techmeme_url": "https://www.techmeme.com/261030/p4",
+  "title": "How a wave of startups are betting on AI to make formal software verification practical and essential, including &Truth, which launches with a $70M seed (Paresh Dave/Wired)"
+ },
+ "a261030p5": {
+  "article_url": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p5",
+  "summary": "Streaming service plans to charge users up to $5 a month to use the feature — Spotify is targeting an early 2027 launch …",
+  "techmeme_url": "https://www.techmeme.com/261030/p5",
+  "title": "Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals (Anna Nicolaou/Financial Times)"
+ },
+ "a261030p6": {
+  "article_url": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?accessToken=zwAAAaIi1GfplNO5KUuRDu5BO9O93gVp9IU5udPuhsS2H-RGftOPGJwI3yiK_9PrOGFWW_lO3dOA8oA_3uHjPdPy3p88MpBOh9O7wlVDACXyqwE.MEUCIQCTfptZcpPISYntlhh1mjoa3g6HxEZajv0OSQGMtt_QEQIgSVZwVMNDn0Bf_KARrNJmOPbLhMU516inUsUkdvr2i-0&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p6",
+  "summary": "Nvidia-backed neocloud bets on West Virginia data centre campus hit by construction issues, local opposition and financing risks — NEW",
+  "techmeme_url": "https://www.techmeme.com/261030/p6",
+  "title": "Inside Nscale's 2,250-acre, 8GW Monarch Compute Campus in West Virginia, which has been hit by construction issues, local opposition, and financing risks (Financial Times)"
+ },
+ "a261030p7": {
+  "article_url": "https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p7",
+  "summary": "As AI transforms the accounting industry, Ravical aims to help firms turn individual expertise into shared knowledge …",
+  "techmeme_url": "https://www.techmeme.com/261030/p7",
+  "title": "Ravical, whose AI-powered platform helps accounting and tax firms manage their operations, raised a $17M seed led by MMC, bringing its total funding to $25M (Tamara Djurickovic/Tech.eu)"
+ },
+ "a261030p8": {
+  "article_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p8",
+  "summary": "Andy Alder and Arjun Mather were Stanford roommates who both studied computer science before spending a decade at Palantir.",
+  "techmeme_url": "https://www.techmeme.com/261030/p8",
+  "title": "Dream, which is training AI world models on US building data to automate construction design and engineering, emerges from stealth with a $17M seed led by a16z (Marina Temkin/TechCrunch)"
+ },
+ "a261030p9": {
+  "article_url": "https://x.com/binance",
+  "date": "2026-10-30",
+  "permalink_id": "a261030p9",
+  "summary": "Investigation update: Our initial investigation suggested that the security incident may have involved a compromised laptop, however our subsequent investigation has uncovered additional points of breach. This was a complex attack, and we are doing all we can in coordination with law enforcement...",
+  "techmeme_url": "https://www.techmeme.com/261030/p9",
+  "title": "Binance reveals that a follow-up investigation has found \"additional points of breach\" beyond a possibly compromised laptop and says this was a \"complex attack\" (@binance)"
  }
 }
