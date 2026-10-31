@@ -7,6 +7,22 @@
   "techmeme_url": "https://www.techmeme.com/261031/p1",
   "title": "John Ternus says Apple doesn't \"want to ship AI for AI's sake\" and that Tim Cook is \"available to help wherever I ask\" on policy; Ternus has yet to meet Trump (Steven Levy/Wired)"
  },
+ "a261031p10": {
+  "article_url": "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push",
+  "date": "2026-10-31",
+  "permalink_id": "a261031p10",
+  "summary": "Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version …",
+  "techmeme_url": "https://www.techmeme.com/261031/p10",
+  "title": "Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units (Jyoti Mann/The Information)"
+ },
+ "a261031p11": {
+  "article_url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+  "date": "2026-10-31",
+  "permalink_id": "a261031p11",
+  "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it …",
+  "techmeme_url": "https://www.techmeme.com/261031/p11",
+  "title": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link (Swati Khandelwal/The Hacker News)"
+ },
  "a261031p2": {
   "article_url": "https://x.com/felixrieseberg",
   "date": "2026-10-31",
@@ -54,5 +70,21 @@
   "summary": "Industry has drained the state's water reserves for decades. Data centers are the breaking point.﻿ — AA hulking gray giant rises from the desert.",
   "techmeme_url": "https://www.techmeme.com/261031/p7",
   "title": "A look at growing bipartisan opposition to AI data centers in drought-stricken Arizona, where TSMC's chip fabs were welcomed but newer projects face backlash (Gaby Del Valle/The Verge)"
+ },
+ "a261031p8": {
+  "article_url": "https://www.bloomberg.com/news/features/2026-10-30/how-ai-detectors-like-pangram-are-changing-human-writing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzM2MDg2MCwiZXhwIjoxNzkzOTY1NjYwLCJhcnRpY2xlSWQiOiJUTlBLU0FLSVVQU0MwMCIsImJjb25uZWN0SWQiOiI1MEU0OTBGQjhDNTM0MkREODAwRUEyNTQ1RjBCMThCOCJ9.QWmO8ZCSYNuUI7oMX4N9wEkQtBDq_LYD89yJOMz3bfE",
+  "date": "2026-10-31",
+  "permalink_id": "a261031p8",
+  "summary": "As AI transforms writing and detectors like Pangram police what counts as machine-generated …",
+  "techmeme_url": "https://www.techmeme.com/261031/p8",
+  "title": "How AI detectors like Pangram are changing human writing: authors drop em dashes, \"not X, but Y\" phrasing, and words like \"delve\", or add typos, to look human (Morgan Meaker/Bloomberg)"
+ },
+ "a261031p9": {
+  "article_url": "https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/",
+  "date": "2026-10-31",
+  "permalink_id": "a261031p9",
+  "summary": "Cryptocurrency exchange Binance said on Saturday that it was able to cover 90% of the amount stolen during its recent hack.",
+  "techmeme_url": "https://www.techmeme.com/261031/p9",
+  "title": "Binance says it has covered 90% of its hack losses, having set aside $6.34B+ of company funds; the remaining 10% is in less liquid tokens (Angela Christy/Reuters)"
  }
 }
