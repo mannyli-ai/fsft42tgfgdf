@@ -30,5 +30,29 @@
   "summary": "Lenders and investors are getting choosier about their bets and demanding stricter terms, as the AI build-out enters a new phase",
   "techmeme_url": "https://www.techmeme.com/261031/p4",
   "title": "Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms (Wall Street Journal)"
+ },
+ "a261031p5": {
+  "article_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
+  "date": "2026-10-31",
+  "permalink_id": "a261031p5",
+  "summary": "With data centers full of RAM, your PC is apparently the problem. … OpenAI CEO Sam Altman has data centers full of memory …",
+  "techmeme_url": "https://www.techmeme.com/261031/p5",
+  "title": "When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and \"being used 5% of the time\" (Andrew E. Freedman/Tom's Hardware)"
+ },
+ "a261031p6": {
+  "article_url": "https://commanding-heights.com/",
+  "date": "2026-10-31",
+  "permalink_id": "a261031p6",
+  "summary": "Scarce, controllable positions of Economic Power whose holders durably capture the gains of Increasingly Capable and diffused intelligence.",
+  "techmeme_url": "https://www.techmeme.com/261031/p6",
+  "title": "As AI models commoditize, lasting wealth will accrue to those controlling chokepoints like distribution, payment rails, and a stablecoin dollar, not to the labs (The Commanding Heights)"
+ },
+ "a261031p7": {
+  "article_url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc/?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFkdzJEQktYdUkiLCJwIjoiL2NzL2ZlYXR1cmVzLzEwMTY2NTAvYXJpem9uYS13YXRlci1kYXRhLWNlbnRlci10c21jIiwiZXhwIjoxNzkzNzE2ODI5LCJpYXQiOjE3OTMyODQ4Mjl9.2I3Q8YF72YlZ82qB1jITu1Pv_2X6WPGXSrMtVpL9JTE",
+  "date": "2026-10-31",
+  "permalink_id": "a261031p7",
+  "summary": "Industry has drained the state's water reserves for decades. Data centers are the breaking point.﻿ — AA hulking gray giant rises from the desert.",
+  "techmeme_url": "https://www.techmeme.com/261031/p7",
+  "title": "A look at growing bipartisan opposition to AI data centers in drought-stricken Arizona, where TSMC's chip fabs were welcomed but newer projects face backlash (Gaby Del Valle/The Verge)"
  }
 }
