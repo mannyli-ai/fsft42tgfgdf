@@ -1,0 +1,34 @@
+{
+ "a261031p1": {
+  "article_url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+  "date": "2026-10-31",
+  "permalink_id": "a261031p1",
+  "summary": "Apple doesn't need fixing, and it doesn't want drama. Its new leader is a “product guy” who bleeds six colors.",
+  "techmeme_url": "https://www.techmeme.com/261031/p1",
+  "title": "John Ternus says Apple doesn't \"want to ship AI for AI's sake\" and that Tim Cook is \"available to help wherever I ask\" on policy; Ternus has yet to meet Trump (Steven Levy/Wired)"
+ },
+ "a261031p2": {
+  "article_url": "https://x.com/felixrieseberg",
+  "date": "2026-10-31",
+  "permalink_id": "a261031p2",
+  "summary": "We're working with Cursor on this incident, but it wasn't a compromise of Anthropic's systems or employee laptops. A malicious actor used access to Cursor's marketplace to publish a tampered copy of the Claude Code extension, which we didn't build or publish. The versions on our official channels a...",
+  "techmeme_url": "https://www.techmeme.com/261031/p2",
+  "title": "Anthropic says a malicious actor used access to Cursor's marketplace to publish a \"tampered\" copy of the Claude Code extension, which it didn't build or publish (Felix Rieseberg/@felixrieseberg)"
+ },
+ "a261031p3": {
+  "article_url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+  "date": "2026-10-31",
+  "permalink_id": "a261031p3",
+  "summary": "Meta's outlook has been revised downward by S&P Global Ratings on concerns surrounding cash flow and AI spending.",
+  "techmeme_url": "https://www.techmeme.com/261031/p3",
+  "title": "S&P downgraded Meta's outlook from stable to negative, citing high capex and negative free cash flow; META fell 15% in October, its worst month in four years (Jonathan Vanian/CNBC)"
+ },
+ "a261031p4": {
+  "article_url": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?st=7gB5bX&reflink=desktopwebshare_permalink",
+  "date": "2026-10-31",
+  "permalink_id": "a261031p4",
+  "summary": "Lenders and investors are getting choosier about their bets and demanding stricter terms, as the AI build-out enters a new phase",
+  "techmeme_url": "https://www.techmeme.com/261031/p4",
+  "title": "Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms (Wall Street Journal)"
+ }
+}
