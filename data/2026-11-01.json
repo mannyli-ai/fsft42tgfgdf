@@ -7,6 +7,62 @@
   "techmeme_url": "https://www.techmeme.com/261101/p1",
   "title": "Insurance software maker Guidewire agrees to acquire Hyperexponential, which makes AI-powered insurance underwriting and pricing software, for $1.7B in cash (Anzar Mehraj/Reuters)"
  },
+ "a261101p10": {
+  "article_url": "https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth",
+  "date": "2026-11-01",
+  "permalink_id": "a261101p10",
+  "summary": "Data centers in space could cost up to 100 times as much as those on Earth, Google's head of data center energy said this week …",
+  "techmeme_url": "https://www.techmeme.com/261101/p10",
+  "title": "Google's data center energy head says space data centers cost up to 100x more than Earth-based ones, and US power supply is sufficient but permits are slow (Amir Efrati/The Information)"
+ },
+ "a261101p11": {
+  "article_url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
+  "date": "2026-11-01",
+  "permalink_id": "a261101p11",
+  "summary": "The exchange said the outflows equal 2.1% of its assets and that withdrawal volumes have eased after an initial spike.",
+  "techmeme_url": "https://www.techmeme.com/261101/p11",
+  "title": "Binance says net outflows were $3.64B, or 2.1% of assets, in the 9.5 hours after it began restoring withdrawals; DefiLlama puts 24-hour net outflows at $4.05B (Zack Abrams/The Block)"
+ },
+ "a261101p12": {
+  "article_url": "https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/",
+  "date": "2026-11-01",
+  "permalink_id": "a261101p12",
+  "summary": "Inside tech's corner offices, there's no love left for the news media. “I think you're the problem, the media,” …",
+  "techmeme_url": "https://www.techmeme.com/261101/p12",
+  "title": "A look at VC-backed glossy magazine Colossus, whose glowing profiles of Zuckerberg and other tech titans win industry praise, while Kara Swisher says it is PR (Andrew Fedorov/The San Francisco Standard)"
+ },
+ "a261101p13": {
+  "article_url": "https://www.theinformation.com/articles/candidates-backing-data-center-pauses-win-15-governors-races",
+  "date": "2026-11-01",
+  "permalink_id": "a261101p13",
+  "summary": "As data centers have gone from obscurity to the top of voters' minds, midterm candidates are taking a stance on the issue.",
+  "techmeme_url": "https://www.techmeme.com/261101/p13",
+  "title": "Analysis: candidates backing a data center moratorium could win up to 15 of 36 US governors' races on Tuesday, including in Texas, Ohio, Michigan, and New York (Shane Burke/The Information)"
+ },
+ "a261101p14": {
+  "article_url": "https://www.calcalistech.com/ctechnews/article/yxdvdp8sm",
+  "date": "2026-11-01",
+  "permalink_id": "a261101p14",
+  "summary": "Bill McDermott said rollouts now take “a month ... 30 days, 60 days” for large companies, as ServiceNow pushes into CRM.",
+  "techmeme_url": "https://www.techmeme.com/261101/p14",
+  "title": "ServiceNow confirms it acquired Israeli startup Sweep to speed up customers' migrations to its CRM, for an undisclosed price estimated at hundreds of millions (Allon Sinai/CTech)"
+ },
+ "a261101p15": {
+  "article_url": "https://nymag.com/intelligencer/article/down-and-out-in-the-app-store.html",
+  "date": "2026-11-01",
+  "permalink_id": "a261101p15",
+  "summary": "Is getting paid to scroll a symptom of the economy or its entire future? — Last year, Jeremiah's TikTok started feeding him ads for a new way to make money.",
+  "techmeme_url": "https://www.techmeme.com/261101/p15",
+  "title": "How \"get-paid-to\" apps like Freecash, briefly a top five App Store app in September, pay users small sums to play games and help publishers find big spenders (John Herrman/New York Magazine)"
+ },
+ "a261101p16": {
+  "article_url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+  "date": "2026-11-01",
+  "permalink_id": "a261101p16",
+  "summary": "Right after Tuesday's midterms, OpenAI will unleash a policy and PR blitz to try to get in sync with the new Washington …",
+  "techmeme_url": "https://www.techmeme.com/261101/p16",
+  "title": "OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\" (Axios)"
+ },
  "a261101p2": {
   "article_url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
   "date": "2026-11-01",
@@ -62,5 +118,13 @@
   "summary": "With trillions riding on the artificial-intelligence trade, investors, traders and tech executives alike are hunting for high-stakes protection",
   "techmeme_url": "https://www.techmeme.com/261101/p8",
   "title": "Solve: the cost of insuring against debt defaults at hyperscalers Amazon, Alphabet, Microsoft, Meta, and Oracle has hit its highest level since 2021 (Gunjan Banerji/Wall Street Journal)"
+ },
+ "a261101p9": {
+  "article_url": "https://colossus.com/article/michael-kratsios-office-frontier-ostp/",
+  "date": "2026-11-01",
+  "permalink_id": "a261101p9",
+  "summary": "The fight to regulate AI and reform American science runs through a little-known White House office, and the Thiel-turned-Trump aide in charge of it",
+  "techmeme_url": "https://www.techmeme.com/261101/p9",
+  "title": "A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy (Harry Lambert/Colossus)"
  }
 }
