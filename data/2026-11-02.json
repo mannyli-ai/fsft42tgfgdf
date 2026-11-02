@@ -7,6 +7,62 @@
   "techmeme_url": "https://www.techmeme.com/261102/p1",
   "title": "SemiAnalysis launches GDPx, an agentic capability benchmark measuring 11 domains, including chip design, cybersecurity, and RSI; Opus 5.5 tops with a 12% score (SemiAnalysis)"
  },
+ "a261102p13": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/belgian-swedish-supermarkets-report-new-suspected-freezer-hack",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p13",
+  "summary": "Supermarkets across Europe were hit by suspected cyberattacks that resulted in sudden changes in the temperatures of their fridges …",
+  "techmeme_url": "https://www.techmeme.com/261102/p13",
+  "title": "Supermarkets in Belgium, Ireland, Sweden, Finland, and Estonia report fridge and freezer temperature spikes due to suspected hacks, echoing attacks in France (Bloomberg)"
+ },
+ "a261102p14": {
+  "article_url": "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p14",
+  "summary": "Marvell Technology (MRVL.O) is buying optical components maker Lumentum (LITE.O) in a $115 billion all-stock deal, including debt …",
+  "techmeme_url": "https://www.techmeme.com/261102/p14",
+  "title": "Marvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to rival Broadcom; Nvidia invested $2B in each company in 2026 (Anhata Rooprai/Reuters)"
+ },
+ "a261102p15": {
+  "article_url": "https://www.washingtonpost.com/technology/2026/11/02/inside-elon-musks-plan-upend-wireless-phone-industry/",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p15",
+  "summary": "Elon Musk approached the heads of America's top telecom companies in recent months with a request that would help him fulfill a years-long dream.",
+  "techmeme_url": "https://www.techmeme.com/261102/p15",
+  "title": "Sources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile, and AT&T rebuffed requests for network access (Washington Post)"
+ },
+ "a261102p16": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p16",
+  "summary": "Marvell Technology Inc. has reached a deal to buy data center optics maker Lumentum Holdings Inc. at an enterprise value $115 billion …",
+  "techmeme_url": "https://www.techmeme.com/261102/p16",
+  "title": "Marvell's $115B Lumentum acquisition is one of the biggest tech deals ever and 2026's top M&A deal; Lumentum is up 128% YTD, giving it a ~$76B market cap (Bloomberg)"
+ },
+ "a261102p17": {
+  "article_url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p17",
+  "summary": "A growing number of startups are editing powerful Chinese open-weight models for Western businesses that are concerned about censorship and security.",
+  "techmeme_url": "https://www.techmeme.com/261102/p17",
+  "title": "Hirundo, Lazarus, and others are applying machine unlearning and weight edits to Chinese models to remove censorship and harden security for Western companies (Rest of World)"
+ },
+ "a261102p18": {
+  "article_url": "https://www.nytimes.com/2026/11/02/us/politics/elon-musk-midterm-spending.html",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p18",
+  "summary": "Never before has a single ultrawealthy person who was not running for office spent this much during a single election cycle.",
+  "techmeme_url": "https://www.techmeme.com/261102/p18",
+  "title": "Analysis: Elon Musk contributed a record $474M to political groups for the 2026 midterms, including $216M to America PAC, the most a non-candidate has spent yet (Theodore Schleifer/New York Times)"
+ },
+ "a261102p19": {
+  "article_url": "https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p19",
+  "summary": "The AI Futures Project[1] distinguishes several different plans for navigating the AI transition, which I'll lump into two broader categories:",
+  "techmeme_url": "https://www.techmeme.com/261102/p19",
+  "title": "A look at AI safety debates and the rising popularity of \"Stop Unilaterally + Raise Awareness\", or SURA; safety-focused AI labs shouldn't abandon the AI race (Scott Alexander/LessWrong)"
+ },
  "a261102p2": {
   "article_url": "https://www.eu-startups.com/",
   "date": "2026-11-02",
@@ -14,5 +70,69 @@
   "summary": "Braid, a Dutch company that enables enterprises to launch their own branded mobile connectivity, has raised €34.13 million ($38 million) in a Series A funding round.",
   "techmeme_url": "https://www.techmeme.com/261102/p2",
   "title": "The Hague-based Braid, whose API lets companies sell eSIM mobile plans under their own brand via 600+ carriers, raised a ~$38M Series A led by Octopus Ventures (Rahul Raj/EU-Startups)"
+ },
+ "a261102p20": {
+  "article_url": "https://www.forbes.com/sites/siladityaray/2026/11/02/musk-says-grok-bots-costs-were-unsustainably-high-weeks-after-touting-rapid-growth/",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p20",
+  "summary": "Topline — Elon Musk acknowledged on Sunday that the cost of running SpaceX's AI agent Grok Bot was “unsustainably high” …",
+  "techmeme_url": "https://www.techmeme.com/261102/p20",
+  "title": "Elon Musk says the cost of serving Grok Bot was \"unsustainably high relative to revenue\", in response to subscribers complaining about SpaceX's usage limits (Siladitya Ray/Forbes)"
+ },
+ "a261102p21": {
+  "article_url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p21",
+  "summary": "The ChatGPT desktop app can be a confusing piece of software, given that there are ChatGPT and Codex sections, and within the former, there are Chat and Work tabs.",
+  "techmeme_url": "https://www.techmeme.com/261102/p21",
+  "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop for select users before rolling it out widely; Codex \"will remain a separate experience\" (Ivan Mehta/TechCrunch)"
+ },
+ "a261102p22": {
+  "article_url": "https://www.reuters.com/business/finance/alphabet-kicks-off-6-billion-bond-sale-tests-appetite-tech-debt-2026-11-02/",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p22",
+  "summary": "Google parent Alphabet (GOOGL.O) is selling €6 billion ($6.7 billion) of bonds on Monday …",
+  "techmeme_url": "https://www.techmeme.com/261102/p22",
+  "title": "Memo: Alphabet is issuing €6B in euro-denominated debt across seven tranches, attracting €17B+ in demand; Alphabet sold €9B of bonds in six tranches in May 2026 (Reuters)"
+ },
+ "a261102p23": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p23",
+  "summary": "Anthropic PBC reported third-quarter revenue of nearly $17 billion as of Sept. 30, a twelve-fold increase versus the same period …",
+  "techmeme_url": "https://www.techmeme.com/261102/p23",
+  "title": "S-1 update: Anthropic reports Q3 revenue up 12x YoY to nearly $17B, a $23.3B net loss, up from $12.1B in Q3 2025, and operating expenses up 292% YoY to $17.5B (Bailey Lipschultz/Bloomberg)"
+ },
+ "a261102p24": {
+  "article_url": "https://www.theinformation.com/articles/inside-apples-slog-create-first-robot",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p24",
+  "summary": "Apple's new CEO John Ternus wants the company to get serious about robots, but judging by Apple's plodding progress …",
+  "techmeme_url": "https://www.techmeme.com/261102/p24",
+  "title": "Sources: Apple is developing a tabletop robot with a 9\" screen and a swiveling arm, set for release in 2027 or 2028 for ~$1,000, as John Ternus pushes robotics (Aaron Tilley/The Information)"
+ },
+ "a261102p25": {
+  "article_url": "https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?st=19tHqn&reflink=desktopwebshare_permalink",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p25",
+  "summary": "The software company is selling $10 billion in common stock and $10 billion in bonds — Oracle plans to raise $20 billion in debt …",
+  "techmeme_url": "https://www.techmeme.com/261102/p25",
+  "title": "Filings: Oracle is selling $10B in common stock and $10B in bonds, as it rushes to line up financing to pay for its data center buildout; ORCL falls 5%+ (Kelly Cloonan/Wall Street Journal)"
+ },
+ "a261102p26": {
+  "article_url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p26",
+  "summary": "Illustration by Mark Harris; Photographs by Thea Traff for The New York Times, AJ Mast for The New York Times, Manuel Orbegozo for The New York Times, Getty Images",
+  "techmeme_url": "https://www.techmeme.com/261102/p26",
+  "title": "Sources detail Anthropic's compute deal spree: 3.5GW+ in expected capacity in 2026, expanding direct hardware procurement to include Nvidia and AMD, and more (New York Times)"
+ },
+ "a261102p27": {
+  "article_url": "https://nymag.com/intelligencer/article/charles-porch-openai-sam-altman-instagram-gwyneth-paltrow.html",
+  "date": "2026-11-02",
+  "permalink_id": "a261102p27",
+  "summary": "Charles Porch is rich, super-connected, and tasked with getting celebrities (and everyone else) to not hate AI so much.",
+  "techmeme_url": "https://www.techmeme.com/261102/p27",
+  "title": "A profile of OpenAI VP Charles Porch, an ex-Instagram executive who is rehabilitating AI's image across Hollywood and the media, including via celebrity dinners (Charlotte Klein/New York Magazine)"
  }
 }
