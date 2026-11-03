@@ -63,6 +63,46 @@
   "techmeme_url": "https://www.techmeme.com/261103/p2",
   "title": "OpenAI partners with Cathedral to test its security defenses and revamps its Security Bug Bounty program, including quadrupling rewards for critical findings (OpenAI)"
  },
+ "a261103p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p25",
+  "summary": "Meta Platforms Inc. is eyeing at least $20 billion from a potential cross-border investment-grade bond offering …",
+  "techmeme_url": "https://www.techmeme.com/261103/p25",
+  "title": "Sources: Meta eyes $20B+ from a potential cross-border investment-grade bond offering, its first major debt sale in six months and its debut offering in euros (Bloomberg)"
+ },
+ "a261103p26": {
+  "article_url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p26",
+  "summary": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday's elections from efforts to undermine democracy.",
+  "techmeme_url": "https://www.techmeme.com/261103/p26",
+  "title": "How OpenAI, Anthropic, and others are trying to prevent anyone from using their AI tools to disrupt the US midterms, including Anthropic's first-ever \"war room\" (Steven Lee Myers/New York Times)"
+ },
+ "a261103p27": {
+  "article_url": "https://developer.apple.com/news/?id=gdk2umrf",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p27",
+  "summary": "Starting today with the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas, a new Developer Preview enables any developer …",
+  "techmeme_url": "https://www.techmeme.com/261103/p27",
+  "title": "Apple opens Siri AI to all developers, letting any app on iOS 27.3 beta and other 27.3 OS betas bring its content and actions into Siri AI by using App Intents (Apple Developer)"
+ },
+ "a261103p28": {
+  "article_url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p28",
+  "summary": "CrowdStrike is betting that it has a solution to rogue artificial intelligence. — The cybersecurity vendor on Tuesday launched …",
+  "techmeme_url": "https://www.techmeme.com/261103/p28",
+  "title": "CrowdStrike debuts an AI kill switch in Falcon Guardian to stop internal AI agents that go rogue, and announces a Falcon Guardian integration with Claude Cowork (Samantha Subin/CNBC)"
+ },
+ "a261103p29": {
+  "article_url": "https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p29",
+  "summary": "US officials have held up approval for American chipmaking equipment needed by SK Hynix (000660.KS) to expand production in China …",
+  "techmeme_url": "https://www.techmeme.com/261103/p29",
+  "title": "Sources: US officials have held up approval for US chipmaking equipment needed by SK Hynix to expand in China, complicating its plans for new plants in New York (Karen Freifeld/Reuters)"
+ },
  "a261103p3": {
   "article_url": "https://nymag.com/intelligencer/article/alex-bores-who-decides-pac-ai-2028-democratic-presidential-primary.html",
   "date": "2026-11-03",
@@ -70,6 +110,86 @@
   "summary": "In early November, in that exceedingly brief window between the midterm election and presidential-primary season …",
   "techmeme_url": "https://www.techmeme.com/261103/p3",
   "title": "How Alex Bores' Who Decides seeks to make AI safety a standard Democratic position, like being pro-choice, in 2028, as tech-funded rivals vie for influence (David Freedlander/New York Magazine)"
+ },
+ "a261103p30": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczMDU5MCwiZXhwIjoxNzk0MzM1MzkwLCJhcnRpY2xlSWQiOiJUTlhWQTJOM04wOUowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.7fxypbPrSvvjnL8axvz4558x4pLkCOGmDrxk0Q0E3l0",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p30",
+  "summary": "Apple Inc. rolled out the first developer beta versions of iOS 27.3 and watchOS 27.3 on Tuesday, putting new features …",
+  "techmeme_url": "https://www.techmeme.com/261103/p30",
+  "title": "Apple launches iOS 27.3 beta, adding Apple Intelligence in China with an Alibaba-powered content filter, and watchOS 27.3 beta, with Siri Recap and Live Rewind (Bloomberg)"
+ },
+ "a261103p31": {
+  "article_url": "https://www.axios.com/2026/11/03/jill-hazelbaker-openai-uber",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p31",
+  "summary": "Jill Hazelbaker, Uber's president and chief corporate affairs officer, is moving to OpenAI in the new role of chief corporate affairs officer …",
+  "techmeme_url": "https://www.techmeme.com/261103/p31",
+  "title": "OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman (Mike Allen/Axios)"
+ },
+ "a261103p32": {
+  "article_url": "https://www.anthropic.com/research/provable-inference",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p32",
+  "summary": "Roy Rinberg (Anthropic), Alex Allain (Anthropic); Alessandro Chiesa (EPFL, StarkWare), Miranda Christ (MIT, RESI), Rahul Dalal …",
+  "techmeme_url": "https://www.techmeme.com/261103/p32",
+  "title": "Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in (Anthropic)"
+ },
+ "a261103p33": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczODc4NywiZXhwIjoxNzk0MzQzNTg3LCJhcnRpY2xlSWQiOiJUTlkxTDNWVFRDWk4wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.ix5loaB0Yf6oezkpCA7U-aWqZrr-beJQjpgNiY0OlJ8&leadSource=article-gifting",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p33",
+  "summary": "Microsoft's gaming unit is looking to divest the French company behind ‘Dishonored’ and 'Marvel's Blade'",
+  "techmeme_url": "https://www.techmeme.com/261103/p33",
+  "title": "Sources: Ubisoft and at least two other gaming companies offered to acquire Arkane Studios from Microsoft, which is exploring options before a December deadline (Jason Schreier/Bloomberg)"
+ },
+ "a261103p34": {
+  "article_url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p34",
+  "summary": "Advanced Micro Devices reported third-quarter earnings on Tuesday that beat Wall Street's expectations, with revenue jump 45% …",
+  "techmeme_url": "https://www.techmeme.com/261103/p34",
+  "title": "AMD reports Q3 revenue up 45% YoY to $13.38B, vs. $13.09B est., Data Center revenue up 97% to $8.5B, forecasts Q4 revenue above est.; AMD jumps 7%+ after hours (Katie Tarasov/CNBC)"
+ },
+ "a261103p35": {
+  "article_url": "https://www.reuters.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-strong-ai-server-demand-2026-11-03/",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p35",
+  "summary": "Super Micro Computer (SMCI.O) forecast second-quarter revenue above Wall Street estimates on Tuesday as strong demand for its AI-optimized servers boosted sales …",
+  "techmeme_url": "https://www.techmeme.com/261103/p35",
+  "title": "Super Micro reports Q1 revenue up 298% YoY to $19.95B, vs. $16.39B est., and forecasts Q2 revenue above estimates; SMCI jumps 7%+ after hours (Reuters)"
+ },
+ "a261103p36": {
+  "article_url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p36",
+  "summary": "Revolut says that in less than a year it's managed to slash its AI coding inference costs by roughly 90 percent by making self-hosted models …",
+  "techmeme_url": "https://www.techmeme.com/261103/p36",
+  "title": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code (Tobias Mann/The Register)"
+ },
+ "a261103p37": {
+  "article_url": "https://www.theage.com.au/technology/canva-unveils-mass-job-cuts-in-hardest-moment-of-its-history-20261104-p61b62.html",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p37",
+  "summary": "Canva will cut more than 1000 jobs in a major restructure in response to slowing growth at the design giant. — Co-founder and chief executive …",
+  "techmeme_url": "https://www.techmeme.com/261103/p37",
+  "title": "Canva says it is restructuring, which will impact 1,271 workers, or 22% of its workforce, as it merges its product, growth, and platform teams (David Swan/The Age)"
+ },
+ "a261103p38": {
+  "article_url": "https://www.reuters.com/business/block-raises-full-year-profit-outlook-cash-app-drives-q3-growth-2026-11-03/",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p38",
+  "summary": "Jack Dorsey-led Block (XYZ.N) raised its full-year gross profit outlook on Tuesday after posting a rise in third-quarter earnings …",
+  "techmeme_url": "https://www.techmeme.com/261103/p38",
+  "title": "Block reports Q3 revenue up 10% YoY to $6.7B, above est., Cash App gross profit up 27% to $2.07B, raises its full-year profit outlook; XYZ jumps 5%+ after hours (Reuters)"
+ },
+ "a261103p39": {
+  "article_url": "https://www.forbes.com/sites/the-prompt/2026/11/03/the-billion-dollar-business-of-fixing-what-ai-builds/",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p39",
+  "summary": "Traversal has raised $120 million in funding to help companies like American Express and Pepsi troubleshoot site outages. — for The Prompt",
+  "techmeme_url": "https://www.techmeme.com/261103/p39",
+  "title": "Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation (Rashi Shrivastava/Forbes)"
  },
  "a261103p4": {
   "article_url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
