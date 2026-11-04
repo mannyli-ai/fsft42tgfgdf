@@ -1,0 +1,42 @@
+{
+ "a261104p1": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p1",
+  "summary": "Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they've ordered over the next several months …",
+  "techmeme_url": "https://www.techmeme.com/261104/p1",
+  "title": "Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months (Bloomberg)"
+ },
+ "a261104p2": {
+  "article_url": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p2",
+  "summary": "Intervention comes amid growing tension for US AI infrastructure groups doing business with Chinese tech giants.",
+  "techmeme_url": "https://www.techmeme.com/261104/p2",
+  "title": "Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration (Financial Times)"
+ },
+ "a261104p3": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p3",
+  "summary": "Global markets pared a selloff sparked by a Democratic sweep of the US Congress, as investors weighed tougher scrutiny …",
+  "techmeme_url": "https://www.techmeme.com/261104/p3",
+  "title": "A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto (Bloomberg)"
+ },
+ "a261104p4": {
+  "article_url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p4",
+  "summary": "More than 118 million users watch microdramas every month as the serialized format has taken off in India.",
+  "techmeme_url": "https://www.techmeme.com/261104/p4",
+  "title": "India-based EloElo, whose Story TV microdrama app has 33M+ estimated active users, raised an $80M Series C from Hornbill Capital and NBCU at a $500M valuation (Ivan Mehta/TechCrunch)"
+ },
+ "a261104p5": {
+  "article_url": "https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p5",
+  "summary": "AMD has predicted it will win more revenue than Intel in its next quarter, potentially marking the first time it becomes …",
+  "techmeme_url": "https://www.techmeme.com/261104/p5",
+  "title": "AMD projects ~$17B in Q4 2026 revenue, compared to Intel's $15B to $16B, potentially overtaking Intel as the largest x86 processor vendor for the first time (Simon Sharwood/The Register)"
+ }
+}

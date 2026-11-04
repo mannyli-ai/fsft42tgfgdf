@@ -199,6 +199,86 @@
   "techmeme_url": "https://www.techmeme.com/261103/p4",
   "title": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)"
  },
+ "a261103p40": {
+  "article_url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p40",
+  "summary": "Valve admits that it's now taking ‘up to 12 business days’ to game submissions.",
+  "techmeme_url": "https://www.techmeme.com/261103/p40",
+  "title": "Valve announces changes to Steam's review process, as a surge in game submissions pushes review times to \"up to 12 business days\", instead of the usual 3-5 days (Jay Peters/The Verge)"
+ },
+ "a261103p41": {
+  "article_url": "https://x.com/newsfromgoogle",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p41",
+  "summary": "",
+  "techmeme_url": "https://www.techmeme.com/261103/p41",
+  "title": "We want to clarify what we announced today about our education services. Today's announcements give schools more choice, not less. Here's what we announced: - Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control over student use of AI... (@newsfromgoogle)"
+ },
+ "a261103p42": {
+  "article_url": "https://www.theinformation.com/articles/nvidia-uses-soft-power-influence-customers-shape-policy",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p42",
+  "summary": "Last month, OpenAI Senior Research Scientist Noam Brown posted a link in a company Slack channel to a news story …",
+  "techmeme_url": "https://www.techmeme.com/261103/p42",
+  "title": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)"
+ },
+ "a261103p43": {
+  "article_url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p43",
+  "summary": "Cat Wu, who helped scale Claude Code into one of tech's most important products, has left Anthropic. — She joined the startup in 2024 …",
+  "techmeme_url": "https://www.techmeme.com/261103/p43",
+  "title": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month (Stephen Council/Business Insider)"
+ },
+ "a261103p44": {
+  "article_url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p44",
+  "summary": "Google is playing defense on Tuesday after a political backlash to its new policy surrounding use of artificial intelligence in schools.",
+  "techmeme_url": "https://www.techmeme.com/261103/p44",
+  "title": "Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually (Isabel O'Brien/CNBC)"
+ },
+ "a261103p45": {
+  "article_url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p45",
+  "summary": "Ahead of the midterms, WIRED talked to New York City's mayor about data centers, AI in schools, and the future of the Democratic party.",
+  "techmeme_url": "https://www.techmeme.com/261103/p45",
+  "title": "Q&A with NYC Mayor Zohran Mamdani on new municipal AI policy measures, like an AI ban for some students, support for a one-year data center pause, and more (Katie Drummond/Wired)"
+ },
+ "a261103p46": {
+  "article_url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p46",
+  "summary": "California is accepting $1.42 billion in broadband grant funding from the Trump administration, but the state is not accepting …",
+  "techmeme_url": "https://www.techmeme.com/261103/p46",
+  "title": "California accepts $1.42B in federal broadband funding, but challenges the Trump administration's demand that it stop enforcing state net neutrality rules (Jon Brodkin/Ars Technica)"
+ },
+ "a261103p47": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p47",
+  "summary": "Meta Platforms Inc. raised $15 billion from a US dollar bond sale, drawing solid demand as it became the latest Big Tech company …",
+  "techmeme_url": "https://www.techmeme.com/261103/p47",
+  "title": "Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering (Bloomberg)"
+ },
+ "a261103p48": {
+  "article_url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c?st=sszirS&reflink=desktopwebshare_permalink",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p48",
+  "summary": "No drug designed by artificial intelligence has won FDA clearance, and pharma leaders say biology is the obstacle",
+  "techmeme_url": "https://www.techmeme.com/261103/p48",
+  "title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)"
+ },
+ "a261103p49": {
+  "article_url": "https://www.generalist.com/p/a-portrait-of-eight-billion-people",
+  "date": "2026-11-03",
+  "permalink_id": "a261103p49",
+  "summary": "Inside Simile with Joon Sung Park. … Before Joon Sung Park and I had ever met, he simulated the conversation.",
+  "techmeme_url": "https://www.techmeme.com/261103/p49",
+  "title": "Q&A with Simile CEO Joon Sung Park on claims that its digital twins predict human behavior with 85%+ accuracy, its goal of simulating all 8B people, and more (Mario Gabriele/The Generalist)"
+ },
  "a261103p5": {
   "article_url": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16",
   "date": "2026-11-03",
