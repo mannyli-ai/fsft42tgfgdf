@@ -23,6 +23,46 @@
   "techmeme_url": "https://www.techmeme.com/261105/p3",
   "title": "Sources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B (Reuters)"
  },
+ "a261105p35": {
+  "article_url": "https://www.reuters.com/world/us/google-meta-tiktok-sue-block-california-youth-social-media-law-2026-11-05/",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p35",
+  "summary": "Google (GOOGL.O), Meta Platforms (META.O) and TikTok sued California to block enforcement of a new state law intended …",
+  "techmeme_url": "https://www.techmeme.com/261105/p35",
+  "title": "Google, Meta, and TikTok file lawsuits to block a California law that bans online platforms from providing \"psychologically exploitative features\" to under-16s (Jonathan Stempel/Reuters)"
+ },
+ "a261105p36": {
+  "article_url": "https://www.reuters.com/business/finance/greek-parliament-approves-10-tax-cryptocurrency-gains-2026-11-05/",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p36",
+  "summary": "Greece's parliament approved on Thursday a bill that imposes a 10% capital gains tax on cryptocurrencies …",
+  "techmeme_url": "https://www.techmeme.com/261105/p36",
+  "title": "Greece's parliament approves a 10% capital gains tax on crypto, exempting gains of up to €500 a year, in the country's first comprehensive crypto tax framework (Lefteris Papadimas/Reuters)"
+ },
+ "a261105p37": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-05/microsoft-sours-on-neoclouds-iren-nebius-nscale-on-delays-costs",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p37",
+  "summary": "Microsoft Corp. helped create the “neocloud” boom, signing tens of billions of dollars in contracts with upstart data center operators …",
+  "techmeme_url": "https://www.techmeme.com/261105/p37",
+  "title": "Sources: Microsoft is tightening oversight of some data center projects, stepping away from those it deems risky, and debating whether to ink new neocloud deals (Brody Ford/Bloomberg)"
+ },
+ "a261105p38": {
+  "article_url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p38",
+  "summary": "Hardware startup Aina released a smart ring today that features a screen, a joystick, and a mic so that you can talk to your agents and take notes.",
+  "techmeme_url": "https://www.techmeme.com/261105/p38",
+  "title": "Aina, which raised $5.5M, launches an \"AI ring\" with a screen, joystick, and mic to let users talk to their AI agents, take notes, control Apple TV, and more (Ivan Mehta/TechCrunch)"
+ },
+ "a261105p39": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p39",
+  "summary": "Defense tech startup set to acquire Echodyne Corp., which sells radar sensors to government and commercial customers.",
+  "techmeme_url": "https://www.techmeme.com/261105/p39",
+  "title": "Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B in March (Rebecca Torrence/Bloomberg)"
+ },
  "a261105p4": {
   "article_url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain",
   "date": "2026-11-05",
@@ -30,6 +70,86 @@
   "summary": "TAIPEI — China's export controls on critical metals have disrupted supplies of micro drill bits, little-known but critical components …",
   "techmeme_url": "https://www.techmeme.com/261105/p4",
   "title": "Sources: China's export curbs on critical metals have disrupted supplies of micro drill bits made mainly from tungsten carbide, used in PCBs and chip substrates (Cheng Ting-Fang/Nikkei Asia)"
+ },
+ "a261105p40": {
+  "article_url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p40",
+  "summary": "Classified as ‘Critical,’ GPT-6 Cyber outperforms GPT-6 Astra on cyber-related benchmarks.",
+  "techmeme_url": "https://www.techmeme.com/261105/p40",
+  "title": "OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue (Emma Roth/The Verge)"
+ },
+ "a261105p41": {
+  "article_url": "https://www.reuters.com/business/marc-lores-wonder-group-confidentially-files-us-ipo-2026-11-05/",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p41",
+  "summary": "Wonder Group, a food-delivery startup led by former Walmart executive Marc Lore, said on Thursday it had confidentially filed for a US IPO …",
+  "techmeme_url": "https://www.techmeme.com/261105/p41",
+  "title": "Marc Lore's Wonder files confidentially for a US IPO; the company, which acquired Grubhub for $650M in 2025, raised $650M at a $9B pre-money valuation in July (Reuters)"
+ },
+ "a261105p42": {
+  "article_url": "https://cyberscoop.com/openai-gpt-6-cyber-security-model/",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p42",
+  "summary": "OpenAI announced a new cybersecurity-focused model Thursday, citing internal benchmark testing that shows improvements …",
+  "techmeme_url": "https://www.techmeme.com/261105/p42",
+  "title": "OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ \"novel\" vulnerabilities in Firefox (Djohnson/CyberScoop)"
+ },
+ "a261105p43": {
+  "article_url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p43",
+  "summary": "Xbox Insiders can start testing the new PC app today. … Microsoft is unveiling a new Xbox PC app that launches “up to 60 percent faster” than before …",
+  "techmeme_url": "https://www.techmeme.com/261105/p43",
+  "title": "Microsoft rolls out a Xbox PC app with an overhauled design to Xbox Insiders that it says launches up to 60% faster than before (Tom Warren/The Verge)"
+ },
+ "a261105p44": {
+  "article_url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p44",
+  "summary": "Anthropic has released what appears to be its answer to ChatGPT Finances. — ZDNET's key takeaways",
+  "techmeme_url": "https://www.techmeme.com/261105/p44",
+  "title": "Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends (Radhika Rajkumar/ZDNET)"
+ },
+ "a261105p45": {
+  "article_url": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p45",
+  "summary": "7 min Click here to listen to this article — Despite a nationwide blue wave in the midterm election …",
+  "techmeme_url": "https://www.techmeme.com/261105/p45",
+  "title": "California's Proposition 40, which proposes a one-time 5% tax on assets of billionaires for healthcare funding, seems headed for defeat as vote counts continue (Los Angeles Times)"
+ },
+ "a261105p46": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p46",
+  "summary": "AI use within Anthropic may have doubled the company's pace of AI development, a new report from AI research nonprofit METR says.",
+  "techmeme_url": "https://www.techmeme.com/261105/p46",
+  "title": "METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration (Tiffany Li/The Information)"
+ },
+ "a261105p47": {
+  "article_url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p47",
+  "summary": "About 600,000 of Nvidia's advanced artificial intelligence chips are stored in Hong Kong awaiting shipment to mainland China …",
+  "techmeme_url": "https://www.techmeme.com/261105/p47",
+  "title": "Sources: about 600,000 of Nvidia's H200 chips are stored in Hong Kong awaiting shipment to mainland China, as Beijing withholds approval for large-scale imports (Reuters)"
+ },
+ "a261105p48": {
+  "article_url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p48",
+  "summary": "Muse AI agent now has voices and ‘expressive’ avatars that animate while chatting with you. … The feature has been rolled out to me …",
+  "techmeme_url": "https://www.techmeme.com/261105/p48",
+  "title": "Meta rolls out voice mode and expressive avatars in the Muse app, starting in the US, letting users have voice conversations with Muse in real time (Jay Peters/The Verge)"
+ },
+ "a261105p49": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-05/google-plans-to-spend-17-billion-on-wyoming-data-center",
+  "date": "2026-11-05",
+  "permalink_id": "a261105p49",
+  "summary": "Alphabet Inc.'s Google will spend $17 billion to build a data center in Wyoming, formally putting a price tag on the proposal two days …",
+  "techmeme_url": "https://www.techmeme.com/261105/p49",
+  "title": "Google plans to spend $17B to build its first Wyoming data center, pay for all the power it uses, and form a Community Council to address growth concerns (Davey Alba/Bloomberg)"
  },
  "a261105p5": {
   "article_url": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
