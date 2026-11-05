@@ -158,5 +158,77 @@
   "summary": "AMD has predicted it will win more revenue than Intel in its next quarter, potentially marking the first time it becomes …",
   "techmeme_url": "https://www.techmeme.com/261104/p5",
   "title": "AMD projects ~$17B in Q4 2026 revenue, compared to Intel's $15B to $16B, potentially overtaking Intel as the largest x86 processor vendor for the first time (Simon Sharwood/The Register)"
+ },
+ "a261104p58": {
+  "article_url": "https://www.adweek.com/media/anthropic-licensing-deal-ap-election/",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p58",
+  "summary": "The arrangement marks the first time the artificial intelligence firm has paid a digital news publisher to license its content",
+  "techmeme_url": "https://www.techmeme.com/261104/p58",
+  "title": "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)"
+ },
+ "a261104p59": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p59",
+  "summary": "Goldman Sachs Group Inc. and Apollo Global Management Inc. are in talks with Wall Street investors to start selling portions …",
+  "techmeme_url": "https://www.techmeme.com/261104/p59",
+  "title": "Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX's ~$40B chip financing, asking some for up to $500M before syndication (Carmen Arroyo/Bloomberg)"
+ },
+ "a261104p60": {
+  "article_url": "https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p60",
+  "summary": "Cat Wu, who left Anthropic last week after becoming one of the company's highest-profile product managers, is joining OpenAI. She announced the news on X.",
+  "techmeme_url": "https://www.techmeme.com/261104/p60",
+  "title": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)"
+ },
+ "a261104p61": {
+  "article_url": "http://www.djnewswires.com/",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p61",
+  "summary": "AppLovin's stock is popping after ‘clearly positive’ earnings results — AppLovin's forecast impressed investors.",
+  "techmeme_url": "https://www.techmeme.com/261104/p61",
+  "title": "AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)"
+ },
+ "a261104p62": {
+  "article_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p62",
+  "summary": "Security research that once required a separate, sustained investigation for each finding can increasingly be run as a systematic process.",
+  "techmeme_url": "https://www.techmeme.com/261104/p62",
+  "title": "OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs (OpenAI)"
+ },
+ "a261104p63": {
+  "article_url": "https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p63",
+  "summary": "Claude, ChatGPT and in-house AI agents can now run business payments through Pliant. The Berlin fintech, past $100M in recurring revenue, will expand in North America.",
+  "techmeme_url": "https://www.techmeme.com/261104/p63",
+  "title": "Berlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents (Cristian Dina/The Next Web)"
+ },
+ "a261104p64": {
+  "article_url": "https://www.theinformation.com/articles/palo-alto-networks-talks-pay-500-million-ai-security-startup",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p64",
+  "summary": "Palo Alto Networks is in talks to buy three-year-old Israeli security startup Clutch Security for around $500 million, according to people familiar with the matter.",
+  "techmeme_url": "https://www.techmeme.com/261104/p64",
+  "title": "Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M (Valida Pau/The Information)"
+ },
+ "a261104p65": {
+  "article_url": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p65",
+  "summary": "Swiss-Swedish company's unit is focused on Chinese market and has mega-factory in Pudong — China has told SoftBank it will not allow …",
+  "techmeme_url": "https://www.techmeme.com/261104/p65",
+  "title": "Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB's robotics division to go ahead; China is the division's biggest market (David Keohane/Financial Times)"
+ },
+ "a261104p66": {
+  "article_url": "https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11",
+  "date": "2026-11-04",
+  "permalink_id": "a261104p66",
+  "summary": "Meta is done with fruits. — The social media giant has internally decided to stop naming its AI models after fruit, a person familiar with the matter said.",
+  "techmeme_url": "https://www.techmeme.com/261104/p66",
+  "title": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn't suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)"
  }
 }
