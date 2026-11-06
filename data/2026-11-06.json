@@ -7,6 +7,86 @@
   "techmeme_url": "https://www.techmeme.com/261106/p1",
   "title": "Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure raise (Joel Khalili/Wired)"
  },
+ "a261106p10": {
+  "article_url": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p10",
+  "summary": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into …",
+  "techmeme_url": "https://www.techmeme.com/261106/p10",
+  "title": "Preliminary findings: the EU says TikTok violated the DSA by not preventing its recommendation algorithm from trapping users in harmful content \"rabbit holes\" (Alexander Martin/The Record)"
+ },
+ "a261106p11": {
+  "article_url": "https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p11",
+  "summary": "From CISA to AI and beyond, the new Democratic majority has many opportunities to scrutinize government programs and push new policies.",
+  "techmeme_url": "https://www.techmeme.com/261106/p11",
+  "title": "Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more (Eric Geller/Cybersecurity Dive)"
+ },
+ "a261106p12": {
+  "article_url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p12",
+  "summary": "Within an hour of Microsoft's announcement of buyouts last week, employees rushed to an internal site to see whether they had been offered one.",
+  "techmeme_url": "https://www.techmeme.com/261106/p12",
+  "title": "Employees at Microsoft, long known for its stability, are grappling with its decision to offer buyouts to 60,000 people as its spending priorities shift to AI (Emmy Martin/New York Times)"
+ },
+ "a261106p13": {
+  "article_url": "https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p13",
+  "summary": "Taiwan Semiconductor Manufacturing Co. is considering expanding into the advanced memory chip manufacturing sector …",
+  "techmeme_url": "https://www.techmeme.com/261106/p13",
+  "title": "Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages due to the AI boom (Qianer Liu/The Information)"
+ },
+ "a261106p14": {
+  "article_url": "https://variety.com/2026/tv/news/fox-closes-roku-acquisition-1236941275/",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p14",
+  "summary": "Surprise! Fox Corp. has closed its acquisition of streaming platform Roku, a deal valued at $22 billion, well ahead of the expected 2027 date.",
+  "techmeme_url": "https://www.techmeme.com/261106/p14",
+  "title": "Fox closes its $22B Roku acquisition well ahead of the expected 2027 date; Anthony Wood joins Fox's board and will co-chair a new Tubi, Fox One, and Roku unit (Todd Spangler/Variety)"
+ },
+ "a261106p15": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p15",
+  "summary": "Nvidia Corp. is in for tougher scrutiny from a new Democratic majority in Congress that's set to demand answers …",
+  "techmeme_url": "https://www.techmeme.com/261106/p15",
+  "title": "Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing (Maggie Eastland/Bloomberg)"
+ },
+ "a261106p16": {
+  "article_url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p16",
+  "summary": "A newly disclosed flaw involving OpenSSH and musl, dubbed “*sshole,” allows attackers to log in to certain Alpine Linux …",
+  "techmeme_url": "https://www.techmeme.com/261106/p16",
+  "title": "Researcher: *sshole, a decade-old OpenSSH flaw, lets attackers use a password of 256+ characters to log into passwordless accounts on some musl Linux systems (Lawrence Abrams/BleepingComputer)"
+ },
+ "a261106p17": {
+  "article_url": "https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p17",
+  "summary": "Federal prosecutors say the suspects posed as corporate executives and high-powered attorneys, using AI to convince employees to transfer millions of dollars.",
+  "techmeme_url": "https://www.techmeme.com/261106/p17",
+  "title": "The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme (Rebecca Cohen/NBC News)"
+ },
+ "a261106p18": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p18",
+  "summary": "Microsoft Corp. is winding down an arrangement to rent AI computing from Oracle Corp., part of a larger reassessment of billions of dollars in cloud partnerships.",
+  "techmeme_url": "https://www.techmeme.com/261106/p18",
+  "title": "Sources: Microsoft has been turning off rented computing capacity from Oracle after declining to renew a 2023 deal, because the hardware used older Nvidia chips (Brody Ford/Bloomberg)"
+ },
+ "a261106p19": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p19",
+  "summary": "SpaceX's reliance on US government-funded contracts will continue to shrink, Elon Musk said, signaling a shift in focus away …",
+  "techmeme_url": "https://www.techmeme.com/261106/p19",
+  "title": "Elon Musk says US government contracts will account for under 10% of SpaceX's revenue this quarter, down from 16.6% last quarter and around 20% in 2025 (Bloomberg)"
+ },
  "a261106p2": {
   "article_url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
   "date": "2026-11-06",
@@ -30,5 +110,45 @@
   "summary": "Insurance startup Kalepa said on Thursday it had raised $75 million at a $470 million valuation, as investors bet that AI solutions …",
   "techmeme_url": "https://www.techmeme.com/261106/p4",
   "title": "NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation (Manya Saini/Reuters)"
+ },
+ "a261106p5": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/hackers-paid-15-to-drain-2-5-billion-from-binance-in-one-hit",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p5",
+  "summary": "The hackers who stole $6.3 billion from Binance last week found a way to take 40% of the stolen cryptocurrency in one hit …",
+  "techmeme_url": "https://www.techmeme.com/261106/p5",
+  "title": "Blockaid: the Binance hackers stole ~$2.5B, or 40% of the $6.3B haul, in one Ethereum transaction using wallet permissions that cost just $15 in network fees (Sidhartha Shukla/Bloomberg)"
+ },
+ "a261106p6": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/new-governors-set-to-challenge-big-swath-of-data-center-capacity",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p6",
+  "summary": "A new crop of Democratic governors-elect campaigned on putting the brakes on artificial intelligence development.",
+  "techmeme_url": "https://www.techmeme.com/261106/p6",
+  "title": "Cleanview: ~40% of pending US data center capacity is planned to be built in states where newly elected governors have pledged to stop or pause construction (Bloomberg)"
+ },
+ "a261106p7": {
+  "article_url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p7",
+  "summary": "Carmaker will wind down production of futuristic pick-up truck at its gigafactory in Texas",
+  "techmeme_url": "https://www.techmeme.com/261106/p7",
+  "title": "Elon Musk says Tesla plans to wind down production of the Cybertruck at its Texas Gigafactory around mid-2027 \"to make room for increased Cybercab production\" (Kana Inagaki/Financial Times)"
+ },
+ "a261106p8": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p8",
+  "summary": "Nvidia Corp. is stepping up monitoring of AI accelerators sold in Southeast Asia, a strategic step to curtail semiconductor smuggling …",
+  "techmeme_url": "https://www.techmeme.com/261106/p8",
+  "title": "Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)"
+ },
+ "a261106p9": {
+  "article_url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p9",
+  "summary": "Democrats are laying the groundwork to investigate some of the country's largest companies, setting off a scramble among executives who courted the president.",
+  "techmeme_url": "https://www.techmeme.com/261106/p9",
+  "title": "Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities (Pranshu Verma/Washington Post)"
  }
 }
