@@ -95,6 +95,86 @@
   "techmeme_url": "https://www.techmeme.com/261106/p2",
   "title": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7% (Jada Nagumo/Nikkei Asia)"
  },
+ "a261106p20": {
+  "article_url": "https://psi.inc/research/aaronson-ambainis/",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p20",
+  "summary": "The Aaronson-Ambainis conjecture is now a theorem. — Open since 2008, the conjecture of Scott Aaronson and Andris Ambainis concerns …",
+  "techmeme_url": "https://www.techmeme.com/261106/p20",
+  "title": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008 (PSI)"
+ },
+ "a261106p21": {
+  "article_url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p21",
+  "summary": "Claude-maker intends to list before Thanksgiving despite brutal tech rout — Anthropic is pressing on with its high-stakes IPO …",
+  "techmeme_url": "https://www.techmeme.com/261106/p21",
+  "title": "Sources: Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75T (Financial Times)"
+ },
+ "a261106p22": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzk5OTYyNywiZXhwIjoxNzk0NjA0NDI3LCJhcnRpY2xlSWQiOiJUTzNNOVRSS1YyVEUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.pVWDvtzoWMkiwWdzW9wgW8MNHfO8XHw9d9znQhP2cv4",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p22",
+  "summary": "OpenAI has closed on new funding of roughly $11 billion, the initial part of a round that values the company at $1.25 trillion, according to people familiar with the matter.",
+  "techmeme_url": "https://www.techmeme.com/261106/p22",
+  "title": "Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total (Bloomberg)"
+ },
+ "a261106p23": {
+  "article_url": "https://www.theinformation.com/",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p23",
+  "summary": "Google's investment arm Google Ventures has acquired nearly 3 million shares of the chip maker Qualcomm, as a result of Qualcomm's purchase of chip software startup Modular …",
+  "techmeme_url": "https://www.techmeme.com/261106/p23",
+  "title": "Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market (Ryan Barwick/The Information)"
+ },
+ "a261106p24": {
+  "article_url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.OVE.Q7K1.pw9O9sjsZBW4&smid=url-share",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p24",
+  "summary": "U.S. intelligence concluded that Alice Huang, a Chinese business executive who developed a close relationship with Nvidia's leader …",
+  "techmeme_url": "https://www.techmeme.com/261106/p24",
+  "title": "Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China's top spy agency MSS to collect intelligence on Jensen Huang (New York Times)"
+ },
+ "a261106p25": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p25",
+  "summary": "Alphabet Inc.'s Google has bought out Crusoe's data center site in southeast Wyoming, opting to take on the project itself …",
+  "techmeme_url": "https://www.techmeme.com/261106/p25",
+  "title": "Crusoe says Google has bought out its data center site in southeast Wyoming; Crusoe reportedly failed to lock in customers including Google for the project (Lynn Doan/Bloomberg)"
+ },
+ "a261106p26": {
+  "article_url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p26",
+  "summary": "Even though a lot of apps have been updated for the iPhone Duo, they sometimes still have issues.",
+  "techmeme_url": "https://www.techmeme.com/261106/p26",
+  "title": "Apple says the App Store has over 100K apps built for the iPhone Duo and \"thousands of optimized apps are being added to the store each day\" (Jay Peters/The Verge)"
+ },
+ "a261106p27": {
+  "article_url": "https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p27",
+  "summary": "CesiumAstro raised $730 million in its latest funding round, a cash infusion the Austin-based satellite manufacturer will use …",
+  "techmeme_url": "https://www.techmeme.com/261106/p27",
+  "title": "CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B (Loren Grush/Bloomberg)"
+ },
+ "a261106p28": {
+  "article_url": "https://thenewstack.io/meta-muse-specialized-models/",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p28",
+  "summary": "Starting on Friday, everyone using Meta's Muse agent and Meta AI gets new models the company trained using Muse Wonder, its frontier model.",
+  "techmeme_url": "https://www.techmeme.com/261106/p28",
+  "title": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)"
+ },
+ "a261106p29": {
+  "article_url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?accessToken=zwAAAaG0GO1zkdOlWioiRHlPk9OkRWFHpcbXkA.MEYCIQD8tFSp3cRj0J5I30Q9RKgUzsTJxyEgT-Dwn1kE4QrvnwIhAPfAlYzUdcV9Q_kHHTf-UsaGXHM8kf4-86XcXPSpT3HD&sharetype=gift&token=44a48365-ecb3-4a02-8bb8-9eba3deab5e1&syn-25a6b1a6=1",
+  "date": "2026-11-06",
+  "permalink_id": "a261106p29",
+  "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
+  "techmeme_url": "https://www.techmeme.com/261106/p29",
+  "title": "Sources: US officials believe Jensen Huang had a romantic relationship with Alice Huang, who they allege was recruited to spy for China's top spy agency, MSS (Demetri Sevastopulo/Financial Times)"
+ },
  "a261106p3": {
   "article_url": "https://www.reuters.com/world/china/chinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-new-factory-2026-11-06/",
   "date": "2026-11-06",
